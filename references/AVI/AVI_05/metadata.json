@@ -1,0 +1,17 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_05",
+  "city": "Avignon",
+  "country": "France",
+  "status": "provisional",
+  "points": 0,
+  "notes": "Flickr source labels this as AVI_?? (#05); exact official AVI_05 identifier not yet independently verified.",
+  "sources": [
+    {
+      "type": "flickr",
+      "url": "https://www.flickr.com/photos/meteorry/9521907723/",
+      "label": "Place de l'Horloge - Avignon (France) | AVI_?? (#05)"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,24 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_13",
+  "city": "Avignon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Confirmed on the official Avignon city page.",
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://www.space-invaders.com/world/avignon/",
+      "label": "Official Avignon city page"
+    }
+  ],
+  "images": [
+    {
+      "file": "images/official.jpg",
+      "source_url": "https://www.space-invaders.com/media/invaders/avignon/AVI_13-diapo-8FY458AL.jpg",
+      "view": "official",
+      "license_note": "Source attribution retained; reuse status not yet reviewed."
+    }
+  ]
+}

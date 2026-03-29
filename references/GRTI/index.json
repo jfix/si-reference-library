@@ -1,0 +1,17 @@
+{
+  "place_id": "GRTI",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "target_count": 8,
+  "confirmed_invaders": [
+    "GRTI_01",
+    "GRTI_02",
+    "GRTI_03",
+    "GRTI_04",
+    "GRTI_05",
+    "GRTI_06",
+    "GRTI_07",
+    "GRTI_08"
+  ],
+  "notes": "Complete eight-invader identifier set assembled from the official Grumeti page plus secondary sources for the missing identifiers."
+}

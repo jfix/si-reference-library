@@ -1,0 +1,17 @@
+{
+  "place_id": "GRTI",
+  "invader_id": "GRTI_05",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "status": "identifier-only",
+  "points": null,
+  "notes": "Identifier captured from a secondary missing-pieces compilation; image/location still to be confirmed.",
+  "sources": [
+    {
+      "type": "secondary",
+      "url": "https://pt.scribd.com/document/549613566/Invader-Missing-Pieces-in-2021-RVLEB",
+      "label": "RVLEB missing-pieces compilation"
+    }
+  ],
+  "images": []
+}

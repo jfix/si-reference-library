@@ -1,0 +1,50 @@
+{
+  "place_id": "AIX",
+  "invader_id": "AIX_04",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Confirmed from multiple Flickr pages explicitly naming AIX_04.",
+  "pose_date": "26/06/1999",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AIX/AIX_04-grosplan.png",
+  "sources": [
+    {
+      "type": "flickr",
+      "url": "https://www.flickr.com/photos/7448869@N03/49461342377",
+      "label": "Aix_04 by Chris Protopapas"
+    },
+    {
+      "type": "flickr",
+      "url": "https://www.flickr.com/photos/onedjip/54778136558",
+      "label": "AIX_04 by OneDjiP"
+    },
+    {
+      "type": "flickr-tag",
+      "url": "https://www.flickr.com/photos/tags/aix04/",
+      "label": "Flickr tag page for AIX_04"
+    },
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AIX listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/aix_04/",
+      "label": "Instagram hashtag for AIX_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_04-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_04-juin2018.jpg",
+      "caption": "photo juin 2018",
+      "title": "AIX_04-juin2018",
+      "local_path": "references/AIX/AIX_04/images/AIX_04-juin2018.jpg"
+    }
+  ]
+}

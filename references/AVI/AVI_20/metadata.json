@@ -1,0 +1,17 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_20",
+  "city": "Avignon",
+  "country": "France",
+  "status": "provisional",
+  "points": 0,
+  "notes": "Flickr source labels this as AVI_?? (#20); exact official AVI_20 identifier not yet independently verified.",
+  "sources": [
+    {
+      "type": "flickr",
+      "url": "https://www.flickr.com/photos/meteorry/9629481535",
+      "label": "Rue du Roi René - Avignon (France) | AVI_?? (#20)"
+    }
+  ],
+  "images": []
+}

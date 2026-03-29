@@ -1,0 +1,17 @@
+{
+  "place_id": "GRTI",
+  "invader_id": "GRTI_06",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Confirmed on the official Grumeti page.",
+  "sources": [
+    {
+      "type": "official",
+      "url": "https://www.space-invaders.com/world/grumeti/",
+      "label": "Official Grumeti city page"
+    }
+  ],
+  "images": []
+}

@@ -1,0 +1,17 @@
+{
+  "place_id": "GRTI",
+  "invader_id": "GRTI_03",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "status": "confirmed",
+  "points": null,
+  "notes": "Confirmed from a secondary source explicitly naming GRTI_03.",
+  "sources": [
+    {
+      "type": "secondary",
+      "url": "https://www.whudat.de/invader-prints-batman-and-the-jungle-book-space-waffles-space-monkeys-instagram-roundup/",
+      "label": "WHUDAT roundup explicitly mentioning GRTI_03"
+    }
+  ],
+  "images": []
+}

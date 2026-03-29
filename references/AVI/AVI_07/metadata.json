@@ -1,0 +1,17 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_07",
+  "city": "Avignon",
+  "country": "France",
+  "status": "provisional",
+  "points": 0,
+  "notes": "Flickr source labels this as AVI_?? (#07); exact official AVI_07 identifier not yet independently verified.",
+  "sources": [
+    {
+      "type": "flickr",
+      "url": "https://www.flickr.com/photos/meteorry/9542278142",
+      "label": "Place Carnot - Avignon (France) | AVI_?? (#07)"
+    }
+  ],
+  "images": []
+}

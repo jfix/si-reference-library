@@ -1,0 +1,27 @@
+{
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "confirmed_invaders": [
+    "AVI_04",
+    "AVI_09",
+    "AVI_11",
+    "AVI_13",
+    "AVI_19",
+    "AVI_25",
+    "AVI_27",
+    "AVI_35",
+    "AVI_37"
+  ],
+  "provisional_invaders": [
+    "AVI_01",
+    "AVI_05",
+    "AVI_07",
+    "AVI_16",
+    "AVI_18",
+    "AVI_20",
+    "AVI_21"
+  ],
+  "notes": "Confirmed Avignon reference set from the official city page plus provisional Flickr-backed candidates that still need exact identifier verification."
+}

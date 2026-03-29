@@ -1,0 +1,17 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_16",
+  "city": "Avignon",
+  "country": "France",
+  "status": "provisional",
+  "points": 0,
+  "notes": "Flickr source labels this as AVI_?? (#16); exact official AVI_16 identifier not yet independently verified.",
+  "sources": [
+    {
+      "type": "flickr",
+      "url": "https://www.flickr.com/photos/meteorry/9608173831",
+      "label": "Place de la Principale - Avignon (France) | AVI_?? (#16)"
+    }
+  ],
+  "images": []
+}

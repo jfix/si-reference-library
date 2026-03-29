@@ -1,0 +1,19 @@
+{
+  "place_id": "AIX",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "target_count": 10,
+  "confirmed_invaders": [
+    "AIX_01",
+    "AIX_02",
+    "AIX_03",
+    "AIX_04",
+    "AIX_05",
+    "AIX_06",
+    "AIX_07",
+    "AIX_08",
+    "AIX_09",
+    "AIX_10"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}
