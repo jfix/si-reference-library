@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/ELT/ELT_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/ELT/ELT_02/images/ELT_02-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/ELT/ELT_02-mai2022.jpg",
       "caption": "photo mai 2022 (Instagram @c4ctusclub)",
       "title": "ELT_02-mai2022",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/ELT/ELT_02/images/ELT_02-mai2022.jpg"
     }
   ]

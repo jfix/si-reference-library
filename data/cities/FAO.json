@@ -1,0 +1,85 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:40:46.089Z",
+  "city": "Faro",
+  "code": "FAO",
+  "totalInvaders": 4,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Faro",
+    "code": "FAO",
+    "invasionWaves": 1,
+    "totalInvaders": 4,
+    "totalPoints": 110,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "FAO_01",
+      "points": 20,
+      "poseDate": "26/08/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fao_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FAO/FAO_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FAO/FAO_01-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FAO/FAO_01-fevrier2017.jpg",
+          "title": "FAO_01-fevrier2017",
+          "caption": "photo février 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FAO/FAO_01-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FAO/FAO_01-avril2025.jpg",
+          "title": "FAO_01-avril2025",
+          "caption": "photo avril 2025 (@zeudoud)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FAO_02",
+      "points": 20,
+      "poseDate": "26/08/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fao_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FAO/FAO_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FAO/FAO_02-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FAO/FAO_02-fevrier2017.jpg",
+          "title": "FAO_02-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "FAO_03",
+      "points": 40,
+      "poseDate": "29/08/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fao_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FAO/FAO_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FAO_04",
+      "points": 30,
+      "poseDate": "29/08/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fao_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FAO/FAO_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FAO/FAO_04-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FAO/FAO_04-fevrier2017.jpg",
+          "title": "FAO_04-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    }
+  ]
+}

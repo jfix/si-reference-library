@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/NIM/NIM_02/images/NIM_02-grosplan.png"
     }
   ]

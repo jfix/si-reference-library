@@ -29,6 +29,8 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-septembre2019.jpg",
       "caption": "photo septembre 2019",
       "title": "AVI_26-septembre2019",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_26/images/AVI_26-septembre2019.jpg"
     },
     {
@@ -37,11 +39,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-decembre2024.jpg",
       "caption": "photo décembre 2024 (@Rob')",
       "title": "AVI_26-decembre2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
       "local_path": "references/AVI/AVI_26/images/AVI_26-decembre2024.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_26-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_26/images/AVI_26-grosplan.png"
     }
   ]

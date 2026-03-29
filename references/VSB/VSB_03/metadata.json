@@ -1,0 +1,44 @@
+{
+  "place_id": "VSB",
+  "invader_id": "VSB_03",
+  "city": "Visby",
+  "country": "Sweden",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "07/07/2001",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VSB/VSB_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VSB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vsb_03/",
+      "label": "Instagram hashtag for VSB_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VSB/VSB_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VSB/VSB_03/images/VSB_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VSB/VSB_03-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VSB/VSB_03-mai2025.jpg",
+      "caption": "photo mai 2014 (@brazwhazz)",
+      "title": "VSB_03-mai2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VSB/VSB_03/images/VSB_03-mai2025.jpg"
+    }
+  ]
+}

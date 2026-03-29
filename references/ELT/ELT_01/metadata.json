@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/ELT/ELT_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/ELT/ELT_01/images/ELT_01-grosplan.png"
     }
   ]

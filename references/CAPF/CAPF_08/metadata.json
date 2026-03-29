@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_08/images/CAPF_08-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_08-fevrier2018.jpg",
       "caption": "photo février 2018",
       "title": "CAPF_08-fevrier2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_08/images/CAPF_08-fevrier2018.jpg"
     }
   ]

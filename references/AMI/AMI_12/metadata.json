@@ -29,11 +29,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AMI/AMI_12-juin2025.jpg",
       "caption": "photo juin 2025 (@NewSpotter)",
       "title": "AMI_12-juin2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AMI/AMI_12/images/AMI_12-juin2025.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AMI/AMI_12-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AMI/AMI_12/images/AMI_12-grosplan.png"
     }
   ]

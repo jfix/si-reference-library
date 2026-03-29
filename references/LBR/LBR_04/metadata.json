@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/LBR/LBR_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/LBR/LBR_04/images/LBR_04-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_04-septembre2018.jpg",
       "caption": "photo septembre 2018",
       "title": "LBR_04-septembre2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/LBR/LBR_04/images/LBR_04-septembre2018.jpg"
     },
     {
@@ -42,6 +46,8 @@
       "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_04-juillet2023.jpg",
       "caption": "photo juillet 2023 (@5P4C3_HUNT3R)",
       "title": "LBR_04-juillet2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
       "local_path": "references/LBR/LBR_04/images/LBR_04-juillet2023.jpg"
     }
   ]

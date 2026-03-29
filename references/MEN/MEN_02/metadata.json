@@ -1,0 +1,44 @@
+{
+  "place_id": "MEN",
+  "invader_id": "MEN_02",
+  "city": "Menorca",
+  "country": "Spain",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "31/08/2011",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "février 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MEN/MEN_02-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MEN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/men_02/",
+      "label": "Instagram hashtag for MEN_02"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MEN/MEN_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MEN/MEN_02/images/MEN_02-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MEN/MEN_02-fevrier2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MEN/MEN_02-fevrier2025.jpg",
+      "caption": "photo avril 2021 (Live FlashInvaders)",
+      "title": "MEN_02-fevrier2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MEN/MEN_02/images/MEN_02-fevrier2025.jpg"
+    }
+  ]
+}

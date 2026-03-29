@@ -1,0 +1,55 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:35:35.865Z",
+  "city": "Visby",
+  "code": "VSB",
+  "totalInvaders": 3,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Visby",
+    "code": "VSB",
+    "invasionWaves": 1,
+    "totalInvaders": 3,
+    "totalPoints": 30,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "VSB_01",
+      "points": 10,
+      "poseDate": "07/07/2001",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2019 (flash)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vsb_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VSB/VSB_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "VSB_02",
+      "points": 10,
+      "poseDate": "07/07/2001",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vsb_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VSB/VSB_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "VSB_03",
+      "points": 10,
+      "poseDate": "07/07/2001",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vsb_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VSB/VSB_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VSB/VSB_03-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VSB/VSB_03-mai2025.jpg",
+          "title": "VSB_03-mai2025",
+          "caption": "photo mai 2014 (@brazwhazz)"
+        }
+      ]
+    }
+  ]
+}

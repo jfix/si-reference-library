@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/LBR/LBR_07-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/LBR/LBR_07/images/LBR_07-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_07-septembre2018.jpg",
       "caption": "photo septembre 2018",
       "title": "LBR_07-septembre2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/LBR/LBR_07/images/LBR_07-septembre2018.jpg"
     }
   ]

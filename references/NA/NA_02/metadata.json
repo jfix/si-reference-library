@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/NA/NA_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/NA/NA_02/images/NA_02-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/NA/NA_02-mars2015.jpg",
       "caption": "photo mars 2015",
       "title": "NA_02-mars2015",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/NA/NA_02/images/NA_02-mars2015.jpg"
     }
   ]

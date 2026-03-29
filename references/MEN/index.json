@@ -1,0 +1,14 @@
+{
+  "place_id": "MEN",
+  "city": "Menorca",
+  "country": "Spain",
+  "target_count": 5,
+  "confirmed_invaders": [
+    "MEN_01",
+    "MEN_02",
+    "MEN_03",
+    "MEN_04",
+    "MEN_05"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

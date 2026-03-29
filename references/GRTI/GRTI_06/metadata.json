@@ -31,6 +31,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_06-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/GRTI/GRTI_06/images/GRTI_06-grosplan.png"
     }
   ]

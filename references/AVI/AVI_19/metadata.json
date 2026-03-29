@@ -34,6 +34,8 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_19-septembre2019.jpg",
       "caption": "photo septembre 2019",
       "title": "AVI_19-septembre2019",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_19/images/AVI_19-septembre2019.jpg"
     },
     {
@@ -42,11 +44,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_19-mai2025.jpg",
       "caption": "photo mai 2025 (@BossaNova)",
       "title": "AVI_19-mai2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
       "local_path": "references/AVI/AVI_19/images/AVI_19-mai2025.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_19/images/AVI_19-grosplan.png"
     }
   ]

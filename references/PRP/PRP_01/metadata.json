@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/PRP/PRP_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/PRP/PRP_01/images/PRP_01-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_01-decembre2015.jpg",
       "caption": "photo décembre 2015",
       "title": "PRP_01-decembre2015",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/PRP/PRP_01/images/PRP_01-decembre2015.jpg"
     }
   ]

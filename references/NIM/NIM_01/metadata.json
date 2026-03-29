@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/NIM/NIM_01/images/NIM_01-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_01-juin2025.jpg",
       "caption": "photo juin 20202524 (@Naquemad) - nouvel emplacement",
       "title": "NIM_01-juin2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/NIM/NIM_01/images/NIM_01-juin2025.jpg"
     }
   ]

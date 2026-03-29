@@ -1,0 +1,12 @@
+{
+  "place_id": "VSB",
+  "city": "Visby",
+  "country": "Sweden",
+  "target_count": 3,
+  "confirmed_invaders": [
+    "VSB_01",
+    "VSB_02",
+    "VSB_03"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

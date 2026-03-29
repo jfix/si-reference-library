@@ -78,5 +78,35 @@
     "city": "Cap Ferret",
     "country": "France",
     "target_count": 10
+  },
+  "ANVR": {
+    "city": "Anvers",
+    "country": "Belgium",
+    "target_count": 2
+  },
+  "HALM": {
+    "city": "Halmstad",
+    "country": "Sweden",
+    "target_count": 2
+  },
+  "VSB": {
+    "city": "Visby",
+    "country": "Sweden",
+    "target_count": 3
+  },
+  "FAO": {
+    "city": "Faro",
+    "country": "Portugal",
+    "target_count": 4
+  },
+  "MEN": {
+    "city": "Menorca",
+    "country": "Spain",
+    "target_count": 5
+  },
+  "RDU": {
+    "city": "Redu",
+    "country": "Belgium",
+    "target_count": 6
   }
 }

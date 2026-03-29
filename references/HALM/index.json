@@ -1,0 +1,11 @@
+{
+  "place_id": "HALM",
+  "city": "Halmstad",
+  "country": "Sweden",
+  "target_count": 2,
+  "confirmed_invaders": [
+    "HALM_01",
+    "HALM_02"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

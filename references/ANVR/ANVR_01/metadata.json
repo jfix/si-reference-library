@@ -1,0 +1,54 @@
+{
+  "place_id": "ANVR",
+  "invader_id": "ANVR_01",
+  "city": "Anvers",
+  "country": "Belgium",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "10/01/1999",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "décembre 2017 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ANVR/ANVR_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ANVR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/anvr_01/",
+      "label": "Instagram hashtag for ANVR_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ANVR/ANVR_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ANVR/ANVR_01/images/ANVR_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ANVR/ANVR_01-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANVR/ANVR_01-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "ANVR_01-mai2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ANVR/ANVR_01/images/ANVR_01-mai2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ANVR/ANVR_01-aout2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANVR/ANVR_01-aout2024.jpg",
+      "caption": "photo août 2024 (StreetView)",
+      "title": "ANVR_01-aout2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/ANVR/ANVR_01/images/ANVR_01-aout2024.jpg"
+    }
+  ]
+}

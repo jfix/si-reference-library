@@ -1,0 +1,15 @@
+{
+  "place_id": "RDU",
+  "city": "Redu",
+  "country": "Belgium",
+  "target_count": 6,
+  "confirmed_invaders": [
+    "RDU_01",
+    "RDU_02",
+    "RDU_03",
+    "RDU_04",
+    "RDU_05",
+    "RDU_06"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

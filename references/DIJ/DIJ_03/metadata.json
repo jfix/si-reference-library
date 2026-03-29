@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/DIJ/DIJ_03/images/DIJ_03-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/DIJ/DIJ_03-juillet2019.jpg",
       "caption": "photo juillet 2019",
       "title": "DIJ_03-juillet2019",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/DIJ/DIJ_03/images/DIJ_03-juillet2019.jpg"
     }
   ]

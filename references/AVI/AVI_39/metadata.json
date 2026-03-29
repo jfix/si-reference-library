@@ -29,6 +29,8 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_39-septembre2019.jpg",
       "caption": "photo septembre 2019",
       "title": "AVI_39-septembre2019",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_39/images/AVI_39-septembre2019.jpg"
     },
     {
@@ -37,11 +39,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_39-octobre2025.jpg",
       "caption": "photo octobre 2025 (@RAF&LIV)",
       "title": "AVI_39-octobre2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_39/images/AVI_39-octobre2025.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_39-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_39/images/AVI_39-grosplan.png"
     }
   ]

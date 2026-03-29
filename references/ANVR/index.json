@@ -1,0 +1,11 @@
+{
+  "place_id": "ANVR",
+  "city": "Anvers",
+  "country": "Belgium",
+  "target_count": 2,
+  "confirmed_invaders": [
+    "ANVR_01",
+    "ANVR_02"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

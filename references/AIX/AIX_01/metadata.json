@@ -44,6 +44,8 @@
       "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_01-juin2018.jpg",
       "caption": "photo juin 2018",
       "title": "AIX_01-juin2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AIX/AIX_01/images/AIX_01-juin2018.jpg"
     },
     {
@@ -52,11 +54,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_01-juillet2024.jpg",
       "caption": "photo juillet 2024 (@ben18)",
       "title": "AIX_01-juillet2024",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AIX/AIX_01/images/AIX_01-juillet2024.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AIX/AIX_01/images/AIX_01-grosplan.png"
     }
   ]

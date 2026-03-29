@@ -1,0 +1,13 @@
+{
+  "place_id": "FAO",
+  "city": "Faro",
+  "country": "Portugal",
+  "target_count": 4,
+  "confirmed_invaders": [
+    "FAO_01",
+    "FAO_02",
+    "FAO_03",
+    "FAO_04"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

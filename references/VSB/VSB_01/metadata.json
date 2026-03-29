@@ -1,0 +1,34 @@
+{
+  "place_id": "VSB",
+  "invader_id": "VSB_01",
+  "city": "Visby",
+  "country": "Sweden",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "07/07/2001",
+  "last_known_state": "OK",
+  "last_seen_source": "juin 2019 (flash)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VSB/VSB_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VSB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vsb_01/",
+      "label": "Instagram hashtag for VSB_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VSB/VSB_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VSB/VSB_01/images/VSB_01-grosplan.png"
+    }
+  ]
+}

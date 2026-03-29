@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/CON/CON_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/CON/CON_01/images/CON_01-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CON/CON_01-fevrier2017.jpg",
       "caption": "photo février 2017",
       "title": "CON_01-fevrier2017",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CON/CON_01/images/CON_01-fevrier2017.jpg"
     }
   ]

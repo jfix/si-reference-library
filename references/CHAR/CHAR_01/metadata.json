@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/CHAR/CHAR_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/CHAR/CHAR_01/images/CHAR_01-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CHAR/CHAR_01-mai2017.jpg",
       "caption": "photo mai 2017",
       "title": "CHAR_01-mai2017",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CHAR/CHAR_01/images/CHAR_01-mai2017.jpg"
     },
     {
@@ -42,6 +46,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CHAR/CHAR_01-novembre2025.jpg",
       "caption": "photo novembre 2025 (@NewSpotter)",
       "title": "CHAR_01-novembre2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CHAR/CHAR_01/images/CHAR_01-novembre2025.jpg"
     }
   ]

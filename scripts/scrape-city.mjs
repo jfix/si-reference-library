@@ -266,6 +266,8 @@ async function syncReferences({ cityData, placeEntry, downloadImages }) {
       const thumbnailRecord = {
         type: 'invader-spotter-grosplan',
         url: invader.thumbnailUrl,
+        role: 'grosplan',
+        contains_invader: true,
       };
 
       if (downloadImages) {
@@ -278,13 +280,19 @@ async function syncReferences({ cityData, placeEntry, downloadImages }) {
       images.push(thumbnailRecord);
     }
 
-    for (const photo of invader.photos) {
+    const isDestroyed = typeof invader.lastKnownState === 'string' && /^Détruit\b/i.test(invader.lastKnownState.trim());
+    const emptySceneIndex = isDestroyed && invader.photos.length > 1 ? invader.photos.length - 1 : -1;
+
+    for (const [index, photo] of invader.photos.entries()) {
+      const isEmptyScene = index === emptySceneIndex;
       const imageRecord = {
         type: 'invader-spotter-photo',
         url: photo.fullUrl,
         preview_url: photo.previewUrl,
         caption: photo.caption,
         title: photo.title,
+        role: isEmptyScene ? 'status-empty-scene' : 'reference',
+        contains_invader: !isEmptyScene,
       };
 
       if (downloadImages) {
@@ -318,7 +326,7 @@ async function syncReferences({ cityData, placeEntry, downloadImages }) {
       (entry) => `${entry.type}::${entry.url}`,
     );
 
-    const mergedImages = dedupeObjects([...(existing.images ?? []), ...images], (entry) => entry.url ?? entry.local_path);
+    const mergedImages = mergeImageEntries(existing.images ?? [], images);
     const metadata = {
       place_id: cityData.code,
       invader_id: invader.invaderId,
@@ -396,6 +404,26 @@ function dedupeObjects(entries, keyFn) {
   }
 
   return output;
+}
+
+function mergeImageEntries(existingEntries, freshEntries) {
+  const merged = new Map();
+
+  for (const entry of existingEntries) {
+    if (!entry) continue;
+    const key = entry.url ?? entry.local_path;
+    if (!key) continue;
+    merged.set(key, entry);
+  }
+
+  for (const entry of freshEntries) {
+    if (!entry) continue;
+    const key = entry.url ?? entry.local_path;
+    if (!key) continue;
+    merged.set(key, entry);
+  }
+
+  return Array.from(merged.values());
 }
 
 main().catch((error) => {

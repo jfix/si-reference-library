@@ -29,11 +29,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_31-juillet2024.jpg",
       "caption": "photo juillet 2024 (@flash_in_the_city)",
       "title": "AVI_31-juillet2024",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_31/images/AVI_31-juillet2024.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_31-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_31/images/AVI_31-grosplan.png"
     }
   ]

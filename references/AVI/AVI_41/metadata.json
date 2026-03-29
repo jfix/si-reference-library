@@ -29,11 +29,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_41-fevrier2021.jpg",
       "caption": "photo d'archive (@MonsieurChat)",
       "title": "AVI_41-fevrier2021",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_41/images/AVI_41-fevrier2021.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_41-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_41/images/AVI_41-grosplan.png"
     }
   ]

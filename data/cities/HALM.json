@@ -1,0 +1,38 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:40:42.197Z",
+  "city": "Halmstad",
+  "code": "HALM",
+  "totalInvaders": 2,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Halmstad",
+    "code": "HALM",
+    "invasionWaves": 1,
+    "totalInvaders": 2,
+    "totalPoints": 60,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "HALM_01",
+      "points": 30,
+      "poseDate": "28/09/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/halm_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/HALM/HALM_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "HALM_02",
+      "points": 30,
+      "poseDate": "28/09/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/halm_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/HALM/HALM_02-grosplan.png",
+      "photos": []
+    }
+  ]
+}

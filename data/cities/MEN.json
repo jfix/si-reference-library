@@ -1,0 +1,102 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:40:48.332Z",
+  "city": "Menorca",
+  "code": "MEN",
+  "totalInvaders": 5,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Menorca",
+    "code": "MEN",
+    "invasionWaves": 1,
+    "totalInvaders": 5,
+    "totalPoints": 140,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MEN_01",
+      "points": 20,
+      "poseDate": "31/08/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2021 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/men_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MEN/MEN_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MEN_02",
+      "points": 50,
+      "poseDate": "31/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/men_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MEN/MEN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MEN/MEN_02-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MEN/MEN_02-fevrier2025.jpg",
+          "title": "MEN_02-fevrier2025",
+          "caption": "photo avril 2021 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MEN_03",
+      "points": 20,
+      "poseDate": "31/08/2011",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/men_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MEN/MEN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MEN/MEN_03-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MEN/MEN_03-decembre2023.jpg",
+          "title": "MEN_03-decembre2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MEN_04",
+      "points": 20,
+      "poseDate": "31/08/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2021 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/men_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MEN/MEN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MEN/MEN_04-decembre2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MEN/MEN_04-decembre2015.jpg",
+          "title": "MEN_04-decembre2015",
+          "caption": "photo decembre 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "MEN_05",
+      "points": 30,
+      "poseDate": "31/08/2011",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "octobre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/men_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MEN/MEN_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MEN/MEN_05-decembre2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MEN/MEN_05-decembre2015.jpg",
+          "title": "MEN_05-decembre2015",
+          "caption": "photo decembre 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MEN/MEN_05-octobre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MEN/MEN_05-octobre2023.jpg",
+          "title": "MEN_05-octobre2023",
+          "caption": "photo octobre 2023 (@TD23)"
+        }
+      ]
+    }
+  ]
+}

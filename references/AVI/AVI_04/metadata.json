@@ -34,11 +34,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_04-juin2018.jpg",
       "caption": "photo juin 2018",
       "title": "AVI_04-juin2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_04/images/AVI_04-juin2018.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AVI/AVI_04/images/AVI_04-grosplan.png"
     }
   ]

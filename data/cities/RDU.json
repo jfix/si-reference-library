@@ -1,0 +1,98 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:35:38.305Z",
+  "city": "Redu",
+  "code": "RDU",
+  "totalInvaders": 6,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Redu",
+    "code": "RDU",
+    "invasionWaves": 1,
+    "totalInvaders": 6,
+    "totalPoints": 280,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "RDU_01",
+      "points": 50,
+      "poseDate": "23/02/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rdu_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RDU/RDU_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RDU_02",
+      "points": 100,
+      "poseDate": "23/02/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rdu_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RDU/RDU_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RDU_03",
+      "points": 50,
+      "poseDate": "23/02/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rdu_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RDU/RDU_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RDU_04",
+      "points": 20,
+      "poseDate": "23/02/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rdu_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RDU/RDU_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RDU/RDU_04-juillet2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RDU/RDU_04-juillet2020.jpg",
+          "title": "RDU_04-juillet2020",
+          "caption": "photo juillet 2020 (@TortVid)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RDU/RDU_04-septembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RDU/RDU_04-septembre2025.jpg",
+          "title": "RDU_04-septembre2025",
+          "caption": "photo septembre 2025 (@Speedgirl75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "RDU_05",
+      "points": 30,
+      "poseDate": "23/02/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rdu_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RDU/RDU_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RDU/RDU_05-juillet2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RDU/RDU_05-juillet2022.jpg",
+          "title": "RDU_05-juillet2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "RDU_06",
+      "points": 30,
+      "poseDate": "23/02/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rdu_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RDU/RDU_06-grosplan.png",
+      "photos": []
+    }
+  ]
+}

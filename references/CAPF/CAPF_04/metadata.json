@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_04/images/CAPF_04-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_04-fevrier2018.jpg",
       "caption": "photo février 2018",
       "title": "CAPF_04-fevrier2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_04/images/CAPF_04-fevrier2018.jpg"
     },
     {
@@ -42,6 +46,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_04-avril2025.jpg",
       "caption": "photo avril 2025 (@zenax)",
       "title": "CAPF_04-avril2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
       "local_path": "references/CAPF/CAPF_04/images/CAPF_04-avril2025.jpg"
     }
   ]

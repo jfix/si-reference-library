@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_05-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/NIM/NIM_05/images/NIM_05-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_05-juin2015.jpg",
       "caption": "photo juin 2015",
       "title": "NIM_05-juin2015",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/NIM/NIM_05/images/NIM_05-juin2015.jpg"
     },
     {
@@ -42,6 +46,8 @@
       "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_05-aout2025.jpg",
       "caption": "photo août 2025 (@pepers256)",
       "title": "NIM_05-aout2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/NIM/NIM_05/images/NIM_05-aout2025.jpg"
     }
   ]

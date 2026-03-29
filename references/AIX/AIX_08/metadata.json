@@ -34,11 +34,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_08-juin2018.jpg",
       "caption": "photo juin 2018",
       "title": "AIX_08-juin2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AIX/AIX_08/images/AIX_08-juin2018.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AIX/AIX_08/images/AIX_08-grosplan.png"
     }
   ]

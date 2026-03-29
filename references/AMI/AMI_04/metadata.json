@@ -29,6 +29,8 @@
       "preview_url": "https://www.invader-spotter.art/images/AMI/AMI_04-juin2025.jpg",
       "caption": "photo juin 2025 (@NewSpotter)",
       "title": "AMI_04-juin2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AMI/AMI_04/images/AMI_04-juin2025.jpg"
     },
     {
@@ -37,11 +39,15 @@
       "preview_url": "https://www.invader-spotter.art/images/AMI/AMI_04-fevrier2026.jpg",
       "caption": "photo février 2026 (@r4y.paris)",
       "title": "AMI_04-fevrier2026",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/AMI/AMI_04/images/AMI_04-fevrier2026.jpg"
     },
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/AMI/AMI_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/AMI/AMI_04/images/AMI_04-grosplan.png"
     }
   ]

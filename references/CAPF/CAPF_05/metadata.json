@@ -26,6 +26,8 @@
     {
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_05-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_05/images/CAPF_05-grosplan.png"
     },
     {
@@ -34,6 +36,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-fevrier2018.jpg",
       "caption": "photo février 2018",
       "title": "CAPF_05-fevrier2018",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_05/images/CAPF_05-fevrier2018.jpg"
     },
     {
@@ -42,6 +46,8 @@
       "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-juillet2025.jpg",
       "caption": "photo juillet 2025 (@daiawas)",
       "title": "CAPF_05-juillet2025",
+      "role": "reference",
+      "contains_invader": true,
       "local_path": "references/CAPF/CAPF_05/images/CAPF_05-juillet2025.jpg"
     }
   ]
