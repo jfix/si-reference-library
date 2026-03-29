@@ -3,15 +3,38 @@
   "invader_id": "AVI_18",
   "city": "Avignon",
   "country": "France",
-  "status": "provisional",
-  "points": 0,
-  "notes": "Flickr source labels this as AVI_?? (#18); exact official AVI_18 identifier not yet independently verified.",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Confirmed from invader-spotter.art listing data.",
+  "pose_date": "29/05/2000",
+  "last_known_state": "OK",
+  "last_seen_source": "septembre 2019 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_18-grosplan.png",
   "sources": [
     {
       "type": "flickr",
       "url": "https://www.flickr.com/photos/meteorry/9622416369",
       "label": "Pont Saint-Bénézet - Avignon (France) | AVI_?? (#18)"
+    },
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_18/",
+      "label": "Instagram hashtag for AVI_18"
     }
   ],
-  "images": []
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_18-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_18-septembre2019.jpg",
+      "caption": "photo septembre 2019",
+      "title": "AVI_18-septembre2019",
+      "local_path": "references/AVI/AVI_18/images/AVI_18-septembre2019.jpg"
+    }
+  ]
 }

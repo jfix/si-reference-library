@@ -3,15 +3,38 @@
   "invader_id": "AVI_05",
   "city": "Avignon",
   "country": "France",
-  "status": "provisional",
-  "points": 0,
-  "notes": "Flickr source labels this as AVI_?? (#05); exact official AVI_05 identifier not yet independently verified.",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Confirmed from invader-spotter.art listing data.",
+  "pose_date": "26/05/2000",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "septembre 2019 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_05-grosplan.png",
   "sources": [
     {
       "type": "flickr",
       "url": "https://www.flickr.com/photos/meteorry/9521907723/",
       "label": "Place de l'Horloge - Avignon (France) | AVI_?? (#05)"
+    },
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_05/",
+      "label": "Instagram hashtag for AVI_05"
     }
   ],
-  "images": []
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_05-juin2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_05-juin2016.jpg",
+      "caption": "photo juin 2016",
+      "title": "AVI_05-juin2016",
+      "local_path": "references/AVI/AVI_05/images/AVI_05-juin2016.jpg"
+    }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_26",
+  "city": "Avignon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/05/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "décembre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_26-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_26/",
+      "label": "Instagram hashtag for AVI_26"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_26-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-septembre2019.jpg",
+      "caption": "photo septembre 2019",
+      "title": "AVI_26-septembre2019",
+      "local_path": "references/AVI/AVI_26/images/AVI_26-septembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_26-decembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-decembre2024.jpg",
+      "caption": "photo décembre 2024 (@Rob')",
+      "title": "AVI_26-decembre2024",
+      "local_path": "references/AVI/AVI_26/images/AVI_26-decembre2024.jpg"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_36",
+  "city": "Avignon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "01/06/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_36-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_36/",
+      "label": "Instagram hashtag for AVI_36"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_36-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_36-septembre2019.jpg",
+      "caption": "photo septembre 2019",
+      "title": "AVI_36-septembre2019",
+      "local_path": "references/AVI/AVI_36/images/AVI_36-septembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_36-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_36-mai2025.jpg",
+      "caption": "photo mai 2025 (@BossaNova)",
+      "title": "AVI_36-mai2025",
+      "local_path": "references/AVI/AVI_36/images/AVI_36-mai2025.jpg"
+    }
+  ]
+}

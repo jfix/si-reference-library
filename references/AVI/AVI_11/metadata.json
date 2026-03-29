@@ -6,19 +6,35 @@
   "status": "confirmed",
   "points": 10,
   "notes": "Confirmed on the official Avignon city page.",
+  "pose_date": "28/05/2000",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "juin 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_11-grosplan.png",
   "sources": [
     {
       "type": "official",
       "url": "https://www.space-invaders.com/world/avignon/",
       "label": "Official Avignon city page"
+    },
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_11/",
+      "label": "Instagram hashtag for AVI_11"
     }
   ],
   "images": [
     {
-      "file": "images/official.jpg",
-      "source_url": "https://www.space-invaders.com/media/invaders/avignon/AVI_11-diapo-CIA4F8WV.jpg",
-      "view": "official",
-      "license_note": "Source attribution retained; reuse status not yet reviewed."
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_11-septembre2019(1).jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_11-septembre2019(1).jpg",
+      "caption": "photo septembre 2019",
+      "title": "AVI_11-septembre2019(1)",
+      "local_path": "references/AVI/AVI_11/images/AVI_11-septembre2019(1).jpg"
     }
   ]
 }

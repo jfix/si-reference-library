@@ -3,15 +3,46 @@
   "invader_id": "AVI_01",
   "city": "Avignon",
   "country": "France",
-  "status": "provisional",
-  "points": 0,
-  "notes": "Flickr source labels this as AVI_?? (#01); exact official AVI_01 identifier not yet independently verified.",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Confirmed from invader-spotter.art listing data.",
+  "pose_date": "26/05/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_01-grosplan.png",
   "sources": [
     {
       "type": "flickr",
       "url": "https://www.flickr.com/photos/meteorry/9504040822",
       "label": "Rue Gérard Philippe - Avignon (France) | AVI_?? (#01)"
+    },
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_01/",
+      "label": "Instagram hashtag for AVI_01"
     }
   ],
-  "images": []
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_01-septembre2019(1).jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_01-septembre2019(1).jpg",
+      "caption": "photo septembre 2019",
+      "title": "AVI_01-septembre2019(1)",
+      "local_path": "references/AVI/AVI_01/images/AVI_01-septembre2019(1).jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_01-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_01-juillet2024.jpg",
+      "caption": "photo juillet 2024 (@VeroT74)",
+      "title": "AVI_01-juillet2024",
+      "local_path": "references/AVI/AVI_01/images/AVI_01-juillet2024.jpg"
+    }
+  ]
 }

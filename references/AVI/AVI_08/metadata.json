@@ -1,0 +1,43 @@
+{
+  "place_id": "AVI",
+  "invader_id": "AVI_08",
+  "city": "Avignon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/05/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AVI/AVI_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AVI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/avi_08/",
+      "label": "Instagram hashtag for AVI_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_08-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_08-septembre2019.jpg",
+      "caption": "photo septembre 2019",
+      "title": "AVI_08-septembre2019",
+      "local_path": "references/AVI/AVI_08/images/AVI_08-septembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_08-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_08-mai2025.jpg",
+      "caption": "photo mai 2025 (@VIHON)",
+      "title": "AVI_08-mai2025",
+      "local_path": "references/AVI/AVI_08/images/AVI_08-mai2025.jpg"
+    }
+  ]
+}
