@@ -1,0 +1,20 @@
+{
+  "place_id": "REUN",
+  "city": "La Réunion",
+  "country": "France",
+  "target_count": 11,
+  "confirmed_invaders": [
+    "REUN_01",
+    "REUN_02",
+    "REUN_03",
+    "REUN_04",
+    "REUN_05",
+    "REUN_06",
+    "REUN_07",
+    "REUN_08",
+    "REUN_09",
+    "REUN_10",
+    "REUN_11"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

@@ -1,0 +1,20 @@
+{
+  "place_id": "TLS",
+  "city": "Toulouse",
+  "country": "France",
+  "target_count": 11,
+  "confirmed_invaders": [
+    "TLS_01",
+    "TLS_02",
+    "TLS_03",
+    "TLS_04",
+    "TLS_05",
+    "TLS_06",
+    "TLS_07",
+    "TLS_08",
+    "TLS_09",
+    "TLS_10",
+    "TLS_11"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

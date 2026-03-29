@@ -1,0 +1,54 @@
+{
+  "place_id": "MTB",
+  "invader_id": "MTB_04",
+  "city": "Montauban",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/08/2008",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MTB/MTB_04-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MTB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mtb_04/",
+      "label": "Instagram hashtag for MTB_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MTB/MTB_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_04/images/MTB_04-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_04-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_04-fevrier2017.jpg",
+      "caption": "photo février 2017",
+      "title": "MTB_04-fevrier2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_04/images/MTB_04-fevrier2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_04-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_04-juillet2024.jpg",
+      "caption": "photo juillet 2024 (@M0uns)",
+      "title": "MTB_04-juillet2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/MTB/MTB_04/images/MTB_04-juillet2024.jpg"
+    }
+  ]
+}

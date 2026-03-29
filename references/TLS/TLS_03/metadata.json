@@ -1,0 +1,54 @@
+{
+  "place_id": "TLS",
+  "invader_id": "TLS_03",
+  "city": "Toulouse",
+  "country": "France",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/07/2016",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/TLS/TLS_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "TLS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/tls_03/",
+      "label": "Instagram hashtag for TLS_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TLS/TLS_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_03/images/TLS_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_03-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_03-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "TLS_03-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_03/images/TLS_03-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_03-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_03-juillet2025.jpg",
+      "caption": "photo juillet 2025 (@ComaR)",
+      "title": "TLS_03-juillet2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/TLS/TLS_03/images/TLS_03-juillet2025.jpg"
+    }
+  ]
+}

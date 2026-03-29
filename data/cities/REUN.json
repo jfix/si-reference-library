@@ -1,0 +1,211 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:43:22.204Z",
+  "city": "La Réunion",
+  "code": "REUN",
+  "totalInvaders": 11,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "La Réunion",
+    "code": "REUN",
+    "invasionWaves": 1,
+    "totalInvaders": 11,
+    "totalPoints": 320,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "REUN_01",
+      "points": 30,
+      "poseDate": "24/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_01-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_01-janvier2023.jpg",
+          "title": "REUN_01-janvier2023",
+          "caption": "photo janvier 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_02",
+      "points": 20,
+      "poseDate": "24/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_02-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_02-janvier2023.jpg",
+          "title": "REUN_02-janvier2023",
+          "caption": "photo janvier 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_03",
+      "points": 20,
+      "poseDate": "24/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_03-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_03-janvier2023.jpg",
+          "title": "REUN_03-janvier2023",
+          "caption": "photo janvier 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_04",
+      "points": 30,
+      "poseDate": "24/12/2022",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_04-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_04-janvier2023.jpg",
+          "title": "REUN_04-janvier2023",
+          "caption": "photo janvier 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_04-fevrier2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_04-fevrier2024.jpg",
+          "title": "REUN_04-fevrier2024",
+          "caption": "photo février 2024 (@Avengers)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_05",
+      "points": 20,
+      "poseDate": "24/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_05-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_05-janvier2023.jpg",
+          "title": "REUN_05-janvier2023",
+          "caption": "photo janvier 2023 (@Ventrigliss)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_06",
+      "points": 30,
+      "poseDate": "24/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_06-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_06-janvier2023.jpg",
+          "title": "REUN_06-janvier2023",
+          "caption": "photo janvier 2023 (@Ventrigliss)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_07",
+      "points": 40,
+      "poseDate": "27/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_07-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_07-janvier2023.jpg",
+          "title": "REUN_07-janvier2023",
+          "caption": "photo janvier 2023 (@Ventrigliss)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_08",
+      "points": 30,
+      "poseDate": "27/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_08-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_08-janvier2023.jpg",
+          "title": "REUN_08-janvier2023",
+          "caption": "photo janvier 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_09",
+      "points": 30,
+      "poseDate": "27/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_09-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_09-janvier2023.jpg",
+          "title": "REUN_09-janvier2023",
+          "caption": "photo janvier 2023 (@Ventrigliss)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_10",
+      "points": 40,
+      "poseDate": "27/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_10-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_10-janvier2023.jpg",
+          "title": "REUN_10-janvier2023",
+          "caption": "photo janvier 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "REUN_11",
+      "points": 30,
+      "poseDate": "27/12/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/reun_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/REUN/REUN_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/REUN/REUN_11-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/REUN/REUN_11-janvier2023.jpg",
+          "title": "REUN_11-janvier2023",
+          "caption": "photo janvier 2023 (@Ventrigliss)"
+        }
+      ]
+    }
+  ]
+}

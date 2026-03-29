@@ -109,6 +109,11 @@
     "country": "Belgium",
     "target_count": 6
   },
+  "REUN": {
+    "city": "La Réunion",
+    "country": "France",
+    "target_count": 11
+  },
   "CCU": {
     "city": "Cancun",
     "country": "Mexico",
@@ -139,6 +144,11 @@
     "country": "France",
     "target_count": 6
   },
+  "TLS": {
+    "city": "Toulouse",
+    "country": "France",
+    "target_count": 11
+  },
   "VLMO": {
     "city": "Valmorel",
     "country": "France",
@@ -168,5 +178,10 @@
     "city": "Lille",
     "country": "France",
     "target_count": 6
+  },
+  "MTB": {
+    "city": "Montauban",
+    "country": "France",
+    "target_count": 11
   }
 }

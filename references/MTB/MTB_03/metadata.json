@@ -1,0 +1,44 @@
+{
+  "place_id": "MTB",
+  "invader_id": "MTB_03",
+  "city": "Montauban",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/08/2008",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MTB/MTB_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MTB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mtb_03/",
+      "label": "Instagram hashtag for MTB_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MTB/MTB_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_03/images/MTB_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_03-octobre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_03-octobre2025.jpg",
+      "caption": "photo octobre 2025 (@Hazelneb)",
+      "title": "MTB_03-octobre2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_03/images/MTB_03-octobre2025.jpg"
+    }
+  ]
+}

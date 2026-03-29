@@ -1,0 +1,20 @@
+{
+  "place_id": "MTB",
+  "city": "Montauban",
+  "country": "France",
+  "target_count": 11,
+  "confirmed_invaders": [
+    "MTB_01",
+    "MTB_02",
+    "MTB_03",
+    "MTB_04",
+    "MTB_05",
+    "MTB_06",
+    "MTB_07",
+    "MTB_08",
+    "MTB_09",
+    "MTB_10",
+    "MTB_11"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

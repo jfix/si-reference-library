@@ -1,0 +1,44 @@
+{
+  "place_id": "REUN",
+  "invader_id": "REUN_08",
+  "city": "La Réunion",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/12/2022",
+  "last_known_state": "OK",
+  "last_seen_source": "janvier 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/REUN/REUN_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "REUN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/reun_08/",
+      "label": "Instagram hashtag for REUN_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/REUN/REUN_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/REUN/REUN_08/images/REUN_08-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/REUN/REUN_08-janvier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/REUN/REUN_08-janvier2023.jpg",
+      "caption": "photo janvier 2023 (@r4y.paris)",
+      "title": "REUN_08-janvier2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/REUN/REUN_08/images/REUN_08-janvier2023.jpg"
+    }
+  ]
+}
