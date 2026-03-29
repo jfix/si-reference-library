@@ -1,0 +1,12 @@
+{
+  "place_id": "CCU",
+  "city": "Cancún",
+  "country": "Mexico",
+  "target_count": 3,
+  "confirmed_invaders": [
+    "CCU_01",
+    "CCU_02",
+    "CCU_03"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

@@ -1,0 +1,19 @@
+{
+  "place_id": "NOO",
+  "city": "Noordwijk",
+  "country": null,
+  "target_count": 10,
+  "confirmed_invaders": [
+    "NOO_01",
+    "NOO_02",
+    "NOO_03",
+    "NOO_04",
+    "NOO_05",
+    "NOO_06",
+    "NOO_07",
+    "NOO_08",
+    "NOO_09",
+    "NOO_10"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

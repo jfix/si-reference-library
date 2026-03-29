@@ -1,0 +1,92 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:17:04.481Z",
+  "city": "Marrakech",
+  "code": "MRAK",
+  "totalInvaders": 4,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Marrakech",
+    "code": "MRAK",
+    "invasionWaves": 1,
+    "totalInvaders": 4,
+    "totalPoints": 120,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MRAK_01",
+      "points": 30,
+      "poseDate": "10/02/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mrak_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MRAK/MRAK_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MRAK/MRAK_01-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MRAK/MRAK_01-decembre2018.jpg",
+          "title": "MRAK_01-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MRAK_02",
+      "points": 30,
+      "poseDate": "12/02/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2022 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mrak_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MRAK/MRAK_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MRAK/MRAK_02-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MRAK/MRAK_02-decembre2018.jpg",
+          "title": "MRAK_02-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MRAK_03",
+      "points": 30,
+      "poseDate": "14/02/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mrak_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MRAK/MRAK_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MRAK/MRAK_03-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MRAK/MRAK_03-decembre2018.jpg",
+          "title": "MRAK_03-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MRAK_04",
+      "points": 30,
+      "poseDate": "15/02/2017",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mrak_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MRAK/MRAK_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MRAK/MRAK_04-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MRAK/MRAK_04-decembre2018.jpg",
+          "title": "MRAK_04-decembre2018",
+          "caption": "photo décembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MRAK/MRAK_04-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MRAK/MRAK_04-mai2025.jpg",
+          "title": "MRAK_04-mai2025",
+          "caption": "photo mai 2025 (@Bilou)"
+        }
+      ]
+    }
+  ]
+}

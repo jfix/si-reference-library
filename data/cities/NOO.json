@@ -1,0 +1,139 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:16:10.561Z",
+  "city": "Noordwijk",
+  "code": "NOO",
+  "totalInvaders": 10,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Noordwijk",
+    "code": "NOO",
+    "invasionWaves": 1,
+    "totalInvaders": 10,
+    "totalPoints": 480,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "NOO_01",
+      "points": 50,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_02",
+      "points": 30,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_03",
+      "points": 30,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_04",
+      "points": 100,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_05",
+      "points": 30,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_06",
+      "points": 30,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_07",
+      "points": 30,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NOO_08",
+      "points": 30,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NOO/NOO_08-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NOO/NOO_08-juin2017.jpg",
+          "title": "NOO_08-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NOO_09",
+      "points": 100,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NOO/NOO_09-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NOO/NOO_09-juin2017.jpg",
+          "title": "NOO_09-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NOO_10",
+      "points": 50,
+      "poseDate": "03/06/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/noo_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NOO/NOO_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NOO/NOO_10-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NOO/NOO_10-juin2017.jpg",
+          "title": "NOO_10-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "place_id": "BT",
+  "city": "Bhutan",
+  "country": null,
+  "target_count": 11,
+  "confirmed_invaders": [
+    "BT_01",
+    "BT_02",
+    "BT_03",
+    "BT_04",
+    "BT_05",
+    "BT_06",
+    "BT_07",
+    "BT_08",
+    "BT_09",
+    "BT_10",
+    "BT_11"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

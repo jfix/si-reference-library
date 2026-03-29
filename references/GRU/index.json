@@ -1,0 +1,12 @@
+{
+  "place_id": "GRU",
+  "city": "Grude",
+  "country": "Bosnia and Herzegovina",
+  "target_count": 3,
+  "confirmed_invaders": [
+    "GRU_01",
+    "GRU_02",
+    "GRU_03"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

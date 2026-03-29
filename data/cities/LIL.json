@@ -1,0 +1,138 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:17:12.380Z",
+  "city": "Lille",
+  "code": "LIL",
+  "totalInvaders": 6,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Lille",
+    "code": "LIL",
+    "invasionWaves": 2,
+    "totalInvaders": 6,
+    "totalPoints": 110,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "LIL_00",
+      "points": 50,
+      "poseDate": "11/01/1999",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lil_00/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LIL/LIL_00-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_00-mars2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_00-mars2017.jpg",
+          "title": "LIL_00-mars2017",
+          "caption": "photo mars 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "LIL_01",
+      "points": 10,
+      "poseDate": "30/08/2002",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lil_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LIL/LIL_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_01-mars2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_01-mars2017.jpg",
+          "title": "LIL_01-mars2017",
+          "caption": "photo mars 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_01-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_01-mars2023.jpg",
+          "title": "LIL_01-mars2023",
+          "caption": "photos mars 2023 (@nico_nico)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LIL_02",
+      "points": 10,
+      "poseDate": "30/08/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lil_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LIL/LIL_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_02-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_02-mai2025.jpg",
+          "title": "LIL_02-mai2025",
+          "caption": "photo juillet 2020 (Live Flashinvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LIL_03",
+      "points": 10,
+      "poseDate": "30/08/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lil_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LIL/LIL_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_03-mars2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_03-mars2017.jpg",
+          "title": "LIL_03-mars2017",
+          "caption": "photo mars 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "LIL_04",
+      "points": 10,
+      "poseDate": "30/08/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lil_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LIL/LIL_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_04-mars2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_04-mars2017.jpg",
+          "title": "LIL_04-mars2017",
+          "caption": "photo mars 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_04-mars2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_04-mars2021.jpg",
+          "title": "LIL_04-mars2021",
+          "caption": "photo mars 2021 (@PEGRIC)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LIL_05",
+      "points": 20,
+      "poseDate": "30/08/2002",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lil_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LIL/LIL_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_05-mars2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_05-mars2017.jpg",
+          "title": "LIL_05-mars2017",
+          "caption": "photo mars 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LIL/LIL_05-mars2025-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LIL/LIL_05-mars2025-2.jpg",
+          "title": "LIL_05-mars2025-2",
+          "caption": "photo mars 2025 (@Nico)"
+        }
+      ]
+    }
+  ]
+}

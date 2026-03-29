@@ -1,0 +1,104 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:17:10.953Z",
+  "city": "Anzère",
+  "code": "ANZR",
+  "totalInvaders": 4,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Anzère",
+    "code": "ANZR",
+    "invasionWaves": 1,
+    "totalInvaders": 4,
+    "totalPoints": 110,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "ANZR_01",
+      "points": 20,
+      "poseDate": "30/12/2013",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/anzr_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_01-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_01-septembre2016.jpg",
+          "title": "ANZR_01-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_01-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_01-juillet2024.jpg",
+          "title": "ANZR_01-juillet2024",
+          "caption": "photo juillet 2024 (@Notinuk)"
+        }
+      ]
+    },
+    {
+      "invaderId": "ANZR_02",
+      "points": 20,
+      "poseDate": "30/12/2013",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/anzr_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_02-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_02-aout2025.jpg",
+          "title": "ANZR_02-aout2025",
+          "caption": "photo août 2025 (@firebrand78) - emplacement actuel"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_02-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_02-septembre2016.jpg",
+          "title": "ANZR_02-septembre2016",
+          "caption": "photo septembre 2016 - emplacement d'origine"
+        }
+      ]
+    },
+    {
+      "invaderId": "ANZR_03",
+      "points": 50,
+      "poseDate": "31/12/2013",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/anzr_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_03-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_03-septembre2016.jpg",
+          "title": "ANZR_03-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "ANZR_04",
+      "points": 20,
+      "poseDate": "02/01/2014",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/anzr_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_04-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_04-septembre2016.jpg",
+          "title": "ANZR_04-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ANZR/ANZR_04-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ANZR/ANZR_04-aout2025.jpg",
+          "title": "ANZR_04-aout2025",
+          "caption": "photo août 2025 (@VDDUKE)"
+        }
+      ]
+    }
+  ]
+}

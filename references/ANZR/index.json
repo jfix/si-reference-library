@@ -1,0 +1,13 @@
+{
+  "place_id": "ANZR",
+  "city": "Anzère",
+  "country": "Switzerland",
+  "target_count": 4,
+  "confirmed_invaders": [
+    "ANZR_01",
+    "ANZR_02",
+    "ANZR_03",
+    "ANZR_04"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

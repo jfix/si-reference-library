@@ -1,0 +1,15 @@
+{
+  "place_id": "LIL",
+  "city": "Lille",
+  "country": "France",
+  "target_count": 6,
+  "confirmed_invaders": [
+    "LIL_00",
+    "LIL_01",
+    "LIL_02",
+    "LIL_03",
+    "LIL_04",
+    "LIL_05"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

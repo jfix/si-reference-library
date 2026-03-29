@@ -1,0 +1,15 @@
+{
+  "place_id": "DHK",
+  "city": "Dhaka",
+  "country": "Bangladesh",
+  "target_count": 6,
+  "confirmed_invaders": [
+    "DHK_01",
+    "DHK_02",
+    "DHK_03",
+    "DHK_04",
+    "DHK_05",
+    "DHK_06"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

@@ -1,0 +1,17 @@
+{
+  "place_id": "MBSA",
+  "city": "Mombasa",
+  "country": null,
+  "target_count": 10,
+  "confirmed_invaders": [
+    "MBSA_01",
+    "MBSA_03",
+    "MBSA_04",
+    "MBSA_05",
+    "MBSA_06",
+    "MBSA_07",
+    "MBSA_08",
+    "MBSA_10"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

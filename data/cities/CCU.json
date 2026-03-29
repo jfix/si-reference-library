@@ -1,0 +1,55 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:15:11.238Z",
+  "city": "Cancún",
+  "code": "CCU",
+  "totalInvaders": 3,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Cancún",
+    "code": "CCU",
+    "invasionWaves": 1,
+    "totalInvaders": 3,
+    "totalPoints": 80,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "CCU_01",
+      "points": 30,
+      "poseDate": "18/07/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ccu_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CCU/CCU_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CCU_02",
+      "points": 30,
+      "poseDate": "18/07/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ccu_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CCU/CCU_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CCU_03",
+      "points": 20,
+      "poseDate": "18/07/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ccu_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CCU/CCU_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CCU/CCU_03-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CCU/CCU_03-decembre2022.jpg",
+          "title": "CCU_03-decembre2022",
+          "caption": "photo décembre 2022 (@vincentr)"
+        }
+      ]
+    }
+  ]
+}

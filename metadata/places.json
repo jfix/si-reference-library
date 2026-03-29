@@ -108,5 +108,65 @@
     "city": "Redu",
     "country": "Belgium",
     "target_count": 6
+  },
+  "CCU": {
+    "city": "Cancun",
+    "country": "Mexico",
+    "target_count": 3
+  },
+  "GRU": {
+    "city": "Grude",
+    "country": "Bosnia and Herzegovina",
+    "target_count": 3
+  },
+  "ANZR": {
+    "city": "Anzère",
+    "country": "Switzerland",
+    "target_count": 4
+  },
+  "MRAK": {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "target_count": 4
+  },
+  "DHK": {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "target_count": 6
+  },
+  "LIL": {
+    "city": "Lille",
+    "country": "France",
+    "target_count": 6
+  },
+  "VLMO": {
+    "city": "Valmorel",
+    "country": "France",
+    "target_count": 3
+  },
+  "GRU": {
+    "city": "Grude",
+    "country": "Bosnia and Herzegovina",
+    "target_count": 3
+  },
+  "ANZR": {
+    "city": "Anzère",
+    "country": "Switzerland",
+    "target_count": 4
+  },
+  "MRAK": {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "target_count": 4
+  },
+  "DHK": {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "target_count": 6
+  },
+  "LIL": {
+    "city": "Lille",
+    "country": "France",
+    "target_count": 6
   }
 }

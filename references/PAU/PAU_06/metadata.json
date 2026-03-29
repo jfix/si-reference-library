@@ -1,0 +1,44 @@
+{
+  "place_id": "PAU",
+  "invader_id": "PAU_06",
+  "city": "Pau",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/11/2000",
+  "last_known_state": "OK",
+  "last_seen_source": "septembre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PAU/PAU_06-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PAU listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pau_06/",
+      "label": "Instagram hashtag for PAU_06"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_06-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_06/images/PAU_06-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_06-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_06-fevrier2017.jpg",
+      "caption": "photo février 2017",
+      "title": "PAU_06-fevrier2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_06/images/PAU_06-fevrier2017.jpg"
+    }
+  ]
+}

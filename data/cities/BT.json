@@ -1,0 +1,149 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:16:06.834Z",
+  "city": "Bhutan",
+  "code": "BT",
+  "totalInvaders": 11,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Bhutan",
+    "code": "BT",
+    "invasionWaves": 1,
+    "totalInvaders": 11,
+    "totalPoints": 490,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "BT_01",
+      "points": 100,
+      "poseDate": "21/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_02",
+      "points": 40,
+      "poseDate": "21/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_03",
+      "points": 30,
+      "poseDate": "21/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_04",
+      "points": 30,
+      "poseDate": "21/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_05",
+      "points": 30,
+      "poseDate": "22/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_06",
+      "points": 40,
+      "poseDate": "24/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_07",
+      "points": 40,
+      "poseDate": "25/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BT/BT_07-mai2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BT/BT_07-mai2020.jpg",
+          "title": "BT_07-mai2020",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BT_08",
+      "points": 40,
+      "poseDate": "25/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BT/BT_08-mai2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BT/BT_08-mai2020.jpg",
+          "title": "BT_08-mai2020",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BT_09",
+      "points": 50,
+      "poseDate": "26/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BT/BT_09-aout2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BT/BT_09-aout2018.jpg",
+          "title": "BT_09-aout2018",
+          "caption": "photo d'archive (Instagram)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BT_10",
+      "points": 50,
+      "poseDate": "26/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BT_11",
+      "points": 40,
+      "poseDate": "26/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (flash)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bt_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BT/BT_11-grosplan.png",
+      "photos": []
+    }
+  ]
+}

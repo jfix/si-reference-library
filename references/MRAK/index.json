@@ -1,0 +1,13 @@
+{
+  "place_id": "MRAK",
+  "city": "Marrakech",
+  "country": "Morocco",
+  "target_count": 4,
+  "confirmed_invaders": [
+    "MRAK_01",
+    "MRAK_02",
+    "MRAK_03",
+    "MRAK_04"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

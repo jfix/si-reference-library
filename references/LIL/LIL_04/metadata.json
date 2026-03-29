@@ -1,0 +1,54 @@
+{
+  "place_id": "LIL",
+  "invader_id": "LIL_04",
+  "city": "Lille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/08/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LIL/LIL_04-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LIL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lil_04/",
+      "label": "Instagram hashtag for LIL_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LIL/LIL_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LIL/LIL_04/images/LIL_04-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LIL/LIL_04-mars2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LIL/LIL_04-mars2017.jpg",
+      "caption": "photo mars 2017",
+      "title": "LIL_04-mars2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LIL/LIL_04/images/LIL_04-mars2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LIL/LIL_04-mars2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LIL/LIL_04-mars2021.jpg",
+      "caption": "photo mars 2021 (@PEGRIC)",
+      "title": "LIL_04-mars2021",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LIL/LIL_04/images/LIL_04-mars2021.jpg"
+    }
+  ]
+}

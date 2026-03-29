@@ -1,0 +1,54 @@
+{
+  "place_id": "PAU",
+  "invader_id": "PAU_07",
+  "city": "Pau",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/11/2000",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "septembre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PAU/PAU_07-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PAU listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pau_07/",
+      "label": "Instagram hashtag for PAU_07"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_07-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_07/images/PAU_07-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_07-mars2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_07-mars2015.jpg",
+      "caption": "photo mars 2015",
+      "title": "PAU_07-mars2015",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_07/images/PAU_07-mars2015.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_07-decembre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_07-decembre2020.jpg",
+      "caption": "photo décembre 2020 (@r4y.paris)",
+      "title": "PAU_07-decembre2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_07/images/PAU_07-decembre2020.jpg"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:16:04.783Z",
+  "city": "Mombasa",
+  "code": "MBSA",
+  "totalInvaders": 10,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Mombasa",
+    "code": "MBSA",
+    "invasionWaves": 1,
+    "totalInvaders": 10,
+    "totalPoints": 220,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MBSA_01",
+      "points": 20,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2021 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MBSA/MBSA_01-septembre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MBSA/MBSA_01-septembre2021.jpg",
+          "title": "MBSA_01-septembre2021",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MBSA_03",
+      "points": 10,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2018 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MBSA_04",
+      "points": 30,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2018 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MBSA_05",
+      "points": 20,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2018 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MBSA_06",
+      "points": 10,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2018 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MBSA_07",
+      "points": 30,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MBSA/MBSA_07-fevrier2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MBSA/MBSA_07-fevrier2022.jpg",
+          "title": "MBSA_07-fevrier2022",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MBSA_08",
+      "points": 20,
+      "poseDate": "20/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2018 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_08-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MBSA_10",
+      "points": 30,
+      "poseDate": "23/01/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2018 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mbsa_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MBSA/MBSA_10-grosplan.png",
+      "photos": []
+    }
+  ]
+}

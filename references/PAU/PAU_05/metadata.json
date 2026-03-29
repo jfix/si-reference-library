@@ -1,0 +1,54 @@
+{
+  "place_id": "PAU",
+  "invader_id": "PAU_05",
+  "city": "Pau",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/11/2000",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "février 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PAU/PAU_05-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PAU listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pau_05/",
+      "label": "Instagram hashtag for PAU_05"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_05-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/PAU_05-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-mars2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-mars2015.jpg",
+      "caption": "photo mars 2015",
+      "title": "PAU_05-mars2015",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/PAU_05-mars2015.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-fevrier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-fevrier2023.jpg",
+      "caption": "photo février 2023 (@Sagwa)",
+      "title": "PAU_05-fevrier2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/PAU_05-fevrier2023.jpg"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:16:08.666Z",
+  "city": "Pau",
+  "code": "PAU",
+  "totalInvaders": 10,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Pau",
+    "code": "PAU",
+    "invasionWaves": 1,
+    "totalInvaders": 10,
+    "totalPoints": 120,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "PAU_01",
+      "points": 10,
+      "poseDate": "21/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2022 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_01-novembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_01-novembre2017.jpg",
+          "title": "PAU_01-novembre2017",
+          "caption": "photo novembre 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_02",
+      "points": 10,
+      "poseDate": "21/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_02-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_02-fevrier2017.jpg",
+          "title": "PAU_02-fevrier2017",
+          "caption": "photo fevrier 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_03",
+      "points": 10,
+      "poseDate": "21/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_03-mars2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_03-mars2015.jpg",
+          "title": "PAU_03-mars2015",
+          "caption": "photo mars 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_04",
+      "points": 10,
+      "poseDate": "21/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_04-mars2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_04-mars2015.jpg",
+          "title": "PAU_04-mars2015",
+          "caption": "photo mars 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_05",
+      "points": 20,
+      "poseDate": "22/11/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_05-mars2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_05-mars2015.jpg",
+          "title": "PAU_05-mars2015",
+          "caption": "photo mars 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_05-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_05-fevrier2023.jpg",
+          "title": "PAU_05-fevrier2023",
+          "caption": "photo février 2023 (@Sagwa)"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_06",
+      "points": 10,
+      "poseDate": "22/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_06-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_06-fevrier2017.jpg",
+          "title": "PAU_06-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_07",
+      "points": 10,
+      "poseDate": "22/11/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_07-mars2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_07-mars2015.jpg",
+          "title": "PAU_07-mars2015",
+          "caption": "photo mars 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_07-decembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_07-decembre2020.jpg",
+          "title": "PAU_07-decembre2020",
+          "caption": "photo décembre 2020 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_08",
+      "points": 10,
+      "poseDate": "22/11/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_08-mars2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_08-mars2015.jpg",
+          "title": "PAU_08-mars2015",
+          "caption": "photo mars 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_08-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_08-fevrier2023.jpg",
+          "title": "PAU_08-fevrier2023",
+          "caption": "photo février 2023 (@Sagwa)"
+        }
+      ]
+    },
+    {
+      "invaderId": "PAU_09",
+      "points": 10,
+      "poseDate": "22/11/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "PAU_10",
+      "points": 20,
+      "poseDate": "23/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pau_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/PAU/PAU_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/PAU/PAU_10-novembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/PAU/PAU_10-novembre2017.jpg",
+          "title": "PAU_10-novembre2017",
+          "caption": "photo novembre 2017"
+        }
+      ]
+    }
+  ]
+}

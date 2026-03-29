@@ -1,0 +1,44 @@
+{
+  "place_id": "MRAK",
+  "invader_id": "MRAK_03",
+  "city": "Marrakech",
+  "country": "Morocco",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/02/2017",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MRAK/MRAK_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MRAK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mrak_03/",
+      "label": "Instagram hashtag for MRAK_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MRAK/MRAK_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MRAK/MRAK_03/images/MRAK_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MRAK/MRAK_03-decembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MRAK/MRAK_03-decembre2018.jpg",
+      "caption": "photo décembre 2018",
+      "title": "MRAK_03-decembre2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MRAK/MRAK_03/images/MRAK_03-decembre2018.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "ANZR",
+  "invader_id": "ANZR_01",
+  "city": "Anzère",
+  "country": "Switzerland",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/12/2013",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "juillet 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ANZR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/anzr_01/",
+      "label": "Instagram hashtag for ANZR_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ANZR/ANZR_01/images/ANZR_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ANZR/ANZR_01-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANZR/ANZR_01-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "ANZR_01-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ANZR/ANZR_01/images/ANZR_01-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ANZR/ANZR_01-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANZR/ANZR_01-juillet2024.jpg",
+      "caption": "photo juillet 2024 (@Notinuk)",
+      "title": "ANZR_01-juillet2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ANZR/ANZR_01/images/ANZR_01-juillet2024.jpg"
+    }
+  ]
+}

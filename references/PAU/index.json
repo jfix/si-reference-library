@@ -1,0 +1,19 @@
+{
+  "place_id": "PAU",
+  "city": "Pau",
+  "country": null,
+  "target_count": 10,
+  "confirmed_invaders": [
+    "PAU_01",
+    "PAU_02",
+    "PAU_03",
+    "PAU_04",
+    "PAU_05",
+    "PAU_06",
+    "PAU_07",
+    "PAU_08",
+    "PAU_09",
+    "PAU_10"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}
