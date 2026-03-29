@@ -1,0 +1,22 @@
+{
+  "AIX": {
+    "city": "Aix-en-Provence",
+    "country": "France",
+    "target_count": 10
+  },
+  "AVI": {
+    "city": "Avignon",
+    "country": "France",
+    "target_count": 41
+  },
+  "AMI": {
+    "city": "Amiens",
+    "country": "France",
+    "target_count": 16
+  },
+  "GRTI": {
+    "city": "Grumeti",
+    "country": "Tanzania",
+    "target_count": 8
+  }
+}

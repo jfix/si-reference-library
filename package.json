@@ -1,0 +1,24 @@
+{
+  "name": "si-reference-library",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reference image and metadata library for known Space Invader mosaics.",
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "check": "node --eval \"console.log('si-reference-library ready')\"",
+    "scrape:cities": "node scripts/scrape-cities.mjs",
+    "scrape:city": "node scripts/scrape-city.mjs"
+  },
+  "keywords": [
+    "space-invaders",
+    "reference-images",
+    "dataset"
+  ],
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}
