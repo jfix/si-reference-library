@@ -1,0 +1,35 @@
+{
+  "place_id": "AMI",
+  "invader_id": "AMI_13",
+  "city": "Amiens",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/06/2025",
+  "last_known_state": "OK",
+  "last_seen_source": "juin 2025",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AMI/AMI_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AMI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ami_13/",
+      "label": "Instagram hashtag for AMI_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AMI/AMI_13-juin2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AMI/AMI_13-juin2025.jpg",
+      "caption": "photo juin 2025 (@NewSpotter)",
+      "title": "AMI_13-juin2025",
+      "local_path": "references/AMI/AMI_13/images/AMI_13-juin2025.jpg"
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T18:58:17.539Z",
+  "city": "Amiens",
+  "code": "AMI",
+  "totalInvaders": 16,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Amiens",
+    "code": "AMI",
+    "invasionWaves": 1,
+    "totalInvaders": 16,
+    "totalPoints": 540,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "AMI_01",
+      "points": 50,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_01-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_01-juin2025.jpg",
+          "title": "AMI_01-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_02",
+      "points": 20,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_02-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_02-juin2025.jpg",
+          "title": "AMI_02-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_03",
+      "points": 30,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_03-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_03-juin2025.jpg",
+          "title": "AMI_03-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_04",
+      "points": 30,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_04-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_04-juin2025.jpg",
+          "title": "AMI_04-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_04-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_04-fevrier2026.jpg",
+          "title": "AMI_04-fevrier2026",
+          "caption": "photo février 2026 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_05",
+      "points": 50,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_05-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_05-juin2025.jpg",
+          "title": "AMI_05-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_06",
+      "points": 50,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_06-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_06-juin2025.jpg",
+          "title": "AMI_06-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_07",
+      "points": 30,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_07-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_07-juin2025.jpg",
+          "title": "AMI_07-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_08",
+      "points": 40,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_08-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_08-juin2025.jpg",
+          "title": "AMI_08-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_09",
+      "points": 20,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_09-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_09-juin2025.jpg",
+          "title": "AMI_09-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_10",
+      "points": 20,
+      "poseDate": "10/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_10-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_10-juin2025.jpg",
+          "title": "AMI_10-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_11",
+      "points": 30,
+      "poseDate": "11/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_11-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_11-juin2025.jpg",
+          "title": "AMI_11-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_12",
+      "points": 40,
+      "poseDate": "11/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_12-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_12-juin2025.jpg",
+          "title": "AMI_12-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_13",
+      "points": 30,
+      "poseDate": "11/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_13-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_13-juin2025.jpg",
+          "title": "AMI_13-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_14",
+      "points": 30,
+      "poseDate": "11/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_14-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_14-juin2025.jpg",
+          "title": "AMI_14-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_15",
+      "points": 30,
+      "poseDate": "11/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_15-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_15-juin2025.jpg",
+          "title": "AMI_15-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMI_16",
+      "points": 40,
+      "poseDate": "11/06/2025",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ami_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMI/AMI_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMI/AMI_16-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMI/AMI_16-juin2025.jpg",
+          "title": "AMI_16-juin2025",
+          "caption": "photo juin 2025 (@NewSpotter)"
+        }
+      ]
+    }
+  ]
+}

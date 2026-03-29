@@ -1,0 +1,25 @@
+{
+  "place_id": "AMI",
+  "city": "Amiens",
+  "country": "France",
+  "target_count": 16,
+  "confirmed_invaders": [
+    "AMI_01",
+    "AMI_02",
+    "AMI_03",
+    "AMI_04",
+    "AMI_05",
+    "AMI_06",
+    "AMI_07",
+    "AMI_08",
+    "AMI_09",
+    "AMI_10",
+    "AMI_11",
+    "AMI_12",
+    "AMI_13",
+    "AMI_14",
+    "AMI_15",
+    "AMI_16"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

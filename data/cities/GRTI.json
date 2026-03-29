@@ -1,0 +1,98 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T18:58:18.788Z",
+  "city": "Grumeti",
+  "code": "GRTI",
+  "totalInvaders": 8,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Grumeti",
+    "code": "GRTI",
+    "invasionWaves": 1,
+    "totalInvaders": 8,
+    "totalPoints": 280,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "GRTI_01",
+      "points": 30,
+      "poseDate": "24/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_02",
+      "points": 30,
+      "poseDate": "24/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_03",
+      "points": 30,
+      "poseDate": "25/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_04",
+      "points": 50,
+      "poseDate": "26/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_05",
+      "points": 30,
+      "poseDate": "26/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_06",
+      "points": 30,
+      "poseDate": "26/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_07",
+      "points": 50,
+      "poseDate": "26/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GRTI_08",
+      "points": 30,
+      "poseDate": "27/01/2015",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/grti_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_08-grosplan.png",
+      "photos": []
+    }
+  ]
+}
