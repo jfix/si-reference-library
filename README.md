@@ -83,3 +83,31 @@ To additionally download the referenced spotter images into each invader directo
 ```bash
 npm run scrape:city -- AIX --sync-references --download-images
 ```
+
+## Instagram Session Probe
+
+Instagram tag pages currently redirect anonymous requests to login. To test a saved logged-in browser profile:
+
+1. Open a persistent Playwright browser and log in manually:
+
+```bash
+npm run instagram:login -- https://www.instagram.com/explore/tags/aix_06/
+```
+
+2. After login, press Enter in the terminal to save the profile.
+
+3. Reuse that saved session in headless mode to probe a tag page:
+
+```bash
+npm run instagram:test -- https://www.instagram.com/explore/tags/aix_06/
+```
+
+The browser profile is stored under `profiles/instagram/` and is ignored by git.
+
+To scrape post links and media for a tag using the saved session:
+
+```bash
+npm run instagram:scrape -- aix_06 --limit=12 --download
+```
+
+This writes results under `data/instagram/<tag>/`.

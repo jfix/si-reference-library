@@ -10,7 +10,10 @@
   "scripts": {
     "check": "node --eval \"console.log('si-reference-library ready')\"",
     "scrape:cities": "node scripts/scrape-cities.mjs",
-    "scrape:city": "node scripts/scrape-city.mjs"
+    "scrape:city": "node scripts/scrape-city.mjs",
+    "instagram:login": "node scripts/instagram-session.mjs login",
+    "instagram:test": "node scripts/instagram-session.mjs test",
+    "instagram:scrape": "node scripts/instagram-scrape-tag.mjs"
   },
   "keywords": [
     "space-invaders",

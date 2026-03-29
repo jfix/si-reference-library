@@ -8,3 +8,4 @@ node_modules/
 # Generated or temporary files
 tmp/
 dist/
+profiles/
