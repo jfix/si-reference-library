@@ -1,0 +1,623 @@
+{
+  "source": "https://www.invader-spotter.art/villes.php",
+  "scrapedAt": "2026-03-29T18:42:51.275Z",
+  "totalCities": 88,
+  "cities": [
+    {
+      "code": "AIX",
+      "city": "Aix-en-Provence",
+      "foundCount": 10,
+      "totalCount": 10,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "AMI",
+      "city": "Amiens",
+      "foundCount": 16,
+      "totalCount": 16,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "AMS",
+      "city": "Amsterdam",
+      "foundCount": 26,
+      "totalCount": 26,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "ANVR",
+      "city": "Anvers",
+      "foundCount": 2,
+      "totalCount": 2,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "ANZR",
+      "city": "Anzère",
+      "foundCount": 4,
+      "totalCount": 4,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "AVI",
+      "city": "Avignon",
+      "foundCount": 41,
+      "totalCount": 41,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BGK",
+      "city": "Bangkok",
+      "foundCount": 51,
+      "totalCount": 51,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BRC",
+      "city": "Barcelona",
+      "foundCount": 17,
+      "totalCount": 17,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BSL",
+      "city": "Basel",
+      "foundCount": 25,
+      "totalCount": 25,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BTA",
+      "city": "Bastia",
+      "foundCount": 34,
+      "totalCount": 34,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BRL",
+      "city": "Berlin",
+      "foundCount": 12,
+      "totalCount": 12,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BRN",
+      "city": "Bern",
+      "foundCount": 29,
+      "totalCount": 29,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BT",
+      "city": "Bhutan",
+      "foundCount": 11,
+      "totalCount": 11,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BAB",
+      "city": "Biarritz-Anglet-Bayonne",
+      "foundCount": 60,
+      "totalCount": 60,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BBO",
+      "city": "Bilbao",
+      "foundCount": 40,
+      "totalCount": 40,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "BXL",
+      "city": "Bruxelles",
+      "foundCount": 42,
+      "totalCount": 42,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "CCU",
+      "city": "Cancún",
+      "foundCount": 3,
+      "totalCount": 3,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "CAPF",
+      "city": "Cap Ferret",
+      "foundCount": 10,
+      "totalCount": 10,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "CHAR",
+      "city": "Charleroi",
+      "foundCount": 1,
+      "totalCount": 1,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "CLR",
+      "city": "Clermont-Ferrand",
+      "foundCount": 47,
+      "totalCount": 47,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "CON",
+      "city": "Contis-Les-Bains",
+      "foundCount": 2,
+      "totalCount": 2,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "CAZ",
+      "city": "Côte d'Azur",
+      "foundCount": 40,
+      "totalCount": 40,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "DJN",
+      "city": "Daejeon",
+      "foundCount": 23,
+      "totalCount": 23,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "DHK",
+      "city": "Dhaka",
+      "foundCount": 6,
+      "totalCount": 6,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "DIJ",
+      "city": "Dijon",
+      "foundCount": 6,
+      "totalCount": 6,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "DJBA",
+      "city": "Djerba",
+      "foundCount": 58,
+      "totalCount": 58,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "ELT",
+      "city": "Eilat",
+      "foundCount": 2,
+      "totalCount": 2,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "FAO",
+      "city": "Faro",
+      "foundCount": 4,
+      "totalCount": 4,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "FTBL",
+      "city": "Fontainebleau",
+      "foundCount": 46,
+      "totalCount": 46,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "FRQ",
+      "city": "Forcalquier",
+      "foundCount": 4,
+      "totalCount": 4,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "FKF",
+      "city": "Frankfurt",
+      "foundCount": 14,
+      "totalCount": 14,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "GNV",
+      "city": "Genève",
+      "foundCount": 33,
+      "totalCount": 33,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "GRN",
+      "city": "Grenoble",
+      "foundCount": 57,
+      "totalCount": 57,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "GRU",
+      "city": "Grude",
+      "foundCount": 3,
+      "totalCount": 3,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "GRTI",
+      "city": "Grumeti",
+      "foundCount": 8,
+      "totalCount": 8,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "HALM",
+      "city": "Halmstad",
+      "foundCount": 2,
+      "totalCount": 2,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "HK",
+      "city": "Hong Kong",
+      "foundCount": 132,
+      "totalCount": 132,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "IST",
+      "city": "Istanbul",
+      "foundCount": 20,
+      "totalCount": 20,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "KAT",
+      "city": "Katmandou",
+      "foundCount": 28,
+      "totalCount": 28,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "KLN",
+      "city": "Köln",
+      "foundCount": 27,
+      "totalCount": 27,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LCT",
+      "city": "La Ciotat",
+      "foundCount": 9,
+      "totalCount": 9,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "REUN",
+      "city": "La Réunion",
+      "foundCount": 11,
+      "totalCount": 11,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LSN",
+      "city": "Lausanne",
+      "foundCount": 18,
+      "totalCount": 18,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LIL",
+      "city": "Lille",
+      "foundCount": 6,
+      "totalCount": 6,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LJU",
+      "city": "Ljubljana",
+      "foundCount": 42,
+      "totalCount": 42,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LDN",
+      "city": "London",
+      "foundCount": 193,
+      "totalCount": 193,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LA",
+      "city": "Los Angeles",
+      "foundCount": 214,
+      "totalCount": 214,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LBR",
+      "city": "Luberon",
+      "foundCount": 8,
+      "totalCount": 8,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "LY",
+      "city": "Lyon",
+      "foundCount": 48,
+      "totalCount": 48,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MLGA",
+      "city": "Málaga",
+      "foundCount": 29,
+      "totalCount": 29,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MAN",
+      "city": "Manchester",
+      "foundCount": 47,
+      "totalCount": 47,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MRAK",
+      "city": "Marrakech",
+      "foundCount": 4,
+      "totalCount": 4,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MARS",
+      "city": "Marseille",
+      "foundCount": 97,
+      "totalCount": 97,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MLB",
+      "city": "Melbourne",
+      "foundCount": 25,
+      "totalCount": 25,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MEN",
+      "city": "Menorca",
+      "foundCount": 5,
+      "totalCount": 5,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MIA",
+      "city": "Miami",
+      "foundCount": 85,
+      "totalCount": 85,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MBSA",
+      "city": "Mombasa",
+      "foundCount": 10,
+      "totalCount": 10,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MTB",
+      "city": "Montauban",
+      "foundCount": 11,
+      "totalCount": 11,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MPL",
+      "city": "Montpellier",
+      "foundCount": 42,
+      "totalCount": 42,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "MUN",
+      "city": "Munich",
+      "foundCount": 18,
+      "totalCount": 18,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "NA",
+      "city": "Nantes",
+      "foundCount": 3,
+      "totalCount": 3,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "NY",
+      "city": "New York",
+      "foundCount": 219,
+      "totalCount": 219,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "NCL",
+      "city": "Newcastle",
+      "foundCount": 25,
+      "totalCount": 25,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "NIM",
+      "city": "Nîmes",
+      "foundCount": 5,
+      "totalCount": 5,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "NOO",
+      "city": "Noordwijk",
+      "foundCount": 10,
+      "totalCount": 10,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "ORLN",
+      "city": "Orléans",
+      "foundCount": 12,
+      "totalCount": 12,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "PA",
+      "city": "Paris",
+      "foundCount": 1561,
+      "totalCount": 1561,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "PAU",
+      "city": "Pau",
+      "foundCount": 10,
+      "totalCount": 10,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "PRP",
+      "city": "Perpignan",
+      "foundCount": 8,
+      "totalCount": 8,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "PRT",
+      "city": "Perth",
+      "foundCount": 26,
+      "totalCount": 26,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "POTI",
+      "city": "Potosi",
+      "foundCount": 53,
+      "totalCount": 53,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "RBA",
+      "city": "Rabat",
+      "foundCount": 20,
+      "totalCount": 20,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "RA",
+      "city": "Ravenna",
+      "foundCount": 40,
+      "totalCount": 40,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "RDU",
+      "city": "Redu",
+      "foundCount": 6,
+      "totalCount": 6,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "RN",
+      "city": "Rennes",
+      "foundCount": 4,
+      "totalCount": 4,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "ROM",
+      "city": "Roma",
+      "foundCount": 75,
+      "totalCount": 75,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "RTD",
+      "city": "Rotterdam",
+      "foundCount": 26,
+      "totalCount": 26,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "SD",
+      "city": "San Diego",
+      "foundCount": 21,
+      "totalCount": 21,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "SP",
+      "city": "São Paulo",
+      "foundCount": 52,
+      "totalCount": 52,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "SL",
+      "city": "Seoul",
+      "foundCount": 14,
+      "totalCount": 14,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "SPACE",
+      "city": "Space",
+      "foundCount": 2,
+      "totalCount": 2,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "TK",
+      "city": "Tokyo",
+      "foundCount": 138,
+      "totalCount": 138,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "TLS",
+      "city": "Toulouse",
+      "foundCount": 11,
+      "totalCount": 11,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "VLMO",
+      "city": "Valmorel",
+      "foundCount": 3,
+      "totalCount": 3,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "VRN",
+      "city": "Varanasi",
+      "foundCount": 14,
+      "totalCount": 14,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "VRS",
+      "city": "Versailles",
+      "foundCount": 42,
+      "totalCount": 42,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "VSB",
+      "city": "Visby",
+      "foundCount": 3,
+      "totalCount": 3,
+      "source": "https://www.invader-spotter.art/villes.php"
+    },
+    {
+      "code": "WN",
+      "city": "Wien",
+      "foundCount": 56,
+      "totalCount": 56,
+      "source": "https://www.invader-spotter.art/villes.php"
+    }
+  ]
+}
