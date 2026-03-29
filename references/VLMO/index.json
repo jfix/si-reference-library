@@ -1,0 +1,12 @@
+{
+  "place_id": "VLMO",
+  "city": "Valmorel",
+  "country": "France",
+  "target_count": 3,
+  "confirmed_invaders": [
+    "VLMO_01",
+    "VLMO_02",
+    "VLMO_03"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

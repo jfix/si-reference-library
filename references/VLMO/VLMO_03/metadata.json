@@ -1,0 +1,54 @@
+{
+  "place_id": "VLMO",
+  "invader_id": "VLMO_03",
+  "city": "Valmorel",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/08/2017",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VLMO/VLMO_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VLMO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vlmo_03/",
+      "label": "Instagram hashtag for VLMO_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VLMO/VLMO_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VLMO/VLMO_03/images/VLMO_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VLMO/VLMO_03-septembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VLMO/VLMO_03-septembre2017.jpg",
+      "caption": "photo septembre 2017",
+      "title": "VLMO_03-septembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VLMO/VLMO_03/images/VLMO_03-septembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VLMO/VLMO_03-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VLMO/VLMO_03-mai2025.jpg",
+      "caption": "photo mai 2025 (Live FlashInvaders)",
+      "title": "VLMO_03-mai2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/VLMO/VLMO_03/images/VLMO_03-mai2025.jpg"
+    }
+  ]
+}

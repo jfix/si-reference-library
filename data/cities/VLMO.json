@@ -1,0 +1,75 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T21:15:09.581Z",
+  "city": "Valmorel",
+  "code": "VLMO",
+  "totalInvaders": 3,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Valmorel",
+    "code": "VLMO",
+    "invasionWaves": 1,
+    "totalInvaders": 3,
+    "totalPoints": 80,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "VLMO_01",
+      "points": 30,
+      "poseDate": "05/08/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vlmo_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VLMO/VLMO_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VLMO/VLMO_01-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VLMO/VLMO_01-septembre2017.jpg",
+          "title": "VLMO_01-septembre2017",
+          "caption": "photo septembre 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "VLMO_02",
+      "points": 30,
+      "poseDate": "08/08/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vlmo_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VLMO/VLMO_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VLMO/VLMO_02-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VLMO/VLMO_02-septembre2017.jpg",
+          "title": "VLMO_02-septembre2017",
+          "caption": "photo septembre 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "VLMO_03",
+      "points": 20,
+      "poseDate": "08/08/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vlmo_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VLMO/VLMO_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VLMO/VLMO_03-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VLMO/VLMO_03-septembre2017.jpg",
+          "title": "VLMO_03-septembre2017",
+          "caption": "photo septembre 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VLMO/VLMO_03-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VLMO/VLMO_03-mai2025.jpg",
+          "title": "VLMO_03-mai2025",
+          "caption": "photo mai 2025 (Live FlashInvaders)"
+        }
+      ]
+    }
+  ]
+}
