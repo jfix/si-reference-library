@@ -1,0 +1,48 @@
+{
+  "place_id": "LBR",
+  "invader_id": "LBR_08",
+  "city": "Luberon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/07/2018",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LBR/LBR_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LBR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lbr_08/",
+      "label": "Instagram hashtag for LBR_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LBR/LBR_08-grosplan.png",
+      "local_path": "references/LBR/LBR_08/images/LBR_08-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_08-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_08-septembre2019.jpg",
+      "caption": "photo septembre 2019",
+      "title": "LBR_08-septembre2019",
+      "local_path": "references/LBR/LBR_08/images/LBR_08-septembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_08-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_08-aout2025.jpg",
+      "caption": "photo août 2025 (@Rebeccaaa)",
+      "title": "LBR_08-aout2025",
+      "local_path": "references/LBR/LBR_08/images/LBR_08-aout2025.jpg"
+    }
+  ]
+}

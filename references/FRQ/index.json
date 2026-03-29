@@ -1,0 +1,13 @@
+{
+  "place_id": "FRQ",
+  "city": "Forcalquier",
+  "country": "France",
+  "target_count": 4,
+  "confirmed_invaders": [
+    "FRQ_01",
+    "FRQ_02",
+    "FRQ_03",
+    "FRQ_04"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

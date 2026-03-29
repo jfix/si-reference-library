@@ -38,6 +38,11 @@
       "caption": "photo décembre 2023 (@Serval)",
       "title": "AVI_24-decembre2023",
       "local_path": "references/AVI/AVI_24/images/AVI_24-decembre2023.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_24-grosplan.png",
+      "local_path": "references/AVI/AVI_24/images/AVI_24-grosplan.png"
     }
   ]
 }

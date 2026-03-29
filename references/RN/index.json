@@ -1,0 +1,13 @@
+{
+  "place_id": "RN",
+  "city": "Rennes",
+  "country": "France",
+  "target_count": 4,
+  "confirmed_invaders": [
+    "RN_01",
+    "RN_02",
+    "RN_03",
+    "RN_04"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

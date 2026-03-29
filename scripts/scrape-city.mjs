@@ -262,6 +262,22 @@ async function syncReferences({ cityData, placeEntry, downloadImages }) {
     const existing = await loadJson(metadataPath).catch(() => ({}));
     const images = [];
 
+    if (invader.thumbnailUrl) {
+      const thumbnailRecord = {
+        type: 'invader-spotter-grosplan',
+        url: invader.thumbnailUrl,
+      };
+
+      if (downloadImages) {
+        const filename = path.basename(new URL(invader.thumbnailUrl).pathname);
+        const localPath = path.join(imagesDir, filename);
+        await downloadFile(invader.thumbnailUrl, localPath);
+        thumbnailRecord.local_path = path.relative(ROOT, localPath);
+      }
+
+      images.push(thumbnailRecord);
+    }
+
     for (const photo of invader.photos) {
       const imageRecord = {
         type: 'invader-spotter-photo',

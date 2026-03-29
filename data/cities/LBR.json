@@ -1,0 +1,178 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:11:41.168Z",
+  "city": "Luberon",
+  "code": "LBR",
+  "totalInvaders": 8,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Luberon",
+    "code": "LBR",
+    "invasionWaves": 2,
+    "totalInvaders": 8,
+    "totalPoints": 290,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "LBR_01",
+      "points": 40,
+      "poseDate": "10/07/2018",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_01-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_01-septembre2019.jpg",
+          "title": "LBR_01-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_02",
+      "points": 50,
+      "poseDate": "15/07/2018",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_02-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_02-septembre2018.jpg",
+          "title": "LBR_02-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_02-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_02-juillet2023.jpg",
+          "title": "LBR_02-juillet2023",
+          "caption": "photo juillet 2023 (@anton1)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_03",
+      "points": 30,
+      "poseDate": "16/07/2018",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_03-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_03-septembre2019.jpg",
+          "title": "LBR_03-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_04",
+      "points": 20,
+      "poseDate": "26/07/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_04-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_04-septembre2018.jpg",
+          "title": "LBR_04-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_04-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_04-juillet2023.jpg",
+          "title": "LBR_04-juillet2023",
+          "caption": "photo juillet 2023 (@5P4C3_HUNT3R)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_05",
+      "points": 30,
+      "poseDate": "26/07/2018",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "octobre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_05-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_05-septembre2018.jpg",
+          "title": "LBR_05-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_05-octobre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_05-octobre2025.jpg",
+          "title": "LBR_05-octobre2025",
+          "caption": "photo octobre 2025 (@Kukiiich)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_06",
+      "points": 50,
+      "poseDate": "26/07/2018",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_06-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_06-septembre2018.jpg",
+          "title": "LBR_06-septembre2018",
+          "caption": "photo septembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_07",
+      "points": 30,
+      "poseDate": "26/07/2018",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_07-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_07-septembre2018.jpg",
+          "title": "LBR_07-septembre2018",
+          "caption": "photo septembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "LBR_08",
+      "points": 40,
+      "poseDate": "27/07/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lbr_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LBR/LBR_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_08-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_08-septembre2019.jpg",
+          "title": "LBR_08-septembre2019",
+          "caption": "photo septembre 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LBR/LBR_08-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LBR/LBR_08-aout2025.jpg",
+          "title": "LBR_08-aout2025",
+          "caption": "photo août 2025 (@Rebeccaaa)"
+        }
+      ]
+    }
+  ]
+}

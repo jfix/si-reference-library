@@ -1,0 +1,40 @@
+{
+  "place_id": "FRQ",
+  "invader_id": "FRQ_03",
+  "city": "Forcalquier",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/04/2017",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/FRQ/FRQ_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "FRQ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/frq_03/",
+      "label": "Instagram hashtag for FRQ_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FRQ/FRQ_03-grosplan.png",
+      "local_path": "references/FRQ/FRQ_03/images/FRQ_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FRQ/FRQ_03-juin2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FRQ/FRQ_03-juin2017.jpg",
+      "caption": "photo juin 2017",
+      "title": "FRQ_03-juin2017",
+      "local_path": "references/FRQ/FRQ_03/images/FRQ_03-juin2017.jpg"
+    }
+  ]
+}

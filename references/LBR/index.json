@@ -1,0 +1,17 @@
+{
+  "place_id": "LBR",
+  "city": "Luberon",
+  "country": "France",
+  "target_count": 8,
+  "confirmed_invaders": [
+    "LBR_01",
+    "LBR_02",
+    "LBR_03",
+    "LBR_04",
+    "LBR_05",
+    "LBR_06",
+    "LBR_07",
+    "LBR_08"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

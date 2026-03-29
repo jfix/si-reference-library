@@ -1,0 +1,19 @@
+{
+  "place_id": "CAPF",
+  "city": "Cap Ferret",
+  "country": "France",
+  "target_count": 10,
+  "confirmed_invaders": [
+    "CAPF_01",
+    "CAPF_02",
+    "CAPF_03",
+    "CAPF_04",
+    "CAPF_05",
+    "CAPF_06",
+    "CAPF_07",
+    "CAPF_08",
+    "CAPF_09",
+    "CAPF_10"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

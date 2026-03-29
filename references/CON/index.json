@@ -1,0 +1,11 @@
+{
+  "place_id": "CON",
+  "city": "Contis-Les-Bains",
+  "country": "France",
+  "target_count": 2,
+  "confirmed_invaders": [
+    "CON_01",
+    "CON_02"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

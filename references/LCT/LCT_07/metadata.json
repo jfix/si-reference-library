@@ -1,0 +1,48 @@
+{
+  "place_id": "LCT",
+  "invader_id": "LCT_07",
+  "city": "La Ciotat",
+  "country": "France",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "15/08/2014",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LCT/LCT_07-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LCT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lct_07/",
+      "label": "Instagram hashtag for LCT_07"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LCT/LCT_07-grosplan.png",
+      "local_path": "references/LCT/LCT_07/images/LCT_07-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_07-juin2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_07-juin2015.jpg",
+      "caption": "photo juin 2015",
+      "title": "LCT_07-juin2015",
+      "local_path": "references/LCT/LCT_07/images/LCT_07-juin2015.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_07-mars2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_07-mars2026.jpg",
+      "caption": "photo mars 2026 (@bricologiste)",
+      "title": "LCT_07-mars2026",
+      "local_path": "references/LCT/LCT_07/images/LCT_07-mars2026.jpg"
+    }
+  ]
+}

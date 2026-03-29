@@ -38,6 +38,11 @@
       "caption": "photo décembre 2024 (@Rob')",
       "title": "AVI_26-decembre2024",
       "local_path": "references/AVI/AVI_26/images/AVI_26-decembre2024.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_26-grosplan.png",
+      "local_path": "references/AVI/AVI_26/images/AVI_26-grosplan.png"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "place_id": "NIM",
+  "city": "Nîmes",
+  "country": "France",
+  "target_count": 5,
+  "confirmed_invaders": [
+    "NIM_01",
+    "NIM_02",
+    "NIM_03",
+    "NIM_04",
+    "NIM_05"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

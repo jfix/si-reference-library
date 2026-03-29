@@ -1,0 +1,45 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:10:37.439Z",
+  "city": "Eilat",
+  "code": "ELT",
+  "totalInvaders": 2,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Eilat",
+    "code": "ELT",
+    "invasionWaves": 1,
+    "totalInvaders": 2,
+    "totalPoints": 20,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "ELT_01",
+      "points": 10,
+      "poseDate": "15/11/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/elt_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/ELT/ELT_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "ELT_02",
+      "points": 10,
+      "poseDate": "16/11/2007",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "septembre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/elt_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/ELT/ELT_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/ELT/ELT_02-mai2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/ELT/ELT_02-mai2022.jpg",
+          "title": "ELT_02-mai2022",
+          "caption": "photo mai 2022 (Instagram @c4ctusclub)"
+        }
+      ]
+    }
+  ]
+}

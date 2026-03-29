@@ -1,0 +1,15 @@
+{
+  "place_id": "DIJ",
+  "city": "Dijon",
+  "country": "France",
+  "target_count": 6,
+  "confirmed_invaders": [
+    "DIJ_01",
+    "DIJ_02",
+    "DIJ_03",
+    "DIJ_04",
+    "DIJ_05",
+    "DIJ_06"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

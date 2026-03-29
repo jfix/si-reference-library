@@ -1,0 +1,120 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:11:02.860Z",
+  "city": "Dijon",
+  "code": "DIJ",
+  "totalInvaders": 6,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Dijon",
+    "code": "DIJ",
+    "invasionWaves": 1,
+    "totalInvaders": 6,
+    "totalPoints": 230,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "DIJ_01",
+      "points": 40,
+      "poseDate": "06/07/2019",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/dij_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DIJ/DIJ_01-juillet2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DIJ/DIJ_01-juillet2019.jpg",
+          "title": "DIJ_01-juillet2019",
+          "caption": "photo juillet 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "DIJ_02",
+      "points": 40,
+      "poseDate": "06/07/2019",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/dij_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DIJ/DIJ_02-juillet2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DIJ/DIJ_02-juillet2019.jpg",
+          "title": "DIJ_02-juillet2019",
+          "caption": "photo juillet 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "DIJ_03",
+      "points": 50,
+      "poseDate": "06/07/2019",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/dij_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DIJ/DIJ_03-juillet2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DIJ/DIJ_03-juillet2019.jpg",
+          "title": "DIJ_03-juillet2019",
+          "caption": "photo juillet 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "DIJ_04",
+      "points": 20,
+      "poseDate": "06/07/2019",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/dij_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DIJ/DIJ_04-juillet2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DIJ/DIJ_04-juillet2019.jpg",
+          "title": "DIJ_04-juillet2019",
+          "caption": "photo juillet 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "DIJ_05",
+      "points": 30,
+      "poseDate": "06/07/2019",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/dij_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DIJ/DIJ_05-juillet2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DIJ/DIJ_05-juillet2019.jpg",
+          "title": "DIJ_05-juillet2019",
+          "caption": "photo juillet 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "DIJ_06",
+      "points": 50,
+      "poseDate": "06/07/2019",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/dij_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DIJ/DIJ_06-juillet2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DIJ/DIJ_06-juillet2019.jpg",
+          "title": "DIJ_06-juillet2019",
+          "caption": "photo juillet 2019"
+        }
+      ]
+    }
+  ]
+}

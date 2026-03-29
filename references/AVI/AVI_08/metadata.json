@@ -38,6 +38,11 @@
       "caption": "photo mai 2025 (@VIHON)",
       "title": "AVI_08-mai2025",
       "local_path": "references/AVI/AVI_08/images/AVI_08-mai2025.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_08-grosplan.png",
+      "local_path": "references/AVI/AVI_08/images/AVI_08-grosplan.png"
     }
   ]
 }

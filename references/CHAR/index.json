@@ -1,0 +1,10 @@
+{
+  "place_id": "CHAR",
+  "city": "Charleroi",
+  "country": "Belgium",
+  "target_count": 1,
+  "confirmed_invaders": [
+    "CHAR_01"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

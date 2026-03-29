@@ -1,0 +1,48 @@
+{
+  "place_id": "CAPF",
+  "invader_id": "CAPF_05",
+  "city": "Cap Ferret",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/12/2017",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_05-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAPF listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/capf_05/",
+      "label": "Instagram hashtag for CAPF_05"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_05-grosplan.png",
+      "local_path": "references/CAPF/CAPF_05/images/CAPF_05-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-fevrier2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-fevrier2018.jpg",
+      "caption": "photo février 2018",
+      "title": "CAPF_05-fevrier2018",
+      "local_path": "references/CAPF/CAPF_05/images/CAPF_05-fevrier2018.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-juillet2025.jpg",
+      "caption": "photo juillet 2025 (@daiawas)",
+      "title": "CAPF_05-juillet2025",
+      "local_path": "references/CAPF/CAPF_05/images/CAPF_05-juillet2025.jpg"
+    }
+  ]
+}

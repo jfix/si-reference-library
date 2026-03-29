@@ -30,6 +30,11 @@
       "caption": "photo juin 2025 (@NewSpotter)",
       "title": "AMI_08-juin2025",
       "local_path": "references/AMI/AMI_08/images/AMI_08-juin2025.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AMI/AMI_08-grosplan.png",
+      "local_path": "references/AMI/AMI_08/images/AMI_08-grosplan.png"
     }
   ]
 }

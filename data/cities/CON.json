@@ -1,0 +1,52 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:10:35.868Z",
+  "city": "Contis-Les-Bains",
+  "code": "CON",
+  "totalInvaders": 2,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Contis-Les-Bains",
+    "code": "CON",
+    "invasionWaves": 1,
+    "totalInvaders": 2,
+    "totalPoints": 100,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "CON_01",
+      "points": 50,
+      "poseDate": "13/08/2010",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/con_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CON/CON_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CON/CON_01-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CON/CON_01-fevrier2017.jpg",
+          "title": "CON_01-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CON_02",
+      "points": 50,
+      "poseDate": "13/08/2010",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/con_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CON/CON_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CON/CON_02-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CON/CON_02-fevrier2017.jpg",
+          "title": "CON_02-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    }
+  ]
+}

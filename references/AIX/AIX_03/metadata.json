@@ -40,6 +40,11 @@
       "caption": "photo septembre 2017",
       "title": "AIX_03-septembre2017",
       "local_path": "references/AIX/AIX_03/images/AIX_03-septembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_03-grosplan.png",
+      "local_path": "references/AIX/AIX_03/images/AIX_03-grosplan.png"
     }
   ]
 }

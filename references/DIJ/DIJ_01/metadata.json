@@ -1,0 +1,40 @@
+{
+  "place_id": "DIJ",
+  "invader_id": "DIJ_01",
+  "city": "Dijon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/07/2019",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2019 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "DIJ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/dij_01/",
+      "label": "Instagram hashtag for DIJ_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_01-grosplan.png",
+      "local_path": "references/DIJ/DIJ_01/images/DIJ_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DIJ/DIJ_01-juillet2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DIJ/DIJ_01-juillet2019.jpg",
+      "caption": "photo juillet 2019",
+      "title": "DIJ_01-juillet2019",
+      "local_path": "references/DIJ/DIJ_01/images/DIJ_01-juillet2019.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "place_id": "CAPF",
+  "invader_id": "CAPF_09",
+  "city": "Cap Ferret",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "01/01/2018",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "janvier 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_09-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAPF listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/capf_09/",
+      "label": "Instagram hashtag for CAPF_09"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_09-grosplan.png",
+      "local_path": "references/CAPF/CAPF_09/images/CAPF_09-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-fevrier2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_09-fevrier2018.jpg",
+      "caption": "photo février 2018",
+      "title": "CAPF_09-fevrier2018",
+      "local_path": "references/CAPF/CAPF_09/images/CAPF_09-fevrier2018.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-janvier2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_09-janvier2025.jpg",
+      "caption": "photo janvier 2025 (@Calixt)",
+      "title": "CAPF_09-janvier2025",
+      "local_path": "references/CAPF/CAPF_09/images/CAPF_09-janvier2025.jpg"
+    }
+  ]
+}

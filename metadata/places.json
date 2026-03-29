@@ -18,5 +18,65 @@
     "city": "Grumeti",
     "country": "Tanzania",
     "target_count": 8
+  },
+  "CHAR": {
+    "city": "Charleroi",
+    "country": "Belgium",
+    "target_count": 1
+  },
+  "CON": {
+    "city": "Contis-Les-Bains",
+    "country": "France",
+    "target_count": 2
+  },
+  "ELT": {
+    "city": "Eilat",
+    "country": "Israel",
+    "target_count": 2
+  },
+  "FRQ": {
+    "city": "Forcalquier",
+    "country": "France",
+    "target_count": 4
+  },
+  "NIM": {
+    "city": "Nîmes",
+    "country": "France",
+    "target_count": 5
+  },
+  "DIJ": {
+    "city": "Dijon",
+    "country": "France",
+    "target_count": 6
+  },
+  "NA": {
+    "city": "Nantes",
+    "country": "France",
+    "target_count": 3
+  },
+  "RN": {
+    "city": "Rennes",
+    "country": "France",
+    "target_count": 4
+  },
+  "LBR": {
+    "city": "Luberon",
+    "country": "France",
+    "target_count": 8
+  },
+  "PRP": {
+    "city": "Perpignan",
+    "country": "France",
+    "target_count": 8
+  },
+  "LCT": {
+    "city": "La Ciotat",
+    "country": "France",
+    "target_count": 9
+  },
+  "CAPF": {
+    "city": "Cap Ferret",
+    "country": "France",
+    "target_count": 10
   }
 }

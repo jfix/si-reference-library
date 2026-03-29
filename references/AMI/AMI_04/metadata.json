@@ -38,6 +38,11 @@
       "caption": "photo février 2026 (@r4y.paris)",
       "title": "AMI_04-fevrier2026",
       "local_path": "references/AMI/AMI_04/images/AMI_04-fevrier2026.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AMI/AMI_04-grosplan.png",
+      "local_path": "references/AMI/AMI_04/images/AMI_04-grosplan.png"
     }
   ]
 }

@@ -43,6 +43,11 @@
       "caption": "photo mai 2025 (@BossaNova)",
       "title": "AVI_19-mai2025",
       "local_path": "references/AVI/AVI_19/images/AVI_19-mai2025.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_19-grosplan.png",
+      "local_path": "references/AVI/AVI_19/images/AVI_19-grosplan.png"
     }
   ]
 }

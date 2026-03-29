@@ -1,0 +1,12 @@
+{
+  "place_id": "NA",
+  "city": "Nantes",
+  "country": "France",
+  "target_count": 3,
+  "confirmed_invaders": [
+    "NA_01",
+    "NA_02",
+    "NA_03"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

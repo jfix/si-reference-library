@@ -38,6 +38,11 @@
       "caption": "photo mars 2021 (@Marathon)",
       "title": "AVI_03-mars2021",
       "local_path": "references/AVI/AVI_03/images/AVI_03-mars2021.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_03-grosplan.png",
+      "local_path": "references/AVI/AVI_03/images/AVI_03-grosplan.png"
     }
   ]
 }

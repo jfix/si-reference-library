@@ -1,0 +1,212 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-03-29T20:12:03.166Z",
+  "city": "Cap Ferret",
+  "code": "CAPF",
+  "totalInvaders": 10,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Cap Ferret",
+    "code": "CAPF",
+    "invasionWaves": 1,
+    "totalInvaders": 10,
+    "totalPoints": 310,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "CAPF_01",
+      "points": 40,
+      "poseDate": "28/12/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_01-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_01-fevrier2018.jpg",
+          "title": "CAPF_01-fevrier2018",
+          "caption": "photo février 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_02",
+      "points": 20,
+      "poseDate": "28/12/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_02-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_02-fevrier2018.jpg",
+          "title": "CAPF_02-fevrier2018",
+          "caption": "photo février 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_03",
+      "points": 20,
+      "poseDate": "29/12/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_03-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_03-fevrier2018.jpg",
+          "title": "CAPF_03-fevrier2018",
+          "caption": "photo février 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_04",
+      "points": 20,
+      "poseDate": "30/12/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_04-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_04-fevrier2018.jpg",
+          "title": "CAPF_04-fevrier2018",
+          "caption": "photo février 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_04-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_04-avril2025.jpg",
+          "title": "CAPF_04-avril2025",
+          "caption": "photo avril 2025 (@zenax)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_05",
+      "points": 20,
+      "poseDate": "30/12/2017",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_05-fevrier2018.jpg",
+          "title": "CAPF_05-fevrier2018",
+          "caption": "photo février 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_05-juillet2025.jpg",
+          "title": "CAPF_05-juillet2025",
+          "caption": "photo juillet 2025 (@daiawas)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_06",
+      "points": 40,
+      "poseDate": "30/12/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_06-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_06-fevrier2018.jpg",
+          "title": "CAPF_06-fevrier2018",
+          "caption": "photo février 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_07",
+      "points": 30,
+      "poseDate": "30/12/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_07-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_07-fevrier2018.jpg",
+          "title": "CAPF_07-fevrier2018",
+          "caption": "photo février 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_08",
+      "points": 50,
+      "poseDate": "30/12/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_08-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_08-fevrier2018.jpg",
+          "title": "CAPF_08-fevrier2018",
+          "caption": "photo février 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_09",
+      "points": 30,
+      "poseDate": "01/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_09-fevrier2018.jpg",
+          "title": "CAPF_09-fevrier2018",
+          "caption": "photo février 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-janvier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_09-janvier2025.jpg",
+          "title": "CAPF_09-janvier2025",
+          "caption": "photo janvier 2025 (@Calixt)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAPF_10",
+      "points": 40,
+      "poseDate": "01/01/2018",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/capf_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_10-fevrier2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_10-fevrier2018.jpg",
+          "title": "CAPF_10-fevrier2018",
+          "caption": "photo février 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAPF/CAPF_10-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAPF/CAPF_10-mars2024.jpg",
+          "title": "CAPF_10-mars2024",
+          "caption": "photo mars 2024 (@alemat13)"
+        }
+      ]
+    }
+  ]
+}

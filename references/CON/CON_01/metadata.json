@@ -1,0 +1,40 @@
+{
+  "place_id": "CON",
+  "invader_id": "CON_01",
+  "city": "Contis-Les-Bains",
+  "country": "France",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/08/2010",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CON/CON_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CON listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/con_01/",
+      "label": "Instagram hashtag for CON_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CON/CON_01-grosplan.png",
+      "local_path": "references/CON/CON_01/images/CON_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CON/CON_01-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CON/CON_01-fevrier2017.jpg",
+      "caption": "photo février 2017",
+      "title": "CON_01-fevrier2017",
+      "local_path": "references/CON/CON_01/images/CON_01-fevrier2017.jpg"
+    }
+  ]
+}

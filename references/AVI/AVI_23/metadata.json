@@ -30,6 +30,11 @@
       "caption": "photo septembre 2019",
       "title": "AVI_23-septembre2019",
       "local_path": "references/AVI/AVI_23/images/AVI_23-septembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_23-grosplan.png",
+      "local_path": "references/AVI/AVI_23/images/AVI_23-grosplan.png"
     }
   ]
 }

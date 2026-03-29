@@ -38,6 +38,11 @@
       "caption": "photo octobre 2025 (@RAF&LIV)",
       "title": "AVI_39-octobre2025",
       "local_path": "references/AVI/AVI_39/images/AVI_39-octobre2025.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_39-grosplan.png",
+      "local_path": "references/AVI/AVI_39/images/AVI_39-grosplan.png"
     }
   ]
 }

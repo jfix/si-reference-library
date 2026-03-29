@@ -27,5 +27,11 @@
       "label": "Instagram hashtag for GRTI_01"
     }
   ],
-  "images": []
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_01-grosplan.png",
+      "local_path": "references/GRTI/GRTI_01/images/GRTI_01-grosplan.png"
+    }
+  ]
 }

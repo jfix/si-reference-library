@@ -30,6 +30,11 @@
       "caption": "photo juin 2016",
       "title": "AVI_17-juin2016",
       "local_path": "references/AVI/AVI_17/images/AVI_17-juin2016.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_17-grosplan.png",
+      "local_path": "references/AVI/AVI_17/images/AVI_17-grosplan.png"
     }
   ]
 }

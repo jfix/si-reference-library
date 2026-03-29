@@ -30,6 +30,11 @@
       "caption": "photo d'archive (@Rvleb)",
       "title": "AVI_32-novembre2025",
       "local_path": "references/AVI/AVI_32/images/AVI_32-novembre2025.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_32-grosplan.png",
+      "local_path": "references/AVI/AVI_32/images/AVI_32-grosplan.png"
     }
   ]
 }

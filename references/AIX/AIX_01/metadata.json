@@ -53,6 +53,11 @@
       "caption": "photo juillet 2024 (@ben18)",
       "title": "AIX_01-juillet2024",
       "local_path": "references/AIX/AIX_01/images/AIX_01-juillet2024.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_01-grosplan.png",
+      "local_path": "references/AIX/AIX_01/images/AIX_01-grosplan.png"
     }
   ]
 }

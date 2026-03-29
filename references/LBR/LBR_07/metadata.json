@@ -1,0 +1,40 @@
+{
+  "place_id": "LBR",
+  "invader_id": "LBR_07",
+  "city": "Luberon",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/07/2018",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LBR/LBR_07-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LBR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lbr_07/",
+      "label": "Instagram hashtag for LBR_07"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LBR/LBR_07-grosplan.png",
+      "local_path": "references/LBR/LBR_07/images/LBR_07-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_07-septembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_07-septembre2018.jpg",
+      "caption": "photo septembre 2018",
+      "title": "LBR_07-septembre2018",
+      "local_path": "references/LBR/LBR_07/images/LBR_07-septembre2018.jpg"
+    }
+  ]
+}

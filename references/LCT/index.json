@@ -1,0 +1,18 @@
+{
+  "place_id": "LCT",
+  "city": "La Ciotat",
+  "country": "France",
+  "target_count": 9,
+  "confirmed_invaders": [
+    "LCT_01",
+    "LCT_02",
+    "LCT_03",
+    "LCT_04",
+    "LCT_05",
+    "LCT_06",
+    "LCT_07",
+    "LCT_08",
+    "LCT_09"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

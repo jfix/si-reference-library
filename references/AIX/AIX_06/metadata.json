@@ -58,6 +58,11 @@
       "caption": "photo octobre 2023 (@Serval)",
       "title": "AIX_06-octobre2023",
       "local_path": "references/AIX/AIX_06/images/AIX_06-octobre2023.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_06-grosplan.png",
+      "local_path": "references/AIX/AIX_06/images/AIX_06-grosplan.png"
     }
   ]
 }

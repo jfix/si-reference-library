@@ -1,0 +1,32 @@
+{
+  "place_id": "ELT",
+  "invader_id": "ELT_01",
+  "city": "Eilat",
+  "country": "Israel",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "15/11/2007",
+  "last_known_state": "OK",
+  "last_seen_source": "avril 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ELT/ELT_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ELT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/elt_01/",
+      "label": "Instagram hashtag for ELT_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ELT/ELT_01-grosplan.png",
+      "local_path": "references/ELT/ELT_01/images/ELT_01-grosplan.png"
+    }
+  ]
+}

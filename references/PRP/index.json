@@ -1,0 +1,17 @@
+{
+  "place_id": "PRP",
+  "city": "Perpignan",
+  "country": "France",
+  "target_count": 8,
+  "confirmed_invaders": [
+    "PRP_01",
+    "PRP_02",
+    "PRP_03",
+    "PRP_04",
+    "PRP_05",
+    "PRP_06",
+    "PRP_07",
+    "PRP_08"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

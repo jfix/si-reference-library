@@ -1,0 +1,32 @@
+{
+  "place_id": "RN",
+  "invader_id": "RN_04",
+  "city": "Rennes",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/05/2021",
+  "last_known_state": "OK",
+  "last_seen_source": "mai 2021 (Live FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/RN/RN_04-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "RN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rn_04/",
+      "label": "Instagram hashtag for RN_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/RN/RN_04-grosplan.png",
+      "local_path": "references/RN/RN_04/images/RN_04-grosplan.png"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "place_id": "LCT",
+  "invader_id": "LCT_01",
+  "city": "La Ciotat",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "28/08/2004",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LCT/LCT_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LCT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lct_01/",
+      "label": "Instagram hashtag for LCT_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LCT/LCT_01-grosplan.png",
+      "local_path": "references/LCT/LCT_01/images/LCT_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_01-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_01-septembre2019.jpg",
+      "caption": "photo septembre 2019",
+      "title": "LCT_01-septembre2019",
+      "local_path": "references/LCT/LCT_01/images/LCT_01-septembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_01-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_01-juillet2025.jpg",
+      "caption": "photo juillet 2025 (@bp78)",
+      "title": "LCT_01-juillet2025",
+      "local_path": "references/LCT/LCT_01/images/LCT_01-juillet2025.jpg"
+    }
+  ]
+}

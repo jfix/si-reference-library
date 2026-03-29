@@ -1,0 +1,48 @@
+{
+  "place_id": "NIM",
+  "invader_id": "NIM_05",
+  "city": "Nîmes",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/09/2004",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NIM/NIM_05-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NIM listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/nim_05/",
+      "label": "Instagram hashtag for NIM_05"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_05-grosplan.png",
+      "local_path": "references/NIM/NIM_05/images/NIM_05-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NIM/NIM_05-juin2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_05-juin2015.jpg",
+      "caption": "photo juin 2015",
+      "title": "NIM_05-juin2015",
+      "local_path": "references/NIM/NIM_05/images/NIM_05-juin2015.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NIM/NIM_05-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_05-aout2025.jpg",
+      "caption": "photo août 2025 (@pepers256)",
+      "title": "NIM_05-aout2025",
+      "local_path": "references/NIM/NIM_05/images/NIM_05-aout2025.jpg"
+    }
+  ]
+}

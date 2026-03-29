@@ -35,6 +35,11 @@
       "caption": "photo juin 2018",
       "title": "AIX_08-juin2018",
       "local_path": "references/AIX/AIX_08/images/AIX_08-juin2018.jpg"
+    },
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_08-grosplan.png",
+      "local_path": "references/AIX/AIX_08/images/AIX_08-grosplan.png"
     }
   ]
 }

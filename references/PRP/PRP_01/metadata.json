@@ -1,0 +1,40 @@
+{
+  "place_id": "PRP",
+  "invader_id": "PRP_01",
+  "city": "Perpignan",
+  "country": "France",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "29/06/2013",
+  "last_known_state": "OK",
+  "last_seen_source": "janvier 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PRP/PRP_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PRP listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/prp_01/",
+      "label": "Instagram hashtag for PRP_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRP/PRP_01-grosplan.png",
+      "local_path": "references/PRP/PRP_01/images/PRP_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRP/PRP_01-decembre2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_01-decembre2015.jpg",
+      "caption": "photo décembre 2015",
+      "title": "PRP_01-decembre2015",
+      "local_path": "references/PRP/PRP_01/images/PRP_01-decembre2015.jpg"
+    }
+  ]
+}
