@@ -1,0 +1,178 @@
+{
+  "invader_id": "LCT_07",
+  "place_id": "LCT",
+  "city": "La Ciotat",
+  "country": "France",
+  "target_count": 9,
+  "status": "confirmed",
+  "points": 50,
+  "pose_date": "15/08/2014",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:lct_07:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-144406-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260124-144406.png",
+      "file_path": "external-source/Screenshot_20260124-144406.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOU FOUND LCT_07",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "MEL",
+          "YOU FOUND LCT_07",
+          "YES, SEARCH AND FLASH",
+          "+50 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:lct_07:instagram-tag:https:-www-instagram-com-explore-tags-lct_07-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for LCT_07",
+      "url": "https://www.instagram.com/explore/tags/lct_07/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "LCT"
+      }
+    },
+    {
+      "source_id": "source:lct_07:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-lct-lct_07-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LCT/LCT_07-grosplan.png",
+      "file_path": "references/LCT/LCT_07/images/LCT_07-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:lct_07:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "LCT listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "LCT"
+      }
+    },
+    {
+      "source_id": "source:lct_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-lct-lct_07-juin2015-jpg",
+      "type": "invader-spotter-photo",
+      "label": "LCT_07-juin2015",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_07-juin2015.jpg",
+      "file_path": "references/LCT/LCT_07/images/LCT_07-juin2015.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_07-juin2015.jpg",
+        "caption": "photo juin 2015"
+      }
+    },
+    {
+      "source_id": "source:lct_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-lct-lct_07-mars2026-jpg",
+      "type": "invader-spotter-photo",
+      "label": "LCT_07-mars2026",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_07-mars2026.jpg",
+      "file_path": "references/LCT/LCT_07/images/LCT_07-mars2026.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_07-mars2026.jpg",
+        "caption": "photo mars 2026 (@bricologiste)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:lct_07:grosplan:references-lct-lct_07-images-lct_07-grosplan-png",
+      "source_id": "source:lct_07:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-lct-lct_07-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LCT/LCT_07/images/LCT_07-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/LCT/LCT_07-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:lct_07:reference:references-lct-lct_07-images-lct_07-juin2015-jpg",
+      "source_id": "source:lct_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-lct-lct_07-juin2015-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LCT/LCT_07/images/LCT_07-juin2015.jpg",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_07-juin2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_07-juin2015.jpg",
+      "title": "LCT_07-juin2015",
+      "caption": "photo juin 2015",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:lct_07:reference:references-lct-lct_07-images-lct_07-mars2026-jpg",
+      "source_id": "source:lct_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-lct-lct_07-mars2026-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LCT/LCT_07/images/LCT_07-mars2026.jpg",
+      "url": "https://www.invader-spotter.art/photos/LCT/LCT_07-mars2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LCT/LCT_07-mars2026.jpg",
+      "title": "LCT_07-mars2026",
+      "caption": "photo mars 2026 (@bricologiste)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:lct_07:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-lct_07-screenshot_20260124-144406-crop-png",
+      "source_id": "source:lct_07:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-144406-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/LCT_07/Screenshot_20260124-144406-crop.png",
+      "title": "Screenshot_20260124-144406-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 6,
+    "asset_count": 4,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "invader_id": "RDU_04",
+  "place_id": "RDU",
+  "city": "Redu",
+  "country": "Belgium",
+  "target_count": 6,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "23/02/2015",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:rdu_04:instagram-tag:https:-www-instagram-com-explore-tags-rdu_04-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for RDU_04",
+      "url": "https://www.instagram.com/explore/tags/rdu_04/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "RDU"
+      }
+    },
+    {
+      "source_id": "source:rdu_04:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-rdu-rdu_04-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/RDU/RDU_04-grosplan.png",
+      "file_path": "references/RDU/RDU_04/images/RDU_04-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:rdu_04:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "RDU listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "RDU"
+      }
+    },
+    {
+      "source_id": "source:rdu_04:invader-spotter-photo:https:-www-invader-spotter-art-photos-rdu-rdu_04-juillet2020-jpg",
+      "type": "invader-spotter-photo",
+      "label": "RDU_04-juillet2020",
+      "url": "https://www.invader-spotter.art/photos/RDU/RDU_04-juillet2020.jpg",
+      "file_path": "references/RDU/RDU_04/images/RDU_04-juillet2020.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/RDU/RDU_04-juillet2020.jpg",
+        "caption": "photo juillet 2020 (@TortVid)"
+      }
+    },
+    {
+      "source_id": "source:rdu_04:invader-spotter-photo:https:-www-invader-spotter-art-photos-rdu-rdu_04-septembre2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "RDU_04-septembre2025",
+      "url": "https://www.invader-spotter.art/photos/RDU/RDU_04-septembre2025.jpg",
+      "file_path": "references/RDU/RDU_04/images/RDU_04-septembre2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/RDU/RDU_04-septembre2025.jpg",
+        "caption": "photo septembre 2025 (@Speedgirl75)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:rdu_04:grosplan:references-rdu-rdu_04-images-rdu_04-grosplan-png",
+      "source_id": "source:rdu_04:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-rdu-rdu_04-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/RDU/RDU_04/images/RDU_04-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/RDU/RDU_04-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:rdu_04:reference:references-rdu-rdu_04-images-rdu_04-juillet2020-jpg",
+      "source_id": "source:rdu_04:invader-spotter-photo:https:-www-invader-spotter-art-photos-rdu-rdu_04-juillet2020-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/RDU/RDU_04/images/RDU_04-juillet2020.jpg",
+      "url": "https://www.invader-spotter.art/photos/RDU/RDU_04-juillet2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/RDU/RDU_04-juillet2020.jpg",
+      "title": "RDU_04-juillet2020",
+      "caption": "photo juillet 2020 (@TortVid)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:rdu_04:status-empty-scene:references-rdu-rdu_04-images-rdu_04-septembre2025-jpg",
+      "source_id": "source:rdu_04:invader-spotter-photo:https:-www-invader-spotter-art-photos-rdu-rdu_04-septembre2025-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/RDU/RDU_04/images/RDU_04-septembre2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/RDU/RDU_04-septembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/RDU/RDU_04-septembre2025.jpg",
+      "title": "RDU_04-septembre2025",
+      "caption": "photo septembre 2025 (@Speedgirl75)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

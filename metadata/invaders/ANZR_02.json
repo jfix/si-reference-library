@@ -1,0 +1,139 @@
+{
+  "invader_id": "ANZR_02",
+  "place_id": "ANZR",
+  "city": "Anzère",
+  "country": "Switzerland",
+  "target_count": 4,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "30/12/2013",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:anzr_02:instagram-tag:https:-www-instagram-com-explore-tags-anzr_02-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for ANZR_02",
+      "url": "https://www.instagram.com/explore/tags/anzr_02/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "ANZR"
+      }
+    },
+    {
+      "source_id": "source:anzr_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-anzr-anzr_02-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_02-grosplan.png",
+      "file_path": "references/ANZR/ANZR_02/images/ANZR_02-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:anzr_02:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "ANZR listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "ANZR"
+      }
+    },
+    {
+      "source_id": "source:anzr_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-anzr-anzr_02-aout2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "ANZR_02-aout2025",
+      "url": "https://www.invader-spotter.art/photos/ANZR/ANZR_02-aout2025.jpg",
+      "file_path": "references/ANZR/ANZR_02/images/ANZR_02-aout2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/ANZR/ANZR_02-aout2025.jpg",
+        "caption": "photo août 2025 (@firebrand78) - emplacement actuel"
+      }
+    },
+    {
+      "source_id": "source:anzr_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-anzr-anzr_02-septembre2016-jpg",
+      "type": "invader-spotter-photo",
+      "label": "ANZR_02-septembre2016",
+      "url": "https://www.invader-spotter.art/photos/ANZR/ANZR_02-septembre2016.jpg",
+      "file_path": "references/ANZR/ANZR_02/images/ANZR_02-septembre2016.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/ANZR/ANZR_02-septembre2016.jpg",
+        "caption": "photo septembre 2016 - emplacement d'origine"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:anzr_02:grosplan:references-anzr-anzr_02-images-anzr_02-grosplan-png",
+      "source_id": "source:anzr_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-anzr-anzr_02-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ANZR/ANZR_02/images/ANZR_02-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/ANZR/ANZR_02-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:anzr_02:reference:references-anzr-anzr_02-images-anzr_02-aout2025-jpg",
+      "source_id": "source:anzr_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-anzr-anzr_02-aout2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ANZR/ANZR_02/images/ANZR_02-aout2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/ANZR/ANZR_02-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANZR/ANZR_02-aout2025.jpg",
+      "title": "ANZR_02-aout2025",
+      "caption": "photo août 2025 (@firebrand78) - emplacement actuel",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:anzr_02:reference:references-anzr-anzr_02-images-anzr_02-septembre2016-jpg",
+      "source_id": "source:anzr_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-anzr-anzr_02-septembre2016-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ANZR/ANZR_02/images/ANZR_02-septembre2016.jpg",
+      "url": "https://www.invader-spotter.art/photos/ANZR/ANZR_02-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANZR/ANZR_02-septembre2016.jpg",
+      "title": "ANZR_02-septembre2016",
+      "caption": "photo septembre 2016 - emplacement d'origine",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

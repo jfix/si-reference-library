@@ -1,0 +1,64 @@
+{
+  "invader_id": "PA_1557",
+  "place_id": "PA",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:pa_1557:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260220_174445_flashinvaders-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260220_174445_flashInvaders.png",
+      "file_path": "external-source/Screenshot_20260220_174445_flashInvaders.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND PA_1557",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND PA_1557",
+          "MR.I",
+          "+40PTS",
+          "2383 # 68602 PTS"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:pa_1557:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-pa_1557-screenshot_20260220_174445_flashinvaders-crop-png",
+      "source_id": "source:pa_1557:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260220_174445_flashinvaders-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PA_1557/Screenshot_20260220_174445_flashInvaders-crop.png",
+      "title": "Screenshot_20260220_174445_flashInvaders-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 234,
+        "width": 907,
+        "height": 795
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

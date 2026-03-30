@@ -1,0 +1,164 @@
+{
+  "invader_id": "AIX_09",
+  "place_id": "AIX",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "26/06/1999",
+  "last_known_state": "OK",
+  "notes": [
+    "Confirmed on the official Aix-en-Provence city page."
+  ],
+  "sources": [
+    {
+      "source_id": "source:aix_09:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-164944-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260124-164944.png",
+      "file_path": "external-source/Screenshot_20260124-164944.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND AIX_09",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND AIX_09",
+          "NICE SHOT",
+          "+20 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:aix_09:instagram-tag:https:-www-instagram-com-explore-tags-aix_09-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AIX_09",
+      "url": "https://www.instagram.com/explore/tags/aix_09/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_09-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_09-grosplan.png",
+      "file_path": "references/AIX/AIX_09/images/AIX_09-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:aix_09:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AIX listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_09-juin2018-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AIX_09-juin2018",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_09-juin2018.jpg",
+      "file_path": "references/AIX/AIX_09/images/AIX_09-juin2018.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_09-juin2018.jpg",
+        "caption": "photo juin 2018"
+      }
+    },
+    {
+      "source_id": "source:aix_09:official:https:-www-space-invaders-com-world-aix-en-provence-",
+      "type": "official",
+      "label": "Official Aix-en-Provence city page",
+      "url": "https://www.space-invaders.com/world/aix-en-provence/",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:aix_09:grosplan:references-aix-aix_09-images-aix_09-grosplan-png",
+      "source_id": "source:aix_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_09-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_09/images/AIX_09-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_09-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_09:reference:references-aix-aix_09-images-aix_09-juin2018-jpg",
+      "source_id": "source:aix_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_09-juin2018-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_09/images/AIX_09-juin2018.jpg",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_09-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_09-juin2018.jpg",
+      "title": "AIX_09-juin2018",
+      "caption": "photo juin 2018",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_09:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-aix_09-screenshot_20260124-164944-crop-png",
+      "source_id": "source:aix_09:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-164944-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/AIX_09/Screenshot_20260124-164944-crop.png",
+      "title": "Screenshot_20260124-164944-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 6,
+    "asset_count": 3,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo",
+      "official"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

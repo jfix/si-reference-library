@@ -1,0 +1,149 @@
+{
+  "invader_id": "AVI_32",
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "31/05/2000",
+  "last_known_state": "Dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:avi_32:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251114-103625-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20251114-103625.png",
+      "file_path": "external-source/Screenshot_20251114-103625.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND AVI_32",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND AVI_32",
+          "SWEET!",
+          "+18 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:avi_32:instagram-tag:https:-www-instagram-com-explore-tags-avi_32-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AVI_32",
+      "url": "https://www.instagram.com/explore/tags/avi_32/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_32:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_32-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_32-grosplan.png",
+      "file_path": "references/AVI/AVI_32/images/AVI_32-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:avi_32:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AVI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_32:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_32-novembre2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_32-novembre2025",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_32-novembre2025.jpg",
+      "file_path": "references/AVI/AVI_32/images/AVI_32-novembre2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_32-novembre2025.jpg",
+        "caption": "photo d'archive (@Rvleb)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:avi_32:grosplan:references-avi-avi_32-images-avi_32-grosplan-png",
+      "source_id": "source:avi_32:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_32-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_32/images/AVI_32-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_32-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_32:reference:references-avi-avi_32-images-avi_32-novembre2025-jpg",
+      "source_id": "source:avi_32:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_32-novembre2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_32/images/AVI_32-novembre2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_32-novembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_32-novembre2025.jpg",
+      "title": "AVI_32-novembre2025",
+      "caption": "photo d'archive (@Rvleb)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_32:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-avi_32-screenshot_20251114-103625-crop-png",
+      "source_id": "source:avi_32:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251114-103625-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/AVI_32/Screenshot_20251114-103625-crop.png",
+      "title": "Screenshot_20251114-103625-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

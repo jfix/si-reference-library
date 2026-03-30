@@ -1,0 +1,111 @@
+{
+  "invader_id": "PRP_05",
+  "place_id": "PRP",
+  "city": "Perpignan",
+  "country": "France",
+  "target_count": 8,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "29/06/2013",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:prp_05:instagram-tag:https:-www-instagram-com-explore-tags-prp_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for PRP_05",
+      "url": "https://www.instagram.com/explore/tags/prp_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PRP"
+      }
+    },
+    {
+      "source_id": "source:prp_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-prp-prp_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRP/PRP_05-grosplan.png",
+      "file_path": "references/PRP/PRP_05/images/PRP_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:prp_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "PRP listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PRP"
+      }
+    },
+    {
+      "source_id": "source:prp_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-prp-prp_05-juin2016-jpg",
+      "type": "invader-spotter-photo",
+      "label": "PRP_05-juin2016",
+      "url": "https://www.invader-spotter.art/photos/PRP/PRP_05-juin2016.jpg",
+      "file_path": "references/PRP/PRP_05/images/PRP_05-juin2016.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_05-juin2016.jpg",
+        "caption": "photo juin 2016"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:prp_05:grosplan:references-prp-prp_05-images-prp_05-grosplan-png",
+      "source_id": "source:prp_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-prp-prp_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PRP/PRP_05/images/PRP_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/PRP/PRP_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:prp_05:reference:references-prp-prp_05-images-prp_05-juin2016-jpg",
+      "source_id": "source:prp_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-prp-prp_05-juin2016-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PRP/PRP_05/images/PRP_05-juin2016.jpg",
+      "url": "https://www.invader-spotter.art/photos/PRP/PRP_05-juin2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_05-juin2016.jpg",
+      "title": "PRP_05-juin2016",
+      "caption": "photo juin 2016",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

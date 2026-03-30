@@ -1,0 +1,196 @@
+{
+  "invader_id": "AIX_05",
+  "place_id": "AIX",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "26/06/1999",
+  "last_known_state": "OK",
+  "notes": [
+    "Confirmed from multiple Flickr pages explicitly naming AIX_05."
+  ],
+  "sources": [
+    {
+      "source_id": "source:aix_05:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-165201-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260124-165201.png",
+      "file_path": "external-source/Screenshot_20260124-165201.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND AIX_05",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "16:52",
+          "T • •LASHa",
+          "5G oll (90)",
+          "YOUFOUND AIX_05",
+          "SWEET!",
+          "+20 PTS",
+          "2343 ₫",
+          "2 68119 PTS"
+        ]
+      }
+    },
+    {
+      "source_id": "source:aix_05:flickr-tag:https:-www-flickr-com-photos-tags-aix05-",
+      "type": "flickr-tag",
+      "label": "Flickr tag page for AIX_05",
+      "url": "https://www.flickr.com/photos/tags/aix05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_05:flickr:https:-www-flickr-com-photos-156165575-n04-45576961285-",
+      "type": "flickr",
+      "label": "Invader. Aix-en-Provence. AIX_05 by richie_uk",
+      "url": "https://www.flickr.com/photos/156165575@N04/45576961285/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_05:flickr:https:-www-flickr-com-photos-lukedaduke-54878438099",
+      "type": "flickr",
+      "label": "AIX_05 by LukeDaDuke",
+      "url": "https://www.flickr.com/photos/lukedaduke/54878438099",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_05:instagram-tag:https:-www-instagram-com-explore-tags-aix_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AIX_05",
+      "url": "https://www.instagram.com/explore/tags/aix_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_05-grosplan.png",
+      "file_path": "references/AIX/AIX_05/images/AIX_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:aix_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AIX listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_05-juin2018-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AIX_05-juin2018",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_05-juin2018.jpg",
+      "file_path": "references/AIX/AIX_05/images/AIX_05-juin2018.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_05-juin2018.jpg",
+        "caption": "photo juin 2018"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:aix_05:grosplan:references-aix-aix_05-images-aix_05-grosplan-png",
+      "source_id": "source:aix_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_05/images/AIX_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_05:reference:references-aix-aix_05-images-aix_05-juin2018-jpg",
+      "source_id": "source:aix_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_05-juin2018-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_05/images/AIX_05-juin2018.jpg",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_05-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_05-juin2018.jpg",
+      "title": "AIX_05-juin2018",
+      "caption": "photo juin 2018",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_05:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-aix_05-screenshot_20260124-165201-crop-png",
+      "source_id": "source:aix_05:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-165201-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/AIX_05/Screenshot_20260124-165201-crop.png",
+      "title": "Screenshot_20260124-165201-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 8,
+    "asset_count": 3,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "flickr",
+      "flickr-tag",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

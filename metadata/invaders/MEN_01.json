@@ -1,0 +1,81 @@
+{
+  "invader_id": "MEN_01",
+  "place_id": "MEN",
+  "city": "Menorca",
+  "country": "Spain",
+  "target_count": 5,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "31/08/2011",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:men_01:instagram-tag:https:-www-instagram-com-explore-tags-men_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for MEN_01",
+      "url": "https://www.instagram.com/explore/tags/men_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MEN"
+      }
+    },
+    {
+      "source_id": "source:men_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-men-men_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MEN/MEN_01-grosplan.png",
+      "file_path": "references/MEN/MEN_01/images/MEN_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:men_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "MEN listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MEN"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:men_01:grosplan:references-men-men_01-images-men_01-grosplan-png",
+      "source_id": "source:men_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-men-men_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MEN/MEN_01/images/MEN_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/MEN/MEN_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 3,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

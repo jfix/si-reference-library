@@ -1,0 +1,111 @@
+{
+  "invader_id": "MTB_01",
+  "place_id": "MTB",
+  "city": "Montauban",
+  "country": "France",
+  "target_count": 11,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "23/08/2008",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:mtb_01:instagram-tag:https:-www-instagram-com-explore-tags-mtb_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for MTB_01",
+      "url": "https://www.instagram.com/explore/tags/mtb_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MTB"
+      }
+    },
+    {
+      "source_id": "source:mtb_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-mtb-mtb_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MTB/MTB_01-grosplan.png",
+      "file_path": "references/MTB/MTB_01/images/MTB_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:mtb_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "MTB listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MTB"
+      }
+    },
+    {
+      "source_id": "source:mtb_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-mtb-mtb_01-fevrier2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "MTB_01-fevrier2017",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_01-fevrier2017.jpg",
+      "file_path": "references/MTB/MTB_01/images/MTB_01-fevrier2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_01-fevrier2017.jpg",
+        "caption": "photo février 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:mtb_01:grosplan:references-mtb-mtb_01-images-mtb_01-grosplan-png",
+      "source_id": "source:mtb_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-mtb-mtb_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_01/images/MTB_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/MTB/MTB_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:mtb_01:reference:references-mtb-mtb_01-images-mtb_01-fevrier2017-jpg",
+      "source_id": "source:mtb_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-mtb-mtb_01-fevrier2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_01/images/MTB_01-fevrier2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_01-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_01-fevrier2017.jpg",
+      "title": "MTB_01-fevrier2017",
+      "caption": "photo février 2017",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

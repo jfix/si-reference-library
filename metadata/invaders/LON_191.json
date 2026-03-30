@@ -1,0 +1,64 @@
+{
+  "invader_id": "LON_191",
+  "place_id": "LON",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:lon_191:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260130-122701-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260130-122701.png",
+      "file_path": "external-source/Screenshot_20260130-122701.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOU FOUND LON_191",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOU FOUND LON_191",
+          "BAT OF SOHO",
+          "+20 PTS",
+          "(+*"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:lon_191:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-lon_191-screenshot_20260130-122701-crop-png",
+      "source_id": "source:lon_191:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260130-122701-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/LON_191/Screenshot_20260130-122701-crop.png",
+      "title": "Screenshot_20260130-122701-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

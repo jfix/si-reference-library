@@ -1,0 +1,111 @@
+{
+  "invader_id": "DIJ_05",
+  "place_id": "DIJ",
+  "city": "Dijon",
+  "country": "France",
+  "target_count": 6,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "06/07/2019",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:dij_05:instagram-tag:https:-www-instagram-com-explore-tags-dij_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for DIJ_05",
+      "url": "https://www.instagram.com/explore/tags/dij_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "DIJ"
+      }
+    },
+    {
+      "source_id": "source:dij_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-dij-dij_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_05-grosplan.png",
+      "file_path": "references/DIJ/DIJ_05/images/DIJ_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:dij_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "DIJ listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "DIJ"
+      }
+    },
+    {
+      "source_id": "source:dij_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-dij-dij_05-juillet2019-jpg",
+      "type": "invader-spotter-photo",
+      "label": "DIJ_05-juillet2019",
+      "url": "https://www.invader-spotter.art/photos/DIJ/DIJ_05-juillet2019.jpg",
+      "file_path": "references/DIJ/DIJ_05/images/DIJ_05-juillet2019.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/DIJ/DIJ_05-juillet2019.jpg",
+        "caption": "photo juillet 2019"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:dij_05:grosplan:references-dij-dij_05-images-dij_05-grosplan-png",
+      "source_id": "source:dij_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-dij-dij_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/DIJ/DIJ_05/images/DIJ_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/DIJ/DIJ_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:dij_05:reference:references-dij-dij_05-images-dij_05-juillet2019-jpg",
+      "source_id": "source:dij_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-dij-dij_05-juillet2019-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DIJ/DIJ_05/images/DIJ_05-juillet2019.jpg",
+      "url": "https://www.invader-spotter.art/photos/DIJ/DIJ_05-juillet2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DIJ/DIJ_05-juillet2019.jpg",
+      "title": "DIJ_05-juillet2019",
+      "caption": "photo juillet 2019",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "invader_id": "AMI_11",
+  "place_id": "AMI",
+  "city": "Amiens",
+  "country": "France",
+  "target_count": 16,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "11/06/2025",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:ami_11:instagram-tag:https:-www-instagram-com-explore-tags-ami_11-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AMI_11",
+      "url": "https://www.instagram.com/explore/tags/ami_11/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AMI"
+      }
+    },
+    {
+      "source_id": "source:ami_11:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-ami-ami_11-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AMI/AMI_11-grosplan.png",
+      "file_path": "references/AMI/AMI_11/images/AMI_11-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:ami_11:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AMI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AMI"
+      }
+    },
+    {
+      "source_id": "source:ami_11:invader-spotter-photo:https:-www-invader-spotter-art-photos-ami-ami_11-juin2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AMI_11-juin2025",
+      "url": "https://www.invader-spotter.art/photos/AMI/AMI_11-juin2025.jpg",
+      "file_path": "references/AMI/AMI_11/images/AMI_11-juin2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AMI/AMI_11-juin2025.jpg",
+        "caption": "photo juin 2025 (@NewSpotter)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:ami_11:grosplan:references-ami-ami_11-images-ami_11-grosplan-png",
+      "source_id": "source:ami_11:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-ami-ami_11-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_11/images/AMI_11-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AMI/AMI_11-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:ami_11:reference:references-ami-ami_11-images-ami_11-juin2025-jpg",
+      "source_id": "source:ami_11:invader-spotter-photo:https:-www-invader-spotter-art-photos-ami-ami_11-juin2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_11/images/AMI_11-juin2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/AMI/AMI_11-juin2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AMI/AMI_11-juin2025.jpg",
+      "title": "AMI_11-juin2025",
+      "caption": "photo juin 2025 (@NewSpotter)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

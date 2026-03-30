@@ -1,0 +1,64 @@
+{
+  "invader_id": "RA_33",
+  "place_id": "RA",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:ra_33:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260220-205727-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260220-205727.png",
+      "file_path": "external-source/Screenshot_20260220-205727.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND RA_33",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND RA_33",
+          "JURASSIC MOSAIC Z",
+          "+30 PTS",
+          "(+*"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:ra_33:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-ra_33-screenshot_20260220-205727-crop-png",
+      "source_id": "source:ra_33:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260220-205727-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/RA_33/Screenshot_20260220-205727-crop.png",
+      "title": "Screenshot_20260220-205727-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

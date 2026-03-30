@@ -1,0 +1,111 @@
+{
+  "invader_id": "VSB_03",
+  "place_id": "VSB",
+  "city": "Visby",
+  "country": "Sweden",
+  "target_count": 3,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "07/07/2001",
+  "last_known_state": "Un peu dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:vsb_03:instagram-tag:https:-www-instagram-com-explore-tags-vsb_03-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for VSB_03",
+      "url": "https://www.instagram.com/explore/tags/vsb_03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "VSB"
+      }
+    },
+    {
+      "source_id": "source:vsb_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-vsb-vsb_03-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VSB/VSB_03-grosplan.png",
+      "file_path": "references/VSB/VSB_03/images/VSB_03-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:vsb_03:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "VSB listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "VSB"
+      }
+    },
+    {
+      "source_id": "source:vsb_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-vsb-vsb_03-mai2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "VSB_03-mai2025",
+      "url": "https://www.invader-spotter.art/photos/VSB/VSB_03-mai2025.jpg",
+      "file_path": "references/VSB/VSB_03/images/VSB_03-mai2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/VSB/VSB_03-mai2025.jpg",
+        "caption": "photo mai 2014 (@brazwhazz)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:vsb_03:grosplan:references-vsb-vsb_03-images-vsb_03-grosplan-png",
+      "source_id": "source:vsb_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-vsb-vsb_03-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VSB/VSB_03/images/VSB_03-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/VSB/VSB_03-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:vsb_03:reference:references-vsb-vsb_03-images-vsb_03-mai2025-jpg",
+      "source_id": "source:vsb_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-vsb-vsb_03-mai2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VSB/VSB_03/images/VSB_03-mai2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/VSB/VSB_03-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VSB/VSB_03-mai2025.jpg",
+      "title": "VSB_03-mai2025",
+      "caption": "photo mai 2014 (@brazwhazz)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

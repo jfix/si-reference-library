@@ -1,0 +1,140 @@
+{
+  "invader_id": "NA_03",
+  "place_id": "NA",
+  "city": "Nantes",
+  "country": "France",
+  "target_count": 3,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "21/04/2001",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:na_03:instagram-tag:https:-www-instagram-com-explore-tags-na_03-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for NA_03",
+      "url": "https://www.instagram.com/explore/tags/na_03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NA"
+      }
+    },
+    {
+      "source_id": "source:na_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-na-na_03-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NA/NA_03-grosplan.png",
+      "file_path": "references/NA/NA_03/images/NA_03-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:na_03:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "NA listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NA"
+      }
+    },
+    {
+      "source_id": "source:na_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-na-na_03-decembre2020-jpg",
+      "type": "invader-spotter-photo",
+      "label": "NA_03-decembre2020",
+      "url": "https://www.invader-spotter.art/photos/NA/NA_03-decembre2020.jpg",
+      "file_path": "references/NA/NA_03/images/NA_03-decembre2020.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/NA/NA_03-decembre2020.jpg",
+        "caption": "photo décembre 2020 (@Vincentho)"
+      }
+    },
+    {
+      "source_id": "source:na_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-na-na_03-decembre2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "NA_03-decembre2025",
+      "url": "https://www.invader-spotter.art/photos/NA/NA_03-decembre2025.jpg",
+      "file_path": "references/NA/NA_03/images/NA_03-decembre2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/NA/NA_03-decembre2025.jpg",
+        "caption": "photo décembre 2025 (@Sam Shinigami)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:na_03:grosplan:references-na-na_03-images-na_03-grosplan-png",
+      "source_id": "source:na_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-na-na_03-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NA/NA_03/images/NA_03-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/NA/NA_03-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:na_03:reference:references-na-na_03-images-na_03-decembre2020-jpg",
+      "source_id": "source:na_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-na-na_03-decembre2020-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NA/NA_03/images/NA_03-decembre2020.jpg",
+      "url": "https://www.invader-spotter.art/photos/NA/NA_03-decembre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NA/NA_03-decembre2020.jpg",
+      "title": "NA_03-decembre2020",
+      "caption": "photo décembre 2020 (@Vincentho)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:na_03:status-empty-scene:references-na-na_03-images-na_03-decembre2025-jpg",
+      "source_id": "source:na_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-na-na_03-decembre2025-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/NA/NA_03/images/NA_03-decembre2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/NA/NA_03-decembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NA/NA_03-decembre2025.jpg",
+      "title": "NA_03-decembre2025",
+      "caption": "photo décembre 2025 (@Sam Shinigami)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

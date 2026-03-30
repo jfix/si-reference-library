@@ -1,0 +1,126 @@
+{
+  "invader_id": "AVI_07",
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "26/05/2000",
+  "last_known_state": "OK",
+  "notes": [
+    "Confirmed from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:avi_07:flickr:https:-www-flickr-com-photos-meteorry-9542278142",
+      "type": "flickr",
+      "label": "Place Carnot - Avignon (France) | AVI_?? (#07)",
+      "url": "https://www.flickr.com/photos/meteorry/9542278142",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_07:instagram-tag:https:-www-instagram-com-explore-tags-avi_07-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AVI_07",
+      "url": "https://www.instagram.com/explore/tags/avi_07/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_07:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_07-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_07-grosplan.png",
+      "file_path": "references/AVI/AVI_07/images/AVI_07-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:avi_07:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AVI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_07-septembre2019-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_07-septembre2019",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_07-septembre2019.jpg",
+      "file_path": "references/AVI/AVI_07/images/AVI_07-septembre2019.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_07-septembre2019.jpg",
+        "caption": "photo septembre 2019"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:avi_07:grosplan:references-avi-avi_07-images-avi_07-grosplan-png",
+      "source_id": "source:avi_07:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_07-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_07/images/AVI_07-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_07-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_07:reference:references-avi-avi_07-images-avi_07-septembre2019-jpg",
+      "source_id": "source:avi_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_07-septembre2019-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_07/images/AVI_07-septembre2019.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_07-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_07-septembre2019.jpg",
+      "title": "AVI_07-septembre2019",
+      "caption": "photo septembre 2019",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 2,
+    "source_types": [
+      "flickr",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

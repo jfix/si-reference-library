@@ -1,0 +1,140 @@
+{
+  "invader_id": "AVI_26",
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "30/05/2000",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:avi_26:instagram-tag:https:-www-instagram-com-explore-tags-avi_26-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AVI_26",
+      "url": "https://www.instagram.com/explore/tags/avi_26/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_26:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_26-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_26-grosplan.png",
+      "file_path": "references/AVI/AVI_26/images/AVI_26-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:avi_26:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AVI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_26:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_26-decembre2024-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_26-decembre2024",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_26-decembre2024.jpg",
+      "file_path": "references/AVI/AVI_26/images/AVI_26-decembre2024.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-decembre2024.jpg",
+        "caption": "photo décembre 2024 (@Rob')"
+      }
+    },
+    {
+      "source_id": "source:avi_26:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_26-septembre2019-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_26-septembre2019",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_26-septembre2019.jpg",
+      "file_path": "references/AVI/AVI_26/images/AVI_26-septembre2019.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-septembre2019.jpg",
+        "caption": "photo septembre 2019"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:avi_26:grosplan:references-avi-avi_26-images-avi_26-grosplan-png",
+      "source_id": "source:avi_26:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_26-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_26/images/AVI_26-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_26-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_26:reference:references-avi-avi_26-images-avi_26-septembre2019-jpg",
+      "source_id": "source:avi_26:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_26-septembre2019-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_26/images/AVI_26-septembre2019.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_26-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-septembre2019.jpg",
+      "title": "AVI_26-septembre2019",
+      "caption": "photo septembre 2019",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_26:status-empty-scene:references-avi-avi_26-images-avi_26-decembre2024-jpg",
+      "source_id": "source:avi_26:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_26-decembre2024-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/AVI/AVI_26/images/AVI_26-decembre2024.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_26-decembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_26-decembre2024.jpg",
+      "title": "AVI_26-decembre2024",
+      "caption": "photo décembre 2024 (@Rob')",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "invader_id": "PAU_05",
+  "place_id": "PAU",
+  "city": "Pau",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "22/11/2000",
+  "last_known_state": "Un peu dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:pau_05:instagram-tag:https:-www-instagram-com-explore-tags-pau_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for PAU_05",
+      "url": "https://www.instagram.com/explore/tags/pau_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PAU"
+      }
+    },
+    {
+      "source_id": "source:pau_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-pau-pau_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_05-grosplan.png",
+      "file_path": "references/PAU/PAU_05/images/PAU_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:pau_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "PAU listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PAU"
+      }
+    },
+    {
+      "source_id": "source:pau_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-pau-pau_05-fevrier2023-jpg",
+      "type": "invader-spotter-photo",
+      "label": "PAU_05-fevrier2023",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-fevrier2023.jpg",
+      "file_path": "references/PAU/PAU_05/images/PAU_05-fevrier2023.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-fevrier2023.jpg",
+        "caption": "photo février 2023 (@Sagwa)"
+      }
+    },
+    {
+      "source_id": "source:pau_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-pau-pau_05-mars2015-jpg",
+      "type": "invader-spotter-photo",
+      "label": "PAU_05-mars2015",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-mars2015.jpg",
+      "file_path": "references/PAU/PAU_05/images/PAU_05-mars2015.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-mars2015.jpg",
+        "caption": "photo mars 2015"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:pau_05:grosplan:references-pau-pau_05-images-pau_05-grosplan-png",
+      "source_id": "source:pau_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-pau-pau_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/PAU_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:pau_05:reference:references-pau-pau_05-images-pau_05-fevrier2023-jpg",
+      "source_id": "source:pau_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-pau-pau_05-fevrier2023-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/PAU_05-fevrier2023.jpg",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-fevrier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-fevrier2023.jpg",
+      "title": "PAU_05-fevrier2023",
+      "caption": "photo février 2023 (@Sagwa)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:pau_05:reference:references-pau-pau_05-images-pau_05-mars2015-jpg",
+      "source_id": "source:pau_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-pau-pau_05-mars2015-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/PAU_05-mars2015.jpg",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-mars2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-mars2015.jpg",
+      "title": "PAU_05-mars2015",
+      "caption": "photo mars 2015",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

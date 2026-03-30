@@ -1,0 +1,111 @@
+{
+  "invader_id": "LIL_03",
+  "place_id": "LIL",
+  "city": "Lille",
+  "country": "France",
+  "target_count": 6,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "30/08/2002",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:lil_03:instagram-tag:https:-www-instagram-com-explore-tags-lil_03-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for LIL_03",
+      "url": "https://www.instagram.com/explore/tags/lil_03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "LIL"
+      }
+    },
+    {
+      "source_id": "source:lil_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-lil-lil_03-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LIL/LIL_03-grosplan.png",
+      "file_path": "references/LIL/LIL_03/images/LIL_03-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:lil_03:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "LIL listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "LIL"
+      }
+    },
+    {
+      "source_id": "source:lil_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-lil-lil_03-mars2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "LIL_03-mars2017",
+      "url": "https://www.invader-spotter.art/photos/LIL/LIL_03-mars2017.jpg",
+      "file_path": "references/LIL/LIL_03/images/LIL_03-mars2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/LIL/LIL_03-mars2017.jpg",
+        "caption": "photo mars 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:lil_03:grosplan:references-lil-lil_03-images-lil_03-grosplan-png",
+      "source_id": "source:lil_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-lil-lil_03-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LIL/LIL_03/images/LIL_03-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/LIL/LIL_03-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:lil_03:reference:references-lil-lil_03-images-lil_03-mars2017-jpg",
+      "source_id": "source:lil_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-lil-lil_03-mars2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LIL/LIL_03/images/LIL_03-mars2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/LIL/LIL_03-mars2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LIL/LIL_03-mars2017.jpg",
+      "title": "LIL_03-mars2017",
+      "caption": "photo mars 2017",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

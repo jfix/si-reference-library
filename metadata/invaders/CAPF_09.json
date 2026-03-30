@@ -1,0 +1,140 @@
+{
+  "invader_id": "CAPF_09",
+  "place_id": "CAPF",
+  "city": "Cap Ferret",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "01/01/2018",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:capf_09:instagram-tag:https:-www-instagram-com-explore-tags-capf_09-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for CAPF_09",
+      "url": "https://www.instagram.com/explore/tags/capf_09/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "CAPF"
+      }
+    },
+    {
+      "source_id": "source:capf_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-capf-capf_09-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_09-grosplan.png",
+      "file_path": "references/CAPF/CAPF_09/images/CAPF_09-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:capf_09:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "CAPF listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "CAPF"
+      }
+    },
+    {
+      "source_id": "source:capf_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_09-fevrier2018-jpg",
+      "type": "invader-spotter-photo",
+      "label": "CAPF_09-fevrier2018",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-fevrier2018.jpg",
+      "file_path": "references/CAPF/CAPF_09/images/CAPF_09-fevrier2018.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_09-fevrier2018.jpg",
+        "caption": "photo février 2018"
+      }
+    },
+    {
+      "source_id": "source:capf_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_09-janvier2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "CAPF_09-janvier2025",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-janvier2025.jpg",
+      "file_path": "references/CAPF/CAPF_09/images/CAPF_09-janvier2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_09-janvier2025.jpg",
+        "caption": "photo janvier 2025 (@Calixt)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:capf_09:grosplan:references-capf-capf_09-images-capf_09-grosplan-png",
+      "source_id": "source:capf_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-capf-capf_09-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAPF/CAPF_09/images/CAPF_09-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_09-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:capf_09:reference:references-capf-capf_09-images-capf_09-fevrier2018-jpg",
+      "source_id": "source:capf_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_09-fevrier2018-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAPF/CAPF_09/images/CAPF_09-fevrier2018.jpg",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-fevrier2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_09-fevrier2018.jpg",
+      "title": "CAPF_09-fevrier2018",
+      "caption": "photo février 2018",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:capf_09:status-empty-scene:references-capf-capf_09-images-capf_09-janvier2025-jpg",
+      "source_id": "source:capf_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_09-janvier2025-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/CAPF/CAPF_09/images/CAPF_09-janvier2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_09-janvier2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_09-janvier2025.jpg",
+      "title": "CAPF_09-janvier2025",
+      "caption": "photo janvier 2025 (@Calixt)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

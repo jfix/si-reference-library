@@ -1,0 +1,111 @@
+{
+  "invader_id": "NIM_03",
+  "place_id": "NIM",
+  "city": "Nîmes",
+  "country": "France",
+  "target_count": 5,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "23/09/2004",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:nim_03:instagram-tag:https:-www-instagram-com-explore-tags-nim_03-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for NIM_03",
+      "url": "https://www.instagram.com/explore/tags/nim_03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NIM"
+      }
+    },
+    {
+      "source_id": "source:nim_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-nim-nim_03-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_03-grosplan.png",
+      "file_path": "references/NIM/NIM_03/images/NIM_03-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:nim_03:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "NIM listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NIM"
+      }
+    },
+    {
+      "source_id": "source:nim_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-nim-nim_03-juin2016-jpg",
+      "type": "invader-spotter-photo",
+      "label": "NIM_03-juin2016",
+      "url": "https://www.invader-spotter.art/photos/NIM/NIM_03-juin2016.jpg",
+      "file_path": "references/NIM/NIM_03/images/NIM_03-juin2016.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_03-juin2016.jpg",
+        "caption": "photo juin 2016"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:nim_03:grosplan:references-nim-nim_03-images-nim_03-grosplan-png",
+      "source_id": "source:nim_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-nim-nim_03-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_03/images/NIM_03-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_03-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:nim_03:reference:references-nim-nim_03-images-nim_03-juin2016-jpg",
+      "source_id": "source:nim_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-nim-nim_03-juin2016-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_03/images/NIM_03-juin2016.jpg",
+      "url": "https://www.invader-spotter.art/photos/NIM/NIM_03-juin2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_03-juin2016.jpg",
+      "title": "NIM_03-juin2016",
+      "caption": "photo juin 2016",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

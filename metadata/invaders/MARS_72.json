@@ -1,0 +1,64 @@
+{
+  "invader_id": "MARS_72",
+  "place_id": "MARS",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:mars_72:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260125-105105-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260125-105105.png",
+      "file_path": "external-source/Screenshot_20260125-105105.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND MARS_72",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND MARS_72",
+          "\"^GG^^",
+          "+30 PTS",
+          "(+*"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:mars_72:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-mars_72-screenshot_20260125-105105-crop-png",
+      "source_id": "source:mars_72:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260125-105105-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/MARS_72/Screenshot_20260125-105105-crop.png",
+      "title": "Screenshot_20260125-105105-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

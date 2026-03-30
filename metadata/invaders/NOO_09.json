@@ -1,0 +1,111 @@
+{
+  "invader_id": "NOO_09",
+  "place_id": "NOO",
+  "city": "Noordwijk",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 100,
+  "pose_date": "03/06/2015",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:noo_09:instagram-tag:https:-www-instagram-com-explore-tags-noo_09-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for NOO_09",
+      "url": "https://www.instagram.com/explore/tags/noo_09/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NOO"
+      }
+    },
+    {
+      "source_id": "source:noo_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-noo-noo_09-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NOO/NOO_09-grosplan.png",
+      "file_path": "references/NOO/NOO_09/images/NOO_09-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:noo_09:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "NOO listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NOO"
+      }
+    },
+    {
+      "source_id": "source:noo_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-noo-noo_09-juin2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "NOO_09-juin2017",
+      "url": "https://www.invader-spotter.art/photos/NOO/NOO_09-juin2017.jpg",
+      "file_path": "references/NOO/NOO_09/images/NOO_09-juin2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/NOO/NOO_09-juin2017.jpg",
+        "caption": "photo juin 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:noo_09:grosplan:references-noo-noo_09-images-noo_09-grosplan-png",
+      "source_id": "source:noo_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-noo-noo_09-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_09/images/NOO_09-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/NOO/NOO_09-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:noo_09:reference:references-noo-noo_09-images-noo_09-juin2017-jpg",
+      "source_id": "source:noo_09:invader-spotter-photo:https:-www-invader-spotter-art-photos-noo-noo_09-juin2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_09/images/NOO_09-juin2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/NOO/NOO_09-juin2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NOO/NOO_09-juin2017.jpg",
+      "title": "NOO_09-juin2017",
+      "caption": "photo juin 2017",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

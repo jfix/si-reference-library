@@ -1,0 +1,81 @@
+{
+  "invader_id": "NOO_06",
+  "place_id": "NOO",
+  "city": "Noordwijk",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "03/06/2015",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:noo_06:instagram-tag:https:-www-instagram-com-explore-tags-noo_06-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for NOO_06",
+      "url": "https://www.instagram.com/explore/tags/noo_06/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NOO"
+      }
+    },
+    {
+      "source_id": "source:noo_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-noo-noo_06-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NOO/NOO_06-grosplan.png",
+      "file_path": "references/NOO/NOO_06/images/NOO_06-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:noo_06:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "NOO listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NOO"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:noo_06:grosplan:references-noo-noo_06-images-noo_06-grosplan-png",
+      "source_id": "source:noo_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-noo-noo_06-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_06/images/NOO_06-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/NOO/NOO_06-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 3,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

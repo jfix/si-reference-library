@@ -1,0 +1,216 @@
+{
+  "invader_id": "AIX_03",
+  "place_id": "AIX",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "26/06/1999",
+  "last_known_state": "OK",
+  "notes": [
+    "Confirmed from multiple Flickr pages explicitly naming AIX_03."
+  ],
+  "sources": [
+    {
+      "source_id": "source:aix_03:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-160829-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260124-160829.png",
+      "file_path": "external-source/Screenshot_20260124-160829.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND AIX_03",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND AIX_03",
+          "SWEET!",
+          "+10PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:aix_03:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-160836-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260124-160836.png",
+      "file_path": "external-source/Screenshot_20260124-160836.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND AIX_03",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND AIX_03",
+          "SWEET!",
+          "BONUS NEW CITY + L00PTS",
+          "2339 Ж 67960 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:aix_03:flickr-tag:https:-www-flickr-com-photos-tags-aix03-",
+      "type": "flickr-tag",
+      "label": "Flickr tag page for AIX_03",
+      "url": "https://www.flickr.com/photos/tags/aix03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_03:flickr:https:-www-flickr-com-photos-lukedaduke-54809026051",
+      "type": "flickr",
+      "label": "AIX_03 by LukeDaDuke",
+      "url": "https://www.flickr.com/photos/lukedaduke/54809026051",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_03:instagram-tag:https:-www-instagram-com-explore-tags-aix_03-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AIX_03",
+      "url": "https://www.instagram.com/explore/tags/aix_03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_03-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_03-grosplan.png",
+      "file_path": "references/AIX/AIX_03/images/AIX_03-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:aix_03:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AIX listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_03-septembre2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AIX_03-septembre2017",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_03-septembre2017.jpg",
+      "file_path": "references/AIX/AIX_03/images/AIX_03-septembre2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_03-septembre2017.jpg",
+        "caption": "photo septembre 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:aix_03:grosplan:references-aix-aix_03-images-aix_03-grosplan-png",
+      "source_id": "source:aix_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_03-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_03/images/AIX_03-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_03-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_03:reference:references-aix-aix_03-images-aix_03-septembre2017-jpg",
+      "source_id": "source:aix_03:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_03-septembre2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_03/images/AIX_03-septembre2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_03-septembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_03-septembre2017.jpg",
+      "title": "AIX_03-septembre2017",
+      "caption": "photo septembre 2017",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_03:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-aix_03-screenshot_20260124-160829-crop-png",
+      "source_id": "source:aix_03:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-160829-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/AIX_03/Screenshot_20260124-160829-crop.png",
+      "title": "Screenshot_20260124-160829-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    },
+    {
+      "asset_id": "asset:aix_03:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-aix_03-screenshot_20260124-160836-crop-png",
+      "source_id": "source:aix_03:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-160836-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/AIX_03/Screenshot_20260124-160836-crop.png",
+      "title": "Screenshot_20260124-160836-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 8,
+    "asset_count": 4,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "flickr",
+      "flickr-tag",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

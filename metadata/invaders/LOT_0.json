@@ -1,0 +1,64 @@
+{
+  "invader_id": "LOT_0",
+  "place_id": "LOT",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:lot_0:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-145646-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260124-145646.png",
+      "file_path": "external-source/Screenshot_20260124-145646.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND LoT_0g",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND LoT_0g",
+          "YOU ROCK!",
+          "+50 PTS",
+          "(+*"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:lot_0:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-lot_0-screenshot_20260124-145646-crop-png",
+      "source_id": "source:lot_0:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260124-145646-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/LOT_0/Screenshot_20260124-145646-crop.png",
+      "title": "Screenshot_20260124-145646-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

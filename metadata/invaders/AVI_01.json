@@ -1,0 +1,155 @@
+{
+  "invader_id": "AVI_01",
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "26/05/2000",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Confirmed from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:avi_01:flickr:https:-www-flickr-com-photos-meteorry-9504040822",
+      "type": "flickr",
+      "label": "Rue Gérard Philippe - Avignon (France) | AVI_?? (#01)",
+      "url": "https://www.flickr.com/photos/meteorry/9504040822",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_01:instagram-tag:https:-www-instagram-com-explore-tags-avi_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AVI_01",
+      "url": "https://www.instagram.com/explore/tags/avi_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_01-grosplan.png",
+      "file_path": "references/AVI/AVI_01/images/AVI_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:avi_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AVI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_01-juillet2024-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_01-juillet2024",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_01-juillet2024.jpg",
+      "file_path": "references/AVI/AVI_01/images/AVI_01-juillet2024.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_01-juillet2024.jpg",
+        "caption": "photo juillet 2024 (@VeroT74)"
+      }
+    },
+    {
+      "source_id": "source:avi_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_01-septembre2019-1-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_01-septembre2019(1)",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_01-septembre2019(1).jpg",
+      "file_path": "references/AVI/AVI_01/images/AVI_01-septembre2019(1).jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_01-septembre2019(1).jpg",
+        "caption": "photo septembre 2019"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:avi_01:grosplan:references-avi-avi_01-images-avi_01-grosplan-png",
+      "source_id": "source:avi_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_01/images/AVI_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_01:reference:references-avi-avi_01-images-avi_01-septembre2019-1-jpg",
+      "source_id": "source:avi_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_01-septembre2019-1-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_01/images/AVI_01-septembre2019(1).jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_01-septembre2019(1).jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_01-septembre2019(1).jpg",
+      "title": "AVI_01-septembre2019(1)",
+      "caption": "photo septembre 2019",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_01:status-empty-scene:references-avi-avi_01-images-avi_01-juillet2024-jpg",
+      "source_id": "source:avi_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_01-juillet2024-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/AVI/AVI_01/images/AVI_01-juillet2024.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_01-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_01-juillet2024.jpg",
+      "title": "AVI_01-juillet2024",
+      "caption": "photo juillet 2024 (@VeroT74)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 6,
+    "asset_count": 3,
+    "source_types": [
+      "flickr",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

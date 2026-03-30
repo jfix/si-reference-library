@@ -1,0 +1,111 @@
+{
+  "invader_id": "PAU_06",
+  "place_id": "PAU",
+  "city": "Pau",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "22/11/2000",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:pau_06:instagram-tag:https:-www-instagram-com-explore-tags-pau_06-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for PAU_06",
+      "url": "https://www.instagram.com/explore/tags/pau_06/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PAU"
+      }
+    },
+    {
+      "source_id": "source:pau_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-pau-pau_06-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_06-grosplan.png",
+      "file_path": "references/PAU/PAU_06/images/PAU_06-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:pau_06:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "PAU listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PAU"
+      }
+    },
+    {
+      "source_id": "source:pau_06:invader-spotter-photo:https:-www-invader-spotter-art-photos-pau-pau_06-fevrier2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "PAU_06-fevrier2017",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_06-fevrier2017.jpg",
+      "file_path": "references/PAU/PAU_06/images/PAU_06-fevrier2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_06-fevrier2017.jpg",
+        "caption": "photo février 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:pau_06:grosplan:references-pau-pau_06-images-pau_06-grosplan-png",
+      "source_id": "source:pau_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-pau-pau_06-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_06/images/PAU_06-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_06-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:pau_06:reference:references-pau-pau_06-images-pau_06-fevrier2017-jpg",
+      "source_id": "source:pau_06:invader-spotter-photo:https:-www-invader-spotter-art-photos-pau-pau_06-fevrier2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_06/images/PAU_06-fevrier2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/PAU/PAU_06-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_06-fevrier2017.jpg",
+      "title": "PAU_06-fevrier2017",
+      "caption": "photo février 2017",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

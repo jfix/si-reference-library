@@ -1,0 +1,149 @@
+{
+  "invader_id": "MTB_08",
+  "place_id": "MTB",
+  "city": "Montauban",
+  "country": "France",
+  "target_count": 11,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "24/08/2008",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:mtb_08:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251122-111233-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20251122-111233.png",
+      "file_path": "external-source/Screenshot_20251122-111233.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND MTB_08",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND MTB_08",
+          "NICE SHOT",
+          "+28 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:mtb_08:instagram-tag:https:-www-instagram-com-explore-tags-mtb_08-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for MTB_08",
+      "url": "https://www.instagram.com/explore/tags/mtb_08/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MTB"
+      }
+    },
+    {
+      "source_id": "source:mtb_08:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-mtb-mtb_08-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MTB/MTB_08-grosplan.png",
+      "file_path": "references/MTB/MTB_08/images/MTB_08-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:mtb_08:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "MTB listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MTB"
+      }
+    },
+    {
+      "source_id": "source:mtb_08:invader-spotter-photo:https:-www-invader-spotter-art-photos-mtb-mtb_08-octobre2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "MTB_08-octobre2025",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_08-octobre2025.jpg",
+      "file_path": "references/MTB/MTB_08/images/MTB_08-octobre2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_08-octobre2025.jpg",
+        "caption": "photo octobre 2025 (@Hazelneb)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:mtb_08:grosplan:references-mtb-mtb_08-images-mtb_08-grosplan-png",
+      "source_id": "source:mtb_08:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-mtb-mtb_08-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_08/images/MTB_08-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/MTB/MTB_08-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:mtb_08:reference:references-mtb-mtb_08-images-mtb_08-octobre2025-jpg",
+      "source_id": "source:mtb_08:invader-spotter-photo:https:-www-invader-spotter-art-photos-mtb-mtb_08-octobre2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_08/images/MTB_08-octobre2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/MTB/MTB_08-octobre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_08-octobre2025.jpg",
+      "title": "MTB_08-octobre2025",
+      "caption": "photo octobre 2025 (@Hazelneb)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:mtb_08:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-mtb_08-screenshot_20251122-111233-crop-png",
+      "source_id": "source:mtb_08:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251122-111233-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/MTB_08/Screenshot_20251122-111233-crop.png",
+      "title": "Screenshot_20251122-111233-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

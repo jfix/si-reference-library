@@ -1,0 +1,63 @@
+{
+  "invader_id": "GRN_27",
+  "place_id": "GRN",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:grn_27:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251011-155824-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20251011-155824.png",
+      "file_path": "external-source/Screenshot_20251011-155824.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND GRN_27",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND GRN_27",
+          "BIEN OUEJ!",
+          "+10PTS"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:grn_27:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-grn_27-screenshot_20251011-155824-crop-png",
+      "source_id": "source:grn_27:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251011-155824-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/GRN_27/Screenshot_20251011-155824-crop.png",
+      "title": "Screenshot_20251011-155824-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

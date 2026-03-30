@@ -1,0 +1,140 @@
+{
+  "invader_id": "TLS_06",
+  "place_id": "TLS",
+  "city": "Toulouse",
+  "country": "France",
+  "target_count": 11,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "13/07/2016",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:tls_06:instagram-tag:https:-www-instagram-com-explore-tags-tls_06-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for TLS_06",
+      "url": "https://www.instagram.com/explore/tags/tls_06/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "TLS"
+      }
+    },
+    {
+      "source_id": "source:tls_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-tls-tls_06-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TLS/TLS_06-grosplan.png",
+      "file_path": "references/TLS/TLS_06/images/TLS_06-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:tls_06:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "TLS listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "TLS"
+      }
+    },
+    {
+      "source_id": "source:tls_06:invader-spotter-photo:https:-www-invader-spotter-art-photos-tls-tls_06-octobre2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "TLS_06-octobre2025",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_06-octobre2025.jpg",
+      "file_path": "references/TLS/TLS_06/images/TLS_06-octobre2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_06-octobre2025.jpg",
+        "caption": "photo octobre 2025 (@Victor&Eleonore)"
+      }
+    },
+    {
+      "source_id": "source:tls_06:invader-spotter-photo:https:-www-invader-spotter-art-photos-tls-tls_06-septembre2016-jpg",
+      "type": "invader-spotter-photo",
+      "label": "TLS_06-septembre2016",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_06-septembre2016.jpg",
+      "file_path": "references/TLS/TLS_06/images/TLS_06-septembre2016.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_06-septembre2016.jpg",
+        "caption": "photo septembre 2016"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:tls_06:grosplan:references-tls-tls_06-images-tls_06-grosplan-png",
+      "source_id": "source:tls_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-tls-tls_06-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_06/images/TLS_06-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/TLS/TLS_06-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:tls_06:reference:references-tls-tls_06-images-tls_06-septembre2016-jpg",
+      "source_id": "source:tls_06:invader-spotter-photo:https:-www-invader-spotter-art-photos-tls-tls_06-septembre2016-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_06/images/TLS_06-septembre2016.jpg",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_06-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_06-septembre2016.jpg",
+      "title": "TLS_06-septembre2016",
+      "caption": "photo septembre 2016",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:tls_06:status-empty-scene:references-tls-tls_06-images-tls_06-octobre2025-jpg",
+      "source_id": "source:tls_06:invader-spotter-photo:https:-www-invader-spotter-art-photos-tls-tls_06-octobre2025-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/TLS/TLS_06/images/TLS_06-octobre2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_06-octobre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_06-octobre2025.jpg",
+      "title": "TLS_06-octobre2025",
+      "caption": "photo octobre 2025 (@Victor&Eleonore)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

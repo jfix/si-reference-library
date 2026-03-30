@@ -1,0 +1,111 @@
+{
+  "invader_id": "ELT_02",
+  "place_id": "ELT",
+  "city": "Eilat",
+  "country": "Israel",
+  "target_count": 2,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "16/11/2007",
+  "last_known_state": "Un peu dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:elt_02:instagram-tag:https:-www-instagram-com-explore-tags-elt_02-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for ELT_02",
+      "url": "https://www.instagram.com/explore/tags/elt_02/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "ELT"
+      }
+    },
+    {
+      "source_id": "source:elt_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-elt-elt_02-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ELT/ELT_02-grosplan.png",
+      "file_path": "references/ELT/ELT_02/images/ELT_02-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:elt_02:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "ELT listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "ELT"
+      }
+    },
+    {
+      "source_id": "source:elt_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-elt-elt_02-mai2022-jpg",
+      "type": "invader-spotter-photo",
+      "label": "ELT_02-mai2022",
+      "url": "https://www.invader-spotter.art/photos/ELT/ELT_02-mai2022.jpg",
+      "file_path": "references/ELT/ELT_02/images/ELT_02-mai2022.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/ELT/ELT_02-mai2022.jpg",
+        "caption": "photo mai 2022 (Instagram @c4ctusclub)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:elt_02:grosplan:references-elt-elt_02-images-elt_02-grosplan-png",
+      "source_id": "source:elt_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-elt-elt_02-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ELT/ELT_02/images/ELT_02-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/ELT/ELT_02-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:elt_02:reference:references-elt-elt_02-images-elt_02-mai2022-jpg",
+      "source_id": "source:elt_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-elt-elt_02-mai2022-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ELT/ELT_02/images/ELT_02-mai2022.jpg",
+      "url": "https://www.invader-spotter.art/photos/ELT/ELT_02-mai2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ELT/ELT_02-mai2022.jpg",
+      "title": "ELT_02-mai2022",
+      "caption": "photo mai 2022 (Instagram @c4ctusclub)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

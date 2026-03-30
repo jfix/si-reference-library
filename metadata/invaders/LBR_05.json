@@ -1,0 +1,139 @@
+{
+  "invader_id": "LBR_05",
+  "place_id": "LBR",
+  "city": "Luberon",
+  "country": "France",
+  "target_count": 8,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "26/07/2018",
+  "last_known_state": "Dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:lbr_05:instagram-tag:https:-www-instagram-com-explore-tags-lbr_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for LBR_05",
+      "url": "https://www.instagram.com/explore/tags/lbr_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "LBR"
+      }
+    },
+    {
+      "source_id": "source:lbr_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-lbr-lbr_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LBR/LBR_05-grosplan.png",
+      "file_path": "references/LBR/LBR_05/images/LBR_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:lbr_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "LBR listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "LBR"
+      }
+    },
+    {
+      "source_id": "source:lbr_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-lbr-lbr_05-octobre2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "LBR_05-octobre2025",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_05-octobre2025.jpg",
+      "file_path": "references/LBR/LBR_05/images/LBR_05-octobre2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_05-octobre2025.jpg",
+        "caption": "photo octobre 2025 (@Kukiiich)"
+      }
+    },
+    {
+      "source_id": "source:lbr_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-lbr-lbr_05-septembre2018-jpg",
+      "type": "invader-spotter-photo",
+      "label": "LBR_05-septembre2018",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_05-septembre2018.jpg",
+      "file_path": "references/LBR/LBR_05/images/LBR_05-septembre2018.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_05-septembre2018.jpg",
+        "caption": "photo septembre 2018"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:lbr_05:grosplan:references-lbr-lbr_05-images-lbr_05-grosplan-png",
+      "source_id": "source:lbr_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-lbr-lbr_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LBR/LBR_05/images/LBR_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/LBR/LBR_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:lbr_05:reference:references-lbr-lbr_05-images-lbr_05-octobre2025-jpg",
+      "source_id": "source:lbr_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-lbr-lbr_05-octobre2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LBR/LBR_05/images/LBR_05-octobre2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_05-octobre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_05-octobre2025.jpg",
+      "title": "LBR_05-octobre2025",
+      "caption": "photo octobre 2025 (@Kukiiich)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:lbr_05:reference:references-lbr-lbr_05-images-lbr_05-septembre2018-jpg",
+      "source_id": "source:lbr_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-lbr-lbr_05-septembre2018-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LBR/LBR_05/images/LBR_05-septembre2018.jpg",
+      "url": "https://www.invader-spotter.art/photos/LBR/LBR_05-septembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LBR/LBR_05-septembre2018.jpg",
+      "title": "LBR_05-septembre2018",
+      "caption": "photo septembre 2018",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

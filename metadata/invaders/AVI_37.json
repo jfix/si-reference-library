@@ -1,0 +1,126 @@
+{
+  "invader_id": "AVI_37",
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "01/06/2000",
+  "last_known_state": "OK",
+  "notes": [
+    "Confirmed on the official Avignon city page."
+  ],
+  "sources": [
+    {
+      "source_id": "source:avi_37:instagram-tag:https:-www-instagram-com-explore-tags-avi_37-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AVI_37",
+      "url": "https://www.instagram.com/explore/tags/avi_37/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_37:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_37-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_37-grosplan.png",
+      "file_path": "references/AVI/AVI_37/images/AVI_37-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:avi_37:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AVI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_37:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_37-septembre2019-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_37-septembre2019",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_37-septembre2019.jpg",
+      "file_path": "references/AVI/AVI_37/images/AVI_37-septembre2019.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_37-septembre2019.jpg",
+        "caption": "photo septembre 2019"
+      }
+    },
+    {
+      "source_id": "source:avi_37:official:https:-www-space-invaders-com-world-avignon-",
+      "type": "official",
+      "label": "Official Avignon city page",
+      "url": "https://www.space-invaders.com/world/avignon/",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:avi_37:grosplan:references-avi-avi_37-images-avi_37-grosplan-png",
+      "source_id": "source:avi_37:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_37-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_37/images/AVI_37-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_37-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_37:reference:references-avi-avi_37-images-avi_37-septembre2019-jpg",
+      "source_id": "source:avi_37:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_37-septembre2019-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_37/images/AVI_37-septembre2019.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_37-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_37-septembre2019.jpg",
+      "title": "AVI_37-septembre2019",
+      "caption": "photo septembre 2019",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo",
+      "official"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

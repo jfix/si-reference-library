@@ -1,0 +1,140 @@
+{
+  "invader_id": "AVI_22",
+  "place_id": "AVI",
+  "city": "Avignon",
+  "country": "France",
+  "target_count": 41,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "29/05/2000",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:avi_22:instagram-tag:https:-www-instagram-com-explore-tags-avi_22-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AVI_22",
+      "url": "https://www.instagram.com/explore/tags/avi_22/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_22:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_22-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_22-grosplan.png",
+      "file_path": "references/AVI/AVI_22/images/AVI_22-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:avi_22:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AVI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AVI"
+      }
+    },
+    {
+      "source_id": "source:avi_22:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_22-aout2024-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_22-aout2024",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_22-aout2024.jpg",
+      "file_path": "references/AVI/AVI_22/images/AVI_22-aout2024.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "status-empty-scene"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_22-aout2024.jpg",
+        "caption": "photo août 2024 (@Babatayaga)"
+      }
+    },
+    {
+      "source_id": "source:avi_22:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_22-septembre2019-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AVI_22-septembre2019",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_22-septembre2019.jpg",
+      "file_path": "references/AVI/AVI_22/images/AVI_22-septembre2019.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_22-septembre2019.jpg",
+        "caption": "photo septembre 2019"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:avi_22:grosplan:references-avi-avi_22-images-avi_22-grosplan-png",
+      "source_id": "source:avi_22:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-avi-avi_22-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_22/images/AVI_22-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AVI/AVI_22-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_22:reference:references-avi-avi_22-images-avi_22-septembre2019-jpg",
+      "source_id": "source:avi_22:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_22-septembre2019-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_22/images/AVI_22-septembre2019.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_22-septembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_22-septembre2019.jpg",
+      "title": "AVI_22-septembre2019",
+      "caption": "photo septembre 2019",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:avi_22:status-empty-scene:references-avi-avi_22-images-avi_22-aout2024-jpg",
+      "source_id": "source:avi_22:invader-spotter-photo:https:-www-invader-spotter-art-photos-avi-avi_22-aout2024-jpg",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/AVI/AVI_22/images/AVI_22-aout2024.jpg",
+      "url": "https://www.invader-spotter.art/photos/AVI/AVI_22-aout2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AVI/AVI_22-aout2024.jpg",
+      "title": "AVI_22-aout2024",
+      "caption": "photo août 2024 (@Babatayaga)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "status-empty-scene"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": true
+  }
+}

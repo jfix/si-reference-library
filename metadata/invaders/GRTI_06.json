@@ -1,0 +1,96 @@
+{
+  "invader_id": "GRTI_06",
+  "place_id": "GRTI",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "target_count": 8,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "26/01/2015",
+  "last_known_state": "Inconnu",
+  "notes": [
+    "Confirmed on the official Grumeti page."
+  ],
+  "sources": [
+    {
+      "source_id": "source:grti_06:instagram-tag:https:-www-instagram-com-explore-tags-grti_06-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for GRTI_06",
+      "url": "https://www.instagram.com/explore/tags/grti_06/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    },
+    {
+      "source_id": "source:grti_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-grti-grti_06-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_06-grosplan.png",
+      "file_path": "references/GRTI/GRTI_06/images/GRTI_06-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:grti_06:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "GRTI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    },
+    {
+      "source_id": "source:grti_06:official:https:-www-space-invaders-com-world-grumeti-",
+      "type": "official",
+      "label": "Official Grumeti city page",
+      "url": "https://www.space-invaders.com/world/grumeti/",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:grti_06:grosplan:references-grti-grti_06-images-grti_06-grosplan-png",
+      "source_id": "source:grti_06:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-grti-grti_06-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GRTI/GRTI_06/images/GRTI_06-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_06-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "official"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "invader_id": "NIM_01",
+  "place_id": "NIM",
+  "city": "Nîmes",
+  "country": "France",
+  "target_count": 5,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "23/09/2004",
+  "last_known_state": "Dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:nim_01:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251114-122001-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20251114-122001.png",
+      "file_path": "external-source/Screenshot_20251114-122001.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND NIM_01",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND NIM_01",
+          "TERRIFIC",
+          "+20 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:nim_01:instagram-tag:https:-www-instagram-com-explore-tags-nim_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for NIM_01",
+      "url": "https://www.instagram.com/explore/tags/nim_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NIM"
+      }
+    },
+    {
+      "source_id": "source:nim_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-nim-nim_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_01-grosplan.png",
+      "file_path": "references/NIM/NIM_01/images/NIM_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:nim_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "NIM listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "NIM"
+      }
+    },
+    {
+      "source_id": "source:nim_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-nim-nim_01-juin2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "NIM_01-juin2025",
+      "url": "https://www.invader-spotter.art/photos/NIM/NIM_01-juin2025.jpg",
+      "file_path": "references/NIM/NIM_01/images/NIM_01-juin2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_01-juin2025.jpg",
+        "caption": "photo juin 20202524 (@Naquemad) - nouvel emplacement"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:nim_01:grosplan:references-nim-nim_01-images-nim_01-grosplan-png",
+      "source_id": "source:nim_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-nim-nim_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_01/images/NIM_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/NIM/NIM_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:nim_01:reference:references-nim-nim_01-images-nim_01-juin2025-jpg",
+      "source_id": "source:nim_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-nim-nim_01-juin2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_01/images/NIM_01-juin2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/NIM/NIM_01-juin2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_01-juin2025.jpg",
+      "title": "NIM_01-juin2025",
+      "caption": "photo juin 20202524 (@Naquemad) - nouvel emplacement",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:nim_01:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-nim_01-screenshot_20251114-122001-crop-png",
+      "source_id": "source:nim_01:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251114-122001-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/NIM_01/Screenshot_20251114-122001-crop.png",
+      "title": "Screenshot_20251114-122001-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

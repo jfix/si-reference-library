@@ -1,0 +1,96 @@
+{
+  "invader_id": "GRTI_03",
+  "place_id": "GRTI",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "target_count": 8,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "25/01/2015",
+  "last_known_state": "Inconnu",
+  "notes": [
+    "Confirmed from a secondary source explicitly naming GRTI_03."
+  ],
+  "sources": [
+    {
+      "source_id": "source:grti_03:instagram-tag:https:-www-instagram-com-explore-tags-grti_03-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for GRTI_03",
+      "url": "https://www.instagram.com/explore/tags/grti_03/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    },
+    {
+      "source_id": "source:grti_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-grti-grti_03-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_03-grosplan.png",
+      "file_path": "references/GRTI/GRTI_03/images/GRTI_03-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:grti_03:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "GRTI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    },
+    {
+      "source_id": "source:grti_03:secondary:https:-www-whudat-de-invader-prints-batman-and-the-jungle-book-space-waffles-space-monkeys-instagram-roundup-",
+      "type": "secondary",
+      "label": "WHUDAT roundup explicitly mentioning GRTI_03",
+      "url": "https://www.whudat.de/invader-prints-batman-and-the-jungle-book-space-waffles-space-monkeys-instagram-roundup/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:grti_03:grosplan:references-grti-grti_03-images-grti_03-grosplan-png",
+      "source_id": "source:grti_03:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-grti-grti_03-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GRTI/GRTI_03/images/GRTI_03-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_03-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "secondary"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

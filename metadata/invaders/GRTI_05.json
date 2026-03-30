@@ -1,0 +1,96 @@
+{
+  "invader_id": "GRTI_05",
+  "place_id": "GRTI",
+  "city": "Grumeti",
+  "country": "Tanzania",
+  "target_count": 8,
+  "status": "identifier-only",
+  "points": 30,
+  "pose_date": "26/01/2015",
+  "last_known_state": "Inconnu",
+  "notes": [
+    "Identifier captured from a secondary missing-pieces compilation; image/location still to be confirmed."
+  ],
+  "sources": [
+    {
+      "source_id": "source:grti_05:instagram-tag:https:-www-instagram-com-explore-tags-grti_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for GRTI_05",
+      "url": "https://www.instagram.com/explore/tags/grti_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "identifier-only"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    },
+    {
+      "source_id": "source:grti_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-grti-grti_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_05-grosplan.png",
+      "file_path": "references/GRTI/GRTI_05/images/GRTI_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:grti_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "GRTI listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "identifier-only"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    },
+    {
+      "source_id": "source:grti_05:secondary:https:-pt-scribd-com-document-549613566-invader-missing-pieces-in-2021-rvleb",
+      "type": "secondary",
+      "label": "RVLEB missing-pieces compilation",
+      "url": "https://pt.scribd.com/document/549613566/Invader-Missing-Pieces-in-2021-RVLEB",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "identifier-only"
+      },
+      "extra": {
+        "place_id": "GRTI"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:grti_05:grosplan:references-grti-grti_05-images-grti_05-grosplan-png",
+      "source_id": "source:grti_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-grti-grti_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GRTI/GRTI_05/images/GRTI_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/GRTI/GRTI_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "secondary"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

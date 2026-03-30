@@ -1,0 +1,126 @@
+{
+  "invader_id": "AIX_08",
+  "place_id": "AIX",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "26/06/1999",
+  "last_known_state": "OK",
+  "notes": [
+    "Confirmed from Flickr page explicitly naming AIX_08."
+  ],
+  "sources": [
+    {
+      "source_id": "source:aix_08:flickr:https:-www-flickr-com-photos-tofz4u-27972666477",
+      "type": "flickr",
+      "label": "Space Invader AIX_08 by Denis",
+      "url": "https://www.flickr.com/photos/tofz4u/27972666477",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_08:instagram-tag:https:-www-instagram-com-explore-tags-aix_08-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AIX_08",
+      "url": "https://www.instagram.com/explore/tags/aix_08/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_08:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_08-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_08-grosplan.png",
+      "file_path": "references/AIX/AIX_08/images/AIX_08-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:aix_08:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AIX listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_08:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_08-juin2018-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AIX_08-juin2018",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_08-juin2018.jpg",
+      "file_path": "references/AIX/AIX_08/images/AIX_08-juin2018.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_08-juin2018.jpg",
+        "caption": "photo juin 2018"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:aix_08:grosplan:references-aix-aix_08-images-aix_08-grosplan-png",
+      "source_id": "source:aix_08:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_08-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_08/images/AIX_08-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_08-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_08:reference:references-aix-aix_08-images-aix_08-juin2018-jpg",
+      "source_id": "source:aix_08:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_08-juin2018-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_08/images/AIX_08-juin2018.jpg",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_08-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_08-juin2018.jpg",
+      "title": "AIX_08-juin2018",
+      "caption": "photo juin 2018",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 2,
+    "source_types": [
+      "flickr",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

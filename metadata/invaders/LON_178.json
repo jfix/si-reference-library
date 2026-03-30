@@ -1,0 +1,64 @@
+{
+  "invader_id": "LON_178",
+  "place_id": "LON",
+  "city": null,
+  "country": null,
+  "target_count": null,
+  "status": null,
+  "points": null,
+  "pose_date": null,
+  "last_known_state": null,
+  "notes": [],
+  "sources": [
+    {
+      "source_id": "source:lon_178:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260130-120729-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20260130-120729.png",
+      "file_path": "external-source/Screenshot_20260130-120729.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOUFOUND LON_178",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOUFOUND LON_178",
+          "OBEYINVADER",
+          "+50PTS",
+          "(+*"
+        ]
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:lon_178:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-lon_178-screenshot_20260130-120729-crop-png",
+      "source_id": "source:lon_178:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20260130-120729-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/LON_178/Screenshot_20260130-120729-crop.png",
+      "title": "Screenshot_20260130-120729-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 1,
+    "asset_count": 1,
+    "source_types": [
+      "flash-invaders-screenshot"
+    ],
+    "asset_roles": [
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

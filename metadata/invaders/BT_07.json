@@ -1,0 +1,111 @@
+{
+  "invader_id": "BT_07",
+  "place_id": "BT",
+  "city": "Bhutan",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 40,
+  "pose_date": "25/01/2018",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:bt_07:instagram-tag:https:-www-instagram-com-explore-tags-bt_07-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for BT_07",
+      "url": "https://www.instagram.com/explore/tags/bt_07/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "BT"
+      }
+    },
+    {
+      "source_id": "source:bt_07:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-bt-bt_07-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BT/BT_07-grosplan.png",
+      "file_path": "references/BT/BT_07/images/BT_07-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:bt_07:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "BT listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "BT"
+      }
+    },
+    {
+      "source_id": "source:bt_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-bt-bt_07-mai2020-jpg",
+      "type": "invader-spotter-photo",
+      "label": "BT_07-mai2020",
+      "url": "https://www.invader-spotter.art/photos/BT/BT_07-mai2020.jpg",
+      "file_path": "references/BT/BT_07/images/BT_07-mai2020.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/BT/BT_07-mai2020.jpg",
+        "caption": "photo d'archive (@Invader)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:bt_07:grosplan:references-bt-bt_07-images-bt_07-grosplan-png",
+      "source_id": "source:bt_07:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-bt-bt_07-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BT/BT_07/images/BT_07-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/BT/BT_07-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:bt_07:reference:references-bt-bt_07-images-bt_07-mai2020-jpg",
+      "source_id": "source:bt_07:invader-spotter-photo:https:-www-invader-spotter-art-photos-bt-bt_07-mai2020-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BT/BT_07/images/BT_07-mai2020.jpg",
+      "url": "https://www.invader-spotter.art/photos/BT/BT_07-mai2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BT/BT_07-mai2020.jpg",
+      "title": "BT_07-mai2020",
+      "caption": "photo d'archive (@Invader)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

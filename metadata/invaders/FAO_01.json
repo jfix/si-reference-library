@@ -1,0 +1,139 @@
+{
+  "invader_id": "FAO_01",
+  "place_id": "FAO",
+  "city": "Faro",
+  "country": "Portugal",
+  "target_count": 4,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "26/08/2016",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:fao_01:instagram-tag:https:-www-instagram-com-explore-tags-fao_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for FAO_01",
+      "url": "https://www.instagram.com/explore/tags/fao_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "FAO"
+      }
+    },
+    {
+      "source_id": "source:fao_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-fao-fao_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FAO/FAO_01-grosplan.png",
+      "file_path": "references/FAO/FAO_01/images/FAO_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:fao_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "FAO listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "FAO"
+      }
+    },
+    {
+      "source_id": "source:fao_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-fao-fao_01-avril2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "FAO_01-avril2025",
+      "url": "https://www.invader-spotter.art/photos/FAO/FAO_01-avril2025.jpg",
+      "file_path": "references/FAO/FAO_01/images/FAO_01-avril2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/FAO/FAO_01-avril2025.jpg",
+        "caption": "photo avril 2025 (@zeudoud)"
+      }
+    },
+    {
+      "source_id": "source:fao_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-fao-fao_01-fevrier2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "FAO_01-fevrier2017",
+      "url": "https://www.invader-spotter.art/photos/FAO/FAO_01-fevrier2017.jpg",
+      "file_path": "references/FAO/FAO_01/images/FAO_01-fevrier2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/FAO/FAO_01-fevrier2017.jpg",
+        "caption": "photo février 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:fao_01:grosplan:references-fao-fao_01-images-fao_01-grosplan-png",
+      "source_id": "source:fao_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-fao-fao_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/FAO/FAO_01/images/FAO_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/FAO/FAO_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:fao_01:reference:references-fao-fao_01-images-fao_01-avril2025-jpg",
+      "source_id": "source:fao_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-fao-fao_01-avril2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FAO/FAO_01/images/FAO_01-avril2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/FAO/FAO_01-avril2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FAO/FAO_01-avril2025.jpg",
+      "title": "FAO_01-avril2025",
+      "caption": "photo avril 2025 (@zeudoud)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:fao_01:reference:references-fao-fao_01-images-fao_01-fevrier2017-jpg",
+      "source_id": "source:fao_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-fao-fao_01-fevrier2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FAO/FAO_01/images/FAO_01-fevrier2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/FAO/FAO_01-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FAO/FAO_01-fevrier2017.jpg",
+      "title": "FAO_01-fevrier2017",
+      "caption": "photo février 2017",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

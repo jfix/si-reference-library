@@ -1,0 +1,111 @@
+{
+  "invader_id": "TLS_02",
+  "place_id": "TLS",
+  "city": "Toulouse",
+  "country": "France",
+  "target_count": 11,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "08/07/2016",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:tls_02:instagram-tag:https:-www-instagram-com-explore-tags-tls_02-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for TLS_02",
+      "url": "https://www.instagram.com/explore/tags/tls_02/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "TLS"
+      }
+    },
+    {
+      "source_id": "source:tls_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-tls-tls_02-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TLS/TLS_02-grosplan.png",
+      "file_path": "references/TLS/TLS_02/images/TLS_02-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:tls_02:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "TLS listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "TLS"
+      }
+    },
+    {
+      "source_id": "source:tls_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-tls-tls_02-mars2024-jpg",
+      "type": "invader-spotter-photo",
+      "label": "TLS_02-mars2024",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_02-mars2024.jpg",
+      "file_path": "references/TLS/TLS_02/images/TLS_02-mars2024.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_02-mars2024.jpg",
+        "caption": "photo septembre 2016"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:tls_02:grosplan:references-tls-tls_02-images-tls_02-grosplan-png",
+      "source_id": "source:tls_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-tls-tls_02-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_02/images/TLS_02-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/TLS/TLS_02-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:tls_02:reference:references-tls-tls_02-images-tls_02-mars2024-jpg",
+      "source_id": "source:tls_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-tls-tls_02-mars2024-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_02/images/TLS_02-mars2024.jpg",
+      "url": "https://www.invader-spotter.art/photos/TLS/TLS_02-mars2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TLS/TLS_02-mars2024.jpg",
+      "title": "TLS_02-mars2024",
+      "caption": "photo septembre 2016",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

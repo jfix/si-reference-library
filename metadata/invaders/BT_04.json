@@ -1,0 +1,81 @@
+{
+  "invader_id": "BT_04",
+  "place_id": "BT",
+  "city": "Bhutan",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 30,
+  "pose_date": "21/01/2018",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:bt_04:instagram-tag:https:-www-instagram-com-explore-tags-bt_04-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for BT_04",
+      "url": "https://www.instagram.com/explore/tags/bt_04/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "BT"
+      }
+    },
+    {
+      "source_id": "source:bt_04:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-bt-bt_04-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BT/BT_04-grosplan.png",
+      "file_path": "references/BT/BT_04/images/BT_04-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:bt_04:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "BT listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "BT"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:bt_04:grosplan:references-bt-bt_04-images-bt_04-grosplan-png",
+      "source_id": "source:bt_04:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-bt-bt_04-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BT/BT_04/images/BT_04-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/BT/BT_04-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 3,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

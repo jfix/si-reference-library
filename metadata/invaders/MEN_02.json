@@ -1,0 +1,111 @@
+{
+  "invader_id": "MEN_02",
+  "place_id": "MEN",
+  "city": "Menorca",
+  "country": "Spain",
+  "target_count": 5,
+  "status": "confirmed",
+  "points": 50,
+  "pose_date": "31/08/2011",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:men_02:instagram-tag:https:-www-instagram-com-explore-tags-men_02-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for MEN_02",
+      "url": "https://www.instagram.com/explore/tags/men_02/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MEN"
+      }
+    },
+    {
+      "source_id": "source:men_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-men-men_02-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MEN/MEN_02-grosplan.png",
+      "file_path": "references/MEN/MEN_02/images/MEN_02-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:men_02:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "MEN listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "MEN"
+      }
+    },
+    {
+      "source_id": "source:men_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-men-men_02-fevrier2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "MEN_02-fevrier2025",
+      "url": "https://www.invader-spotter.art/photos/MEN/MEN_02-fevrier2025.jpg",
+      "file_path": "references/MEN/MEN_02/images/MEN_02-fevrier2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/MEN/MEN_02-fevrier2025.jpg",
+        "caption": "photo avril 2021 (Live FlashInvaders)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:men_02:grosplan:references-men-men_02-images-men_02-grosplan-png",
+      "source_id": "source:men_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-men-men_02-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MEN/MEN_02/images/MEN_02-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/MEN/MEN_02-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:men_02:reference:references-men-men_02-images-men_02-fevrier2025-jpg",
+      "source_id": "source:men_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-men-men_02-fevrier2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MEN/MEN_02/images/MEN_02-fevrier2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/MEN/MEN_02-fevrier2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MEN/MEN_02-fevrier2025.jpg",
+      "title": "MEN_02-fevrier2025",
+      "caption": "photo avril 2021 (Live FlashInvaders)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

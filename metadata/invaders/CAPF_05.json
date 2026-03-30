@@ -1,0 +1,139 @@
+{
+  "invader_id": "CAPF_05",
+  "place_id": "CAPF",
+  "city": "Cap Ferret",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "30/12/2017",
+  "last_known_state": "Dégradé",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:capf_05:instagram-tag:https:-www-instagram-com-explore-tags-capf_05-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for CAPF_05",
+      "url": "https://www.instagram.com/explore/tags/capf_05/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "CAPF"
+      }
+    },
+    {
+      "source_id": "source:capf_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-capf-capf_05-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_05-grosplan.png",
+      "file_path": "references/CAPF/CAPF_05/images/CAPF_05-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:capf_05:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "CAPF listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "CAPF"
+      }
+    },
+    {
+      "source_id": "source:capf_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_05-fevrier2018-jpg",
+      "type": "invader-spotter-photo",
+      "label": "CAPF_05-fevrier2018",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-fevrier2018.jpg",
+      "file_path": "references/CAPF/CAPF_05/images/CAPF_05-fevrier2018.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-fevrier2018.jpg",
+        "caption": "photo février 2018"
+      }
+    },
+    {
+      "source_id": "source:capf_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_05-juillet2025-jpg",
+      "type": "invader-spotter-photo",
+      "label": "CAPF_05-juillet2025",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-juillet2025.jpg",
+      "file_path": "references/CAPF/CAPF_05/images/CAPF_05-juillet2025.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-juillet2025.jpg",
+        "caption": "photo juillet 2025 (@daiawas)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:capf_05:grosplan:references-capf-capf_05-images-capf_05-grosplan-png",
+      "source_id": "source:capf_05:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-capf-capf_05-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAPF/CAPF_05/images/CAPF_05-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/CAPF/CAPF_05-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:capf_05:reference:references-capf-capf_05-images-capf_05-fevrier2018-jpg",
+      "source_id": "source:capf_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_05-fevrier2018-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAPF/CAPF_05/images/CAPF_05-fevrier2018.jpg",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-fevrier2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-fevrier2018.jpg",
+      "title": "CAPF_05-fevrier2018",
+      "caption": "photo février 2018",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:capf_05:reference:references-capf-capf_05-images-capf_05-juillet2025-jpg",
+      "source_id": "source:capf_05:invader-spotter-photo:https:-www-invader-spotter-art-photos-capf-capf_05-juillet2025-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAPF/CAPF_05/images/CAPF_05-juillet2025.jpg",
+      "url": "https://www.invader-spotter.art/photos/CAPF/CAPF_05-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAPF/CAPF_05-juillet2025.jpg",
+      "title": "CAPF_05-juillet2025",
+      "caption": "photo juillet 2025 (@daiawas)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 5,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

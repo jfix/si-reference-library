@@ -1,0 +1,81 @@
+{
+  "invader_id": "VSB_01",
+  "place_id": "VSB",
+  "city": "Visby",
+  "country": "Sweden",
+  "target_count": 3,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "07/07/2001",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:vsb_01:instagram-tag:https:-www-instagram-com-explore-tags-vsb_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for VSB_01",
+      "url": "https://www.instagram.com/explore/tags/vsb_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "VSB"
+      }
+    },
+    {
+      "source_id": "source:vsb_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-vsb-vsb_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VSB/VSB_01-grosplan.png",
+      "file_path": "references/VSB/VSB_01/images/VSB_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:vsb_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "VSB listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "VSB"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:vsb_01:grosplan:references-vsb-vsb_01-images-vsb_01-grosplan-png",
+      "source_id": "source:vsb_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-vsb-vsb_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VSB/VSB_01/images/VSB_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/VSB/VSB_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 3,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

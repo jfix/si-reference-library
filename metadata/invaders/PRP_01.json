@@ -1,0 +1,185 @@
+{
+  "invader_id": "PRP_01",
+  "place_id": "PRP",
+  "city": "Perpignan",
+  "country": "France",
+  "target_count": 8,
+  "status": "confirmed",
+  "points": 50,
+  "pose_date": "29/06/2013",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:prp_01:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251123-113131-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20251123-113131.png",
+      "file_path": "external-source/Screenshot_20251123-113131.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOU FOUND PRP_01",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOU FOUND PRP_01",
+          "HICE SHOT!",
+          "+50 PTS",
+          "(+*"
+        ]
+      }
+    },
+    {
+      "source_id": "source:prp_01:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251123-113138-png",
+      "type": "flash-invaders-screenshot",
+      "label": "Screenshot_20251123-113138.png",
+      "file_path": "external-source/Screenshot_20251123-113138.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "ocr",
+        "detail": "YOU FOUND PRP_01",
+        "confidence": 1
+      },
+      "extra": {
+        "all_ocr_lines": [
+          "FLASH",
+          "YOU FOUND PRP_01",
+          "HICE SHOT!",
+          "BONUS NEW CITY +100PTS",
+          "2251 #* 64470 PTS"
+        ]
+      }
+    },
+    {
+      "source_id": "source:prp_01:instagram-tag:https:-www-instagram-com-explore-tags-prp_01-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for PRP_01",
+      "url": "https://www.instagram.com/explore/tags/prp_01/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PRP"
+      }
+    },
+    {
+      "source_id": "source:prp_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-prp-prp_01-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRP/PRP_01-grosplan.png",
+      "file_path": "references/PRP/PRP_01/images/PRP_01-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:prp_01:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "PRP listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PRP"
+      }
+    },
+    {
+      "source_id": "source:prp_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-prp-prp_01-decembre2015-jpg",
+      "type": "invader-spotter-photo",
+      "label": "PRP_01-decembre2015",
+      "url": "https://www.invader-spotter.art/photos/PRP/PRP_01-decembre2015.jpg",
+      "file_path": "references/PRP/PRP_01/images/PRP_01-decembre2015.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_01-decembre2015.jpg",
+        "caption": "photo décembre 2015"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:prp_01:grosplan:references-prp-prp_01-images-prp_01-grosplan-png",
+      "source_id": "source:prp_01:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-prp-prp_01-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PRP/PRP_01/images/PRP_01-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/PRP/PRP_01-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:prp_01:reference:references-prp-prp_01-images-prp_01-decembre2015-jpg",
+      "source_id": "source:prp_01:invader-spotter-photo:https:-www-invader-spotter-art-photos-prp-prp_01-decembre2015-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PRP/PRP_01/images/PRP_01-decembre2015.jpg",
+      "url": "https://www.invader-spotter.art/photos/PRP/PRP_01-decembre2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_01-decembre2015.jpg",
+      "title": "PRP_01-decembre2015",
+      "caption": "photo décembre 2015",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:prp_01:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-prp_01-screenshot_20251123-113131-crop-png",
+      "source_id": "source:prp_01:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251123-113131-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PRP_01/Screenshot_20251123-113131-crop.png",
+      "title": "Screenshot_20251123-113131-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    },
+    {
+      "asset_id": "asset:prp_01:screenshot-crop:-users-jakob-projects-si-reference-library-data-flash-screenshots-by-id-prp_01-screenshot_20251123-113138-crop-png",
+      "source_id": "source:prp_01:flash-invaders-screenshot:-users-jakob-downloads-screenshots-screenshot_20251123-113138-png",
+      "role": "screenshot-crop",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PRP_01/Screenshot_20251123-113138-crop.png",
+      "title": "Screenshot_20251123-113138-crop.png",
+      "derived_from": "flash-screenshot",
+      "crop": {
+        "x": 86,
+        "y": 242,
+        "width": 907,
+        "height": 824
+      }
+    }
+  ],
+  "summary": {
+    "source_count": 6,
+    "asset_count": 4,
+    "source_types": [
+      "flash-invaders-screenshot",
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference",
+      "screenshot-crop"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

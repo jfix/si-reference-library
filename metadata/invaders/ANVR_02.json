@@ -1,0 +1,111 @@
+{
+  "invader_id": "ANVR_02",
+  "place_id": "ANVR",
+  "city": "Anvers",
+  "country": "Belgium",
+  "target_count": 2,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "10/01/1999",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:anvr_02:instagram-tag:https:-www-instagram-com-explore-tags-anvr_02-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for ANVR_02",
+      "url": "https://www.instagram.com/explore/tags/anvr_02/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "ANVR"
+      }
+    },
+    {
+      "source_id": "source:anvr_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-anvr-anvr_02-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ANVR/ANVR_02-grosplan.png",
+      "file_path": "references/ANVR/ANVR_02/images/ANVR_02-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:anvr_02:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "ANVR listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "ANVR"
+      }
+    },
+    {
+      "source_id": "source:anvr_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-anvr-anvr_02-mai2017-jpg",
+      "type": "invader-spotter-photo",
+      "label": "ANVR_02-mai2017",
+      "url": "https://www.invader-spotter.art/photos/ANVR/ANVR_02-mai2017.jpg",
+      "file_path": "references/ANVR/ANVR_02/images/ANVR_02-mai2017.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/ANVR/ANVR_02-mai2017.jpg",
+        "caption": "photo mai 2017"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:anvr_02:grosplan:references-anvr-anvr_02-images-anvr_02-grosplan-png",
+      "source_id": "source:anvr_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-anvr-anvr_02-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ANVR/ANVR_02/images/ANVR_02-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/ANVR/ANVR_02-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:anvr_02:reference:references-anvr-anvr_02-images-anvr_02-mai2017-jpg",
+      "source_id": "source:anvr_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-anvr-anvr_02-mai2017-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ANVR/ANVR_02/images/ANVR_02-mai2017.jpg",
+      "url": "https://www.invader-spotter.art/photos/ANVR/ANVR_02-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ANVR/ANVR_02-mai2017.jpg",
+      "title": "ANVR_02-mai2017",
+      "caption": "photo mai 2017",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

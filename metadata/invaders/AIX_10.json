@@ -1,0 +1,154 @@
+{
+  "invader_id": "AIX_10",
+  "place_id": "AIX",
+  "city": "Aix-en-Provence",
+  "country": "France",
+  "target_count": 10,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "26/06/1999",
+  "last_known_state": "Un peu dégradé",
+  "notes": [
+    "Confirmed on the official Aix-en-Provence city page."
+  ],
+  "sources": [
+    {
+      "source_id": "source:aix_10:instagram-tag:https:-www-instagram-com-explore-tags-aix_10-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for AIX_10",
+      "url": "https://www.instagram.com/explore/tags/aix_10/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_10:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_10-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_10-grosplan.png",
+      "file_path": "references/AIX/AIX_10/images/AIX_10-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:aix_10:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "AIX listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    },
+    {
+      "source_id": "source:aix_10:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_10-aout2023-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AIX_10-aout2023",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_10-aout2023.jpg",
+      "file_path": "references/AIX/AIX_10/images/AIX_10-aout2023.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_10-aout2023.jpg",
+        "caption": "photo août 2023 (@renalid)"
+      }
+    },
+    {
+      "source_id": "source:aix_10:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_10-septembre2016-jpg",
+      "type": "invader-spotter-photo",
+      "label": "AIX_10-septembre2016",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_10-septembre2016.jpg",
+      "file_path": "references/AIX/AIX_10/images/AIX_10-septembre2016.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_10-septembre2016.jpg",
+        "caption": "photo septembre 2016"
+      }
+    },
+    {
+      "source_id": "source:aix_10:official:https:-www-space-invaders-com-world-aix-en-provence-",
+      "type": "official",
+      "label": "Official Aix-en-Provence city page",
+      "url": "https://www.space-invaders.com/world/aix-en-provence/",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "AIX"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:aix_10:grosplan:references-aix-aix_10-images-aix_10-grosplan-png",
+      "source_id": "source:aix_10:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-aix-aix_10-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_10/images/AIX_10-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/AIX/AIX_10-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_10:reference:references-aix-aix_10-images-aix_10-aout2023-jpg",
+      "source_id": "source:aix_10:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_10-aout2023-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_10/images/AIX_10-aout2023.jpg",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_10-aout2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_10-aout2023.jpg",
+      "title": "AIX_10-aout2023",
+      "caption": "photo août 2023 (@renalid)",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:aix_10:reference:references-aix-aix_10-images-aix_10-septembre2016-jpg",
+      "source_id": "source:aix_10:invader-spotter-photo:https:-www-invader-spotter-art-photos-aix-aix_10-septembre2016-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AIX/AIX_10/images/AIX_10-septembre2016.jpg",
+      "url": "https://www.invader-spotter.art/photos/AIX/AIX_10-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AIX/AIX_10-septembre2016.jpg",
+      "title": "AIX_10-septembre2016",
+      "caption": "photo septembre 2016",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 6,
+    "asset_count": 3,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo",
+      "official"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

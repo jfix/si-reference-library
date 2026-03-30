@@ -1,0 +1,111 @@
+{
+  "invader_id": "REUN_02",
+  "place_id": "REUN",
+  "city": "La Réunion",
+  "country": "France",
+  "target_count": 11,
+  "status": "confirmed",
+  "points": 20,
+  "pose_date": "24/12/2022",
+  "last_known_state": "OK",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:reun_02:instagram-tag:https:-www-instagram-com-explore-tags-reun_02-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for REUN_02",
+      "url": "https://www.instagram.com/explore/tags/reun_02/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "REUN"
+      }
+    },
+    {
+      "source_id": "source:reun_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-reun-reun_02-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/REUN/REUN_02-grosplan.png",
+      "file_path": "references/REUN/REUN_02/images/REUN_02-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:reun_02:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "REUN listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "REUN"
+      }
+    },
+    {
+      "source_id": "source:reun_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-reun-reun_02-janvier2023-jpg",
+      "type": "invader-spotter-photo",
+      "label": "REUN_02-janvier2023",
+      "url": "https://www.invader-spotter.art/photos/REUN/REUN_02-janvier2023.jpg",
+      "file_path": "references/REUN/REUN_02/images/REUN_02-janvier2023.jpg",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "reference"
+      },
+      "extra": {
+        "preview_url": "https://www.invader-spotter.art/images/REUN/REUN_02-janvier2023.jpg",
+        "caption": "photo janvier 2023 (@r4y.paris)"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:reun_02:grosplan:references-reun-reun_02-images-reun_02-grosplan-png",
+      "source_id": "source:reun_02:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-reun-reun_02-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/REUN/REUN_02/images/REUN_02-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/REUN/REUN_02-grosplan.png",
+      "derived_from": "reference-metadata"
+    },
+    {
+      "asset_id": "asset:reun_02:reference:references-reun-reun_02-images-reun_02-janvier2023-jpg",
+      "source_id": "source:reun_02:invader-spotter-photo:https:-www-invader-spotter-art-photos-reun-reun_02-janvier2023-jpg",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/REUN/REUN_02/images/REUN_02-janvier2023.jpg",
+      "url": "https://www.invader-spotter.art/photos/REUN/REUN_02-janvier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/REUN/REUN_02-janvier2023.jpg",
+      "title": "REUN_02-janvier2023",
+      "caption": "photo janvier 2023 (@r4y.paris)",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 4,
+    "asset_count": 2,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing",
+      "invader-spotter-photo"
+    ],
+    "asset_roles": [
+      "grosplan",
+      "reference"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "invader_id": "PAU_09",
+  "place_id": "PAU",
+  "city": "Pau",
+  "country": null,
+  "target_count": null,
+  "status": "confirmed",
+  "points": 10,
+  "pose_date": "22/11/2000",
+  "last_known_state": "Détruit !",
+  "notes": [
+    "Scraped from invader-spotter.art listing data."
+  ],
+  "sources": [
+    {
+      "source_id": "source:pau_09:instagram-tag:https:-www-instagram-com-explore-tags-pau_09-",
+      "type": "instagram-tag",
+      "label": "Instagram hashtag for PAU_09",
+      "url": "https://www.instagram.com/explore/tags/pau_09/",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PAU"
+      }
+    },
+    {
+      "source_id": "source:pau_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-pau-pau_09-grosplan-png",
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_09-grosplan.png",
+      "file_path": "references/PAU/PAU_09/images/PAU_09-grosplan.png",
+      "provenance_confidence": "high",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "grosplan"
+      },
+      "extra": {}
+    },
+    {
+      "source_id": "source:pau_09:invader-spotter-listing:https:-www-invader-spotter-art-listing-php",
+      "type": "invader-spotter-listing",
+      "label": "PAU listing page",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "provenance_confidence": "medium",
+      "id_evidence": {
+        "method": "curated-metadata",
+        "detail": "confirmed"
+      },
+      "extra": {
+        "place_id": "PAU"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "asset:pau_09:grosplan:references-pau-pau_09-images-pau_09-grosplan-png",
+      "source_id": "source:pau_09:invader-spotter-grosplan:https:-www-invader-spotter-art-grosplan-pau-pau_09-grosplan-png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_09/images/PAU_09-grosplan.png",
+      "url": "https://www.invader-spotter.art/grosplan/PAU/PAU_09-grosplan.png",
+      "derived_from": "reference-metadata"
+    }
+  ],
+  "summary": {
+    "source_count": 3,
+    "asset_count": 1,
+    "source_types": [
+      "instagram-tag",
+      "invader-spotter-grosplan",
+      "invader-spotter-listing"
+    ],
+    "asset_roles": [
+      "grosplan"
+    ],
+    "has_positive_reference": true,
+    "has_negative_reference": false
+  }
+}
