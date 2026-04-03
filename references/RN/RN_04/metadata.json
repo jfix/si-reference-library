@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rn_04/",
       "label": "Instagram hashtag for RN_04"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for RN_04",
+      "file_path": "Screenshot_20250807-232457.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/RN/RN_04/images/RN_04-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/RN_04/Screenshot_20250807-232457-crop.png",
+      "title": "Screenshot_20250807-232457-crop.png"
     }
   ]
 }

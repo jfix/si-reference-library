@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rn_03/",
       "label": "Instagram hashtag for RN_03"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for RN_03",
+      "file_path": "Screenshot_20250807-231918.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for RN_03",
+      "file_path": "Screenshot_20250807-231924.png"
     }
   ],
   "images": [
@@ -29,6 +39,20 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/RN/RN_03/images/RN_03-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/RN_03/Screenshot_20250807-231918-crop.png",
+      "title": "Screenshot_20250807-231918-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/RN_03/Screenshot_20250807-231924-crop.png",
+      "title": "Screenshot_20250807-231924-crop.png"
     }
   ]
 }
