@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_187",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/05/1999",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mai 2024",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0187-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_187/",
+      "label": "Instagram hashtag for PA_187"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0187-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0187-aout2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0187-aout2022.jpg",
+      "caption": "photo août 2022 (@VinceXPC)",
+      "title": "PA_0187-aout2022",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0187-mai2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0187-mai2024.jpg",
+      "caption": "photo mai 2024 (@NewSpotter)",
+      "title": "PA_0187-mai2024",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

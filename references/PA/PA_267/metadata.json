@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_267",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "05/02/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2022",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0267-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_267/",
+      "label": "Instagram hashtag for PA_267"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0267-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0267-janvier2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0267-janvier2019.jpg",
+      "caption": "photo janvier 2019",
+      "title": "PA_0267-janvier2019",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0267-octobre2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0267-octobre2022.jpg",
+      "caption": "photo octobre 2022 (@NewSpotter)",
+      "title": "PA_0267-octobre2022",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

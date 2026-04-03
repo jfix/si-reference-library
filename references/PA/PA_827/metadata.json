@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_827",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/03/2010",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "février 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0827-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_827/",
+      "label": "Instagram hashtag for PA_827"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0827-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0827-juin2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0827-juin2016.jpg",
+      "caption": "photo juin 2016",
+      "title": "PA_0827-juin2016",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0827-fevrier2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0827-fevrier2025.jpg",
+      "caption": "photo février 2025 (@Bouh)",
+      "title": "PA_0827-fevrier2025",
+      "role": "reference",
+      "contains_invader": true
+    }
+  ]
+}

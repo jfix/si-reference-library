@@ -84,12 +84,13 @@ async function main() {
     if (invaders.length === 0 && existingOutput?.invaders?.length > 0) {
       throw new Error(`Refusing to overwrite ${outputPath} with zero invaders; keeping existing scrape output`);
     }
-    await fs.writeFile(outputPath, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
-    console.log(`Wrote ${invaders.length} invaders to ${outputPath}`);
+    const mergedOutput = mergeCityOutput(existingOutput, output);
+    await fs.writeFile(outputPath, `${JSON.stringify(mergedOutput, null, 2)}\n`, 'utf8');
+    console.log(`Wrote ${mergedOutput.invaders.length} invaders to ${outputPath}`);
 
     if (options.syncReferences) {
       await syncReferences({
-        cityData: output,
+        cityData: mergedOutput,
         placeEntry,
         downloadImages: options.downloadImages,
       });
@@ -274,6 +275,23 @@ function dedupeInvaders(invaders) {
   }
 
   return Array.from(byId.values()).sort((a, b) => a.invaderId.localeCompare(b.invaderId));
+}
+
+function mergeCityOutput(existingOutput, freshOutput) {
+  if (!existingOutput) {
+    return freshOutput;
+  }
+
+  return {
+    source: freshOutput.source ?? existingOutput.source,
+    scrapedAt: freshOutput.scrapedAt,
+    city: freshOutput.city ?? existingOutput.city ?? null,
+    code: freshOutput.code ?? existingOutput.code,
+    totalInvaders: freshOutput.totalInvaders ?? existingOutput.totalInvaders ?? null,
+    pagesScraped: Math.max(existingOutput.pagesScraped ?? 0, freshOutput.pagesScraped ?? 0),
+    summary: freshOutput.summary ?? existingOutput.summary ?? null,
+    invaders: dedupeInvaders([...(existingOutput.invaders ?? []), ...(freshOutput.invaders ?? [])]),
+  };
 }
 
 async function syncReferences({ cityData, placeEntry, downloadImages }) {

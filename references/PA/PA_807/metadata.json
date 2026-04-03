@@ -1,0 +1,33 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_807",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/05/2009",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2015 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0807-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_807/",
+      "label": "Instagram hashtag for PA_807"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0807-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    }
+  ]
+}

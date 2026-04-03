@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_527",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "02/12/2003",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "février 2025",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0527-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_527/",
+      "label": "Instagram hashtag for PA_527"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0527-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0527-septembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0527-septembre2018.jpg",
+      "caption": "photo septembre 2018",
+      "title": "PA_0527-septembre2018",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0527-fevrier2025-3.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0527-fevrier2025-3.jpg",
+      "caption": "photo février 2025 (@NewSpotter)",
+      "title": "PA_0527-fevrier2025-3",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

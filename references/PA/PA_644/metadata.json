@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_644",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/02/2006",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0644-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_644/",
+      "label": "Instagram hashtag for PA_644"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0644-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0644-mars2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0644-mars2015.jpg",
+      "caption": "photo mars 2015",
+      "title": "PA_0644-mars2015",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0644-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0644-juillet2025.jpg",
+      "caption": "photo juillet 2025 (@calou11)",
+      "title": "PA_0644-juillet2025",
+      "role": "reference",
+      "contains_invader": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_751",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/01/2008",
+  "last_known_state": "OK",
+  "last_seen_source": "mai 2025 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0751-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_751/",
+      "label": "Instagram hashtag for PA_751"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0751-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0751-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0751-mai2025.jpg",
+      "caption": "photo mai 2025 - emplacement actuel (@NewSpotter)",
+      "title": "PA_0751-mai2025",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0751-juillet2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0751-juillet2015.jpg",
+      "caption": "photo juillet 2015 (emplacement d'origine)",
+      "title": "PA_0751-juillet2015",
+      "role": "reference",
+      "contains_invader": true
+    }
+  ]
+}
