@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_174-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_174/images/LDN_174-grosplan.png"
     }
   ]
 }

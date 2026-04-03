@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_123-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_123/images/LDN_123-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo mai 2017",
       "title": "LDN_123-mai2017",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_123/images/LDN_123-mai2017.jpg"
     },
     {
       "type": "invader-spotter-photo",
@@ -45,7 +47,8 @@
       "caption": "photo juillet 2022 (@airFl0w)",
       "title": "LDN_123-juillet2022",
       "role": "status-empty-scene",
-      "contains_invader": false
+      "contains_invader": false,
+      "local_path": "references/LDN/LDN_123/images/LDN_123-juillet2022.jpg"
     }
   ]
 }

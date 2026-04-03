@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_049-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_49/images/LDN_049-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo d'archive",
       "title": "LDN_049-mai2025",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_49/images/LDN_049-mai2025.jpg"
     }
   ]
 }

@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_178-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_178/images/LDN_178-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo décembre 2025 (@Shootagain)",
       "title": "LDN_178-decembre2025",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_178/images/LDN_178-decembre2025.jpg"
     },
     {
       "type": "invader-spotter-photo",
@@ -45,7 +47,8 @@
       "caption": "photo mars 2026 (@Jacksullivan)",
       "title": "LDN_178-mars2026",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_178/images/LDN_178-mars2026.jpg"
     }
   ]
 }
