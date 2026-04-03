@@ -1,0 +1,51 @@
+{
+  "place_id": "LDN",
+  "invader_id": "LDN_42",
+  "city": "London",
+  "country": "United Kingdom",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "20/06/1999",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "mai 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_042-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LDN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ldn_42/",
+      "label": "Instagram hashtag for LDN_42"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_042-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_042-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_042-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "LDN_042-mai2017",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_042-mai2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_042-mai2023.jpg",
+      "caption": "photo mai 2023 (@Lamwette)",
+      "title": "LDN_042-mai2023",
+      "role": "reference",
+      "contains_invader": true
+    }
+  ]
+}

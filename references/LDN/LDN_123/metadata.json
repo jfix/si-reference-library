@@ -1,0 +1,51 @@
+{
+  "place_id": "LDN",
+  "invader_id": "LDN_123",
+  "city": "London",
+  "country": "United Kingdom",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/12/2011",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "décembre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_123-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LDN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ldn_123/",
+      "label": "Instagram hashtag for LDN_123"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_123-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_123-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_123-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "LDN_123-mai2017",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_123-juillet2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_123-juillet2022.jpg",
+      "caption": "photo juillet 2022 (@airFl0w)",
+      "title": "LDN_123-juillet2022",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

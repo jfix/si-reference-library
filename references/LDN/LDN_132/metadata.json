@@ -1,0 +1,51 @@
+{
+  "place_id": "LDN",
+  "invader_id": "LDN_132",
+  "city": "London",
+  "country": "United Kingdom",
+  "status": "confirmed",
+  "points": 100,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "07/05/2013",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2020 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_132-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LDN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ldn_132/",
+      "label": "Instagram hashtag for LDN_132"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_132-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_132-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_132-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "LDN_132-mai2017",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_132-avril2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_132-avril2020.jpg",
+      "caption": "photo avril 2020 (@skAcid23)",
+      "title": "LDN_132-avril2020",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

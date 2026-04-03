@@ -1,0 +1,33 @@
+{
+  "place_id": "LDN",
+  "invader_id": "LDN_02",
+  "city": "London",
+  "country": "United Kingdom",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "02/06/1999",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_002-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LDN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ldn_02/",
+      "label": "Instagram hashtag for LDN_02"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_002-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    }
+  ]
+}

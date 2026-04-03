@@ -1,0 +1,51 @@
+{
+  "place_id": "LDN",
+  "invader_id": "LDN_80",
+  "city": "London",
+  "country": "United Kingdom",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/12/2006",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_080-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LDN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ldn_80/",
+      "label": "Instagram hashtag for LDN_80"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LDN/LDN_080-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_080-octobre2024-1.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_080-octobre2024-1.jpg",
+      "caption": "photo octobre 2024 (@Shootagain)",
+      "title": "LDN_080-octobre2024-1",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_080-octobre2024-2.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_080-octobre2024-2.jpg",
+      "caption": "photo octobre 2024 (@dave)",
+      "title": "LDN_080-octobre2024-2",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

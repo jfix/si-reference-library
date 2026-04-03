@@ -89,6 +89,11 @@
     "country": "France",
     "target_count": 9
   },
+  "LDN": {
+    "city": "London",
+    "country": "United Kingdom",
+    "target_count": 193
+  },
   "CAPF": {
     "city": "Cap Ferret",
     "country": "France",
