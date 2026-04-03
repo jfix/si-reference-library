@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_1346",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "07/03/2018",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_1346-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_1346/",
+      "label": "Instagram hashtag for PA_1346"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_1346-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_1346-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_1346-juin2018.jpg",
+      "caption": "photo juin 2018",
+      "title": "PA_1346-juin2018",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_1346-avril2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_1346-avril2025.jpg",
+      "caption": "photo avril 2025 (@Picasso)",
+      "title": "PA_1346-avril2025",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}
