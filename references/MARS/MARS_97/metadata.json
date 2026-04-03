@@ -1,0 +1,34 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_97",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "25/08/2020",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_97-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_97/",
+      "label": "Instagram hashtag for MARS_97"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_97-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_97/images/MARS_97-grosplan.png"
+    }
+  ]
+}

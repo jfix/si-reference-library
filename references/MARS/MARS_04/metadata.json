@@ -1,0 +1,54 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_04",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/07/2004",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_04-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_04/",
+      "label": "Instagram hashtag for MARS_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_04/images/MARS_04-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_04-octobre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_04-octobre2020.jpg",
+      "caption": "photo octobre 2020 (instagram @4lfr3dn3wm4d)",
+      "title": "MARS_04-octobre2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_04/images/MARS_04-octobre2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_04-novembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_04-novembre2025.jpg",
+      "caption": "photo novembre 2025 (@n3w3ll)",
+      "title": "MARS_04-novembre2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/MARS/MARS_04/images/MARS_04-novembre2025.jpg"
+    }
+  ]
+}

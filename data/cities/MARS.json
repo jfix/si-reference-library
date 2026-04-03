@@ -1,0 +1,1822 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-03T15:32:11.148Z",
+  "city": "Marseille",
+  "code": "MARS",
+  "totalInvaders": 97,
+  "pagesScraped": 2,
+  "summary": {
+    "city": "Marseille",
+    "code": "MARS",
+    "invasionWaves": 4,
+    "totalInvaders": 97,
+    "totalPoints": 3270,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MARS_01",
+      "points": 10,
+      "poseDate": "24/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_01-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_01-septembre2018.jpg",
+          "title": "MARS_01-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_01-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_01-fevrier2025.jpg",
+          "title": "MARS_01-fevrier2025",
+          "caption": "photo février 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_02",
+      "points": 10,
+      "poseDate": "24/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_02-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_02-septembre2018.jpg",
+          "title": "MARS_02-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_02-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_02-fevrier2025.jpg",
+          "title": "MARS_02-fevrier2025",
+          "caption": "photo février 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_03",
+      "points": 10,
+      "poseDate": "24/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_03-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_03-septembre2018.jpg",
+          "title": "MARS_03-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_03-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_03-fevrier2025.jpg",
+          "title": "MARS_03-fevrier2025",
+          "caption": "photo février 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_04",
+      "points": 10,
+      "poseDate": "24/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_04-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_04-octobre2020.jpg",
+          "title": "MARS_04-octobre2020",
+          "caption": "photo octobre 2020 (instagram @4lfr3dn3wm4d)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_04-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_04-novembre2025.jpg",
+          "title": "MARS_04-novembre2025",
+          "caption": "photo novembre 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_05",
+      "points": 10,
+      "poseDate": "24/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_05-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_05-septembre2018.jpg",
+          "title": "MARS_05-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_05-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_05-janvier2023.jpg",
+          "title": "MARS_05-janvier2023",
+          "caption": "photo janvier 2023 (@utohpist)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_06",
+      "points": 10,
+      "poseDate": "24/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_06-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_06-septembre2018.jpg",
+          "title": "MARS_06-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_06-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_06-novembre2025.jpg",
+          "title": "MARS_06-novembre2025",
+          "caption": "photo novembre 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_07",
+      "points": 10,
+      "poseDate": "25/07/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_07-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_07-septembre2018.jpg",
+          "title": "MARS_07-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_07-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_07-fevrier2025.jpg",
+          "title": "MARS_07-fevrier2025",
+          "caption": "photo février 2025 (@Pak-man)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_08",
+      "points": 10,
+      "poseDate": "25/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_08-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_08-septembre2018.jpg",
+          "title": "MARS_08-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_08-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_08-fevrier2025.jpg",
+          "title": "MARS_08-fevrier2025",
+          "caption": "photo février 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_09",
+      "points": 10,
+      "poseDate": "25/07/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_09-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_09-septembre2018.jpg",
+          "title": "MARS_09-septembre2018",
+          "caption": "photo septembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_09-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_09-aout2022.jpg",
+          "title": "MARS_09-aout2022",
+          "caption": "photo août 2022 (@Larry Poste)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_10",
+      "points": 20,
+      "poseDate": "28/08/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_10-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_10-septembre2018.jpg",
+          "title": "MARS_10-septembre2018",
+          "caption": "photo septembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_11",
+      "points": 10,
+      "poseDate": "28/08/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_11-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_11-septembre2018.jpg",
+          "title": "MARS_11-septembre2018",
+          "caption": "photo septembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_12",
+      "points": 50,
+      "poseDate": "12/08/2014",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_12-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_12-septembre2018.jpg",
+          "title": "MARS_12-septembre2018",
+          "caption": "photo septembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_13",
+      "points": 50,
+      "poseDate": "12/08/2014",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_13-septembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_13-septembre2018.jpg",
+          "title": "MARS_13-septembre2018",
+          "caption": "photo septembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_14",
+      "points": 30,
+      "poseDate": "05/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_14-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_14-aout2020.jpg",
+          "title": "MARS_14-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_15",
+      "points": 30,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_15-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_15-aout2020.jpg",
+          "title": "MARS_15-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_16",
+      "points": 20,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_16-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_16-aout2020.jpg",
+          "title": "MARS_16-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_16-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_16-fevrier2025.jpg",
+          "title": "MARS_16-fevrier2025",
+          "caption": "photo février 2025 (@Vadimz)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_17",
+      "points": 20,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_17-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_17-septembre2024.jpg",
+          "title": "MARS_17-septembre2024",
+          "caption": "photo septembre 2024 (@Toutapied)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_17-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_17-aout2020.jpg",
+          "title": "MARS_17-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_18",
+      "points": 30,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_18-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_18-aout2020.jpg",
+          "title": "MARS_18-aout2020",
+          "caption": "photo aout 2020 (Instagram @freecriqui)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_18-fevrier2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_18-fevrier2024.jpg",
+          "title": "MARS_18-fevrier2024",
+          "caption": "photo février 2024 (@nitram33)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_19",
+      "points": 30,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_19-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_19-aout2020.jpg",
+          "title": "MARS_19-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_19-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_19-novembre2025.jpg",
+          "title": "MARS_19-novembre2025",
+          "caption": "photo novembre 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_20",
+      "points": 50,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_20-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_20-aout2020.jpg",
+          "title": "MARS_20-aout2020",
+          "caption": "photo aout 2020 (Instagram @studio_pixart)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_20-janvier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_20-janvier2025.jpg",
+          "title": "MARS_20-janvier2025",
+          "caption": "photo janvier 2025 (@SHISHI-GAMI)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_21",
+      "points": 50,
+      "poseDate": "06/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_21-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_21-aout2020.jpg",
+          "title": "MARS_21-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_22",
+      "points": 40,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_22-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_22-archive.jpg",
+          "title": "MARS_22-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_23",
+      "points": 30,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_23-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_23-aout2020.jpg",
+          "title": "MARS_23-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_24",
+      "points": 20,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_24-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_24-aout2020.jpg",
+          "title": "MARS_24-aout2020",
+          "caption": "photo aout 2020 (Instagram @graou__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_25",
+      "points": 30,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_25-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_25-aout2020.jpg",
+          "title": "MARS_25-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_26",
+      "points": 20,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_26-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_26-aout2020.jpg",
+          "title": "MARS_26-aout2020",
+          "caption": "photo aout 2020 (Instagram @dunkelzahndunkelzahn)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_27",
+      "points": 50,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_27-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_27-aout2020.jpg",
+          "title": "MARS_27-aout2020",
+          "caption": "photo aout 2020 (Instagram @graou__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_28",
+      "points": 20,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_28-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_28-aout2020.jpg",
+          "title": "MARS_28-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_28-octobre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_28-octobre2023.jpg",
+          "title": "MARS_28-octobre2023",
+          "caption": "photo octobre 2023 (@padremiguel)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_29",
+      "points": 50,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_29-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_29-aout2020.jpg",
+          "title": "MARS_29-aout2020",
+          "caption": "photo aout 2020 (Instagram @street_me_1up)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_30",
+      "points": 30,
+      "poseDate": "07/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_30-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_30-aout2020.jpg",
+          "title": "MARS_30-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_31",
+      "points": 20,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_31-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_31-aout2020.jpg",
+          "title": "MARS_31-aout2020",
+          "caption": "photo aout 2020 (Instagram @princessleia_invaders_addict)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_31-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_31-octobre2024.jpg",
+          "title": "MARS_31-octobre2024",
+          "caption": "photo octobre 2024 (@Palm35)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_32",
+      "points": 40,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_32-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_32-archive.jpg",
+          "title": "MARS_32-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_32-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_32-aout2024.jpg",
+          "title": "MARS_32-aout2024",
+          "caption": "photo août 2024 (@Legsfr)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_33",
+      "points": 20,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_33-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_33-aout2020.jpg",
+          "title": "MARS_33-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_34",
+      "points": 40,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_34-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_34-archive.jpg",
+          "title": "MARS_34-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_35",
+      "points": 40,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_35-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_35-aout2020.jpg",
+          "title": "MARS_35-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_36",
+      "points": 30,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_36-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_36-aout2020.jpg",
+          "title": "MARS_36-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_37",
+      "points": 50,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_37-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_37-aout2020.jpg",
+          "title": "MARS_37-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_38",
+      "points": 20,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_38-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_38-aout2020.jpg",
+          "title": "MARS_38-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_39",
+      "points": 50,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_39-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_39-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_39-archive.jpg",
+          "title": "MARS_39-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_39-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_39-novembre2025.jpg",
+          "title": "MARS_39-novembre2025",
+          "caption": "photo novembre 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_40",
+      "points": 40,
+      "poseDate": "09/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_40-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_40-aout2020.jpg",
+          "title": "MARS_40-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_41",
+      "points": 30,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_41-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_41-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_41-archive.jpg",
+          "title": "MARS_41-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_42",
+      "points": 50,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_42-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_42-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_42-aout2020.jpg",
+          "title": "MARS_42-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_43",
+      "points": 50,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_43-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_43-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_43-archive.jpg",
+          "title": "MARS_43-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_44",
+      "points": 20,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_44-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_44-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_44-aout2020.jpg",
+          "title": "MARS_44-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_45",
+      "points": 20,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_45-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_45-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_45-aout2020.jpg",
+          "title": "MARS_45-aout2020",
+          "caption": "photo aout 2020 (Instagram @__pat__m__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_46",
+      "points": 30,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_46-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_46-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_46-aout2020.jpg",
+          "title": "MARS_46-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_47",
+      "points": 20,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_47-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_47-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_47-aout2020.jpg",
+          "title": "MARS_47-aout2020",
+          "caption": "photo aout 2020 (Instagram @chut_paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_48",
+      "points": 50,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_48/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_48-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_48-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_48-aout2020.jpg",
+          "title": "MARS_48-aout2020",
+          "caption": "photo aout 2020 (Instagram @piop32)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_48-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_48-juin2024.jpg",
+          "title": "MARS_48-juin2024",
+          "caption": "photo juin 2024 (@Zarton)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_49",
+      "points": 30,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_49/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_49-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_49-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_49-aout2020.jpg",
+          "title": "MARS_49-aout2020",
+          "caption": "photo aout 2020 (Instagram @__pat__m__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_50",
+      "points": 40,
+      "poseDate": "10/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_50/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_50-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_50-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_50-archive.jpg",
+          "title": "MARS_50-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_51",
+      "points": 50,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_51/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_51-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_51-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_51-aout2020.jpg",
+          "title": "MARS_51-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_52",
+      "points": 20,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_52/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_52-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_52-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_52-aout2020.jpg",
+          "title": "MARS_52-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_52-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_52-juillet2023.jpg",
+          "title": "MARS_52-juillet2023",
+          "caption": "photo juillet 2023 (@bp78)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_53",
+      "points": 30,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_53/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_53-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_53-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_53-aout2020.jpg",
+          "title": "MARS_53-aout2020",
+          "caption": "photo aout 2020 (Instagram @graou__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_54",
+      "points": 40,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_54/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_54-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_54-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_54-aout2020.jpg",
+          "title": "MARS_54-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_55",
+      "points": 20,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_55/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_55-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_55-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_55-aout2020.jpg",
+          "title": "MARS_55-aout2020",
+          "caption": "photo aout 2020 (Instagram @street_me_1up)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_56",
+      "points": 100,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_56/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_56-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_56-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_56-archive.jpg",
+          "title": "MARS_56-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_57",
+      "points": 30,
+      "poseDate": "11/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_57/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_57-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_57-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_57-archive.jpg",
+          "title": "MARS_57-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_58",
+      "points": 50,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_58/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_58-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_58-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_58-archive.jpg",
+          "title": "MARS_58-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_59",
+      "points": 30,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_59/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_59-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_59-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_59-aout2020.jpg",
+          "title": "MARS_59-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_60",
+      "points": 30,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_60/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_60-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_60-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_60-aout2020.jpg",
+          "title": "MARS_60-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_61",
+      "points": 50,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_61/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_61-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_61-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_61-aout2020.jpg",
+          "title": "MARS_61-aout2020",
+          "caption": "photo aout 2020 (Instagram @si_mania_75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_62",
+      "points": 30,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "septembre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_62/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_62-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_62-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_62-archive.jpg",
+          "title": "MARS_62-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_63",
+      "points": 50,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_63/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_63-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_63-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_63-aout2020.jpg",
+          "title": "MARS_63-aout2020",
+          "caption": "photo aout 2020 (Instagram @chut_paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_64",
+      "points": 20,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_64/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_64-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_64-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_64-aout2020.jpg",
+          "title": "MARS_64-aout2020",
+          "caption": "photo aout 2020 (Instagram @street_me_1up)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_65",
+      "points": 30,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_65/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_65-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_65-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_65-archive.jpg",
+          "title": "MARS_65-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_66",
+      "points": 40,
+      "poseDate": "12/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_66/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_66-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_66-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_66-aout2020.jpg",
+          "title": "MARS_66-aout2020",
+          "caption": "photo aout 2020 (Instagram @chesterlight75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_67",
+      "points": 50,
+      "poseDate": "13/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_67/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_67-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_67-octobre2020-ok.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_67-octobre2020-ok.jpg",
+          "title": "MARS_67-octobre2020-ok",
+          "caption": "photo octobre 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_68",
+      "points": 50,
+      "poseDate": "13/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_68/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_68-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_68-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_68-aout2020.jpg",
+          "title": "MARS_68-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_68-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_68-novembre2025.jpg",
+          "title": "MARS_68-novembre2025",
+          "caption": "photo novembre 2025 (@n3w3ll)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_69",
+      "points": 30,
+      "poseDate": "13/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_69/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_69-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_69-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_69-aout2020.jpg",
+          "title": "MARS_69-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_70",
+      "points": 50,
+      "poseDate": "13/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_70/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_70-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_70-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_70-archive.jpg",
+          "title": "MARS_70-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_71",
+      "points": 40,
+      "poseDate": "13/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_71/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_71-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_71-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_71-archive.jpg",
+          "title": "MARS_71-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_71-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_71-novembre2025.jpg",
+          "title": "MARS_71-novembre2025",
+          "caption": "photo novembre 2025 (@Au.Rythme.Du.Rail)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_72",
+      "points": 30,
+      "poseDate": "14/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_72/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_72-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_72-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_72-aout2020.jpg",
+          "title": "MARS_72-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_73",
+      "points": 100,
+      "poseDate": "14/08/2020",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_73/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_73-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_73-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_73-aout2020.jpg",
+          "title": "MARS_73-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_74",
+      "points": 30,
+      "poseDate": "15/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2023 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_74/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_74-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_74-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_74-archive.jpg",
+          "title": "MARS_74-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_75",
+      "points": 20,
+      "poseDate": "16/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_75/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_75-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_75-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_75-aout2020.jpg",
+          "title": "MARS_75-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_76",
+      "points": 50,
+      "poseDate": "16/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_76/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_76-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_76-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_76-aout2020.jpg",
+          "title": "MARS_76-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_77",
+      "points": 50,
+      "poseDate": "16/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_77/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_77-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_77-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_77-aout2020.jpg",
+          "title": "MARS_77-aout2020",
+          "caption": "photo aout 2020 (Instagram @__pat__m__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_78",
+      "points": 20,
+      "poseDate": "16/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_78/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_78-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_78-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_78-aout2020.jpg",
+          "title": "MARS_78-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_79",
+      "points": 30,
+      "poseDate": "17/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_79/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_79-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_79-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_79-aout2020.jpg",
+          "title": "MARS_79-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_80",
+      "points": 30,
+      "poseDate": "17/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_80/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_80-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_80-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_80-aout2020.jpg",
+          "title": "MARS_80-aout2020",
+          "caption": "photo aout 2020 (Instagram @happyking75)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_80-septembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_80-septembre2023.jpg",
+          "title": "MARS_80-septembre2023",
+          "caption": "photo septembre 2023 (@Doryan_Srg)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_81",
+      "points": 30,
+      "poseDate": "17/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_81/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_81-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_81-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_81-aout2020.jpg",
+          "title": "MARS_81-aout2020",
+          "caption": "photo aout 2020 (Instagram @dunkelzahndunkelzahn)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_82",
+      "points": 20,
+      "poseDate": "17/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_82/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_82-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_82-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_82-aout2020.jpg",
+          "title": "MARS_82-aout2020",
+          "caption": "photo aout 2020 (Instagram @dominvader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_83",
+      "points": 50,
+      "poseDate": "18/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_83/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_83-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_83-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_83-aout2020.jpg",
+          "title": "MARS_83-aout2020",
+          "caption": "photo aout 2020 (Instagram @__pat__m__)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_84",
+      "points": 30,
+      "poseDate": "18/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_84/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_84-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_84-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_84-aout2020.jpg",
+          "title": "MARS_84-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_85",
+      "points": 50,
+      "poseDate": "18/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_85/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_85-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_85-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_85-aout2020.jpg",
+          "title": "MARS_85-aout2020",
+          "caption": "photo aout 2020 (Instagram @dunkelzahndunkelzahn)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_86",
+      "points": 40,
+      "poseDate": "18/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_86/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_86-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_86-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_86-aout2020.jpg",
+          "title": "MARS_86-aout2020",
+          "caption": "photo aout 2020 (Instagram @chris_el_pulpo)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_87",
+      "points": 30,
+      "poseDate": "19/08/2020",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_87/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_87-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_87-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_87-aout2020.jpg",
+          "title": "MARS_87-aout2020",
+          "caption": "photo aout 2020 (Instagram @avengers_427)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_87-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_87-novembre2024.jpg",
+          "title": "MARS_87-novembre2024",
+          "caption": "photo novembre 2024 (@chouchen)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_88",
+      "points": 30,
+      "poseDate": "19/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_88/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_88-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_88-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_88-aout2020.jpg",
+          "title": "MARS_88-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_89",
+      "points": 30,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_89/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_89-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_89-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_89-aout2020.jpg",
+          "title": "MARS_89-aout2020",
+          "caption": "photo aout 2020 (Instagram @zhou.invaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_90",
+      "points": 50,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_90/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_90-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_90-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_90-archive.jpg",
+          "title": "MARS_90-archive",
+          "caption": "photo aout 2020 (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_91",
+      "points": 30,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_91/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_91-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_91-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_91-aout2020.jpg",
+          "title": "MARS_91-aout2020",
+          "caption": "photo aout 2020 (Instagram @claudeterosier)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_92",
+      "points": 30,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_92/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_92-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_92-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_92-aout2020.jpg",
+          "title": "MARS_92-aout2020",
+          "caption": "photo aout 2020 (Instagram @claudeterosier)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_92-avril2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_92-avril2021.jpg",
+          "title": "MARS_92-avril2021",
+          "caption": "photo avril 2021 (@Romco)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_93",
+      "points": 40,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_93/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_93-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_93-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_93-aout2020.jpg",
+          "title": "MARS_93-aout2020",
+          "caption": "photo aout 2020 (Instagram @claudeterosier)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_94",
+      "points": 30,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_94/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_94-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_94-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_94-aout2020.jpg",
+          "title": "MARS_94-aout2020",
+          "caption": "photo aout 2020 (Instagram @claudeterosier)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_94-avril2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_94-avril2021.jpg",
+          "title": "MARS_94-avril2021",
+          "caption": "photo avril 2021 (@Romco)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_95",
+      "points": 30,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_95/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_95-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_95-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_95-aout2020.jpg",
+          "title": "MARS_95-aout2020",
+          "caption": "photo aout 2020 (Instagram @claudeterosier)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_95-avril2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_95-avril2021.jpg",
+          "title": "MARS_95-avril2021",
+          "caption": "photo avril 2021 (@Tortue13007)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_96",
+      "points": 50,
+      "poseDate": "20/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_96/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_96-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MARS/MARS_96-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MARS/MARS_96-aout2020.jpg",
+          "title": "MARS_96-aout2020",
+          "caption": "photo aout 2020 (Instagram @dokin_grenoble)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MARS_97",
+      "points": 40,
+      "poseDate": "25/08/2020",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mars_97/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MARS/MARS_97-grosplan.png",
+      "photos": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_31",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "09/08/2020",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_31-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_31/",
+      "label": "Instagram hashtag for MARS_31"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_31-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_31/images/MARS_31-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_31-aout2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_31-aout2020.jpg",
+      "caption": "photo aout 2020 (Instagram @princessleia_invaders_addict)",
+      "title": "MARS_31-aout2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_31/images/MARS_31-aout2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_31-octobre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_31-octobre2024.jpg",
+      "caption": "photo octobre 2024 (@Palm35)",
+      "title": "MARS_31-octobre2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/MARS/MARS_31/images/MARS_31-octobre2024.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_67",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/08/2020",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2020 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_67-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_67/",
+      "label": "Instagram hashtag for MARS_67"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_67-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_67/images/MARS_67-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_67-octobre2020-ok.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_67-octobre2020-ok.jpg",
+      "caption": "photo octobre 2020 (Instagram @zhou.invaders)",
+      "title": "MARS_67-octobre2020-ok",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_67/images/MARS_67-octobre2020-ok.jpg"
+    }
+  ]
+}

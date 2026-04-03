@@ -1,0 +1,44 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_62",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/08/2020",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "septembre 2022 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_62-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_62/",
+      "label": "Instagram hashtag for MARS_62"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_62-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_62/images/MARS_62-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_62-archive.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_62-archive.jpg",
+      "caption": "photo aout 2020 (@Invader)",
+      "title": "MARS_62-archive",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_62/images/MARS_62-archive.jpg"
+    }
+  ]
+}

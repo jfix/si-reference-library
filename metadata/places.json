@@ -94,6 +94,11 @@
     "country": "United Kingdom",
     "target_count": 193
   },
+  "MARS": {
+    "city": "Marseille",
+    "country": "France",
+    "target_count": 97
+  },
   "CAPF": {
     "city": "Cap Ferret",
     "country": "France",

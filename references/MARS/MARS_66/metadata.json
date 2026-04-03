@@ -1,0 +1,44 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_66",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/08/2020",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2020 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_66-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_66/",
+      "label": "Instagram hashtag for MARS_66"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_66-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_66/images/MARS_66-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_66-aout2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_66-aout2020.jpg",
+      "caption": "photo aout 2020 (Instagram @chesterlight75)",
+      "title": "MARS_66-aout2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_66/images/MARS_66-aout2020.jpg"
+    }
+  ]
+}

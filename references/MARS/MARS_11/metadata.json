@@ -1,0 +1,44 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_11",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "28/08/2004",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_11-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_11/",
+      "label": "Instagram hashtag for MARS_11"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_11-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_11/images/MARS_11-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_11-septembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_11-septembre2018.jpg",
+      "caption": "photo septembre 2018",
+      "title": "MARS_11-septembre2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_11/images/MARS_11-septembre2018.jpg"
+    }
+  ]
+}

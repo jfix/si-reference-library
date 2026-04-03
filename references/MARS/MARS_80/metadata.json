@@ -1,0 +1,54 @@
+{
+  "place_id": "MARS",
+  "invader_id": "MARS_80",
+  "city": "Marseille",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/08/2020",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_80-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MARS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mars_80/",
+      "label": "Instagram hashtag for MARS_80"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MARS/MARS_80-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_80/images/MARS_80-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_80-aout2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_80-aout2020.jpg",
+      "caption": "photo aout 2020 (Instagram @happyking75)",
+      "title": "MARS_80-aout2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_80/images/MARS_80-aout2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MARS/MARS_80-septembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_80-septembre2023.jpg",
+      "caption": "photo septembre 2023 (@Doryan_Srg)",
+      "title": "MARS_80-septembre2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/MARS/MARS_80/images/MARS_80-septembre2023.jpg"
+    }
+  ]
+}
