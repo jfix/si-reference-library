@@ -1,0 +1,54 @@
+{
+  "place_id": "BXL",
+  "invader_id": "BXL_34",
+  "city": "Bruxelles",
+  "country": "Belgium",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/03/2012",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BXL/BXL_34-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BXL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bxl_34/",
+      "label": "Instagram hashtag for BXL_34"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BXL/BXL_34-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_34/images/BXL_34-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BXL/BXL_34-aout2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BXL/BXL_34-aout2022.jpg",
+      "caption": "photo août 2022 (@Zurg)",
+      "title": "BXL_34-aout2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_34/images/BXL_34-aout2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BXL/BXL_34-mars2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BXL/BXL_34-mars2025.jpg",
+      "caption": "photo mars 2025 (@bp78)",
+      "title": "BXL_34-mars2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BXL/BXL_34/images/BXL_34-mars2025.jpg"
+    }
+  ]
+}

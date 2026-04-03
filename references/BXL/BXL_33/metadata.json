@@ -1,0 +1,34 @@
+{
+  "place_id": "BXL",
+  "invader_id": "BXL_33",
+  "city": "Bruxelles",
+  "country": "Belgium",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/03/2012",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mai 2017 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BXL/BXL_33-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BXL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bxl_33/",
+      "label": "Instagram hashtag for BXL_33"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BXL/BXL_33-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_33/images/BXL_33-grosplan.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "BXL",
+  "invader_id": "BXL_11",
+  "city": "Bruxelles",
+  "country": "Belgium",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "09/03/2012",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2017 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BXL/BXL_11-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BXL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bxl_11/",
+      "label": "Instagram hashtag for BXL_11"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BXL/BXL_11-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_11/images/BXL_11-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BXL/BXL_11-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BXL/BXL_11-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "BXL_11-mai2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_11/images/BXL_11-mai2017.jpg"
+    }
+  ]
+}

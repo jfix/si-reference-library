@@ -104,6 +104,11 @@
     "country": "France",
     "target_count": 42
   },
+  "BXL": {
+    "city": "Bruxelles",
+    "country": "Belgium",
+    "target_count": 42
+  },
   "CAPF": {
     "city": "Cap Ferret",
     "country": "France",

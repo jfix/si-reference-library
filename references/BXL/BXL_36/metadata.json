@@ -1,0 +1,44 @@
+{
+  "place_id": "BXL",
+  "invader_id": "BXL_36",
+  "city": "Bruxelles",
+  "country": "Belgium",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/03/2012",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "juin 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BXL/BXL_36-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BXL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bxl_36/",
+      "label": "Instagram hashtag for BXL_36"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BXL/BXL_36-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_36/images/BXL_36-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BXL/BXL_36-juin2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BXL/BXL_36-juin2021.jpg",
+      "caption": "photo d'archive (@Invader)",
+      "title": "BXL_36-juin2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_36/images/BXL_36-juin2021.jpg"
+    }
+  ]
+}

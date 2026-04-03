@@ -1,0 +1,644 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-03T15:37:04.172Z",
+  "city": "Bruxelles",
+  "code": "BXL",
+  "totalInvaders": 42,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Bruxelles",
+    "code": "BXL",
+    "invasionWaves": 2,
+    "totalInvaders": 42,
+    "totalPoints": 1210,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "BXL_01",
+      "points": 30,
+      "poseDate": "08/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_02",
+      "points": 50,
+      "poseDate": "08/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_02-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_02-mai2017.jpg",
+          "title": "BXL_02-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_03",
+      "points": 50,
+      "poseDate": "08/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_03-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_03-mai2017.jpg",
+          "title": "BXL_03-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_03-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_03-mai2025.jpg",
+          "title": "BXL_03-mai2025",
+          "caption": "photo mai 2025 (@Xavier85)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_04",
+      "points": 20,
+      "poseDate": "08/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_05",
+      "points": 50,
+      "poseDate": "08/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_06",
+      "points": 30,
+      "poseDate": "09/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_07",
+      "points": 20,
+      "poseDate": "09/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_07-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_07-mai2017.jpg",
+          "title": "BXL_07-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_08",
+      "points": 30,
+      "poseDate": "09/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_08-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_09",
+      "points": 50,
+      "poseDate": "09/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_09-juillet2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_09-juillet2020.jpg",
+          "title": "BXL_09-juillet2020",
+          "caption": "photo d'archive (@Emiliano)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_10",
+      "points": 20,
+      "poseDate": "09/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_10-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_10-mai2017.jpg",
+          "title": "BXL_10-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_11",
+      "points": 50,
+      "poseDate": "09/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_11-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_11-mai2017.jpg",
+          "title": "BXL_11-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_12",
+      "points": 20,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_13",
+      "points": 30,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_14",
+      "points": 30,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_14-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_15",
+      "points": 20,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_16",
+      "points": 30,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_16-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_17",
+      "points": 20,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_17-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_17-mai2017.jpg",
+          "title": "BXL_17-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_18",
+      "points": 20,
+      "poseDate": "10/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_18-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_19",
+      "points": 20,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_19-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_20",
+      "points": 20,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_20-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_20-mai2017.jpg",
+          "title": "BXL_20-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_21",
+      "points": 30,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_21-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_21-mai2017.jpg",
+          "title": "BXL_21-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_22",
+      "points": 50,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_22-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_22-mai2024.jpg",
+          "title": "BXL_22-mai2024",
+          "caption": "photo d'archive (@Alexandre Feuvrier)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_23",
+      "points": 20,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "août 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_23-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_23-mai2017.jpg",
+          "title": "BXL_23-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_23-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_23-aout2022.jpg",
+          "title": "BXL_23-aout2022",
+          "caption": "photo août 2022 (@Zurg)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_24",
+      "points": 30,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_24-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_24-juillet2023.jpg",
+          "title": "BXL_24-juillet2023",
+          "caption": "photo juillet 2023 (@Anatolef)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_25",
+      "points": 20,
+      "poseDate": "11/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_25-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_25-mai2017.jpg",
+          "title": "BXL_25-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_26",
+      "points": 20,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_26-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_27",
+      "points": 20,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_27-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_27-mai2017.jpg",
+          "title": "BXL_27-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_28",
+      "points": 20,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_28-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_28-mai2017.jpg",
+          "title": "BXL_28-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_29",
+      "points": 30,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_29-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_29-mai2017.jpg",
+          "title": "BXL_29-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_30",
+      "points": 30,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_30-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_30-mai2017.jpg",
+          "title": "BXL_30-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_31",
+      "points": 20,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_31-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_32",
+      "points": 20,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_32-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_32-mai2017.jpg",
+          "title": "BXL_32-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_33",
+      "points": 30,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_33-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_34",
+      "points": 20,
+      "poseDate": "12/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_34-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_34-aout2022.jpg",
+          "title": "BXL_34-aout2022",
+          "caption": "photo août 2022 (@Zurg)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_34-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_34-mars2025.jpg",
+          "title": "BXL_34-mars2025",
+          "caption": "photo mars 2025 (@bp78)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_35",
+      "points": 20,
+      "poseDate": "13/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_35-juin2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_35-juin2020.jpg",
+          "title": "BXL_35-juin2020",
+          "caption": "photo juin 2020 (@pat_m_paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_36",
+      "points": 20,
+      "poseDate": "13/03/2012",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juin 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_36-juin2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_36-juin2021.jpg",
+          "title": "BXL_36-juin2021",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_37",
+      "points": 20,
+      "poseDate": "13/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_37-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_37-mai2017.jpg",
+          "title": "BXL_37-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_38",
+      "points": 20,
+      "poseDate": "14/03/2012",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_38-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_38-mai2017.jpg",
+          "title": "BXL_38-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_39",
+      "points": 50,
+      "poseDate": "14/03/2012",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_39-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BXL_40",
+      "points": 30,
+      "poseDate": "15/03/2012",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_40-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_40-mai2017.jpg",
+          "title": "BXL_40-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_40-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_40-juillet2025.jpg",
+          "title": "BXL_40-juillet2025",
+          "caption": "photo juillet 2025 (@Beunoyt)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_41",
+      "points": 50,
+      "poseDate": "05/07/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_41-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_41-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_41-aout2022.jpg",
+          "title": "BXL_41-aout2022",
+          "caption": "photo août 2022 (@Zurg)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BXL_42",
+      "points": 30,
+      "poseDate": "05/07/2022",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bxl_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BXL/BXL_42-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BXL/BXL_42-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BXL/BXL_42-aout2022.jpg",
+          "title": "BXL_42-aout2022",
+          "caption": "photo août 2022 (@Zurg)"
+        }
+      ]
+    }
+  ]
+}
