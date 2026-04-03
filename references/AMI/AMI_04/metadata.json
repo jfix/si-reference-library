@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ami_04/",
       "label": "Instagram hashtag for AMI_04"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for AMI_04",
+      "file_path": "Screenshot_20250621-103505.png"
     }
   ],
   "images": [
@@ -49,6 +54,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/AMI/AMI_04/images/AMI_04-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/AMI_04/Screenshot_20250621-103505-crop.png",
+      "title": "Screenshot_20250621-103505-crop.png"
     }
   ]
 }

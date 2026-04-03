@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/pa_825/",
       "label": "Instagram hashtag for PA_825"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for PA_825",
+      "file_path": "Screenshot_20250712-140602.png"
     }
   ],
   "images": [
@@ -49,6 +54,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_825/images/PA_0825-juillet2015.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PA_825/Screenshot_20250712-140602-crop.png",
+      "title": "Screenshot_20250712-140602-crop.png"
     }
   ]
 }

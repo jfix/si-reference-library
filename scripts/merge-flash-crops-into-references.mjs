@@ -25,9 +25,6 @@ async function main() {
       if (!metadata) continue;
 
       const images = Array.isArray(metadata.images) ? metadata.images : [];
-      const hasUsableReference = images.some((image) => image?.contains_invader === true && image?.role !== 'grosplan');
-      if (hasUsableReference) continue;
-
       const sources = Array.isArray(metadata.sources) ? metadata.sources : [];
       let changed = false;
       let addedForInvader = 0;
