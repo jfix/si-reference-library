@@ -54,6 +54,21 @@
     "country": "France",
     "target_count": 3
   },
+  "NOO": {
+    "city": "Noordwijk",
+    "country": "Netherlands",
+    "target_count": 10
+  },
+  "PA": {
+    "city": "Paris",
+    "country": "France",
+    "target_count": 1561
+  },
+  "PAU": {
+    "city": "Pau",
+    "country": "France",
+    "target_count": 10
+  },
   "RN": {
     "city": "Rennes",
     "country": "France",
@@ -119,6 +134,11 @@
     "country": "Mexico",
     "target_count": 3
   },
+  "BT": {
+    "city": "Bhutan",
+    "country": "Bhutan",
+    "target_count": 11
+  },
   "GRU": {
     "city": "Grude",
     "country": "Bosnia and Herzegovina",
@@ -143,6 +163,11 @@
     "city": "Lille",
     "country": "France",
     "target_count": 6
+  },
+  "MBSA": {
+    "city": "Mombasa",
+    "country": "Kenya",
+    "target_count": 10
   },
   "TLS": {
     "city": "Toulouse",
@@ -153,31 +178,6 @@
     "city": "Valmorel",
     "country": "France",
     "target_count": 3
-  },
-  "GRU": {
-    "city": "Grude",
-    "country": "Bosnia and Herzegovina",
-    "target_count": 3
-  },
-  "ANZR": {
-    "city": "Anzère",
-    "country": "Switzerland",
-    "target_count": 4
-  },
-  "MRAK": {
-    "city": "Marrakech",
-    "country": "Morocco",
-    "target_count": 4
-  },
-  "DHK": {
-    "city": "Dhaka",
-    "country": "Bangladesh",
-    "target_count": 6
-  },
-  "LIL": {
-    "city": "Lille",
-    "country": "France",
-    "target_count": 6
   },
   "MTB": {
     "city": "Montauban",
