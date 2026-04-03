@@ -29,9 +29,12 @@ async function main() {
     let totalInvaders = targetCount;
     let cityName = cityIndexEntry?.city ?? placeEntry?.city ?? null;
     let citySummary = null;
-    const maxPages = targetCount ? Math.ceil(targetCount / PAGE_SIZE) : 25;
+    const discoveredMaxPages = targetCount ? Math.ceil(targetCount / PAGE_SIZE) : 25;
+    const startPage = options.startPage;
+    const maxPages = Math.min(discoveredMaxPages, options.maxPages ? startPage + options.maxPages - 1 : discoveredMaxPages);
 
-    for (let pageNumber = 1; pageNumber <= maxPages; pageNumber += 1) {
+    for (let pageNumber = startPage; pageNumber <= maxPages; pageNumber += 1) {
+      console.log(`Fetching ${options.code} page ${pageNumber}/${discoveredMaxPages}`);
       const pageResult = await fetchCityPage(page, options.code, pageNumber);
       if (pageResult.invaders.length === 0) {
         break;
@@ -77,6 +80,10 @@ async function main() {
 
     await fs.mkdir(CITY_OUTPUT_DIR, { recursive: true });
     const outputPath = path.join(CITY_OUTPUT_DIR, `${options.code}.json`);
+    const existingOutput = await loadJson(outputPath).catch(() => null);
+    if (invaders.length === 0 && existingOutput?.invaders?.length > 0) {
+      throw new Error(`Refusing to overwrite ${outputPath} with zero invaders; keeping existing scrape output`);
+    }
     await fs.writeFile(outputPath, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
     console.log(`Wrote ${invaders.length} invaders to ${outputPath}`);
 
@@ -98,6 +105,8 @@ function parseArgs(args) {
     code: null,
     syncReferences: false,
     downloadImages: false,
+    startPage: 1,
+    maxPages: null,
   };
 
   for (const arg of args) {
@@ -116,6 +125,16 @@ function parseArgs(args) {
       continue;
     }
 
+    if (arg.startsWith('--start-page=')) {
+      options.startPage = parsePositiveInteger(arg.split('=')[1], '--start-page');
+      continue;
+    }
+
+    if (arg.startsWith('--max-pages=')) {
+      options.maxPages = parsePositiveInteger(arg.split('=')[1], '--max-pages');
+      continue;
+    }
+
     throw new Error(`Unknown argument: ${arg}`);
   }
 
@@ -126,10 +145,18 @@ function parseArgs(args) {
   return options;
 }
 
+function parsePositiveInteger(value, flagName) {
+  const parsed = Number.parseInt(value, 10);
+  if (!Number.isFinite(parsed) || parsed <= 0) {
+    throw new Error(`${flagName} must be a positive integer`);
+  }
+  return parsed;
+}
+
 async function fetchCityPage(page, code, pageNumber) {
   await page.goto(CITY_INDEX_URL, { waitUntil: 'networkidle' });
   await page.evaluate(
-    ({ cityCode, pageValue }) => {
+    ({ cityCode, pageValue, pageSize }) => {
       const form = document.forms.recherche ?? document.querySelector('form[name="recherche"]');
       if (!form) {
         throw new Error('City search form not found');
@@ -149,11 +176,11 @@ async function fetchCityPage(page, code, pageNumber) {
       ensureHidden('ville', cityCode);
       ensureHidden('arron', '00');
       ensureHidden('mode', 'lst');
-      ensureHidden('rang', '10');
+      ensureHidden('rang', String(pageSize));
       ensureHidden('page', String(pageValue));
       form.submit();
     },
-    { cityCode: code, pageValue: pageNumber },
+    { cityCode: code, pageValue: pageNumber, pageSize: PAGE_SIZE },
   );
 
   await page.waitForURL((url) => url.href.includes('listing.php'));

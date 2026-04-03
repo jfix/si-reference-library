@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_118",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "09/11/1998",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "octobre 2025",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0118-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_118/",
+      "label": "Instagram hashtag for PA_118"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0118-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0118-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0118-juin2018.jpg",
+      "caption": "photo juin 2018",
+      "title": "PA_0118-juin2018",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0118-octobre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0118-octobre2025.jpg",
+      "caption": "photo octobre 2025 (@NewSpotter)",
+      "title": "PA_0118-octobre2025",
+      "role": "reference",
+      "contains_invader": true
+    }
+  ]
+}

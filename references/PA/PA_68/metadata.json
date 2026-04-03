@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_68",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/06/1998",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0068-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_68/",
+      "label": "Instagram hashtag for PA_68"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0068-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0068-decembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0068-decembre2018.jpg",
+      "caption": "photo décembre 2018",
+      "title": "PA_0068-decembre2018",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0068-mars2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0068-mars2026.jpg",
+      "caption": "photo mars 2026 (@WILSA_1)",
+      "title": "PA_0068-mars2026",
+      "role": "status-empty-scene",
+      "contains_invader": false
+    }
+  ]
+}

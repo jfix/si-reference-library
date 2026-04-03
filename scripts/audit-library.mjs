@@ -131,9 +131,14 @@ async function scanReferences() {
         }
 
         const localPath = image.local_path;
-        if (!localPath) {
+        const remoteUrl = image.url ?? image.preview_url ?? null;
+        if (!localPath && !remoteUrl) {
           cityStats.issue_count += 1;
-          invaderIssues.push(issue(invaderId, placeId, 'warning', 'missing_local_path', 'an image is missing local_path'));
+          invaderIssues.push(issue(invaderId, placeId, 'warning', 'missing_asset_locator', 'an image is missing both local_path and url'));
+          continue;
+        }
+
+        if (!localPath) {
           continue;
         }
 

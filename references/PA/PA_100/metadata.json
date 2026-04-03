@@ -1,0 +1,51 @@
+{
+  "place_id": "PA",
+  "invader_id": "PA_100",
+  "city": "Paris",
+  "country": "France",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "03/10/1998",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_0100-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/pa_100/",
+      "label": "Instagram hashtag for PA_100"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PA/PA_0100-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0100-decembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0100-decembre2024.jpg",
+      "caption": "photo décembre 2024 (@Doud)",
+      "title": "PA_0100-decembre2024",
+      "role": "reference",
+      "contains_invader": true
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0100-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0100-aout2025.jpg",
+      "caption": "photo août 2025 (@r4y.paris)",
+      "title": "PA_0100-aout2025",
+      "role": "reference",
+      "contains_invader": true
+    }
+  ]
+}
