@@ -1,0 +1,54 @@
+{
+  "place_id": "VRS",
+  "invader_id": "VRS_19",
+  "city": "Versailles",
+  "country": "France",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "05/09/2017",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "juin 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VRS/VRS_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VRS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vrs_19/",
+      "label": "Instagram hashtag for VRS_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VRS/VRS_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VRS/VRS_19/images/VRS_19-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VRS/VRS_19-septembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VRS/VRS_19-septembre2017.jpg",
+      "caption": "photo septembre 2017",
+      "title": "VRS_19-septembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VRS/VRS_19/images/VRS_19-septembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VRS/VRS_19-juin2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VRS/VRS_19-juin2023.jpg",
+      "caption": "photo juin 2023 (@bp78)",
+      "title": "VRS_19-juin2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VRS/VRS_19/images/VRS_19-juin2023.jpg"
+    }
+  ]
+}

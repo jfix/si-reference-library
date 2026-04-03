@@ -1,0 +1,44 @@
+{
+  "place_id": "VRS",
+  "invader_id": "VRS_28",
+  "city": "Versailles",
+  "country": "France",
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/02/2019",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2019 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VRS/VRS_28-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VRS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vrs_28/",
+      "label": "Instagram hashtag for VRS_28"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VRS/VRS_28-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VRS/VRS_28/images/VRS_28-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VRS/VRS_28-mai2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VRS/VRS_28-mai2019.jpg",
+      "caption": "photo mai 2019",
+      "title": "VRS_28-mai2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VRS/VRS_28/images/VRS_28-mai2019.jpg"
+    }
+  ]
+}
