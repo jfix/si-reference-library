@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/PA/PA_0800-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_800/images/PA_0800-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo avril 2015",
       "title": "PA_0800-avril2015",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_800/images/PA_0800-avril2015.jpg"
     },
     {
       "type": "invader-spotter-photo",
@@ -45,7 +47,8 @@
       "caption": "photo mars 2026 (@VDDUKE)",
       "title": "PA_0800-mars2026",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_800/images/PA_0800-mars2026.jpg"
     }
   ]
 }

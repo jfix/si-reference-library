@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/PA/PA_0239-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_239/images/PA_0239-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo novembre 2024 (@NewSpotter) - nouvelle configuration",
       "title": "PA_0239-novembre2024",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_239/images/PA_0239-novembre2024.jpg"
     }
   ]
 }

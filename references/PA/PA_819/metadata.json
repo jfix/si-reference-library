@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/PA/PA_0819-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_819/images/PA_0819-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo mars 2015",
       "title": "PA_0819-mars2015",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_819/images/PA_0819-mars2015.jpg"
     },
     {
       "type": "invader-spotter-photo",
@@ -45,7 +47,8 @@
       "caption": "photo janvier 2021 (@Raphystole)",
       "title": "PA_0819-janvier2021",
       "role": "status-empty-scene",
-      "contains_invader": false
+      "contains_invader": false,
+      "local_path": "references/PA/PA_819/images/PA_0819-janvier2021.jpg"
     }
   ]
 }

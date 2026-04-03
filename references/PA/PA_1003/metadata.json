@@ -27,7 +27,8 @@
       "type": "invader-spotter-grosplan",
       "url": "https://www.invader-spotter.art/grosplan/PA/PA_1003-grosplan.png",
       "role": "grosplan",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1003/images/PA_1003-grosplan.png"
     },
     {
       "type": "invader-spotter-photo",
@@ -36,7 +37,8 @@
       "caption": "photo mars 2021 (@bp78)",
       "title": "PA_1003-mars2021",
       "role": "reference",
-      "contains_invader": true
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1003/images/PA_1003-mars2021.jpg"
     },
     {
       "type": "invader-spotter-photo",
@@ -45,7 +47,8 @@
       "caption": "photo septembre 2021 (@Luluchu)",
       "title": "PA_1003-septembre2021",
       "role": "status-empty-scene",
-      "contains_invader": false
+      "contains_invader": false,
+      "local_path": "references/PA/PA_1003/images/PA_1003-septembre2021.jpg"
     }
   ]
 }
