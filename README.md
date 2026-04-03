@@ -111,3 +111,19 @@ npm run instagram:scrape -- aix_06 --limit=12 --download
 ```
 
 This writes results under `data/instagram/<tag>/`.
+
+## Audit
+
+Run a reference-library audit to measure:
+
+- city coverage against the scraped city list
+- live-feed overlap against `collect-si-live-data`
+- per-invader metadata and asset quality issues
+
+```bash
+npm run audit:library
+```
+
+This writes:
+
+- `data/audits/reference-library-audit.json`

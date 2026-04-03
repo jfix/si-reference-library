@@ -9,6 +9,7 @@
   },
   "scripts": {
     "check": "node --eval \"console.log('si-reference-library ready')\"",
+    "audit:library": "node scripts/audit-library.mjs",
     "build:library-index": "node scripts/build-library-index.mjs",
     "scrape:cities": "node scripts/scrape-cities.mjs",
     "scrape:city": "node scripts/scrape-city.mjs",
