@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mars_97/",
       "label": "Instagram hashtag for MARS_97"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for MARS_97",
+      "file_path": "Screenshot_20260123-180017.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/MARS/MARS_97/images/MARS_97-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/MARS_97/Screenshot_20260123-180017-crop.png",
+      "title": "Screenshot_20260123-180017-crop.png"
     }
   ]
 }

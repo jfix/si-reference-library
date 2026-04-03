@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bxl_01/",
       "label": "Instagram hashtag for BXL_01"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for BXL_01",
+      "file_path": "Screenshot_20260103-152802.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/BXL/BXL_01/images/BXL_01-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/BXL_01/Screenshot_20260103-152802-crop.png",
+      "title": "Screenshot_20260103-152802-crop.png"
     }
   ]
 }

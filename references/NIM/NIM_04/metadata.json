@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/nim_04/",
       "label": "Instagram hashtag for NIM_04"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for NIM_04",
+      "file_path": "Screenshot_20251114-124614.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/NIM/NIM_04/images/NIM_04-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/NIM_04/Screenshot_20251114-124614-crop.png",
+      "title": "Screenshot_20251114-124614-crop.png"
     }
   ]
 }
