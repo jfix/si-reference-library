@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rtd_16/",
       "label": "Instagram hashtag for RTD_16"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for RTD_16",
+      "file_path": "Screenshot_20241228-123517.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/RTD/RTD_16/images/RTD_16-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_16/images/Screenshot_20241228-123517-crop.png",
+      "title": "Screenshot_20241228-123517-crop.png"
     }
   ]
 }

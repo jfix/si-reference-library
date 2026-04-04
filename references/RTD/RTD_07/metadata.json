@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rtd_07/",
       "label": "Instagram hashtag for RTD_07"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for RTD_07",
+      "file_path": "Screenshot_20241228-122630.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for RTD_07",
+      "file_path": "Screenshot_20241228-122636.png"
     }
   ],
   "images": [
@@ -29,6 +39,20 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/RTD/RTD_07/images/RTD_07-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_07/images/Screenshot_20241228-122630-crop.png",
+      "title": "Screenshot_20241228-122630-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_07/images/Screenshot_20241228-122636-crop.png",
+      "title": "Screenshot_20241228-122636-crop.png"
     }
   ]
 }
