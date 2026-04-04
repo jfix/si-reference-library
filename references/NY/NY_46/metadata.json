@@ -1,0 +1,34 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_46",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/06/2003",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2017 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_046-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_46/",
+      "label": "Instagram hashtag for NY_46"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_046-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_46/images/NY_046-grosplan.png"
+    }
+  ]
+}

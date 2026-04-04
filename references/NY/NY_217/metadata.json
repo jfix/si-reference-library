@@ -1,0 +1,44 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_217",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/08/2019",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_217-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_217/",
+      "label": "Instagram hashtag for NY_217"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_217-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_217/images/NY_217-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_217-juin2025-2.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_217-juin2025-2.jpg",
+      "caption": "photo d'archive (@stellabella824)",
+      "title": "NY_217-juin2025-2",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_217/images/NY_217-juin2025-2.jpg"
+    }
+  ]
+}

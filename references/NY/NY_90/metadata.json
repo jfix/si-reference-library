@@ -1,0 +1,44 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_90",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/11/2007",
+  "last_known_state": "Non visible",
+  "last_seen_source": "mars 2016 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_090-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_90/",
+      "label": "Instagram hashtag for NY_90"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_090-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_90/images/NY_090-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_090-mars2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_090-mars2016.jpg",
+      "caption": "photo mars 2016",
+      "title": "NY_090-mars2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_90/images/NY_090-mars2016.jpg"
+    }
+  ]
+}

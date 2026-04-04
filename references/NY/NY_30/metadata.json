@@ -1,0 +1,54 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_30",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/02/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_030-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_30/",
+      "label": "Instagram hashtag for NY_30"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_030-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_30/images/NY_030-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_030-avril2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_030-avril2023.jpg",
+      "caption": "photo avril 2023 (@Zellid)",
+      "title": "NY_030-avril2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_30/images/NY_030-avril2023.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_030-avril2023-ko.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_030-avril2023-ko.jpg",
+      "caption": "photo avril 2023 (@r4y.paris)",
+      "title": "NY_030-avril2023-ko",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/NY/NY_30/images/NY_030-avril2023-ko.jpg"
+    }
+  ]
+}

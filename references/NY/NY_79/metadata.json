@@ -1,0 +1,54 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_79",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/07/2003",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "novembre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_079-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_79/",
+      "label": "Instagram hashtag for NY_79"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_079-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_79/images/NY_079-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_079-mars2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_079-mars2016.jpg",
+      "caption": "photo mars 2016",
+      "title": "NY_079-mars2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_79/images/NY_079-mars2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_079-novembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_079-novembre2024.jpg",
+      "caption": "photo novembre 2024 (@Thieum73)",
+      "title": "NY_079-novembre2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_79/images/NY_079-novembre2024.jpg"
+    }
+  ]
+}

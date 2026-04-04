@@ -1,0 +1,2936 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:55:56.466Z",
+  "city": "New York",
+  "code": "NY",
+  "totalInvaders": 219,
+  "pagesScraped": 5,
+  "summary": {
+    "city": "New York",
+    "code": "NY",
+    "invasionWaves": 8,
+    "totalInvaders": 219,
+    "totalPoints": 6760,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "NY_01",
+      "points": 10,
+      "poseDate": "20/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_001-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_02",
+      "points": 10,
+      "poseDate": "20/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_002-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_03",
+      "points": 10,
+      "poseDate": "20/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_003-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_04",
+      "points": 10,
+      "poseDate": "20/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_004-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_05",
+      "points": 10,
+      "poseDate": "21/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_005-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_06",
+      "points": 20,
+      "poseDate": "21/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_006-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_07",
+      "points": 10,
+      "poseDate": "21/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_007-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_08",
+      "points": 20,
+      "poseDate": "21/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_008-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_09",
+      "points": 50,
+      "poseDate": "22/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_009-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_10",
+      "points": 20,
+      "poseDate": "22/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_010-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_010-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_010-juillet2025.jpg",
+          "title": "NY_010-juillet2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_100",
+      "points": 50,
+      "poseDate": "03/12/2007",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_100/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_100-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_100-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_100-mars2016.jpg",
+          "title": "NY_100-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_100-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_100-novembre2024.jpg",
+          "title": "NY_100-novembre2024",
+          "caption": "photo novembre 2024 (@Shootagain)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_101",
+      "points": 10,
+      "poseDate": "03/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_101/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_101-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_101-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_101-aout2023.jpg",
+          "title": "NY_101-aout2023",
+          "caption": "photo août 2023 (@flash_in_the_city)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_101-octobre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_101-octobre2025.jpg",
+          "title": "NY_101-octobre2025",
+          "caption": "photo octobre 2025 (@Michael Busch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_102",
+      "points": 10,
+      "poseDate": "03/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_102/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_102-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_102-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_102-mars2016.jpg",
+          "title": "NY_102-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_103",
+      "points": 30,
+      "poseDate": "04/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_103/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_103-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_103-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_103-archive.jpg",
+          "title": "NY_103-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_103-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_103-mars2023.jpg",
+          "title": "NY_103-mars2023",
+          "caption": "photo mars 2023 (@RogerThat)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_105",
+      "points": 30,
+      "poseDate": "04/12/2007",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_105/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_105-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_105-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_105-juillet2025.jpg",
+          "title": "NY_105-juillet2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_106",
+      "points": 20,
+      "poseDate": "04/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_106/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_106-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_106-mai2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_106-mai2022.jpg",
+          "title": "NY_106-mai2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_107",
+      "points": 30,
+      "poseDate": "05/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_107/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_107-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_107-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_107-mars2016.jpg",
+          "title": "NY_107-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_108",
+      "points": 30,
+      "poseDate": "05/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_108/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_108-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_109",
+      "points": 20,
+      "poseDate": "05/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_109/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_109-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_11",
+      "points": 20,
+      "poseDate": "22/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_011-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_110",
+      "points": 20,
+      "poseDate": "05/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_110/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_110-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_110-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_110-archive.jpg",
+          "title": "NY_110-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_110-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_110-juin2025.jpg",
+          "title": "NY_110-juin2025",
+          "caption": "photo juin 2025 (@Hyenek)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_111",
+      "points": 30,
+      "poseDate": "06/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_111/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_111-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_111-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_111-mars2016.jpg",
+          "title": "NY_111-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_111-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_111-juin2024.jpg",
+          "title": "NY_111-juin2024",
+          "caption": "photo juin 2024 (@Barmok)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_112",
+      "points": 30,
+      "poseDate": "06/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_112/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_112-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_112-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_112-mars2016.jpg",
+          "title": "NY_112-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_113",
+      "points": 30,
+      "poseDate": "06/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_113/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_113-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_113-avril2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_113-avril2022.jpg",
+          "title": "NY_113-avril2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_114",
+      "points": 30,
+      "poseDate": "23/06/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_114/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_114-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_115",
+      "points": 20,
+      "poseDate": "25/06/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_115/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_115-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_115-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_115-mars2016.jpg",
+          "title": "NY_115-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_115-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_115-juin2024.jpg",
+          "title": "NY_115-juin2024",
+          "caption": "photo juin 2024 (@chrb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_116",
+      "points": 20,
+      "poseDate": "25/06/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_116/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_116-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_116-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_116-mars2024.jpg",
+          "title": "NY_116-mars2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_117",
+      "points": 20,
+      "poseDate": "26/06/2009",
+      "lastKnownState": "Non visible",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_117/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_117-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_117-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_117-aout2024.jpg",
+          "title": "NY_117-aout2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_118",
+      "points": 30,
+      "poseDate": "27/06/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2021 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_118/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_118-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_118-aout2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_118-aout2021.jpg",
+          "title": "NY_118-aout2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_119",
+      "points": 10,
+      "poseDate": "28/06/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_119/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_119-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_119-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_119-avril2023.jpg",
+          "title": "NY_119-avril2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_12",
+      "points": 10,
+      "poseDate": "22/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_012-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_120",
+      "points": 20,
+      "poseDate": "29/06/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_120/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_120-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_120-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_120-mars2024.jpg",
+          "title": "NY_120-mars2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_122",
+      "points": 20,
+      "poseDate": "27/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_122/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_122-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_123",
+      "points": 30,
+      "poseDate": "27/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_123/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_123-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_125",
+      "points": 30,
+      "poseDate": "27/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_125/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_125-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_125-novembre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_125-novembre2021.jpg",
+          "title": "NY_125-novembre2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_127",
+      "points": 50,
+      "poseDate": "27/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_127/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_127-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_129",
+      "points": 30,
+      "poseDate": "28/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_129/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_129-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_13",
+      "points": 10,
+      "poseDate": "23/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_013-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_130",
+      "points": 100,
+      "poseDate": "28/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_130/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_130-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_133",
+      "points": 30,
+      "poseDate": "29/10/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_133/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_133-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_136",
+      "points": 100,
+      "poseDate": "01/11/2013",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_136/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_136-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_136-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_136-mars2016.jpg",
+          "title": "NY_136-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_138",
+      "points": 20,
+      "poseDate": "01/11/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_138/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_138-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_14",
+      "points": 10,
+      "poseDate": "23/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_014-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_141",
+      "points": 50,
+      "poseDate": "01/11/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_141/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_141-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_142",
+      "points": 30,
+      "poseDate": "03/11/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_142/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_142-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_145",
+      "points": 50,
+      "poseDate": "03/11/2013",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2015 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_145/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_145-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_147",
+      "points": 50,
+      "poseDate": "08/08/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_147/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_147-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_147-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_147-mars2016.jpg",
+          "title": "NY_147-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_147-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_147-juin2024.jpg",
+          "title": "NY_147-juin2024",
+          "caption": "photo juin 2024 (@Bilou)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_148",
+      "points": 100,
+      "poseDate": "07/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_148/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_148-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_148-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_148-mars2016.jpg",
+          "title": "NY_148-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_148-janvier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_148-janvier2026.jpg",
+          "title": "NY_148-janvier2026",
+          "caption": "photo janvier 2026 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_149",
+      "points": 100,
+      "poseDate": "09/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_149/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_149-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_149-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_149-mars2016.jpg",
+          "title": "NY_149-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_15",
+      "points": 10,
+      "poseDate": "23/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_015-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_150",
+      "points": 50,
+      "poseDate": "09/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_150/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_150-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_150-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_150-mars2016.jpg",
+          "title": "NY_150-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_151",
+      "points": 30,
+      "poseDate": "10/11/2015",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_151/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_151-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_151-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_151-mars2016.jpg",
+          "title": "NY_151-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_152",
+      "points": 50,
+      "poseDate": "11/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_152/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_152-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_152-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_152-mars2016.jpg",
+          "title": "NY_152-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_152-novembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_152-novembre2017.jpg",
+          "title": "NY_152-novembre2017",
+          "caption": "photo novembre 2017 (StreetView)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_153",
+      "points": 100,
+      "poseDate": "11/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_153/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_153-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_153-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_153-mars2016.jpg",
+          "title": "NY_153-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_154",
+      "points": 40,
+      "poseDate": "12/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_154/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_154-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_154-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_154-mars2016.jpg",
+          "title": "NY_154-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_154-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_154-mai2024.jpg",
+          "title": "NY_154-mai2024",
+          "caption": "photo mai 2024 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_155",
+      "points": 50,
+      "poseDate": "12/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2021 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_155/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_155-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_155-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_155-mars2016.jpg",
+          "title": "NY_155-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_156",
+      "points": 100,
+      "poseDate": "12/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_156/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_156-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_156-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_156-mars2016.jpg",
+          "title": "NY_156-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_156-janvier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_156-janvier2026.jpg",
+          "title": "NY_156-janvier2026",
+          "caption": "photo janvier 2026 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_157",
+      "points": 100,
+      "poseDate": "12/11/2015",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_157/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_157-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_157-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_157-mars2016.jpg",
+          "title": "NY_157-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_157-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_157-juillet2025.jpg",
+          "title": "NY_157-juillet2025",
+          "caption": "photo juillet 2025 (@Picasso)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_158",
+      "points": 30,
+      "poseDate": "14/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_158/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_158-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_158-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_158-mars2016.jpg",
+          "title": "NY_158-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_158-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_158-mai2024.jpg",
+          "title": "NY_158-mai2024",
+          "caption": "photo mai 2024 (@Twon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_159",
+      "points": 20,
+      "poseDate": "14/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_159/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_159-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_159-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_159-mars2016.jpg",
+          "title": "NY_159-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_159-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_159-juillet2024.jpg",
+          "title": "NY_159-juillet2024",
+          "caption": "photo juillet 2024 (@JPIV)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_16",
+      "points": 10,
+      "poseDate": "23/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_016-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_160",
+      "points": 50,
+      "poseDate": "14/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_160/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_160-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_160-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_160-mars2016.jpg",
+          "title": "NY_160-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_161",
+      "points": 30,
+      "poseDate": "15/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_161/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_161-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_161-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_161-mars2016.jpg",
+          "title": "NY_161-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_161-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_161-avril2024.jpg",
+          "title": "NY_161-avril2024",
+          "caption": "photo avril 2024 (@Vicente)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_162",
+      "points": 50,
+      "poseDate": "16/11/2015",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_162/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_162-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_162-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_162-mars2016.jpg",
+          "title": "NY_162-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_162-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_162-mars2026.jpg",
+          "title": "NY_162-mars2026",
+          "caption": "photo mars 2026 (@destreej)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_163",
+      "points": 50,
+      "poseDate": "17/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_163/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_163-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_163-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_163-mars2016.jpg",
+          "title": "NY_163-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_164",
+      "points": 30,
+      "poseDate": "17/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_164/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_164-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_164-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_164-mars2016.jpg",
+          "title": "NY_164-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_164-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_164-juin2024.jpg",
+          "title": "NY_164-juin2024",
+          "caption": "photo juin 2024 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_165",
+      "points": 30,
+      "poseDate": "17/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_165/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_165-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_165-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_165-mars2016.jpg",
+          "title": "NY_165-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_165-septembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_165-septembre2025.jpg",
+          "title": "NY_165-septembre2025",
+          "caption": "photo septembre 2025 (@Yellowait)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_166",
+      "points": 30,
+      "poseDate": "17/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_166/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_166-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_166-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_166-mars2016.jpg",
+          "title": "NY_166-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_166-novembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_166-novembre2022.jpg",
+          "title": "NY_166-novembre2022",
+          "caption": "photo novembre 2022 (@galichonj)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_167",
+      "points": 30,
+      "poseDate": "17/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_167/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_167-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_167-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_167-mars2016.jpg",
+          "title": "NY_167-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_168",
+      "points": 40,
+      "poseDate": "18/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_168/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_168-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_168-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_168-mars2016.jpg",
+          "title": "NY_168-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_168-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_168-mai2024.jpg",
+          "title": "NY_168-mai2024",
+          "caption": "photo mai 2024 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_169",
+      "points": 50,
+      "poseDate": "18/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_169/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_169-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_169-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_169-janvier2023.jpg",
+          "title": "NY_169-janvier2023",
+          "caption": "photo janvier 2023 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_17",
+      "points": 20,
+      "poseDate": "24/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_017-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_017-fevrier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_017-fevrier2021.jpg",
+          "title": "NY_017-fevrier2021",
+          "caption": "photo août 2019 (@Nina)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_170",
+      "points": 50,
+      "poseDate": "19/11/2015",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_170/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_170-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_170-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_170-mars2016.jpg",
+          "title": "NY_170-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_170-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_170-aout2024.jpg",
+          "title": "NY_170-aout2024",
+          "caption": "photo août 2024 (@Astrostellar)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_171",
+      "points": 40,
+      "poseDate": "19/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_171/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_171-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_171-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_171-mars2016.jpg",
+          "title": "NY_171-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_171-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_171-mai2024.jpg",
+          "title": "NY_171-mai2024",
+          "caption": "photo mai 2024 (@cpmdr03)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_172",
+      "points": 40,
+      "poseDate": "19/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_172/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_172-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_172-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_172-mars2016.jpg",
+          "title": "NY_172-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_173",
+      "points": 50,
+      "poseDate": "19/11/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_173/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_173-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_174",
+      "points": 30,
+      "poseDate": "20/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_174/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_174-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_175",
+      "points": 50,
+      "poseDate": "20/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_175/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_175-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_176",
+      "points": 100,
+      "poseDate": "20/11/2015",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_176/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_176-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_176-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_176-mars2016.jpg",
+          "title": "NY_176-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_176-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_176-fevrier2026.jpg",
+          "title": "NY_176-fevrier2026",
+          "caption": "photo février 2026 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_177",
+      "points": 20,
+      "poseDate": "20/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_177/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_177-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_177-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_177-mars2016.jpg",
+          "title": "NY_177-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_177-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_177-mai2024.jpg",
+          "title": "NY_177-mai2024",
+          "caption": "photo mai 2024 (@Byghosta)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_178",
+      "points": 100,
+      "poseDate": "20/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_178/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_178-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_179",
+      "points": 100,
+      "poseDate": "21/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2017 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_179/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_179-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_179-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_179-mars2016.jpg",
+          "title": "NY_179-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_18",
+      "points": 20,
+      "poseDate": "24/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_018-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_180",
+      "points": 50,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_180/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_180-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_180-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_180-mars2016.jpg",
+          "title": "NY_180-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_181",
+      "points": 30,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_181/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_181-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_182",
+      "points": 30,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_182/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_182-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_183",
+      "points": 40,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_183/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_183-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_183-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_183-mars2016.jpg",
+          "title": "NY_183-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_183-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_183-mars2022.jpg",
+          "title": "NY_183-mars2022",
+          "caption": "photo mars 2022 (@Zurg)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_184",
+      "points": 50,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2017 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_184/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_184-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_184-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_184-mars2016.jpg",
+          "title": "NY_184-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_185",
+      "points": 30,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_185/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_185-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_185-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_185-mars2016.jpg",
+          "title": "NY_185-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_185-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_185-juin2024.jpg",
+          "title": "NY_185-juin2024",
+          "caption": "photo juin 2024 (@Bilou)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_186",
+      "points": 30,
+      "poseDate": "22/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_186/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_186-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_186-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_186-mars2016.jpg",
+          "title": "NY_186-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_187",
+      "points": 30,
+      "poseDate": "23/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_187/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_187-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_187-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_187-mars2016.jpg",
+          "title": "NY_187-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_188",
+      "points": 30,
+      "poseDate": "23/11/2015",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_188/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_188-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_188-juillet2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_188-juillet2018.jpg",
+          "title": "NY_188-juillet2018",
+          "caption": "photo juillet 2018 (Instagram @herverenouard)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_188-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_188-avril2023.jpg",
+          "title": "NY_188-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_189",
+      "points": 50,
+      "poseDate": "08/05/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_189/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_189-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_189-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_189-archive.jpg",
+          "title": "NY_189-archive",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_19",
+      "points": 20,
+      "poseDate": "25/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_019-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_190",
+      "points": 40,
+      "poseDate": "08/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_190/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_190-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_190-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_190-mars2023.jpg",
+          "title": "NY_190-mars2023",
+          "caption": "photo mars 2023 (@Michael)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_191",
+      "points": 40,
+      "poseDate": "08/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_191/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_191-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_191-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_191-mars2022.jpg",
+          "title": "NY_191-mars2022",
+          "caption": "photo mars 2022 (@Michael)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_192",
+      "points": 50,
+      "poseDate": "10/05/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_192/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_192-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_192-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_192-archive.jpg",
+          "title": "NY_192-archive",
+          "caption": "photo d'archive (Instagram)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_192-avril2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_192-avril2022.jpg",
+          "title": "NY_192-avril2022",
+          "caption": "capture vidéo avril 2022 (@ByArlooo)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_193",
+      "points": 10,
+      "poseDate": "10/05/2016",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_193/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_193-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_193-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_193-archive.jpg",
+          "title": "NY_193-archive",
+          "caption": "photo d'archive (Reddit @Bushleague34)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_193-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_193-octobre2024.jpg",
+          "title": "NY_193-octobre2024",
+          "caption": "photo octobre 2024 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_194",
+      "points": 50,
+      "poseDate": "10/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_194/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_194-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_194-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_194-archive.jpg",
+          "title": "NY_194-archive",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_195",
+      "points": 50,
+      "poseDate": "10/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_195/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_195-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_195-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_195-archive.jpg",
+          "title": "NY_195-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_195-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_195-mai2025.jpg",
+          "title": "NY_195-mai2025",
+          "caption": "photo mai 2025 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_196",
+      "points": 40,
+      "poseDate": "11/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_196/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_196-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_196-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_196-avril2023.jpg",
+          "title": "NY_196-avril2023",
+          "caption": "photo avril 2023 (Instagram @Zellid)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_196-novembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_196-novembre2023.jpg",
+          "title": "NY_196-novembre2023",
+          "caption": "photo novembre 2023 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_197",
+      "points": 40,
+      "poseDate": "11/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_197/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_197-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_197-janvier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_197-janvier2025.jpg",
+          "title": "NY_197-janvier2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_198",
+      "points": 100,
+      "poseDate": "11/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_198/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_198-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_198-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_198-archive.jpg",
+          "title": "NY_198-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_198-archive2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_198-archive2.jpg",
+          "title": "NY_198-archive2",
+          "caption": "photo d'archive (Reddit @Bushleague34)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_199",
+      "points": 50,
+      "poseDate": "11/05/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_199/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_199-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_199-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_199-archive.jpg",
+          "title": "NY_199-archive",
+          "caption": "photo d'archive (Flash Invader App)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_20",
+      "points": 10,
+      "poseDate": "25/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_020-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_200",
+      "points": 40,
+      "poseDate": "12/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_200/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_200-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_200-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_200-mars2023.jpg",
+          "title": "NY_200-mars2023",
+          "caption": "photo mars 2023 (@Michael)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_201",
+      "points": 40,
+      "poseDate": "12/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_201/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_201-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_202",
+      "points": 100,
+      "poseDate": "12/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_202/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_202-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_202-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_202-archive.jpg",
+          "title": "NY_202-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_202-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_202-avril2025.jpg",
+          "title": "NY_202-avril2025",
+          "caption": "photo avril 2025 (@michaelkbusch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_204",
+      "points": 40,
+      "poseDate": "13/05/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "decembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_204/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_204-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_204-novembre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_204-novembre2021.jpg",
+          "title": "NY_204-novembre2021",
+          "caption": "photo novembre 2021 (Instagram @eeid.iled)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_204-decembre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_204-decembre2021.jpg",
+          "title": "NY_204-decembre2021",
+          "caption": "photo décembre2021 (Instagram @frank_steam156)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_206",
+      "points": 50,
+      "poseDate": "15/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2019 (YouTube)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_206/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_206-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_207",
+      "points": 40,
+      "poseDate": "15/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_207/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_207-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_207-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_207-avril2023.jpg",
+          "title": "NY_207-avril2023",
+          "caption": "photo avril 2023 (Instagram @Zellid)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_208",
+      "points": 50,
+      "poseDate": "15/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2021 (YouTube)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_208/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_208-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_208-instagram.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_208-instagram.jpg",
+          "title": "NY_208-instagram",
+          "caption": "photo d'archive (Instagram @aboriginalself)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_209",
+      "points": 40,
+      "poseDate": "16/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_209/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_209-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_209-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_209-archive.jpg",
+          "title": "NY_209-archive",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_21",
+      "points": 20,
+      "poseDate": "25/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_021-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_210",
+      "points": 100,
+      "poseDate": "16/05/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_210/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_210-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_210-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_210-archive.jpg",
+          "title": "NY_210-archive",
+          "caption": "photo d'archive (Instagram @jmosterz126)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_210-fevrier2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_210-fevrier2022.jpg",
+          "title": "NY_210-fevrier2022",
+          "caption": "photo d'archive (Instagram @u.dig_newyorkcity)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_211",
+      "points": 40,
+      "poseDate": "16/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_211/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_211-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_211-instagram.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_211-instagram.jpg",
+          "title": "NY_211-instagram",
+          "caption": "photo d'archive (Instagram @1nonlyabstract)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_212",
+      "points": 50,
+      "poseDate": "17/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_212/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_212-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_212-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_212-archive.jpg",
+          "title": "NY_212-archive",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_213",
+      "points": 40,
+      "poseDate": "18/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_213/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_213-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_214",
+      "points": 50,
+      "poseDate": "18/05/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_214/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_214-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_214-instagram.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_214-instagram.jpg",
+          "title": "NY_214-instagram",
+          "caption": "photo d'archive (Instagram @lost.contr0l)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_215",
+      "points": 40,
+      "poseDate": "18/05/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_215/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_215-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_216",
+      "points": 30,
+      "poseDate": "09/08/2019",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_216/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_216-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_216-aout2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_216-aout2021.jpg",
+          "title": "NY_216-aout2021",
+          "caption": "photo août 2021 (StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_216-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_216-mars2024.jpg",
+          "title": "NY_216-mars2024",
+          "caption": "photo mars 2024 (@Twon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_217",
+      "points": 30,
+      "poseDate": "12/08/2019",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_217/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_217-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_217-juin2025-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_217-juin2025-2.jpg",
+          "title": "NY_217-juin2025-2",
+          "caption": "photo d'archive (@stellabella824)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_218",
+      "points": 30,
+      "poseDate": "13/08/2019",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_218/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_218-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_218-juillet2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_218-juillet2021.jpg",
+          "title": "NY_218-juillet2021",
+          "caption": "photo juillet 2021 (StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_218-janvier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_218-janvier2023.jpg",
+          "title": "NY_218-janvier2023",
+          "caption": "photo janvier 2023 (@Knuelle72)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_219",
+      "points": 30,
+      "poseDate": "13/08/2019",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_219/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_219-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_22",
+      "points": 10,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Inconnu",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_022-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_23",
+      "points": 10,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_023-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_24",
+      "points": 10,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_024-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_25",
+      "points": 10,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_025-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_025-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_025-juillet2023.jpg",
+          "title": "NY_025-juillet2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_26",
+      "points": 20,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_026-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_27",
+      "points": 20,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_027-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_027-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_027-mars2016.jpg",
+          "title": "NY_027-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_027-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_027-juillet2025.jpg",
+          "title": "NY_027-juillet2025",
+          "caption": "photo juillet 2025 (@Michael Busch)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_28",
+      "points": 10,
+      "poseDate": "26/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_028-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_29",
+      "points": 20,
+      "poseDate": "27/02/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2021 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_029-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_029-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_029-mars2016.jpg",
+          "title": "NY_029-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_30",
+      "points": 30,
+      "poseDate": "27/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_030-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_030-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_030-avril2023.jpg",
+          "title": "NY_030-avril2023",
+          "caption": "photo avril 2023 (@Zellid)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_030-avril2023-ko.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_030-avril2023-ko.jpg",
+          "title": "NY_030-avril2023-ko",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_31",
+      "points": 10,
+      "poseDate": "27/02/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2021 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_031-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_031-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_031-mars2016.jpg",
+          "title": "NY_031-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_32",
+      "points": 20,
+      "poseDate": "27/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_032-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_33",
+      "points": 30,
+      "poseDate": "27/02/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_033-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_033-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_033-mars2022.jpg",
+          "title": "NY_033-mars2022",
+          "caption": "photo mars 2022 (@Zurg)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_033-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_033-juillet2023.jpg",
+          "title": "NY_033-juillet2023",
+          "caption": "photo juillet 2023 (@karlix)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_34",
+      "points": 20,
+      "poseDate": "20/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_034-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_35",
+      "points": 10,
+      "poseDate": "20/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_035-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_36",
+      "points": 10,
+      "poseDate": "20/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_036-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_036-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_036-mars2026.jpg",
+          "title": "NY_036-mars2026",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_37",
+      "points": 10,
+      "poseDate": "20/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_037-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_38",
+      "points": 10,
+      "poseDate": "20/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_038-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_038-octobre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_038-octobre2021.jpg",
+          "title": "NY_038-octobre2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_39",
+      "points": 20,
+      "poseDate": "20/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_039-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_039-octobre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_039-octobre2021.jpg",
+          "title": "NY_039-octobre2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_40",
+      "points": 10,
+      "poseDate": "21/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_040-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_41",
+      "points": 10,
+      "poseDate": "21/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2019 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_041-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_42",
+      "points": 30,
+      "poseDate": "22/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2021 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_042-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_042-juillet2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_042-juillet2021.jpg",
+          "title": "NY_042-juillet2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_43",
+      "points": 30,
+      "poseDate": "22/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_043-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_44",
+      "points": 20,
+      "poseDate": "22/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_044-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_45",
+      "points": 20,
+      "poseDate": "23/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2011 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_045-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_46",
+      "points": 10,
+      "poseDate": "23/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2017 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_046-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_47",
+      "points": 10,
+      "poseDate": "23/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_047-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_48",
+      "points": 10,
+      "poseDate": "23/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_48/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_048-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_49",
+      "points": 20,
+      "poseDate": "23/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_49/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_049-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_50",
+      "points": 10,
+      "poseDate": "23/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_50/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_050-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_51",
+      "points": 30,
+      "poseDate": "24/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_51/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_051-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_52",
+      "points": 10,
+      "poseDate": "24/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_52/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_052-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_53",
+      "points": 10,
+      "poseDate": "24/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_53/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_053-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_54",
+      "points": 20,
+      "poseDate": "24/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_54/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_054-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_55",
+      "points": 20,
+      "poseDate": "25/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_55/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_055-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_56",
+      "points": 20,
+      "poseDate": "25/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_56/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_056-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_57",
+      "points": 20,
+      "poseDate": "25/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_57/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_057-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_057-juin2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_057-juin2021.jpg",
+          "title": "NY_057-juin2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_58",
+      "points": 10,
+      "poseDate": "25/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_58/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_058-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_59",
+      "points": 10,
+      "poseDate": "25/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_59/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_059-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_059-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_059-juin2025.jpg",
+          "title": "NY_059-juin2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_60",
+      "points": 10,
+      "poseDate": "26/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_60/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_060-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_61",
+      "points": 10,
+      "poseDate": "26/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_61/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_061-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_62",
+      "points": 20,
+      "poseDate": "26/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_62/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_062-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_63",
+      "points": 10,
+      "poseDate": "26/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_63/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_063-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_64",
+      "points": 10,
+      "poseDate": "26/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_64/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_064-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_064-avril2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_064-avril2022.jpg",
+          "title": "NY_064-avril2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_65",
+      "points": 10,
+      "poseDate": "27/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_65/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_065-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_66",
+      "points": 20,
+      "poseDate": "27/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_66/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_066-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_67",
+      "points": 20,
+      "poseDate": "27/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_67/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_067-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_68",
+      "points": 10,
+      "poseDate": "27/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_68/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_068-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_69",
+      "points": 20,
+      "poseDate": "27/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_69/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_069-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_70",
+      "points": 20,
+      "poseDate": "28/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_70/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_070-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_71",
+      "points": 30,
+      "poseDate": "28/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_71/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_071-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_72",
+      "points": 30,
+      "poseDate": "28/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_72/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_072-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_73",
+      "points": 30,
+      "poseDate": "30/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_73/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_073-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_74",
+      "points": 30,
+      "poseDate": "30/06/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2015 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_74/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_074-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_76",
+      "points": 50,
+      "poseDate": "05/07/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2015 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_76/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_076-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_78",
+      "points": 20,
+      "poseDate": "06/07/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_78/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_078-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_078-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_078-mars2016.jpg",
+          "title": "NY_078-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_078-mai2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_078-mai2021.jpg",
+          "title": "NY_078-mai2021",
+          "caption": "photo mai 2021 (@lavoval)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_79",
+      "points": 20,
+      "poseDate": "06/07/2003",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_79/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_079-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_079-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_079-mars2016.jpg",
+          "title": "NY_079-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_079-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_079-novembre2024.jpg",
+          "title": "NY_079-novembre2024",
+          "caption": "photo novembre 2024 (@Thieum73)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_80",
+      "points": 20,
+      "poseDate": "06/07/2003",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_80/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_080-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_080-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_080-mars2016.jpg",
+          "title": "NY_080-mars2016",
+          "caption": "photo mars 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_080-mai2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_080-mai2021.jpg",
+          "title": "NY_080-mai2021",
+          "caption": "photo mai 2021 (@lavoval)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_86",
+      "points": 30,
+      "poseDate": "28/11/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_86/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_086-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_086-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_086-archive.jpg",
+          "title": "NY_086-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_086-juin2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_086-juin2022.jpg",
+          "title": "NY_086-juin2022",
+          "caption": "photo juin 2022 (@Ptibilou)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_87",
+      "points": 30,
+      "poseDate": "28/11/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_87/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_087-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_88",
+      "points": 20,
+      "poseDate": "29/11/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_88/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_088-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_90",
+      "points": 10,
+      "poseDate": "30/11/2007",
+      "lastKnownState": "Non visible",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_90/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_090-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_090-mars2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_090-mars2016.jpg",
+          "title": "NY_090-mars2016",
+          "caption": "photo mars 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_91",
+      "points": 10,
+      "poseDate": "30/11/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_91/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_091-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_091-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_091-juin2025.jpg",
+          "title": "NY_091-juin2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_92",
+      "points": 10,
+      "poseDate": "30/11/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_92/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_092-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_092-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_092-aout2022.jpg",
+          "title": "NY_092-aout2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_93",
+      "points": 30,
+      "poseDate": "01/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_93/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_093-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_093-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_093-archive.jpg",
+          "title": "NY_093-archive",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_093-juin2025-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_093-juin2025-2.jpg",
+          "title": "NY_093-juin2025-2",
+          "caption": "photo juin 2025 (@Maumaul)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_94",
+      "points": 50,
+      "poseDate": "02/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_94/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_094-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_96",
+      "points": 30,
+      "poseDate": "03/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2014 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_96/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_096-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NY_97",
+      "points": 10,
+      "poseDate": "03/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_97/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_097-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_097-fevrier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_097-fevrier2021.jpg",
+          "title": "NY_097-fevrier2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "NY_99",
+      "points": 20,
+      "poseDate": "03/12/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ny_99/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NY/NY_099-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_099-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_099-avril2023.jpg",
+          "title": "NY_099-avril2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    }
+  ]
+}

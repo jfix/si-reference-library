@@ -1,0 +1,54 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_193",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "10/05/2016",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "octobre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_193-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_193/",
+      "label": "Instagram hashtag for NY_193"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_193-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_193/images/NY_193-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_193-archive.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_193-archive.jpg",
+      "caption": "photo d'archive (Reddit @Bushleague34)",
+      "title": "NY_193-archive",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_193/images/NY_193-archive.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_193-octobre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_193-octobre2024.jpg",
+      "caption": "photo octobre 2024 (@michaelkbusch)",
+      "title": "NY_193-octobre2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_193/images/NY_193-octobre2024.jpg"
+    }
+  ]
+}

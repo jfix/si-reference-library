@@ -184,6 +184,11 @@
     "country": "Germany",
     "target_count": 12
   },
+  "NY": {
+    "city": "New York",
+    "country": "United States",
+    "target_count": 219
+  },
   "BSL": {
     "city": "Basel",
     "country": "Switzerland",

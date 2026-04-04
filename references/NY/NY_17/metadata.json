@@ -1,0 +1,44 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_17",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/02/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "février 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_017-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_17/",
+      "label": "Instagram hashtag for NY_17"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_017-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_17/images/NY_017-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_017-fevrier2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_017-fevrier2021.jpg",
+      "caption": "photo août 2019 (@Nina)",
+      "title": "NY_017-fevrier2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_17/images/NY_017-fevrier2021.jpg"
+    }
+  ]
+}

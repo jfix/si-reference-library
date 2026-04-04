@@ -1,0 +1,54 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_156",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 100,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/11/2015",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "janvier 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_156-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_156/",
+      "label": "Instagram hashtag for NY_156"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_156-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_156/images/NY_156-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_156-mars2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_156-mars2016.jpg",
+      "caption": "photo mars 2016",
+      "title": "NY_156-mars2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_156/images/NY_156-mars2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_156-janvier2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_156-janvier2026.jpg",
+      "caption": "photo janvier 2026 (@michaelkbusch)",
+      "title": "NY_156-janvier2026",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/NY/NY_156/images/NY_156-janvier2026.jpg"
+    }
+  ]
+}

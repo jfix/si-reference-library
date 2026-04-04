@@ -1,0 +1,54 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_162",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "16/11/2015",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "mars 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_162-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_162/",
+      "label": "Instagram hashtag for NY_162"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_162-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_162/images/NY_162-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_162-mars2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_162-mars2016.jpg",
+      "caption": "photo mars 2016",
+      "title": "NY_162-mars2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_162/images/NY_162-mars2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_162-mars2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_162-mars2026.jpg",
+      "caption": "photo mars 2026 (@destreej)",
+      "title": "NY_162-mars2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_162/images/NY_162-mars2026.jpg"
+    }
+  ]
+}

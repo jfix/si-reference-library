@@ -1,0 +1,54 @@
+{
+  "place_id": "NY",
+  "invader_id": "NY_157",
+  "city": "New York",
+  "country": null,
+  "status": "confirmed",
+  "points": 100,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/11/2015",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NY/NY_157-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ny_157/",
+      "label": "Instagram hashtag for NY_157"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NY/NY_157-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_157/images/NY_157-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_157-mars2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_157-mars2016.jpg",
+      "caption": "photo mars 2016",
+      "title": "NY_157-mars2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_157/images/NY_157-mars2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_157-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_157-juillet2025.jpg",
+      "caption": "photo juillet 2025 (@Picasso)",
+      "title": "NY_157-juillet2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_157/images/NY_157-juillet2025.jpg"
+    }
+  ]
+}
