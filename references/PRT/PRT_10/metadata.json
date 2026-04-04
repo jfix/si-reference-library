@@ -1,0 +1,44 @@
+{
+  "place_id": "PRT",
+  "invader_id": "PRT_10",
+  "city": "Perth",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/10/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PRT/PRT_10-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PRT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/prt_10/",
+      "label": "Instagram hashtag for PRT_10"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRT/PRT_10-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_10/images/PRT_10-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRT/PRT_10-november2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRT/PRT_10-november2025.jpg",
+      "caption": "photo d'archive",
+      "title": "PRT_10-november2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_10/images/PRT_10-november2025.jpg"
+    }
+  ]
+}

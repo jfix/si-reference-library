@@ -1,0 +1,44 @@
+{
+  "place_id": "PRT",
+  "invader_id": "PRT_17",
+  "city": "Perth",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/10/2002",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PRT/PRT_17-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PRT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/prt_17/",
+      "label": "Instagram hashtag for PRT_17"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRT/PRT_17-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_17/images/PRT_17-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRT/PRT_17-fevrier2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRT/PRT_17-fevrier2019.jpg",
+      "caption": "photo février 2019",
+      "title": "PRT_17-fevrier2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_17/images/PRT_17-fevrier2019.jpg"
+    }
+  ]
+}

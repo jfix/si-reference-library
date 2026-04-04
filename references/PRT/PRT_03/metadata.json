@@ -1,0 +1,54 @@
+{
+  "place_id": "PRT",
+  "invader_id": "PRT_03",
+  "city": "Perth",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "20/10/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "décembre 2020 (Discord)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PRT/PRT_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PRT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/prt_03/",
+      "label": "Instagram hashtag for PRT_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRT/PRT_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_03/images/PRT_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRT/PRT_03-archive.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRT/PRT_03-archive.jpg",
+      "caption": "photo d'archive (Mark McPherson - Big City Press)",
+      "title": "PRT_03-archive",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_03/images/PRT_03-archive.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRT/PRT_03-octobre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRT/PRT_03-octobre2020.jpg",
+      "caption": "photo octobre 2020 (StreetView)",
+      "title": "PRT_03-octobre2020",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/PRT/PRT_03/images/PRT_03-octobre2020.jpg"
+    }
+  ]
+}

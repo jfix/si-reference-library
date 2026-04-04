@@ -1,0 +1,54 @@
+{
+  "place_id": "PRT",
+  "invader_id": "PRT_13",
+  "city": "Perth",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/10/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "décembre 2020 (Discord)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/PRT/PRT_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "PRT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/prt_13/",
+      "label": "Instagram hashtag for PRT_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/PRT/PRT_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_13/images/PRT_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRT/PRT_13-juillet2008.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRT/PRT_13-juillet2008.jpg",
+      "caption": "photo juillet 2008 (Fickr @pascalsubtil)",
+      "title": "PRT_13-juillet2008",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PRT/PRT_13/images/PRT_13-juillet2008.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PRT/PRT_13-aout2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PRT/PRT_13-aout2018.jpg",
+      "caption": "photo août 2018 (StreetView)",
+      "title": "PRT_13-aout2018",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/PRT/PRT_13/images/PRT_13-aout2018.jpg"
+    }
+  ]
+}
