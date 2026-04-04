@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/man_32/",
       "label": "Instagram hashtag for MAN_32"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for MAN_32",
+      "file_path": "Screenshot_20250329-125719.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/MAN/MAN_32/images/MAN_32-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_32/images/Screenshot_20250329-125719-crop.png",
+      "title": "Screenshot_20250329-125719-crop.png"
     }
   ]
 }

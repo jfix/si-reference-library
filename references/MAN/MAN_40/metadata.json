@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/man_40/",
       "label": "Instagram hashtag for MAN_40"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for MAN_40",
+      "file_path": "Screenshot_20250329-135115.png"
     }
   ],
   "images": [
@@ -49,6 +54,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MAN/MAN_40/images/MAN_40-mars2022-2.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_40/images/Screenshot_20250329-135115-crop.png",
+      "title": "Screenshot_20250329-135115-crop.png"
     }
   ]
 }

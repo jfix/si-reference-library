@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/man_18/",
       "label": "Instagram hashtag for MAN_18"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for MAN_18",
+      "file_path": "Screenshot_20250329-134154.png"
     }
   ],
   "images": [
@@ -39,6 +44,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MAN/MAN_18/images/MAN_18-mai2017.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_18/images/Screenshot_20250329-134154-crop.png",
+      "title": "Screenshot_20250329-134154-crop.png"
     }
   ]
 }
