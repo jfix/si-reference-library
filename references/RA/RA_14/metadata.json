@@ -1,0 +1,54 @@
+{
+  "place_id": "RA",
+  "invader_id": "RA_14",
+  "city": "Ravenna",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/10/2014",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "décembre 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/RA/RA_14-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "RA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ra_14/",
+      "label": "Instagram hashtag for RA_14"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/RA/RA_14-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/RA/RA_14/images/RA_14-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/RA/RA_14-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/RA/RA_14-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "RA_14-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/RA/RA_14/images/RA_14-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/RA/RA_14-decembre2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/RA/RA_14-decembre2022.jpg",
+      "caption": "photo décembre 2022 (@PhiloParis)",
+      "title": "RA_14-decembre2022",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/RA/RA_14/images/RA_14-decembre2022.jpg"
+    }
+  ]
+}

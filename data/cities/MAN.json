@@ -1,0 +1,877 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:51:51.561Z",
+  "city": "Manchester",
+  "code": "MAN",
+  "totalInvaders": 47,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Manchester",
+    "code": "MAN",
+    "invasionWaves": 1,
+    "totalInvaders": 47,
+    "totalPoints": 970,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MAN_01",
+      "points": 30,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MAN_02",
+      "points": 20,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_02-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_02-mai2017.jpg",
+          "title": "MAN_02-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_02-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_02-fevrier2023.jpg",
+          "title": "MAN_02-fevrier2023",
+          "caption": "photos février 2023 (@VDDUKE)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_03",
+      "points": 20,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_03-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_03-mai2017.jpg",
+          "title": "MAN_03-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_03-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_03-mars2022.jpg",
+          "title": "MAN_03-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_04",
+      "points": 10,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_04-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_04-mai2017.jpg",
+          "title": "MAN_04-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_04-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_04-mars2022.jpg",
+          "title": "MAN_04-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_05",
+      "points": 20,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_05-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_05-mai2017.jpg",
+          "title": "MAN_05-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_06",
+      "points": 10,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_06-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_06-mai2017.jpg",
+          "title": "MAN_06-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_06-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_06-mars2022.jpg",
+          "title": "MAN_06-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_07",
+      "points": 10,
+      "poseDate": "21/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_07-mars2022-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_07-mars2022-1.jpg",
+          "title": "MAN_07-mars2022-1",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_07-mars2022-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_07-mars2022-2.jpg",
+          "title": "MAN_07-mars2022-2",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_08",
+      "points": 20,
+      "poseDate": "22/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_08-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_08-mai2017.jpg",
+          "title": "MAN_08-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_08-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_08-octobre2024.jpg",
+          "title": "MAN_08-octobre2024",
+          "caption": "photo octobre 2024 (@Martinanton)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_09",
+      "points": 20,
+      "poseDate": "22/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_09-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_09-avril2024.jpg",
+          "title": "MAN_09-avril2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_10",
+      "points": 20,
+      "poseDate": "22/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_10-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_10-mai2017.jpg",
+          "title": "MAN_10-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_10-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_10-mars2022.jpg",
+          "title": "MAN_10-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_11",
+      "points": 10,
+      "poseDate": "22/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_11-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_11-avril2024.jpg",
+          "title": "MAN_11-avril2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_12",
+      "points": 20,
+      "poseDate": "22/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_12-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_12-mai2017.jpg",
+          "title": "MAN_12-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_13",
+      "points": 20,
+      "poseDate": "23/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_13-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_13-mai2017.jpg",
+          "title": "MAN_13-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_14",
+      "points": 20,
+      "poseDate": "23/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_14-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_14-mai2017.jpg",
+          "title": "MAN_14-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_14-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_14-mars2022.jpg",
+          "title": "MAN_14-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_15",
+      "points": 10,
+      "poseDate": "23/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MAN_16",
+      "points": 10,
+      "poseDate": "23/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_16-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_16-mai2017.jpg",
+          "title": "MAN_16-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_17",
+      "points": 30,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_17-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_17-mai2017.jpg",
+          "title": "MAN_17-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_18",
+      "points": 10,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_18-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_18-mai2017.jpg",
+          "title": "MAN_18-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_19",
+      "points": 20,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_19-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_19-mai2017.jpg",
+          "title": "MAN_19-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_19-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_19-mars2022.jpg",
+          "title": "MAN_19-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_20",
+      "points": 10,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_20-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_20-mai2017.jpg",
+          "title": "MAN_20-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_21",
+      "points": 10,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_21-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MAN_22",
+      "points": 20,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MAN_23",
+      "points": 20,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_23-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_23-mai2017.jpg",
+          "title": "MAN_23-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_23-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_23-mars2022.jpg",
+          "title": "MAN_23-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_24",
+      "points": 20,
+      "poseDate": "24/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_24-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_24-mai2017.jpg",
+          "title": "MAN_24-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_25",
+      "points": 10,
+      "poseDate": "25/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_25-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_25-mai2017.jpg",
+          "title": "MAN_25-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_26",
+      "points": 30,
+      "poseDate": "25/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_26-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_26-mai2017.jpg",
+          "title": "MAN_26-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_27",
+      "points": 10,
+      "poseDate": "25/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_27-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_27-aout2025.jpg",
+          "title": "MAN_27-aout2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_28",
+      "points": 10,
+      "poseDate": "25/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_28-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_28-mai2017.jpg",
+          "title": "MAN_28-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_28-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_28-mars2022.jpg",
+          "title": "MAN_28-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_29",
+      "points": 10,
+      "poseDate": "25/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_29-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_29-mars2022.jpg",
+          "title": "MAN_29-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_30",
+      "points": 10,
+      "poseDate": "26/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_30-fevrier2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_30-fevrier2024.jpg",
+          "title": "MAN_30-fevrier2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_31",
+      "points": 30,
+      "poseDate": "26/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_31-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_31-avril2024.jpg",
+          "title": "MAN_31-avril2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_32",
+      "points": 10,
+      "poseDate": "26/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_32-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MAN_33",
+      "points": 10,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_33-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_33-mars2022.jpg",
+          "title": "MAN_33-mars2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_34",
+      "points": 10,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_34-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_34-mai2017.jpg",
+          "title": "MAN_34-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_34-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_34-mars2022.jpg",
+          "title": "MAN_34-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_35",
+      "points": 10,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_35-mai2017(2).jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_35-mai2017(2).jpg",
+          "title": "MAN_35-mai2017(2)",
+          "caption": "photo mai 2017 (caché par les arbres)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_36",
+      "points": 30,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_36-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_36-avril2024.jpg",
+          "title": "MAN_36-avril2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_37",
+      "points": 20,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_37-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_37-mai2017.jpg",
+          "title": "MAN_37-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_38",
+      "points": 30,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_38-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_38-mai2017.jpg",
+          "title": "MAN_38-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_38-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_38-avril2024.jpg",
+          "title": "MAN_38-avril2024",
+          "caption": "photo avril 2024 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_39",
+      "points": 20,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_39-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_39-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_39-mars2022.jpg",
+          "title": "MAN_39-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_40",
+      "points": 10,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_40-mars2022-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_40-mars2022-1.jpg",
+          "title": "MAN_40-mars2022-1",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_40-mars2022-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_40-mars2022-2.jpg",
+          "title": "MAN_40-mars2022-2",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_41",
+      "points": 20,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_41-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MAN_42",
+      "points": 30,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_42-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_42-mars2022-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_42-mars2022-1.jpg",
+          "title": "MAN_42-mars2022-1",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_42-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_42-avril2024.jpg",
+          "title": "MAN_42-avril2024",
+          "caption": "photo avril 2024 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_43",
+      "points": 50,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_43-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_43-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_43-mars2022.jpg",
+          "title": "MAN_43-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_44",
+      "points": 50,
+      "poseDate": "27/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_44-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_44-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_44-avril2024.jpg",
+          "title": "MAN_44-avril2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_45",
+      "points": 50,
+      "poseDate": "28/06/2004",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juin 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_45-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_45-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_45-mai2017.jpg",
+          "title": "MAN_45-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_46",
+      "points": 50,
+      "poseDate": "28/06/2004",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_46-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_46-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_46-mai2017.jpg",
+          "title": "MAN_46-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_46-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_46-mars2022.jpg",
+          "title": "MAN_46-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MAN_47",
+      "points": 50,
+      "poseDate": "29/06/2004",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/man_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MAN/MAN_47-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_47-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_47-mars2022.jpg",
+          "title": "MAN_47-mars2022",
+          "caption": "photo mars 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MAN/MAN_47-juillet2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MAN/MAN_47-juillet2022.jpg",
+          "title": "MAN_47-juillet2022",
+          "caption": "photo juillet 2022 (@AntoEtEdgard)"
+        }
+      ]
+    }
+  ]
+}

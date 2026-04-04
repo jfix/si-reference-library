@@ -1,0 +1,44 @@
+{
+  "place_id": "MAN",
+  "invader_id": "MAN_31",
+  "city": "Manchester",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/06/2004",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MAN/MAN_31-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MAN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/man_31/",
+      "label": "Instagram hashtag for MAN_31"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MAN/MAN_31-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_31/images/MAN_31-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_31-avril2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_31-avril2024.jpg",
+      "caption": "photo d'archive",
+      "title": "MAN_31-avril2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_31/images/MAN_31-avril2024.jpg"
+    }
+  ]
+}

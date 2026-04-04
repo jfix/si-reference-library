@@ -1,0 +1,54 @@
+{
+  "place_id": "MAN",
+  "invader_id": "MAN_42",
+  "city": "Manchester",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/06/2004",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MAN/MAN_42-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MAN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/man_42/",
+      "label": "Instagram hashtag for MAN_42"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MAN/MAN_42-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_42/images/MAN_42-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_42-mars2022-1.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_42-mars2022-1.jpg",
+      "caption": "photo mars 2022 (@r4y.paris)",
+      "title": "MAN_42-mars2022-1",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_42/images/MAN_42-mars2022-1.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_42-avril2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_42-avril2024.jpg",
+      "caption": "photo avril 2024 (@r4y.paris)",
+      "title": "MAN_42-avril2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/MAN/MAN_42/images/MAN_42-avril2024.jpg"
+    }
+  ]
+}

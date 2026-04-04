@@ -1,0 +1,44 @@
+{
+  "place_id": "MAN",
+  "invader_id": "MAN_35",
+  "city": "Manchester",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/06/2004",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MAN/MAN_35-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MAN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/man_35/",
+      "label": "Instagram hashtag for MAN_35"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MAN/MAN_35-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_35/images/MAN_35-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_35-mai2017(2).jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_35-mai2017(2).jpg",
+      "caption": "photo mai 2017 (caché par les arbres)",
+      "title": "MAN_35-mai2017(2)",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_35/images/MAN_35-mai2017(2).jpg"
+    }
+  ]
+}

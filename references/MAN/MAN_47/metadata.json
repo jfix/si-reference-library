@@ -1,0 +1,54 @@
+{
+  "place_id": "MAN",
+  "invader_id": "MAN_47",
+  "city": "Manchester",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "29/06/2004",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MAN/MAN_47-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MAN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/man_47/",
+      "label": "Instagram hashtag for MAN_47"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MAN/MAN_47-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_47/images/MAN_47-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_47-mars2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_47-mars2022.jpg",
+      "caption": "photo mars 2022 (@r4y.paris)",
+      "title": "MAN_47-mars2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_47/images/MAN_47-mars2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_47-juillet2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_47-juillet2022.jpg",
+      "caption": "photo juillet 2022 (@AntoEtEdgard)",
+      "title": "MAN_47-juillet2022",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/MAN/MAN_47/images/MAN_47-juillet2022.jpg"
+    }
+  ]
+}

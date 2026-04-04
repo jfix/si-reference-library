@@ -144,6 +144,21 @@
     "country": "Slovenia",
     "target_count": 42
   },
+  "RTD": {
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "target_count": 26
+  },
+  "MAN": {
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "target_count": 47
+  },
+  "RA": {
+    "city": "Ravenna",
+    "country": "Italy",
+    "target_count": 40
+  },
   "MARS": {
     "city": "Marseille",
     "country": "France",

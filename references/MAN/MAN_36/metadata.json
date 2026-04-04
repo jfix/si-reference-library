@@ -1,0 +1,44 @@
+{
+  "place_id": "MAN",
+  "invader_id": "MAN_36",
+  "city": "Manchester",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/06/2004",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MAN/MAN_36-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MAN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/man_36/",
+      "label": "Instagram hashtag for MAN_36"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MAN/MAN_36-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_36/images/MAN_36-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MAN/MAN_36-avril2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MAN/MAN_36-avril2024.jpg",
+      "caption": "photo d'archive",
+      "title": "MAN_36-avril2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_36/images/MAN_36-avril2024.jpg"
+    }
+  ]
+}

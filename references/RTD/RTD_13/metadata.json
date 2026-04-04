@@ -1,0 +1,44 @@
+{
+  "place_id": "RTD",
+  "invader_id": "RTD_13",
+  "city": "Rotterdam",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "01/11/2001",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "février 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/RTD/RTD_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "RTD listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rtd_13/",
+      "label": "Instagram hashtag for RTD_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/RTD/RTD_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_13/images/RTD_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/RTD/RTD_13-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/RTD/RTD_13-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "RTD_13-mai2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_13/images/RTD_13-mai2017.jpg"
+    }
+  ]
+}
