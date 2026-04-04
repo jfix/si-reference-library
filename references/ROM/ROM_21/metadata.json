@@ -39,7 +39,14 @@
       "type": "flash-invaders-screenshot",
       "role": "flash-reference",
       "contains_invader": true,
-      "local_path": "data/flash-screenshots/by-id/ROM_21/Screenshot_20250221-145812-crop.png",
+      "local_path": "references/ROM/ROM_21/images/Screenshot_20250221-145812-crop.png",
+      "title": "Screenshot_20250221-145812-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_21/images/Screenshot_20250221-145812-crop.png",
       "title": "Screenshot_20250221-145812-crop.png"
     }
   ]

@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rom_50/",
       "label": "Instagram hashtag for ROM_50"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for ROM_50",
+      "file_path": "Screenshot_20250221-122640.png"
     }
   ],
   "images": [
@@ -49,6 +54,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/ROM/ROM_50/images/ROM_50-novembre2023.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_50/images/Screenshot_20250221-122640-crop.png",
+      "title": "Screenshot_20250221-122640-crop.png"
     }
   ]
 }

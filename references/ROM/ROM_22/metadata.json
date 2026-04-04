@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rom_22/",
       "label": "Instagram hashtag for ROM_22"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for ROM_22",
+      "file_path": "Screenshot_20250221-152318.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/ROM/ROM_22/images/ROM_22-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_22/images/Screenshot_20250221-152318-crop.png",
+      "title": "Screenshot_20250221-152318-crop.png"
     }
   ]
 }
