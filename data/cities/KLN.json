@@ -1,0 +1,477 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:55:32.926Z",
+  "city": "Köln",
+  "code": "KLN",
+  "totalInvaders": 27,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Köln",
+    "code": "KLN",
+    "invasionWaves": 3,
+    "totalInvaders": 27,
+    "totalPoints": 670,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "KLN_01",
+      "points": 20,
+      "poseDate": "31/10/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_01-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_01-juin2017.jpg",
+          "title": "KLN_01-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_02",
+      "points": 20,
+      "poseDate": "31/10/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_02-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_02-juin2017.jpg",
+          "title": "KLN_02-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_03",
+      "points": 20,
+      "poseDate": "31/10/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_03-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_03-juin2017.jpg",
+          "title": "KLN_03-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_04",
+      "points": 10,
+      "poseDate": "10/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_04-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_04-juin2017.jpg",
+          "title": "KLN_04-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_05",
+      "points": 20,
+      "poseDate": "10/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KLN_06",
+      "points": 10,
+      "poseDate": "10/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_06-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_06-juin2017.jpg",
+          "title": "KLN_06-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_07",
+      "points": 10,
+      "poseDate": "11/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_07-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_07-juin2017.jpg",
+          "title": "KLN_07-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_08",
+      "points": 10,
+      "poseDate": "11/02/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_08-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_08-fevrier2023.jpg",
+          "title": "KLN_08-fevrier2023",
+          "caption": "photo février 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_08-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_08-fevrier2025.jpg",
+          "title": "KLN_08-fevrier2025",
+          "caption": "photo février 2025 (@Béatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_09",
+      "points": 20,
+      "poseDate": "11/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_09-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_09-juin2017.jpg",
+          "title": "KLN_09-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_10",
+      "points": 20,
+      "poseDate": "11/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_10-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_10-juin2017.jpg",
+          "title": "KLN_10-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_11",
+      "points": 10,
+      "poseDate": "12/02/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_11-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_11-juin2017.jpg",
+          "title": "KLN_11-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_11-novembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_11-novembre2023.jpg",
+          "title": "KLN_11-novembre2023",
+          "caption": "photo novembre 2023 (@Lea)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_12",
+      "points": 20,
+      "poseDate": "12/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KLN_13",
+      "points": 10,
+      "poseDate": "12/02/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_13-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_13-juin2017.jpg",
+          "title": "KLN_13-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_13-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_13-aout2023.jpg",
+          "title": "KLN_13-aout2023",
+          "caption": "photo août 2023 (@Zu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_14",
+      "points": 20,
+      "poseDate": "12/02/2007",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_14-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_14-juin2017.jpg",
+          "title": "KLN_14-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_14-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_14-fevrier2025.jpg",
+          "title": "KLN_14-fevrier2025",
+          "caption": "photo février 2025 (@Béatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_15",
+      "points": 20,
+      "poseDate": "12/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_15-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_15-juin2017.jpg",
+          "title": "KLN_15-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_16",
+      "points": 10,
+      "poseDate": "12/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_16-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_16-juin2017.jpg",
+          "title": "KLN_16-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_17",
+      "points": 20,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_17-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_17-juin2017.jpg",
+          "title": "KLN_17-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_18",
+      "points": 30,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_18-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_18-juin2017.jpg",
+          "title": "KLN_18-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_18-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_18-fevrier2023.jpg",
+          "title": "KLN_18-fevrier2023",
+          "caption": "photo février 2023 (@JetBlack75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_19",
+      "points": 20,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_19-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_19-juin2017.jpg",
+          "title": "KLN_19-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_19-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_19-fevrier2023.jpg",
+          "title": "KLN_19-fevrier2023",
+          "caption": "photo février 2023 (@JetBlack75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_20",
+      "points": 10,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_20-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_20-fevrier2023.jpg",
+          "title": "KLN_20-fevrier2023",
+          "caption": "photo février 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_21",
+      "points": 20,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_21-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_21-juin2017.jpg",
+          "title": "KLN_21-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_22",
+      "points": 20,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KLN_23",
+      "points": 20,
+      "poseDate": "13/02/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_23-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_23-juin2017.jpg",
+          "title": "KLN_23-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "KLN_24",
+      "points": 30,
+      "poseDate": "14/02/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_24-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KLN_25",
+      "points": 50,
+      "poseDate": "30/01/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_25-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KLN_26",
+      "points": 100,
+      "poseDate": "30/01/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_26-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KLN_27",
+      "points": 100,
+      "poseDate": "30/01/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kln_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KLN/KLN_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_27-novembre2022-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_27-novembre2022-1.jpg",
+          "title": "KLN_27-novembre2022-1",
+          "caption": "photo novembre 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KLN/KLN_27-novembre2022-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KLN/KLN_27-novembre2022-2.jpg",
+          "title": "KLN_27-novembre2022-2",
+          "caption": "photo novembre 2022 (@r4y.paris)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "BRL",
+  "invader_id": "BRL_08",
+  "city": "Berlin",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/05/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2024",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRL/BRL_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brl_08/",
+      "label": "Instagram hashtag for BRL_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRL/BRL_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_08/images/BRL_08-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRL/BRL_08-archive.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRL/BRL_08-archive.jpg",
+      "caption": "photo d'archive",
+      "title": "BRL_08-archive",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_08/images/BRL_08-archive.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRL/BRL_08-novembre2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRL/BRL_08-novembre2022.jpg",
+      "caption": "photo novembre 2022 (StreetView)",
+      "title": "BRL_08-novembre2022",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BRL/BRL_08/images/BRL_08-novembre2022.jpg"
+    }
+  ]
+}

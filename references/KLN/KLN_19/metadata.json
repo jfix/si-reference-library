@@ -1,0 +1,54 @@
+{
+  "place_id": "KLN",
+  "invader_id": "KLN_19",
+  "city": "Köln",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/02/2007",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "février 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/KLN/KLN_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "KLN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/kln_19/",
+      "label": "Instagram hashtag for KLN_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/KLN/KLN_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_19/images/KLN_19-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/KLN/KLN_19-juin2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/KLN/KLN_19-juin2017.jpg",
+      "caption": "photo juin 2017",
+      "title": "KLN_19-juin2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_19/images/KLN_19-juin2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/KLN/KLN_19-fevrier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/KLN/KLN_19-fevrier2023.jpg",
+      "caption": "photo février 2023 (@JetBlack75)",
+      "title": "KLN_19-fevrier2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_19/images/KLN_19-fevrier2023.jpg"
+    }
+  ]
+}

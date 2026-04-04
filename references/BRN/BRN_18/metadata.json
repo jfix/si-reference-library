@@ -1,0 +1,44 @@
+{
+  "place_id": "BRN",
+  "invader_id": "BRN_18",
+  "city": "Bern",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/05/2000",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRN/BRN_18-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brn_18/",
+      "label": "Instagram hashtag for BRN_18"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRN/BRN_18-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_18/images/BRN_18-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRN/BRN_18-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRN/BRN_18-aout2025.jpg",
+      "caption": "photo août 2025 (@Flash_in_the_city)",
+      "title": "BRN_18-aout2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_18/images/BRN_18-aout2025.jpg"
+    }
+  ]
+}

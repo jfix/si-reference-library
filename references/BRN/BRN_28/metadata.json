@@ -1,0 +1,44 @@
+{
+  "place_id": "BRN",
+  "invader_id": "BRN_28",
+  "city": "Bern",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "16/05/2000",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2018 (flash)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRN/BRN_28-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brn_28/",
+      "label": "Instagram hashtag for BRN_28"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRN/BRN_28-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_28/images/BRN_28-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRN/BRN_28-novembre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRN/BRN_28-novembre2020.jpg",
+      "caption": "photo novembre 2020 (@Gafeman)",
+      "title": "BRN_28-novembre2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_28/images/BRN_28-novembre2020.jpg"
+    }
+  ]
+}

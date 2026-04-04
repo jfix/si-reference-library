@@ -1,0 +1,563 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:55:38.727Z",
+  "city": "Bern",
+  "code": "BRN",
+  "totalInvaders": 29,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Bern",
+    "code": "BRN",
+    "invasionWaves": 1,
+    "totalInvaders": 29,
+    "totalPoints": 470,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "BRN_01",
+      "points": 10,
+      "poseDate": "09/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_01-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_01-septembre2016.jpg",
+          "title": "BRN_01-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_01-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_01-decembre2025.jpg",
+          "title": "BRN_01-decembre2025",
+          "caption": "photo décembre 2025 (@Llo7)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_02",
+      "points": 10,
+      "poseDate": "09/05/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_02-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_02-aout2025.jpg",
+          "title": "BRN_02-aout2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_03",
+      "points": 10,
+      "poseDate": "10/05/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "septembre 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_03-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_03-septembre2016.jpg",
+          "title": "BRN_03-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_04",
+      "points": 10,
+      "poseDate": "10/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_04-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_04-decembre2025.jpg",
+          "title": "BRN_04-decembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_05",
+      "points": 10,
+      "poseDate": "10/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_05-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_05-aout2025.jpg",
+          "title": "BRN_05-aout2025",
+          "caption": "photo août 2025 (@Flash_in_the_city)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_05-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_05-decembre2025.jpg",
+          "title": "BRN_05-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_06",
+      "points": 10,
+      "poseDate": "10/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_06-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_06-septembre2016.jpg",
+          "title": "BRN_06-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_07",
+      "points": 10,
+      "poseDate": "11/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_07-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_07-aout2025.jpg",
+          "title": "BRN_07-aout2025",
+          "caption": "photo août 2025 (@Flash_in_the_city)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_07-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_07-decembre2025.jpg",
+          "title": "BRN_07-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_08",
+      "points": 10,
+      "poseDate": "11/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_08-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_08-avril2023.jpg",
+          "title": "BRN_08-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_08-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_08-archive.jpg",
+          "title": "BRN_08-archive",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_09",
+      "points": 10,
+      "poseDate": "11/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_09-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_09-octobre2024.jpg",
+          "title": "BRN_09-octobre2024",
+          "caption": "photo février 2022 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_10",
+      "points": 50,
+      "poseDate": "11/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_10-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_10-aout2025.jpg",
+          "title": "BRN_10-aout2025",
+          "caption": "photo août 2025 (@Flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_11",
+      "points": 10,
+      "poseDate": "11/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_11-novembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_11-novembre2020.jpg",
+          "title": "BRN_11-novembre2020",
+          "caption": "photo novembre 2020 (@Gafeman)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_11-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_11-decembre2025.jpg",
+          "title": "BRN_11-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_12",
+      "points": 30,
+      "poseDate": "12/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2021 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_12-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_12-septembre2016.jpg",
+          "title": "BRN_12-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_13",
+      "points": 10,
+      "poseDate": "12/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_13-novembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_13-novembre2020.jpg",
+          "title": "BRN_13-novembre2020",
+          "caption": "photo novembre 2020 (@Gafeman)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_13-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_13-decembre2025.jpg",
+          "title": "BRN_13-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_14",
+      "points": 10,
+      "poseDate": "14/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2018 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_14-decembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_14-decembre2024.jpg",
+          "title": "BRN_14-decembre2024",
+          "caption": "photo février 2018 (Instagram)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_15",
+      "points": 20,
+      "poseDate": "14/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_15-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_15-septembre2016.jpg",
+          "title": "BRN_15-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_15-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_15-decembre2025.jpg",
+          "title": "BRN_15-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_16",
+      "points": 10,
+      "poseDate": "14/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_16-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_16-aout2025.jpg",
+          "title": "BRN_16-aout2025",
+          "caption": "photo août 2025 (@Flash_in_the_city)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_16-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_16-decembre2025.jpg",
+          "title": "BRN_16-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_17",
+      "points": 10,
+      "poseDate": "14/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_17-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_17-aout2025.jpg",
+          "title": "BRN_17-aout2025",
+          "caption": "photo août 2025 (@Flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_18",
+      "points": 10,
+      "poseDate": "14/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_18-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_18-aout2025.jpg",
+          "title": "BRN_18-aout2025",
+          "caption": "photo août 2025 (@Flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_19",
+      "points": 10,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_19-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_19-decembre2025.jpg",
+          "title": "BRN_19-decembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_20",
+      "points": 10,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_20-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_20-juillet2023.jpg",
+          "title": "BRN_20-juillet2023",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_21",
+      "points": 10,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_21-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_21-septembre2016.jpg",
+          "title": "BRN_21-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_21-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_21-mars2024.jpg",
+          "title": "BRN_21-mars2024",
+          "caption": "photo mars 2024 (@Elphege)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_22",
+      "points": 100,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BRN_23",
+      "points": 10,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_23-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BRN_24",
+      "points": 10,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_24-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_24-septembre2016.jpg",
+          "title": "BRN_24-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_24-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_24-decembre2025.jpg",
+          "title": "BRN_24-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_25",
+      "points": 10,
+      "poseDate": "15/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_25-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_25-septembre2016.jpg",
+          "title": "BRN_25-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_26",
+      "points": 10,
+      "poseDate": "16/05/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_26-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_26-septembre2016.jpg",
+          "title": "BRN_26-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_26-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_26-decembre2025.jpg",
+          "title": "BRN_26-decembre2025",
+          "caption": "photo décembre 2025 (@BERN170)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_27",
+      "points": 30,
+      "poseDate": "16/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_27-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_27-decembre2025.jpg",
+          "title": "BRN_27-decembre2025",
+          "caption": "photo d'archive (@Invader Bern)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_28",
+      "points": 10,
+      "poseDate": "16/05/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2018 (flash)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_28-novembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_28-novembre2020.jpg",
+          "title": "BRN_28-novembre2020",
+          "caption": "photo novembre 2020 (@Gafeman)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BRN_29",
+      "points": 10,
+      "poseDate": "16/05/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/brn_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BRN/BRN_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BRN/BRN_29-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BRN/BRN_29-septembre2016.jpg",
+          "title": "BRN_29-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    }
+  ]
+}

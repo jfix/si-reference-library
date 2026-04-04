@@ -1,0 +1,34 @@
+{
+  "place_id": "BRN",
+  "invader_id": "BRN_22",
+  "city": "Bern",
+  "country": null,
+  "status": "confirmed",
+  "points": 100,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "15/05/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": null,
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRN/BRN_22-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brn_22/",
+      "label": "Instagram hashtag for BRN_22"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRN/BRN_22-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_22/images/BRN_22-grosplan.png"
+    }
+  ]
+}

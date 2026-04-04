@@ -1,0 +1,44 @@
+{
+  "place_id": "BRL",
+  "invader_id": "BRL_12",
+  "city": "Berlin",
+  "country": null,
+  "status": "confirmed",
+  "points": 100,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/04/2017",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2018 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRL/BRL_12-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brl_12/",
+      "label": "Instagram hashtag for BRL_12"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRL/BRL_12-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_12/images/BRL_12-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRL/BRL_12-aout2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRL/BRL_12-aout2018.jpg",
+      "caption": "photo août 2018",
+      "title": "BRL_12-aout2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_12/images/BRL_12-aout2018.jpg"
+    }
+  ]
+}

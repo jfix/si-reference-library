@@ -1,0 +1,54 @@
+{
+  "place_id": "KLN",
+  "invader_id": "KLN_11",
+  "city": "Köln",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/02/2007",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/KLN/KLN_11-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "KLN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/kln_11/",
+      "label": "Instagram hashtag for KLN_11"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/KLN/KLN_11-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_11/images/KLN_11-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/KLN/KLN_11-juin2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/KLN/KLN_11-juin2017.jpg",
+      "caption": "photo juin 2017",
+      "title": "KLN_11-juin2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_11/images/KLN_11-juin2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/KLN/KLN_11-novembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/KLN/KLN_11-novembre2023.jpg",
+      "caption": "photo novembre 2023 (@Lea)",
+      "title": "KLN_11-novembre2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/KLN/KLN_11/images/KLN_11-novembre2023.jpg"
+    }
+  ]
+}

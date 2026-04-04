@@ -1,0 +1,34 @@
+{
+  "place_id": "BRL",
+  "invader_id": "BRL_03",
+  "city": "Berlin",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "10/05/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2018 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRL/BRL_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brl_03/",
+      "label": "Instagram hashtag for BRL_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRL/BRL_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_03/images/BRL_03-grosplan.png"
+    }
+  ]
+}

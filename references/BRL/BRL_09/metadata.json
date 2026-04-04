@@ -1,0 +1,54 @@
+{
+  "place_id": "BRL",
+  "invader_id": "BRL_09",
+  "city": "Berlin",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/05/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRL/BRL_09-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BRL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/brl_09/",
+      "label": "Instagram hashtag for BRL_09"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BRL/BRL_09-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_09/images/BRL_09-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRL/BRL_09-novembre2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRL/BRL_09-novembre2021.jpg",
+      "caption": "photo novembre 2021 (@r4y.paris)",
+      "title": "BRL_09-novembre2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_09/images/BRL_09-novembre2021.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BRL/BRL_09-septembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BRL/BRL_09-septembre2024.jpg",
+      "caption": "photo septembre 2024 (@lynxyantoine)",
+      "title": "BRL_09-septembre2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BRL/BRL_09/images/BRL_09-septembre2024.jpg"
+    }
+  ]
+}

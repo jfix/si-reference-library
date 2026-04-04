@@ -1,0 +1,21 @@
+{
+  "place_id": "BRL",
+  "city": "Berlin",
+  "country": null,
+  "target_count": 12,
+  "confirmed_invaders": [
+    "BRL_01",
+    "BRL_02",
+    "BRL_03",
+    "BRL_04",
+    "BRL_05",
+    "BRL_06",
+    "BRL_07",
+    "BRL_08",
+    "BRL_09",
+    "BRL_10",
+    "BRL_11",
+    "BRL_12"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

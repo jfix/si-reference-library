@@ -169,6 +169,21 @@
     "country": "Germany",
     "target_count": 18
   },
+  "KLN": {
+    "city": "Köln",
+    "country": "Germany",
+    "target_count": 27
+  },
+  "BRN": {
+    "city": "Bern",
+    "country": "Switzerland",
+    "target_count": 29
+  },
+  "BRL": {
+    "city": "Berlin",
+    "country": "Germany",
+    "target_count": 12
+  },
   "BSL": {
     "city": "Basel",
     "country": "Switzerland",
