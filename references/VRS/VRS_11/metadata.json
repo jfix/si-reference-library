@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/vrs_11/",
       "label": "Instagram hashtag for VRS_11"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for VRS_11",
+      "file_path": "Screenshot_20250321-204218.png"
     }
   ],
   "images": [
@@ -39,6 +44,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/VRS/VRS_11/images/VRS_11-septembre2017.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/VRS/VRS_11/images/Screenshot_20250321-204218-crop.png",
+      "title": "Screenshot_20250321-204218-crop.png"
     }
   ]
 }
