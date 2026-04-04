@@ -1,0 +1,809 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:46:35.228Z",
+  "city": "Clermont-Ferrand",
+  "code": "CLR",
+  "totalInvaders": 47,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Clermont-Ferrand",
+    "code": "CLR",
+    "invasionWaves": 5,
+    "totalInvaders": 47,
+    "totalPoints": 1790,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "CLR_01",
+      "points": 10,
+      "poseDate": "03/02/2001",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_01-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_01-juin2016.jpg",
+          "title": "CLR_01-juin2016",
+          "caption": "photo juin 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_01-decembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_01-decembre2020.jpg",
+          "title": "CLR_01-decembre2020",
+          "caption": "photo décembre 2020 (@Marathon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_02",
+      "points": 10,
+      "poseDate": "03/02/2001",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_02-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_02-septembre2017.jpg",
+          "title": "CLR_02-septembre2017",
+          "caption": "photo septembre 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_03",
+      "points": 10,
+      "poseDate": "03/02/2001",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_03-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_03-juin2016.jpg",
+          "title": "CLR_03-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_04",
+      "points": 10,
+      "poseDate": "03/02/2001",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_04-mai2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_04-mai2015.jpg",
+          "title": "CLR_04-mai2015",
+          "caption": "photo mai 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_05",
+      "points": 10,
+      "poseDate": "03/02/2001",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_05-avril2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_05-avril2019.jpg",
+          "title": "CLR_05-avril2019",
+          "caption": "photo avril 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_05-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_05-mars2026.jpg",
+          "title": "CLR_05-mars2026",
+          "caption": "photo mars 2026 (@Charlesbtn)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_06",
+      "points": 10,
+      "poseDate": "03/02/2001",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_06-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_06-juin2016.jpg",
+          "title": "CLR_06-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_07",
+      "points": 10,
+      "poseDate": "31/12/2002",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_07-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_07-septembre2017.jpg",
+          "title": "CLR_07-septembre2017",
+          "caption": "photo septembre 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_07-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_07-aout2025.jpg",
+          "title": "CLR_07-aout2025",
+          "caption": "photo août 2025 (@calou11)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_08",
+      "points": 20,
+      "poseDate": "31/12/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_08-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_08-juin2016.jpg",
+          "title": "CLR_08-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_09",
+      "points": 30,
+      "poseDate": "21/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_09-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_09-juin2016.jpg",
+          "title": "CLR_09-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_10",
+      "points": 30,
+      "poseDate": "21/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_10-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_10-juin2016.jpg",
+          "title": "CLR_10-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_11",
+      "points": 30,
+      "poseDate": "21/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_11-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_11-juin2016.jpg",
+          "title": "CLR_11-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_12",
+      "points": 50,
+      "poseDate": "21/01/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_13",
+      "points": 30,
+      "poseDate": "21/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_13-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_13-juin2016.jpg",
+          "title": "CLR_13-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_14",
+      "points": 100,
+      "poseDate": "22/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_14-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_14-juin2016.jpg",
+          "title": "CLR_14-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_15",
+      "points": 40,
+      "poseDate": "22/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_15-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_15-juin2016.jpg",
+          "title": "CLR_15-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_16",
+      "points": 50,
+      "poseDate": "22/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_16-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_16-juin2016.jpg",
+          "title": "CLR_16-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_17",
+      "points": 30,
+      "poseDate": "22/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_17-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_17-avril2024.jpg",
+          "title": "CLR_17-avril2024",
+          "caption": "photo avril 2024 (@harold2708)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_18",
+      "points": 100,
+      "poseDate": "23/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_18-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_18-juin2016.jpg",
+          "title": "CLR_18-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_19",
+      "points": 50,
+      "poseDate": "23/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_19-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_19-juin2016.jpg",
+          "title": "CLR_19-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_20",
+      "points": 50,
+      "poseDate": "23/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_20-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_20-juin2016.jpg",
+          "title": "CLR_20-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_21",
+      "points": 40,
+      "poseDate": "23/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_21-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_21-juin2016.jpg",
+          "title": "CLR_21-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_22",
+      "points": 50,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_22-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_22-juin2016.jpg",
+          "title": "CLR_22-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_23",
+      "points": 20,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_23-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_23-juin2016.jpg",
+          "title": "CLR_23-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_24",
+      "points": 30,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_24-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_24-juin2016.jpg",
+          "title": "CLR_24-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_25",
+      "points": 20,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_25-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_25-juin2016.jpg",
+          "title": "CLR_25-juin2016",
+          "caption": "photo juin 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_25-fevrier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_25-fevrier2021.jpg",
+          "title": "CLR_25-fevrier2021",
+          "caption": "photo février 2021 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_26",
+      "points": 40,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_26-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_26-juin2016.jpg",
+          "title": "CLR_26-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_27",
+      "points": 50,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_27-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_27-juin2016.jpg",
+          "title": "CLR_27-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_28",
+      "points": 50,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_28-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_28-juin2016.jpg",
+          "title": "CLR_28-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_29",
+      "points": 30,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_29-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_29-juin2016.jpg",
+          "title": "CLR_29-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_30",
+      "points": 50,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_30-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_30-juin2016.jpg",
+          "title": "CLR_30-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_31",
+      "points": 40,
+      "poseDate": "24/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_31-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_31-juin2016.jpg",
+          "title": "CLR_31-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_32",
+      "points": 50,
+      "poseDate": "25/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_32-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_32-juin2016.jpg",
+          "title": "CLR_32-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_33",
+      "points": 100,
+      "poseDate": "25/01/2016",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_33-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_33-juin2016.jpg",
+          "title": "CLR_33-juin2016",
+          "caption": "photo juin 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_33-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_33-mars2025.jpg",
+          "title": "CLR_33-mars2025",
+          "caption": "photo mars 2025 (@KALMAR)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_34",
+      "points": 50,
+      "poseDate": "25/01/2016",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_34-avril2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_34-avril2019.jpg",
+          "title": "CLR_34-avril2019",
+          "caption": "photo avril 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_34-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_34-mars2025.jpg",
+          "title": "CLR_34-mars2025",
+          "caption": "photo mars 2025 (@KALMAR)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_35",
+      "points": 50,
+      "poseDate": "26/01/2016",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_35-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_35-juin2016.jpg",
+          "title": "CLR_35-juin2016",
+          "caption": "photo juin 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_35-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_35-septembre2024.jpg",
+          "title": "CLR_35-septembre2024",
+          "caption": "photo septembre 2024 (@Carocor)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_36",
+      "points": 30,
+      "poseDate": "26/01/2016",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_36-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_36-juin2016.jpg",
+          "title": "CLR_36-juin2016",
+          "caption": "photo juin 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_37",
+      "points": 40,
+      "poseDate": "26/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_37-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_37-avril2024.jpg",
+          "title": "CLR_37-avril2024",
+          "caption": "photo avril 2024 (@Gabelou)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_38",
+      "points": 20,
+      "poseDate": "26/01/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_38-avril2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_38-avril2019.jpg",
+          "title": "CLR_38-avril2019",
+          "caption": "photo avril 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_39",
+      "points": 40,
+      "poseDate": "26/01/2016",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_39-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_39-juin2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_39-juin2016.jpg",
+          "title": "CLR_39-juin2016",
+          "caption": "photo juin 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_39-decembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_39-decembre2024.jpg",
+          "title": "CLR_39-decembre2024",
+          "caption": "photo décembre 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_40",
+      "points": 50,
+      "poseDate": "25/10/2018",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CLR/CLR_40-avril2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CLR/CLR_40-avril2019.jpg",
+          "title": "CLR_40-avril2019",
+          "caption": "photo avril 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CLR_41",
+      "points": 20,
+      "poseDate": "27/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_41-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_42",
+      "points": 50,
+      "poseDate": "27/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_42-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_43",
+      "points": 20,
+      "poseDate": "27/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_43-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_44",
+      "points": 50,
+      "poseDate": "27/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_44-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_45",
+      "points": 30,
+      "poseDate": "27/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_45-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_46",
+      "points": 40,
+      "poseDate": "28/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_46-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CLR_47",
+      "points": 50,
+      "poseDate": "28/10/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/clr_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CLR/CLR_47-grosplan.png",
+      "photos": []
+    }
+  ]
+}
