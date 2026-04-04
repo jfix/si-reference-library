@@ -64,14 +64,28 @@
       "type": "flash-invaders-screenshot",
       "role": "flash-reference",
       "contains_invader": true,
-      "local_path": "data/flash-screenshots/by-id/PA_759/Screenshot_20250310-123016-crop.png",
+      "local_path": "references/PA/PA_759/images/Screenshot_20250310-123016-crop.png",
       "title": "Screenshot_20250310-123016-crop.png"
     },
     {
       "type": "flash-invaders-screenshot",
       "role": "flash-reference",
       "contains_invader": true,
-      "local_path": "data/flash-screenshots/by-id/PA_759/Screenshot_20250310-123055-crop.png",
+      "local_path": "references/PA/PA_759/images/Screenshot_20250310-123016-crop.png",
+      "title": "Screenshot_20250310-123055-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_759/images/Screenshot_20250310-123016-crop.png",
+      "title": "Screenshot_20250310-123016-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_759/images/Screenshot_20250310-123055-crop.png",
       "title": "Screenshot_20250310-123055-crop.png"
     }
   ]

@@ -59,7 +59,14 @@
       "type": "flash-invaders-screenshot",
       "role": "flash-reference",
       "contains_invader": true,
-      "local_path": "data/flash-screenshots/by-id/PA_569/Screenshot_20250301-183521-crop.png",
+      "local_path": "references/PA/PA_569/images/Screenshot_20250301-183521-crop.png",
+      "title": "Screenshot_20250301-183521-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_569/images/Screenshot_20250301-183521-crop.png",
       "title": "Screenshot_20250301-183521-crop.png"
     }
   ]
