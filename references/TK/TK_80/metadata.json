@@ -1,0 +1,34 @@
+{
+  "place_id": "TK",
+  "invader_id": "TK_80",
+  "city": "Tokyo",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/10/2010",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/TK/TK_080-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "TK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/tk_80/",
+      "label": "Instagram hashtag for TK_80"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TK/TK_080-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_80/images/TK_080-grosplan.png"
+    }
+  ]
+}

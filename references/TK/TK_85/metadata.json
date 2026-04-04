@@ -1,0 +1,44 @@
+{
+  "place_id": "TK",
+  "invader_id": "TK_85",
+  "city": "Tokyo",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "01/11/2010",
+  "last_known_state": "Non visible",
+  "last_seen_source": "septembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/TK/TK_085-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "TK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/tk_85/",
+      "label": "Instagram hashtag for TK_85"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TK/TK_085-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_85/images/TK_085-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/TK/TK_085-nonvisible.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TK/TK_085-nonvisible.jpg",
+      "caption": "photo d'archive",
+      "title": "TK_085-nonvisible",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_85/images/TK_085-nonvisible.jpg"
+    }
+  ]
+}

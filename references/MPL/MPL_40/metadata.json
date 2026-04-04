@@ -1,0 +1,24 @@
+{
+  "place_id": "MPL",
+  "invader_id": "MPL_40",
+  "city": "Montpellier",
+  "country": null,
+  "status": "invisible",
+  "points": null,
+  "notes": [
+    "Scraped from invader-spotter.art listing data.",
+    "Marked invisible because no visible reference is available in the source listing."
+  ],
+  "pose_date": null,
+  "last_known_state": "Non visible",
+  "last_seen_source": null,
+  "thumbnail_url": null,
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MPL listing page"
+    }
+  ],
+  "images": []
+}

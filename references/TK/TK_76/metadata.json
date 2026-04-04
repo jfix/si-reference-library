@@ -1,0 +1,44 @@
+{
+  "place_id": "TK",
+  "invader_id": "TK_76",
+  "city": "Tokyo",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "19/04/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2023 (StreetView)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/TK/TK_076-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "TK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/tk_76/",
+      "label": "Instagram hashtag for TK_76"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TK/TK_076-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_76/images/TK_076-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/TK/TK_076-aout2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TK/TK_076-aout2022.jpg",
+      "caption": "photo d'archive",
+      "title": "TK_076-aout2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_76/images/TK_076-aout2022.jpg"
+    }
+  ]
+}

@@ -179,6 +179,11 @@
     "country": "Switzerland",
     "target_count": 33
   },
+  "TK": {
+    "city": "Tokyo",
+    "country": "Japan",
+    "target_count": 138
+  },
   "MARS": {
     "city": "Marseille",
     "country": "France",

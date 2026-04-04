@@ -1,0 +1,44 @@
+{
+  "place_id": "TK",
+  "invader_id": "TK_132",
+  "city": "Tokyo",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/05/2014",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/TK/TK_132-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "TK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/tk_132/",
+      "label": "Instagram hashtag for TK_132"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/TK/TK_132-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_132/images/TK_132-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/TK/TK_132-novembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/TK/TK_132-novembre2023.jpg",
+      "caption": "photo d'archive",
+      "title": "TK_132-novembre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/TK/TK_132/images/TK_132-novembre2023.jpg"
+    }
+  ]
+}

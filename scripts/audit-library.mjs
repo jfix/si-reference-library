@@ -97,13 +97,14 @@ async function scanReferences() {
         cityStats.issue_count += 1;
         invaderIssues.push(issue(invaderId, placeId, 'warning', 'missing_status', 'metadata.status is missing'));
       }
+      const isInvisible = status === 'invisible';
 
       const images = Array.isArray(metadata.images) ? metadata.images : [];
       let hasUsableReference = false;
       let hasPositiveImage = false;
       let hasGrosplan = false;
 
-      if (images.length === 0) {
+      if (images.length === 0 && !isInvisible) {
         cityStats.issue_count += 1;
         invaderIssues.push(issue(invaderId, placeId, 'error', 'no_images', 'metadata.images is empty'));
       }
@@ -153,11 +154,11 @@ async function scanReferences() {
       if (hasUsableReference) cityStats.usable_reference_count += 1;
       if (!hasUsableReference && hasGrosplan) cityStats.grosplan_only_count += 1;
 
-      if (!hasPositiveImage) {
+      if (!hasPositiveImage && !isInvisible) {
         cityStats.issue_count += 1;
         invaderIssues.push(issue(invaderId, placeId, 'error', 'no_positive_image', 'no image with contains_invader=true'));
       }
-      if (!hasUsableReference) {
+      if (!hasUsableReference && !isInvisible) {
         cityStats.issue_count += 1;
         invaderIssues.push(issue(invaderId, placeId, 'warning', 'no_usable_reference', 'only grosplan or non-positive assets available'));
       }
