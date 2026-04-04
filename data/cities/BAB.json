@@ -1,0 +1,1046 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T06:51:09.301Z",
+  "city": "Biarritz-Anglet-Bayonne",
+  "code": "BAB",
+  "totalInvaders": 60,
+  "pagesScraped": 2,
+  "summary": {
+    "city": "Biarritz-Anglet-Bayonne",
+    "code": "BAB",
+    "invasionWaves": 1,
+    "totalInvaders": 60,
+    "totalPoints": 2050,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "BAB_01",
+      "points": 40,
+      "poseDate": "07/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_01-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_01-novembre2024.jpg",
+          "title": "BAB_01-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_02",
+      "points": 30,
+      "poseDate": "07/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_02-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_02-novembre2024.jpg",
+          "title": "BAB_02-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_03",
+      "points": 20,
+      "poseDate": "07/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BAB_04",
+      "points": 40,
+      "poseDate": "07/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_04-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_04-novembre2024.jpg",
+          "title": "BAB_04-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_05",
+      "points": 40,
+      "poseDate": "07/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BAB_06",
+      "points": 20,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_06-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_06-novembre2024.jpg",
+          "title": "BAB_06-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_07",
+      "points": 30,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_07-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_07-novembre2024.jpg",
+          "title": "BAB_07-novembre2024",
+          "caption": "photo novembre 2024 (@Nicoula)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_07-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_07-aout2025.jpg",
+          "title": "BAB_07-aout2025",
+          "caption": "photo août 2025 (@Shootagain)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_08",
+      "points": 50,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_08-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_08-novembre2024.jpg",
+          "title": "BAB_08-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_09",
+      "points": 40,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_09-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_09-novembre2024.jpg",
+          "title": "BAB_09-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_10",
+      "points": 20,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_10-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_10-novembre2024.jpg",
+          "title": "BAB_10-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_11",
+      "points": 20,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_11-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_11-novembre2024.jpg",
+          "title": "BAB_11-novembre2024",
+          "caption": "photo novembre 2024 (@Nicoula)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_12",
+      "points": 20,
+      "poseDate": "08/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BAB_13",
+      "points": 30,
+      "poseDate": "09/11/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_13-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_13-fevrier2025.jpg",
+          "title": "BAB_13-fevrier2025",
+          "caption": "photo novembre 2024 (anonyme)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_14",
+      "points": 50,
+      "poseDate": "09/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_14-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_14-novembre2024.jpg",
+          "title": "BAB_14-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_15",
+      "points": 20,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_15-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_15-novembre2024.jpg",
+          "title": "BAB_15-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_16",
+      "points": 30,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_16-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_16-novembre2024.jpg",
+          "title": "BAB_16-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_17",
+      "points": 20,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_17-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_17-novembre2024.jpg",
+          "title": "BAB_17-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_18",
+      "points": 50,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_18-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_18-novembre2024.jpg",
+          "title": "BAB_18-novembre2024",
+          "caption": "photo novembre 2024 (@Julothic)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_19",
+      "points": 40,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_19-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_19-novembre2024.jpg",
+          "title": "BAB_19-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_20",
+      "points": 20,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_20-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_20-novembre2024.jpg",
+          "title": "BAB_20-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_21",
+      "points": 20,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_21-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_21-novembre2024.jpg",
+          "title": "BAB_21-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_21-novembre2024-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_21-novembre2024-2.jpg",
+          "title": "BAB_21-novembre2024-2",
+          "caption": "photo novembre 2024 (@pehel78)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_22",
+      "points": 30,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_22-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_22-novembre2024.jpg",
+          "title": "BAB_22-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_23",
+      "points": 40,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_23-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_23-novembre2024.jpg",
+          "title": "BAB_23-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_24",
+      "points": 30,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_24-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_24-novembre2024.jpg",
+          "title": "BAB_24-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_25",
+      "points": 20,
+      "poseDate": "10/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_25-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_25-novembre2024.jpg",
+          "title": "BAB_25-novembre2024",
+          "caption": "photo novembre 2024 (@Sophie)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_26",
+      "points": 30,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_26-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_26-novembre2024.jpg",
+          "title": "BAB_26-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_27",
+      "points": 40,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_27-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_27-novembre2024.jpg",
+          "title": "BAB_27-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_28",
+      "points": 30,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_28-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_28-novembre2024.jpg",
+          "title": "BAB_28-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_29",
+      "points": 20,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_29-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_29-novembre2024.jpg",
+          "title": "BAB_29-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_30",
+      "points": 50,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_30-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_30-novembre2024.jpg",
+          "title": "BAB_30-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_31",
+      "points": 30,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_31-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_31-novembre2024.jpg",
+          "title": "BAB_31-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_32",
+      "points": 30,
+      "poseDate": "11/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_32-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_32-novembre2024.jpg",
+          "title": "BAB_32-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_33",
+      "points": 40,
+      "poseDate": "12/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_33-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_33-novembre2024.jpg",
+          "title": "BAB_33-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_34",
+      "points": 40,
+      "poseDate": "12/11/2024",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_34-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_34-novembre2024.jpg",
+          "title": "BAB_34-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_34-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_34-avril2025.jpg",
+          "title": "BAB_34-avril2025",
+          "caption": "photo avril 2025 (@Razouille)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_35",
+      "points": 40,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_35-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_35-novembre2024.jpg",
+          "title": "BAB_35-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_36",
+      "points": 20,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_36-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_36-novembre2024.jpg",
+          "title": "BAB_36-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_37",
+      "points": 30,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_37-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_37-novembre2024.jpg",
+          "title": "BAB_37-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_38",
+      "points": 30,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_38-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_38-novembre2024.jpg",
+          "title": "BAB_38-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_39",
+      "points": 30,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_39-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_39-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_39-novembre2024.jpg",
+          "title": "BAB_39-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_40",
+      "points": 30,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_40-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_40-novembre2024.jpg",
+          "title": "BAB_40-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_41",
+      "points": 50,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_41-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_41-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_41-novembre2024.jpg",
+          "title": "BAB_41-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_41-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_41-mars2025.jpg",
+          "title": "BAB_41-mars2025",
+          "caption": "photo mars 2025 (@Houston)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_42",
+      "points": 20,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_42-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_42-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_42-novembre2024.jpg",
+          "title": "BAB_42-novembre2024",
+          "caption": "photo novembre 2024 (@Mamirène Zal)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_43",
+      "points": 50,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_43-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_43-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_43-novembre2024.jpg",
+          "title": "BAB_43-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_44",
+      "points": 30,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_44-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_44-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_44-novembre2024.jpg",
+          "title": "BAB_44-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_45",
+      "points": 40,
+      "poseDate": "13/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_45-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_45-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_45-novembre2024.jpg",
+          "title": "BAB_45-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_46",
+      "points": 50,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_46-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_46-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_46-novembre2024.jpg",
+          "title": "BAB_46-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_47",
+      "points": 50,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_47-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_47-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_47-novembre2024.jpg",
+          "title": "BAB_47-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_48",
+      "points": 50,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_48/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_48-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_48-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_48-novembre2024.jpg",
+          "title": "BAB_48-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_49",
+      "points": 50,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_49/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_49-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_49-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_49-novembre2024.jpg",
+          "title": "BAB_49-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_50",
+      "points": 50,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_50/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_50-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_50-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_50-novembre2024.jpg",
+          "title": "BAB_50-novembre2024",
+          "caption": "photo novembre 2024 (Olivier92000)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_50-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_50-mars2025.jpg",
+          "title": "BAB_50-mars2025",
+          "caption": "photo mars 2025 (@Houston)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_51",
+      "points": 40,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_51/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_51-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_51-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_51-novembre2024.jpg",
+          "title": "BAB_51-novembre2024",
+          "caption": "photo novembre 2024 (@guayabero)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_52",
+      "points": 50,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_52/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_52-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_52-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_52-novembre2024.jpg",
+          "title": "BAB_52-novembre2024",
+          "caption": "photo novembre 2024 (@Avengers)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_53",
+      "points": 20,
+      "poseDate": "14/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_53/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_53-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_53-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_53-novembre2024.jpg",
+          "title": "BAB_53-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_54",
+      "points": 40,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "janvier 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_54/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_54-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_54-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_54-novembre2024.jpg",
+          "title": "BAB_54-novembre2024",
+          "caption": "photo novembre 2024 (@fredfromparis11)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_54-janvier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_54-janvier2026.jpg",
+          "title": "BAB_54-janvier2026",
+          "caption": "photo janvier 2026 (@Buramu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_55",
+      "points": 40,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_55/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_55-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_55-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_55-novembre2024.jpg",
+          "title": "BAB_55-novembre2024",
+          "caption": "photo novembre 2024 (@Olivier92000)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_56",
+      "points": 50,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_56/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_56-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_56-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_56-novembre2024.jpg",
+          "title": "BAB_56-novembre2024",
+          "caption": "photo novembre 2024 (@Schtroumpfy)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_57",
+      "points": 30,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_57/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_57-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BAB_58",
+      "points": 30,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_58/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_58-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_58-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_58-novembre2024.jpg",
+          "title": "BAB_58-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_59",
+      "points": 20,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_59/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_59-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_59-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_59-novembre2024.jpg",
+          "title": "BAB_59-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BAB_60",
+      "points": 30,
+      "poseDate": "15/11/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bab_60/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BAB/BAB_60-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BAB/BAB_60-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BAB/BAB_60-novembre2024.jpg",
+          "title": "BAB_60-novembre2024",
+          "caption": "photo novembre 2024 (@Hazelneb)"
+        }
+      ]
+    }
+  ]
+}

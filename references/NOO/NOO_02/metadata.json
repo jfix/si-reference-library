@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/noo_02/",
       "label": "Instagram hashtag for NOO_02"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for NOO_02",
+      "file_path": "Screenshot_20241228-110158.png"
     }
   ],
   "images": [
@@ -29,6 +34,13 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/NOO/NOO_02/images/NOO_02-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/NOO_02/Screenshot_20241228-110158-crop.png",
+      "title": "Screenshot_20241228-110158-crop.png"
     }
   ]
 }

@@ -109,6 +109,21 @@
     "country": "Belgium",
     "target_count": 42
   },
+  "BAB": {
+    "city": "Biarritz-Anglet-Bayonne",
+    "country": "France",
+    "target_count": 60
+  },
+  "ROM": {
+    "city": "Roma",
+    "country": "Italy",
+    "target_count": 75
+  },
+  "MPL": {
+    "city": "Montpellier",
+    "country": "France",
+    "target_count": 42
+  },
   "CAPF": {
     "city": "Cap Ferret",
     "country": "France",

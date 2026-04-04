@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/pa_1485/",
       "label": "Instagram hashtag for PA_1485"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for PA_1485",
+      "file_path": "Screenshot_20250125-160541.png"
     }
   ],
   "images": [
@@ -39,6 +44,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_1485/images/PA_1485-avril2024.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PA_1485/Screenshot_20250125-160541-crop.png",
+      "title": "Screenshot_20250125-160541-crop.png"
     }
   ]
 }

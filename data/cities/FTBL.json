@@ -1,0 +1,812 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T06:59:58.013Z",
+  "city": "Fontainebleau",
+  "code": "FTBL",
+  "totalInvaders": 46,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Fontainebleau",
+    "code": "FTBL",
+    "invasionWaves": 7,
+    "totalInvaders": 46,
+    "totalPoints": 1590,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "FTBL_01",
+      "points": 30,
+      "poseDate": "28/02/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_01-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_01-mars2023.jpg",
+          "title": "FTBL_01-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_02",
+      "points": 20,
+      "poseDate": "28/02/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_02-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_02-juin2025.jpg",
+          "title": "FTBL_02-juin2025",
+          "caption": "photo juin 2025 (@Bifidus) - emplacement actuel"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_02-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_02-mars2023.jpg",
+          "title": "FTBL_02-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter) - emplacement d'origine"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_03",
+      "points": 30,
+      "poseDate": "28/02/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_03-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_03-mars2023.jpg",
+          "title": "FTBL_03-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_04",
+      "points": 30,
+      "poseDate": "28/02/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_04-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_04-mars2023.jpg",
+          "title": "FTBL_04-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_05",
+      "points": 30,
+      "poseDate": "08/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_05-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_05-mars2023.jpg",
+          "title": "FTBL_05-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_06",
+      "points": 30,
+      "poseDate": "08/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_06-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_06-mars2023.jpg",
+          "title": "FTBL_06-mars2023",
+          "caption": "photo mars 2023 (@vincinvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_07",
+      "points": 40,
+      "poseDate": "08/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_07-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_07-mars2023.jpg",
+          "title": "FTBL_07-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_08",
+      "points": 30,
+      "poseDate": "08/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2023 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_08-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_08-mars2023.jpg",
+          "title": "FTBL_08-mars2023",
+          "caption": "photo mars 2023 (@Nicoula)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_09",
+      "points": 50,
+      "poseDate": "15/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FTBL_10",
+      "points": 30,
+      "poseDate": "15/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FTBL_11",
+      "points": 30,
+      "poseDate": "15/03/2023",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_11-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_11-mars2023.jpg",
+          "title": "FTBL_11-mars2023",
+          "caption": "photo mars 2023 (@NewSpotter)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_11-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_11-mars2024.jpg",
+          "title": "FTBL_11-mars2024",
+          "caption": "photo mars 2024 (@Flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_12",
+      "points": 50,
+      "poseDate": "15/03/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_12-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_12-mars2023.jpg",
+          "title": "FTBL_12-mars2023",
+          "caption": "photo mars 2023 (@LeMacareux)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_13",
+      "points": 50,
+      "poseDate": "04/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_13-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_13-avril2023.jpg",
+          "title": "FTBL_13-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_14",
+      "points": 20,
+      "poseDate": "18/05/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_14-mai2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_14-mai2023.jpg",
+          "title": "FTBL_14-mai2023",
+          "caption": "photo mai 2023 (@Frankyyy007)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_15",
+      "points": 50,
+      "poseDate": "18/05/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_15-mai2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_15-mai2023.jpg",
+          "title": "FTBL_15-mai2023",
+          "caption": "photo mai 2023 (@Vicente)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_15-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_15-aout2023.jpg",
+          "title": "FTBL_15-aout2023",
+          "caption": "photo août 2023 (@sanpe)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_16",
+      "points": 50,
+      "poseDate": "31/05/2023",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_16-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_16-juin2025.jpg",
+          "title": "FTBL_16-juin2025",
+          "caption": "photo juin 2023 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_17",
+      "points": 20,
+      "poseDate": "31/05/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_17-juin2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_17-juin2023.jpg",
+          "title": "FTBL_17-juin2023",
+          "caption": "photo juin 2023 (@Vicente)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_18",
+      "points": 30,
+      "poseDate": "31/05/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_18-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_18-juillet2025.jpg",
+          "title": "FTBL_18-juillet2025",
+          "caption": "photo juin 2023 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_19",
+      "points": 30,
+      "poseDate": "05/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_19-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_19-aout2023.jpg",
+          "title": "FTBL_19-aout2023",
+          "caption": "photo août 2023 (@Pook 77)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_20",
+      "points": 50,
+      "poseDate": "05/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_20-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_20-mars2024.jpg",
+          "title": "FTBL_20-mars2024",
+          "caption": "photo mars 2024 (@NewSpotter)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_20-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_20-mars2026.jpg",
+          "title": "FTBL_20-mars2026",
+          "caption": "photo mars 2026 (@ouenz)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_21",
+      "points": 30,
+      "poseDate": "05/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_21-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_21-aout2023.jpg",
+          "title": "FTBL_21-aout2023",
+          "caption": "photo août 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_22",
+      "points": 40,
+      "poseDate": "05/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_22-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_22-aout2023.jpg",
+          "title": "FTBL_22-aout2023",
+          "caption": "photo août 2023 (@vador)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_22-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_22-aout2025.jpg",
+          "title": "FTBL_22-aout2025",
+          "caption": "photo août 2025 (@GBO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_23",
+      "points": 30,
+      "poseDate": "05/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_23-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_23-aout2023.jpg",
+          "title": "FTBL_23-aout2023",
+          "caption": "photo août 2023 (@Aureur)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_24",
+      "points": 30,
+      "poseDate": "05/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_24-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_24-aout2023.jpg",
+          "title": "FTBL_24-aout2023",
+          "caption": "photo août 2023 (@Akadoud)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_24-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_24-aout2025.jpg",
+          "title": "FTBL_24-aout2025",
+          "caption": "photo août 2025 (@GBO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_25",
+      "points": 30,
+      "poseDate": "06/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_25-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_25-aout2023.jpg",
+          "title": "FTBL_25-aout2023",
+          "caption": "photo août 2023 (@Akadoud)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_26",
+      "points": 40,
+      "poseDate": "06/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_26-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_26-fevrier2026.jpg",
+          "title": "FTBL_26-fevrier2026",
+          "caption": "photo février 2026 (@flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_27",
+      "points": 30,
+      "poseDate": "06/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_27-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_27-fevrier2026.jpg",
+          "title": "FTBL_27-fevrier2026",
+          "caption": "photo février 2026 (@flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_28",
+      "points": 30,
+      "poseDate": "06/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_28-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_28-fevrier2026.jpg",
+          "title": "FTBL_28-fevrier2026",
+          "caption": "photo février 2026 (@flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_29",
+      "points": 30,
+      "poseDate": "06/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_29-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_29-aout2023.jpg",
+          "title": "FTBL_29-aout2023",
+          "caption": "photo août 2023 (@Akadoud)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_30",
+      "points": 20,
+      "poseDate": "06/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_30-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_30-fevrier2026.jpg",
+          "title": "FTBL_30-fevrier2026",
+          "caption": "photo février 2026 (@flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_31",
+      "points": 50,
+      "poseDate": "07/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_31-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_31-aout2023.jpg",
+          "title": "FTBL_31-aout2023",
+          "caption": "photo août 2023 (@vador)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_31-decembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_31-decembre2024.jpg",
+          "title": "FTBL_31-decembre2024",
+          "caption": "photo décembre 2024 (@estefano68)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_32",
+      "points": 30,
+      "poseDate": "07/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_32-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_32-aout2023.jpg",
+          "title": "FTBL_32-aout2023",
+          "caption": "photo août 2023 (@dunkelzahn)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_33",
+      "points": 30,
+      "poseDate": "07/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_33-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FTBL_34",
+      "points": 30,
+      "poseDate": "07/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_34-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_34-aout2023.jpg",
+          "title": "FTBL_34-aout2023",
+          "caption": "photo août 2023 (@nicoco) - empplacement d'origine"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_35",
+      "points": 50,
+      "poseDate": "08/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_35-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_35-aout2023.jpg",
+          "title": "FTBL_35-aout2023",
+          "caption": "photo août 2023 (@Anatolef)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_36",
+      "points": 40,
+      "poseDate": "08/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_36-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_36-fevrier2026.jpg",
+          "title": "FTBL_36-fevrier2026",
+          "caption": "photo février 2026 (@flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_37",
+      "points": 30,
+      "poseDate": "08/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_37-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_37-aout2023.jpg",
+          "title": "FTBL_37-aout2023",
+          "caption": "photo août 2023 (@Akadoud)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_38",
+      "points": 20,
+      "poseDate": "08/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_38-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_38-aout2023.jpg",
+          "title": "FTBL_38-aout2023",
+          "caption": "photo août 2023 (@Titi'nvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_39",
+      "points": 50,
+      "poseDate": "09/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_39-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_39-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_39-aout2023.jpg",
+          "title": "FTBL_39-aout2023",
+          "caption": "photo août 2023 (@flashinglight)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_39-octobre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_39-octobre2023.jpg",
+          "title": "FTBL_39-octobre2023",
+          "caption": "photo octobre 2023 (@estefano68)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_40",
+      "points": 50,
+      "poseDate": "09/08/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_40-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_40-aout2023.jpg",
+          "title": "FTBL_40-aout2023",
+          "caption": "photo août 2023 (@Akadoud)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_40-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_40-avril2024.jpg",
+          "title": "FTBL_40-avril2024",
+          "caption": "photo avril 2024 (@IXI)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_41",
+      "points": 30,
+      "poseDate": "09/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_41-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_41-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_41-juin2025.jpg",
+          "title": "FTBL_41-juin2025",
+          "caption": "photo juin 2025 (@LILYOFTHEVALLEY)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_42",
+      "points": 40,
+      "poseDate": "09/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_42-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FTBL_43",
+      "points": 20,
+      "poseDate": "09/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_43-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FTBL_44",
+      "points": 50,
+      "poseDate": "10/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_44-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FTBL_45",
+      "points": 30,
+      "poseDate": "10/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_45-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_45-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_45-fevrier2026.jpg",
+          "title": "FTBL_45-fevrier2026",
+          "caption": "photo février 2026 (@flash_in_the_city)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FTBL_46",
+      "points": 30,
+      "poseDate": "10/08/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ftbl_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_46-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FTBL/FTBL_46-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FTBL/FTBL_46-aout2023.jpg",
+          "title": "FTBL_46-aout2023",
+          "caption": "photo août 2023 (@nicoco)"
+        }
+      ]
+    }
+  ]
+}

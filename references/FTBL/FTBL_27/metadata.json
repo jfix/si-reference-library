@@ -1,0 +1,44 @@
+{
+  "place_id": "FTBL",
+  "invader_id": "FTBL_27",
+  "city": "Fontainebleau",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/08/2023",
+  "last_known_state": "OK",
+  "last_seen_source": "février 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_27-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "FTBL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ftbl_27/",
+      "label": "Instagram hashtag for FTBL_27"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_27-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_27/images/FTBL_27-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FTBL/FTBL_27-fevrier2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FTBL/FTBL_27-fevrier2026.jpg",
+      "caption": "photo février 2026 (@flash_in_the_city)",
+      "title": "FTBL_27-fevrier2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_27/images/FTBL_27-fevrier2026.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "BAB",
+  "invader_id": "BAB_50",
+  "city": "Biarritz-Anglet-Bayonne",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/11/2024",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BAB/BAB_50-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BAB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bab_50/",
+      "label": "Instagram hashtag for BAB_50"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BAB/BAB_50-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BAB/BAB_50/images/BAB_50-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BAB/BAB_50-novembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BAB/BAB_50-novembre2024.jpg",
+      "caption": "photo novembre 2024 (Olivier92000)",
+      "title": "BAB_50-novembre2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BAB/BAB_50/images/BAB_50-novembre2024.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BAB/BAB_50-mars2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BAB/BAB_50-mars2025.jpg",
+      "caption": "photo mars 2025 (@Houston)",
+      "title": "BAB_50-mars2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BAB/BAB_50/images/BAB_50-mars2025.jpg"
+    }
+  ]
+}

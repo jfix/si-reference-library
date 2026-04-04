@@ -1,0 +1,46 @@
+{
+  "place_id": "ROM",
+  "invader_id": "ROM_21",
+  "city": "Roma",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/07/2010",
+  "last_known_state": "OK",
+  "last_seen_source": "novembre 2023 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ROM/ROM_21-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ROM listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rom_21/",
+      "label": "Instagram hashtag for ROM_21"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for ROM_21",
+      "file_path": "Screenshot_20250221-145812.png"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ROM/ROM_21-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_21/images/ROM_21-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/ROM_21/Screenshot_20250221-145812-crop.png",
+      "title": "Screenshot_20250221-145812-crop.png"
+    }
+  ]
+}

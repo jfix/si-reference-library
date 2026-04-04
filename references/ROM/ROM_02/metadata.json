@@ -1,0 +1,54 @@
+{
+  "place_id": "ROM",
+  "invader_id": "ROM_02",
+  "city": "Roma",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "07/07/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ROM/ROM_02-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ROM listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rom_02/",
+      "label": "Instagram hashtag for ROM_02"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ROM/ROM_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_02/images/ROM_02-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_02-septembre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_02-septembre2020.jpg",
+      "caption": "photo septembre 2020 (Instagram @zellid)",
+      "title": "ROM_02-septembre2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_02/images/ROM_02-septembre2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_02-juin2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_02-juin2021.jpg",
+      "caption": "photo juin 2021 (@pat_m_paris)",
+      "title": "ROM_02-juin2021",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/ROM/ROM_02/images/ROM_02-juin2021.jpg"
+    }
+  ]
+}

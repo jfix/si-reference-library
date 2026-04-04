@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/pau_10/",
       "label": "Instagram hashtag for PAU_10"
+    },
+    {
+      "type": "instagram-post",
+      "url": "https://www.instagram.com/p/DG1Y2GmocHL/",
+      "label": "Instagram post showing PAU_10 in situ"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for PAU_10",
+      "file_path": "Screenshot_20250720-150246.png"
     }
   ],
   "images": [
@@ -39,6 +49,23 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PAU/PAU_10/images/PAU_10-novembre2017.jpg"
+    },
+    {
+      "type": "instagram-post",
+      "url": "https://scontent-cdg4-2.cdninstagram.com/v/t51.75761-15/482542830_18334747207083618_8022790144147685943_n.jpg?stp=c128.0.384.384a_dst-jpg_e35_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ChVINtDPnOUQ7kNvwHZRRfc&_nc_oc=AdqwulISoIgcNrPPB7BYt94sUnsCzQ9s0qU1otuMUl-_vmRqetyG4MPrJ9M3798YPGzGkWBfSokhuNx9Z9MRo51p&_nc_zt=23&_nc_ht=scontent-cdg4-2.cdninstagram.com&_nc_gid=agTi6o2dT8XoRAc28j5pDw&_nc_ss=7a3a8&oh=00_AfzmVobDHo8ZDWGTkyyMJoRCTniZMceSn0ghWx6P5c3r7Q&oe=69D0C039",
+      "post_url": "https://www.instagram.com/p/DG1Y2GmocHL/",
+      "caption": "PAU_10 : avec au sol les vainqueurs d’étape du Tour de France à Pau.",
+      "title": "PAU_10-mars2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "data/instagram/pau_10/media/DG1Y2GmocHL/01.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PAU_10/Screenshot_20250720-150246-crop.png",
+      "title": "Screenshot_20250720-150246-crop.png"
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+  "place_id": "ROM",
+  "invader_id": "ROM_59",
+  "city": "Roma",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/07/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ROM/ROM_59-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ROM listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rom_59/",
+      "label": "Instagram hashtag for ROM_59"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ROM/ROM_59-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_59/images/ROM_59-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_59-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_59-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "ROM_59-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_59/images/ROM_59-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_59-avril2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_59-avril2024.jpg",
+      "caption": "photo avril 2024 (@d3c4y.prs)",
+      "title": "ROM_59-avril2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/ROM/ROM_59/images/ROM_59-avril2024.jpg"
+    }
+  ]
+}

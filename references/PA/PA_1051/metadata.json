@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/pa_1051/",
       "label": "Instagram hashtag for PA_1051"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for PA_1051",
+      "file_path": "Screenshot_20241231-141035.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for PA_1051",
+      "file_path": "Screenshot_20241231-141042.png"
     }
   ],
   "images": [
@@ -39,6 +49,20 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_1051/images/PA_1051-avril2015.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PA_1051/Screenshot_20241231-141035-crop.png",
+      "title": "Screenshot_20241231-141035-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "data/flash-screenshots/by-id/PA_1051/Screenshot_20241231-141042-crop.png",
+      "title": "Screenshot_20241231-141042-crop.png"
     }
   ]
 }

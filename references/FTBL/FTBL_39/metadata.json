@@ -1,0 +1,54 @@
+{
+  "place_id": "FTBL",
+  "invader_id": "FTBL_39",
+  "city": "Fontainebleau",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "09/08/2023",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_39-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "FTBL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ftbl_39/",
+      "label": "Instagram hashtag for FTBL_39"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_39-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_39/images/FTBL_39-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FTBL/FTBL_39-aout2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FTBL/FTBL_39-aout2023.jpg",
+      "caption": "photo août 2023 (@flashinglight)",
+      "title": "FTBL_39-aout2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_39/images/FTBL_39-aout2023.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FTBL/FTBL_39-octobre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FTBL/FTBL_39-octobre2023.jpg",
+      "caption": "photo octobre 2023 (@estefano68)",
+      "title": "FTBL_39-octobre2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/FTBL/FTBL_39/images/FTBL_39-octobre2023.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "FTBL",
+  "invader_id": "FTBL_08",
+  "city": "Fontainebleau",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/03/2023",
+  "last_known_state": "OK",
+  "last_seen_source": "mai 2023 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "FTBL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ftbl_08/",
+      "label": "Instagram hashtag for FTBL_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_08/images/FTBL_08-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FTBL/FTBL_08-mars2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FTBL/FTBL_08-mars2023.jpg",
+      "caption": "photo mars 2023 (@Nicoula)",
+      "title": "FTBL_08-mars2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_08/images/FTBL_08-mars2023.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "ROM",
+  "invader_id": "ROM_18",
+  "city": "Roma",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/07/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ROM/ROM_18-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ROM listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rom_18/",
+      "label": "Instagram hashtag for ROM_18"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ROM/ROM_18-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_18/images/ROM_18-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_18-novembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_18-novembre2023.jpg",
+      "caption": "photo novembre 2023 (@Flash_in_the_city)",
+      "title": "ROM_18-novembre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_18/images/ROM_18-novembre2023.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_18-detruit.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_18-detruit.jpg",
+      "caption": "photo novembre 2023 (@Nicoula)",
+      "title": "ROM_18-detruit",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/ROM/ROM_18/images/ROM_18-detruit.jpg"
+    }
+  ]
+}

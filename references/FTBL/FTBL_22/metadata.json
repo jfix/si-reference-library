@@ -1,0 +1,54 @@
+{
+  "place_id": "FTBL",
+  "invader_id": "FTBL_22",
+  "city": "Fontainebleau",
+  "country": null,
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "05/08/2023",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_22-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "FTBL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ftbl_22/",
+      "label": "Instagram hashtag for FTBL_22"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FTBL/FTBL_22-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_22/images/FTBL_22-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FTBL/FTBL_22-aout2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FTBL/FTBL_22-aout2023.jpg",
+      "caption": "photo août 2023 (@vador)",
+      "title": "FTBL_22-aout2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FTBL/FTBL_22/images/FTBL_22-aout2023.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FTBL/FTBL_22-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FTBL/FTBL_22-aout2025.jpg",
+      "caption": "photo août 2025 (@GBO)",
+      "title": "FTBL_22-aout2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/FTBL/FTBL_22/images/FTBL_22-aout2025.jpg"
+    }
+  ]
+}

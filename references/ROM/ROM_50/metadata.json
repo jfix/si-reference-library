@@ -1,0 +1,54 @@
+{
+  "place_id": "ROM",
+  "invader_id": "ROM_50",
+  "city": "Roma",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "20/07/2010",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "novembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/ROM/ROM_50-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "ROM listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rom_50/",
+      "label": "Instagram hashtag for ROM_50"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/ROM/ROM_50-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_50/images/ROM_50-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_50-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_50-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "ROM_50-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_50/images/ROM_50-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/ROM/ROM_50-novembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_50-novembre2023.jpg",
+      "caption": "photo novembre 2023 (@Didinath)",
+      "title": "ROM_50-novembre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_50/images/ROM_50-novembre2023.jpg"
+    }
+  ]
+}
