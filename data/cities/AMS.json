@@ -1,0 +1,430 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:46:35.227Z",
+  "city": "Amsterdam",
+  "code": "AMS",
+  "totalInvaders": 26,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Amsterdam",
+    "code": "AMS",
+    "invasionWaves": 1,
+    "totalInvaders": 26,
+    "totalPoints": 370,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "AMS_01",
+      "points": 10,
+      "poseDate": "11/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_01-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_01-juin2017.jpg",
+          "title": "AMS_01-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_02",
+      "points": 10,
+      "poseDate": "11/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "AMS_03",
+      "points": 20,
+      "poseDate": "11/11/1999",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "août 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_03-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_03-juin2017.jpg",
+          "title": "AMS_03-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_04",
+      "points": 10,
+      "poseDate": "11/11/1999",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_04-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_04-juin2017.jpg",
+          "title": "AMS_04-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_04-decembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_04-decembre2024.jpg",
+          "title": "AMS_04-decembre2024",
+          "caption": "photo décembre 2024 (@Goux)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_05",
+      "points": 10,
+      "poseDate": "12/11/1999",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "AMS_06",
+      "points": 10,
+      "poseDate": "12/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_06-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_06-juin2017.jpg",
+          "title": "AMS_06-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_07",
+      "points": 10,
+      "poseDate": "12/11/1999",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "novembre 2020 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_07-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_07-juin2017.jpg",
+          "title": "AMS_07-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_08",
+      "points": 10,
+      "poseDate": "12/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_08-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_08-juin2017.jpg",
+          "title": "AMS_08-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_09",
+      "points": 10,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_09-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_09-novembre2025.jpg",
+          "title": "AMS_09-novembre2025",
+          "caption": "photo d'archive (@Steam.156)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_10",
+      "points": 10,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "janvier 2026 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_10-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_10-juin2017.jpg",
+          "title": "AMS_10-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_11",
+      "points": 20,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_11-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_11-juin2017.jpg",
+          "title": "AMS_11-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_12",
+      "points": 20,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_12-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_12-juin2017.jpg",
+          "title": "AMS_12-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_13",
+      "points": 20,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juin 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_13-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_13-juin2017.jpg",
+          "title": "AMS_13-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_14",
+      "points": 20,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_14-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_14-fevrier2025.jpg",
+          "title": "AMS_14-fevrier2025",
+          "caption": "photo février 2025 (@Goldorak75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_15",
+      "points": 20,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "AMS_16",
+      "points": 10,
+      "poseDate": "14/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_16-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_16-juin2017.jpg",
+          "title": "AMS_16-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_17",
+      "points": 20,
+      "poseDate": "15/11/1999",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_17-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_17-septembre2024.jpg",
+          "title": "AMS_17-septembre2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_18",
+      "points": 10,
+      "poseDate": "15/11/1999",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_18-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_18-juin2017.jpg",
+          "title": "AMS_18-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_19",
+      "points": 20,
+      "poseDate": "15/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_19-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_19-juin2017.jpg",
+          "title": "AMS_19-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_20",
+      "points": 10,
+      "poseDate": "15/11/1999",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "octobre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_20-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_20-juin2017.jpg",
+          "title": "AMS_20-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_20-octobre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_20-octobre2023.jpg",
+          "title": "AMS_20-octobre2023",
+          "caption": "photo octobre 2023 (@Shootagain)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_21",
+      "points": 10,
+      "poseDate": "16/11/1999",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_21-novembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_21-novembre2023.jpg",
+          "title": "AMS_21-novembre2023",
+          "caption": "photo d'archive (@syrupkids)"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_22",
+      "points": 20,
+      "poseDate": "16/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_22-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_22-juin2017.jpg",
+          "title": "AMS_22-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_23",
+      "points": 20,
+      "poseDate": "16/11/1999",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juin 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/AMS/AMS_23-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/AMS/AMS_23-juin2017.jpg",
+          "title": "AMS_23-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "AMS_24",
+      "points": 10,
+      "poseDate": "16/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2017 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_24-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "AMS_25",
+      "points": 10,
+      "poseDate": "16/11/1999",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_25-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "AMS_26",
+      "points": 20,
+      "poseDate": "16/11/1999",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "avril 2022 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ams_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/AMS/AMS_26-grosplan.png",
+      "photos": []
+    }
+  ]
+}
