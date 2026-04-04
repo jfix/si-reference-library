@@ -1,0 +1,54 @@
+{
+  "place_id": "CLR",
+  "invader_id": "CLR_07",
+  "city": "Clermont-Ferrand",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "31/12/2002",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CLR/CLR_07-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CLR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/clr_07/",
+      "label": "Instagram hashtag for CLR_07"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CLR/CLR_07-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_07/images/CLR_07-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CLR/CLR_07-septembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CLR/CLR_07-septembre2017.jpg",
+      "caption": "photo septembre 2017",
+      "title": "CLR_07-septembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_07/images/CLR_07-septembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CLR/CLR_07-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CLR/CLR_07-aout2025.jpg",
+      "caption": "photo août 2025 (@calou11)",
+      "title": "CLR_07-aout2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_07/images/CLR_07-aout2025.jpg"
+    }
+  ]
+}

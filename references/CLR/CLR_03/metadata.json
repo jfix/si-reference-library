@@ -1,0 +1,44 @@
+{
+  "place_id": "CLR",
+  "invader_id": "CLR_03",
+  "city": "Clermont-Ferrand",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "03/02/2001",
+  "last_known_state": "OK",
+  "last_seen_source": "mai 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CLR/CLR_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CLR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/clr_03/",
+      "label": "Instagram hashtag for CLR_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CLR/CLR_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_03/images/CLR_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CLR/CLR_03-juin2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CLR/CLR_03-juin2016.jpg",
+      "caption": "photo juin 2016",
+      "title": "CLR_03-juin2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_03/images/CLR_03-juin2016.jpg"
+    }
+  ]
+}

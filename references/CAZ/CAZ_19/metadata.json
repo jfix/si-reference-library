@@ -1,0 +1,54 @@
+{
+  "place_id": "CAZ",
+  "invader_id": "CAZ_19",
+  "city": "Côte d'Azur",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "19/05/2007",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAZ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/caz_19/",
+      "label": "Instagram hashtag for CAZ_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_19/images/CAZ_19-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_19-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_19-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "CAZ_19-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_19/images/CAZ_19-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_19-septembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_19-septembre2023.jpg",
+      "caption": "photo septembre 2023 (@harold2708)",
+      "title": "CAZ_19-septembre2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/CAZ/CAZ_19/images/CAZ_19-septembre2023.jpg"
+    }
+  ]
+}

@@ -1,0 +1,712 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:49:03.445Z",
+  "city": "Côte d'Azur",
+  "code": "CAZ",
+  "totalInvaders": 40,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Côte d'Azur",
+    "code": "CAZ",
+    "invasionWaves": 4,
+    "totalInvaders": 40,
+    "totalPoints": 1120,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "CAZ_01",
+      "points": 20,
+      "poseDate": "12/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_01-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_01-septembre2017.jpg",
+          "title": "CAZ_01-septembre2017",
+          "caption": "photo septembre 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_02",
+      "points": 20,
+      "poseDate": "12/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_02-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_02-septembre2019.jpg",
+          "title": "CAZ_02-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_03",
+      "points": 50,
+      "poseDate": "14/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_03-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_03-septembre2019.jpg",
+          "title": "CAZ_03-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_04",
+      "points": 20,
+      "poseDate": "14/05/2007",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_04-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_04-septembre2019.jpg",
+          "title": "CAZ_04-septembre2019",
+          "caption": "photo septembre 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_04-fevrier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_04-fevrier2021.jpg",
+          "title": "CAZ_04-fevrier2021",
+          "caption": "photo février 2021 (@Zurg)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_05",
+      "points": 20,
+      "poseDate": "14/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_05-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_05-septembre2016.jpg",
+          "title": "CAZ_05-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_05-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_05-mai2024.jpg",
+          "title": "CAZ_05-mai2024",
+          "caption": "photo mai 2024 (Instagram @Zellid)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_06",
+      "points": 20,
+      "poseDate": "15/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_06-septembre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_06-septembre2021.jpg",
+          "title": "CAZ_06-septembre2021",
+          "caption": "photo septembre 2021 (@bp78)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_07",
+      "points": 50,
+      "poseDate": "15/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_07-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_07-juin2015.jpg",
+          "title": "CAZ_07-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_08",
+      "points": 30,
+      "poseDate": "16/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_08-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_08-juin2015.jpg",
+          "title": "CAZ_08-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_09",
+      "points": 20,
+      "poseDate": "16/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2019 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_09-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_09-septembre2019.jpg",
+          "title": "CAZ_09-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_10",
+      "points": 10,
+      "poseDate": "16/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_10-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_10-septembre2019.jpg",
+          "title": "CAZ_10-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_11",
+      "points": 20,
+      "poseDate": "16/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2020 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_11-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_11-septembre2016.jpg",
+          "title": "CAZ_11-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_12",
+      "points": 10,
+      "poseDate": "17/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_12-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_12-septembre2016.jpg",
+          "title": "CAZ_12-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_13",
+      "points": 20,
+      "poseDate": "17/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_13-octobre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_13-octobre2021.jpg",
+          "title": "CAZ_13-octobre2021",
+          "caption": "photo octobre 2021 (@Olivier92000)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_14",
+      "points": 20,
+      "poseDate": "17/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_14-septembre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_14-septembre2021.jpg",
+          "title": "CAZ_14-septembre2021",
+          "caption": "photo septembre 2021 (@Zurg)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_15",
+      "points": 50,
+      "poseDate": "18/05/2007",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_15-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_15-aout2025.jpg",
+          "title": "CAZ_15-aout2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_16",
+      "points": 20,
+      "poseDate": "18/05/2007",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_16-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_16-septembre2019.jpg",
+          "title": "CAZ_16-septembre2019",
+          "caption": "photo septembre 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_16-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_16-fevrier2026.jpg",
+          "title": "CAZ_16-fevrier2026",
+          "caption": "photo février 2026 (@tfm_graff69)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_17",
+      "points": 50,
+      "poseDate": "18/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2015 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_17-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CAZ_18",
+      "points": 30,
+      "poseDate": "19/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_18-juin2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_18-juin2021.jpg",
+          "title": "CAZ_18-juin2021",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_19",
+      "points": 20,
+      "poseDate": "19/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_19-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_19-septembre2016.jpg",
+          "title": "CAZ_19-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_19-septembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_19-septembre2023.jpg",
+          "title": "CAZ_19-septembre2023",
+          "caption": "photo septembre 2023 (@harold2708)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_20",
+      "points": 10,
+      "poseDate": "19/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_20-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_20-septembre2019.jpg",
+          "title": "CAZ_20-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_21",
+      "points": 20,
+      "poseDate": "19/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_21-archive.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_21-archive.jpg",
+          "title": "CAZ_21-archive",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_22",
+      "points": 50,
+      "poseDate": "20/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CAZ_23",
+      "points": 50,
+      "poseDate": "21/05/2007",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_23-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_23-septembre2016.jpg",
+          "title": "CAZ_23-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_24",
+      "points": 20,
+      "poseDate": "21/05/2007",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_24-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_24-septembre2019.jpg",
+          "title": "CAZ_24-septembre2019",
+          "caption": "photo septembre 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_24-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_24-fevrier2025.jpg",
+          "title": "CAZ_24-fevrier2025",
+          "caption": "photo février 2025 (@JetBlack75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_25",
+      "points": 20,
+      "poseDate": "22/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_25-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_25-septembre2019.jpg",
+          "title": "CAZ_25-septembre2019",
+          "caption": "photo septembre 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_25-octobre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_25-octobre2025.jpg",
+          "title": "CAZ_25-octobre2025",
+          "caption": "photo octobre 2025 (@Philou_94)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_26",
+      "points": 10,
+      "poseDate": "22/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_26-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_26-fevrier2017.jpg",
+          "title": "CAZ_26-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_27",
+      "points": 50,
+      "poseDate": "22/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2015 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_27-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CAZ_28",
+      "points": 50,
+      "poseDate": "22/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2015 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_28-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "CAZ_29",
+      "points": 20,
+      "poseDate": "23/05/2007",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_29-mai2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_29-mai2023.jpg",
+          "title": "CAZ_29-mai2023",
+          "caption": "photo d'archive (@invaderlct)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_30",
+      "points": 30,
+      "poseDate": "23/05/2007",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_30-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_30-septembre2019.jpg",
+          "title": "CAZ_30-septembre2019",
+          "caption": "photo septembre 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_30-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_30-mars2024.jpg",
+          "title": "CAZ_30-mars2024",
+          "caption": "photo mars 2024 (@Didinath)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_31",
+      "points": 30,
+      "poseDate": "24/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_31-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_31-septembre2019.jpg",
+          "title": "CAZ_31-septembre2019",
+          "caption": "photo septembre 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_32",
+      "points": 50,
+      "poseDate": "24/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_32-octobre2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_32-octobre2021.jpg",
+          "title": "CAZ_32-octobre2021",
+          "caption": "photo octobre 2021 (@Olivier92000)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_33",
+      "points": 10,
+      "poseDate": "24/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_33-fevrier2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_33-fevrier2017.jpg",
+          "title": "CAZ_33-fevrier2017",
+          "caption": "photo février 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_34",
+      "points": 20,
+      "poseDate": "24/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2020 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_34-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_34-juin2017.jpg",
+          "title": "CAZ_34-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_35",
+      "points": 50,
+      "poseDate": "25/05/2007",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_35-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_35-juin2017.jpg",
+          "title": "CAZ_35-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_36",
+      "points": 20,
+      "poseDate": "25/09/2016",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_36-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_36-septembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_36-septembre2023.jpg",
+          "title": "CAZ_36-septembre2023",
+          "caption": "photo septembre 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_37",
+      "points": 30,
+      "poseDate": "08/07/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_37-septembre2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_37-septembre2017.jpg",
+          "title": "CAZ_37-septembre2017",
+          "caption": "photo septembre 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_38",
+      "points": 30,
+      "poseDate": "21/08/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_38-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_38-juin2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_38-juin2018.jpg",
+          "title": "CAZ_38-juin2018",
+          "caption": "photo juin 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_39",
+      "points": 30,
+      "poseDate": "23/08/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_39-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_39-juin2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_39-juin2018.jpg",
+          "title": "CAZ_39-juin2018",
+          "caption": "photo juin 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "CAZ_40",
+      "points": 20,
+      "poseDate": "23/08/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/caz_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/CAZ/CAZ_40-juin2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/CAZ/CAZ_40-juin2018.jpg",
+          "title": "CAZ_40-juin2018",
+          "caption": "photo juin 2018"
+        }
+      ]
+    }
+  ]
+}

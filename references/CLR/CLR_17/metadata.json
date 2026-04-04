@@ -1,0 +1,44 @@
+{
+  "place_id": "CLR",
+  "invader_id": "CLR_17",
+  "city": "Clermont-Ferrand",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/01/2016",
+  "last_known_state": "OK",
+  "last_seen_source": "avril 2024 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CLR/CLR_17-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CLR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/clr_17/",
+      "label": "Instagram hashtag for CLR_17"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CLR/CLR_17-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_17/images/CLR_17-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CLR/CLR_17-avril2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CLR/CLR_17-avril2024.jpg",
+      "caption": "photo avril 2024 (@harold2708)",
+      "title": "CLR_17-avril2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_17/images/CLR_17-avril2024.jpg"
+    }
+  ]
+}

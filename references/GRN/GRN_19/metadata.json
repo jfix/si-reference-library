@@ -1,0 +1,44 @@
+{
+  "place_id": "GRN",
+  "invader_id": "GRN_19",
+  "city": "Grenoble",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "15/12/1999",
+  "last_known_state": "OK",
+  "last_seen_source": "juin 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GRN/GRN_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/grn_19/",
+      "label": "Instagram hashtag for GRN_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRN/GRN_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_19/images/GRN_19-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GRN/GRN_19-juin2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GRN/GRN_19-juin2025.jpg",
+      "caption": "photo juin 2025 (@NKO)",
+      "title": "GRN_19-juin2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_19/images/GRN_19-juin2025.jpg"
+    }
+  ]
+}

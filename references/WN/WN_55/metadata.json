@@ -1,0 +1,44 @@
+{
+  "place_id": "WN",
+  "invader_id": "WN_55",
+  "city": "Wien",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/09/2008",
+  "last_known_state": "OK",
+  "last_seen_source": "septembre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/WN/WN_55-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "WN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/wn_55/",
+      "label": "Instagram hashtag for WN_55"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/WN/WN_55-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_55/images/WN_55-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/WN/WN_55-aout2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/WN/WN_55-aout2018.jpg",
+      "caption": "photo août 2018",
+      "title": "WN_55-aout2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_55/images/WN_55-aout2018.jpg"
+    }
+  ]
+}

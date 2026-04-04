@@ -94,6 +94,41 @@
     "country": "United Kingdom",
     "target_count": 193
   },
+  "LY": {
+    "city": "Lyon",
+    "country": "France",
+    "target_count": 48
+  },
+  "CLR": {
+    "city": "Clermont-Ferrand",
+    "country": "France",
+    "target_count": 47
+  },
+  "AMS": {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "target_count": 26
+  },
+  "WN": {
+    "city": "Wien",
+    "country": "Austria",
+    "target_count": 56
+  },
+  "GRN": {
+    "city": "Grenoble",
+    "country": "France",
+    "target_count": 57
+  },
+  "CAZ": {
+    "city": "Côte d'Azur",
+    "country": "France",
+    "target_count": 40
+  },
+  "ORLN": {
+    "city": "Orléans",
+    "country": "France",
+    "target_count": 12
+  },
   "MARS": {
     "city": "Marseille",
     "country": "France",

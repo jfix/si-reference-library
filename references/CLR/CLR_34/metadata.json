@@ -1,0 +1,54 @@
+{
+  "place_id": "CLR",
+  "invader_id": "CLR_34",
+  "city": "Clermont-Ferrand",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "25/01/2016",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "mars 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CLR/CLR_34-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CLR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/clr_34/",
+      "label": "Instagram hashtag for CLR_34"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CLR/CLR_34-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_34/images/CLR_34-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CLR/CLR_34-avril2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CLR/CLR_34-avril2019.jpg",
+      "caption": "photo avril 2019",
+      "title": "CLR_34-avril2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_34/images/CLR_34-avril2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CLR/CLR_34-mars2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CLR/CLR_34-mars2025.jpg",
+      "caption": "photo mars 2025 (@KALMAR)",
+      "title": "CLR_34-mars2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_34/images/CLR_34-mars2025.jpg"
+    }
+  ]
+}

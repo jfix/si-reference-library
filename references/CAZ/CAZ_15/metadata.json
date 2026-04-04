@@ -1,0 +1,44 @@
+{
+  "place_id": "CAZ",
+  "invader_id": "CAZ_15",
+  "city": "Côte d'Azur",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "18/05/2007",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "août 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_15-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAZ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/caz_15/",
+      "label": "Instagram hashtag for CAZ_15"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_15-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_15/images/CAZ_15-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_15-aout2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_15-aout2025.jpg",
+      "caption": "photo d'archive (@Invader)",
+      "title": "CAZ_15-aout2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_15/images/CAZ_15-aout2025.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "GRN",
+  "invader_id": "GRN_46",
+  "city": "Grenoble",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/12/1999",
+  "last_known_state": "OK",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GRN/GRN_46-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/grn_46/",
+      "label": "Instagram hashtag for GRN_46"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRN/GRN_46-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_46/images/GRN_46-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GRN/GRN_46-decembre2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GRN/GRN_46-decembre2021.jpg",
+      "caption": "photo décembre 2021 (@Boolbee)",
+      "title": "GRN_46-decembre2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_46/images/GRN_46-decembre2021.jpg"
+    }
+  ]
+}

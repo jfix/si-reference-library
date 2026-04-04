@@ -1,0 +1,54 @@
+{
+  "place_id": "WN",
+  "invader_id": "WN_19",
+  "city": "Wien",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/06/2006",
+  "last_known_state": "Très dégradé",
+  "last_seen_source": "janvier 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/WN/WN_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "WN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/wn_19/",
+      "label": "Instagram hashtag for WN_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/WN/WN_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_19/images/WN_19-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/WN/WN_19-aout2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/WN/WN_19-aout2018.jpg",
+      "caption": "photo août 2018",
+      "title": "WN_19-aout2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_19/images/WN_19-aout2018.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/WN/WN_19-janvier2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/WN/WN_19-janvier2026.jpg",
+      "caption": "photo janvier 2026 (@Tamateemo)",
+      "title": "WN_19-janvier2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_19/images/WN_19-janvier2026.jpg"
+    }
+  ]
+}

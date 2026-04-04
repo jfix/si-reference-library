@@ -1,0 +1,44 @@
+{
+  "place_id": "AMS",
+  "invader_id": "AMS_21",
+  "city": "Amsterdam",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "16/11/1999",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AMS/AMS_21-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AMS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ams_21/",
+      "label": "Instagram hashtag for AMS_21"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AMS/AMS_21-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_21/images/AMS_21-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AMS/AMS_21-novembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AMS/AMS_21-novembre2023.jpg",
+      "caption": "photo d'archive (@syrupkids)",
+      "title": "AMS_21-novembre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_21/images/AMS_21-novembre2023.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "CAZ",
+  "invader_id": "CAZ_37",
+  "city": "Côte d'Azur",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/07/2017",
+  "last_known_state": "OK",
+  "last_seen_source": "juin 2024 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_37-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAZ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/caz_37/",
+      "label": "Instagram hashtag for CAZ_37"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_37-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_37/images/CAZ_37-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_37-septembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_37-septembre2017.jpg",
+      "caption": "photo septembre 2017",
+      "title": "CAZ_37-septembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_37/images/CAZ_37-septembre2017.jpg"
+    }
+  ]
+}

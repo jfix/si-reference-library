@@ -1,0 +1,44 @@
+{
+  "place_id": "AMS",
+  "invader_id": "AMS_09",
+  "city": "Amsterdam",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/11/1999",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/AMS/AMS_09-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "AMS listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ams_09/",
+      "label": "Instagram hashtag for AMS_09"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/AMS/AMS_09-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_09/images/AMS_09-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/AMS/AMS_09-novembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/AMS/AMS_09-novembre2025.jpg",
+      "caption": "photo d'archive (@Steam.156)",
+      "title": "AMS_09-novembre2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_09/images/AMS_09-novembre2025.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "GRN",
+  "invader_id": "GRN_50",
+  "city": "Grenoble",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/12/1999",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "mars 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GRN/GRN_50-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/grn_50/",
+      "label": "Instagram hashtag for GRN_50"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GRN/GRN_50-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_50/images/GRN_50-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GRN/GRN_50-mars2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GRN/GRN_50-mars2022.jpg",
+      "caption": "photo mars 2022",
+      "title": "GRN_50-mars2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_50/images/GRN_50-mars2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GRN/GRN_50-mars2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GRN/GRN_50-mars2025.jpg",
+      "caption": "photo mars 2025 photo (@LeMacareux)",
+      "title": "GRN_50-mars2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_50/images/GRN_50-mars2025.jpg"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "place_id": "CLR",
+  "invader_id": "CLR_12",
+  "city": "Clermont-Ferrand",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/01/2016",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CLR/CLR_12-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CLR listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/clr_12/",
+      "label": "Instagram hashtag for CLR_12"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CLR/CLR_12-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CLR/CLR_12/images/CLR_12-grosplan.png"
+    }
+  ]
+}

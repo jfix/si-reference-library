@@ -1,0 +1,44 @@
+{
+  "place_id": "CAZ",
+  "invader_id": "CAZ_06",
+  "city": "Côte d'Azur",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "15/05/2007",
+  "last_known_state": "OK",
+  "last_seen_source": "septembre 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_06-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAZ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/caz_06/",
+      "label": "Instagram hashtag for CAZ_06"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_06-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_06/images/CAZ_06-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_06-septembre2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_06-septembre2021.jpg",
+      "caption": "photo septembre 2021 (@bp78)",
+      "title": "CAZ_06-septembre2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_06/images/CAZ_06-septembre2021.jpg"
+    }
+  ]
+}

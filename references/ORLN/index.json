@@ -1,0 +1,21 @@
+{
+  "place_id": "ORLN",
+  "city": "Orléans",
+  "country": null,
+  "target_count": 12,
+  "confirmed_invaders": [
+    "ORLN_01",
+    "ORLN_02",
+    "ORLN_03",
+    "ORLN_04",
+    "ORLN_05",
+    "ORLN_06",
+    "ORLN_07",
+    "ORLN_08",
+    "ORLN_09",
+    "ORLN_10",
+    "ORLN_11",
+    "ORLN_12"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

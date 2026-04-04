@@ -1,0 +1,44 @@
+{
+  "place_id": "CAZ",
+  "invader_id": "CAZ_38",
+  "city": "Côte d'Azur",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/08/2017",
+  "last_known_state": "OK",
+  "last_seen_source": "février 2026 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_38-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAZ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/caz_38/",
+      "label": "Instagram hashtag for CAZ_38"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_38-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_38/images/CAZ_38-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_38-juin2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_38-juin2018.jpg",
+      "caption": "photo juin 2018",
+      "title": "CAZ_38-juin2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_38/images/CAZ_38-juin2018.jpg"
+    }
+  ]
+}

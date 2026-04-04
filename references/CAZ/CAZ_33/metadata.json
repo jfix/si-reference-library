@@ -1,0 +1,44 @@
+{
+  "place_id": "CAZ",
+  "invader_id": "CAZ_33",
+  "city": "Côte d'Azur",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/05/2007",
+  "last_known_state": "OK",
+  "last_seen_source": "février 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_33-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "CAZ listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/caz_33/",
+      "label": "Instagram hashtag for CAZ_33"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/CAZ/CAZ_33-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_33/images/CAZ_33-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/CAZ/CAZ_33-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/CAZ/CAZ_33-fevrier2017.jpg",
+      "caption": "photo février 2017",
+      "title": "CAZ_33-fevrier2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_33/images/CAZ_33-fevrier2017.jpg"
+    }
+  ]
+}
