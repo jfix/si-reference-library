@@ -25,6 +25,11 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for NOO_10",
       "file_path": "Screenshot_20241228-113108.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for NOO_10",
+      "file_path": "Screenshot_20241228-112529.png"
     }
   ],
   "images": [
@@ -49,8 +54,22 @@
       "type": "flash-invaders-screenshot",
       "role": "flash-reference",
       "contains_invader": true,
-      "local_path": "data/flash-screenshots/by-id/NOO_10/Screenshot_20241228-113108-crop.png",
+      "local_path": "references/NOO/NOO_10/images/Screenshot_20241228-113108-crop.png",
       "title": "Screenshot_20241228-113108-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_10/images/Screenshot_20241228-113108-crop.png",
+      "title": "Screenshot_20241228-113108-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_10/images/Screenshot_20241228-112529-crop.png",
+      "title": "Screenshot_20241228-112529-crop.png"
     }
   ]
 }
