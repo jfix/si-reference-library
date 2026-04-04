@@ -1,0 +1,44 @@
+{
+  "place_id": "FKF",
+  "invader_id": "FKF_01",
+  "city": "Frankfurt",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/04/2015",
+  "last_known_state": "OK",
+  "last_seen_source": "juin 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/FKF/FKF_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "FKF listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/fkf_01/",
+      "label": "Instagram hashtag for FKF_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/FKF/FKF_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/FKF/FKF_01/images/FKF_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/FKF/FKF_01-juin2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/FKF/FKF_01-juin2017.jpg",
+      "caption": "photo juin 2017",
+      "title": "FKF_01-juin2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/FKF/FKF_01/images/FKF_01-juin2017.jpg"
+    }
+  ]
+}

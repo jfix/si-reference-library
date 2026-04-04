@@ -1,0 +1,185 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T09:02:55.130Z",
+  "city": "Frankfurt",
+  "code": "FKF",
+  "totalInvaders": 14,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Frankfurt",
+    "code": "FKF",
+    "invasionWaves": 1,
+    "totalInvaders": 14,
+    "totalPoints": 430,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "FKF_01",
+      "points": 20,
+      "poseDate": "08/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FKF/FKF_01-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FKF/FKF_01-juin2017.jpg",
+          "title": "FKF_01-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "FKF_02",
+      "points": 30,
+      "poseDate": "08/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FKF/FKF_02-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FKF/FKF_02-juin2017.jpg",
+          "title": "FKF_02-juin2017",
+          "caption": "photo juin 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FKF/FKF_02-mai2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FKF/FKF_02-mai2021.jpg",
+          "title": "FKF_02-mai2021",
+          "caption": "photo mai 2021 (@pat_m_paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "FKF_03",
+      "points": 50,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2016 (flash)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_04",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2016 (flash)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_05",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_06",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_07",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_08",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_08-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_09",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_10",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_11",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_12",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_13",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "FKF_14",
+      "points": 30,
+      "poseDate": "09/04/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2017 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/fkf_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/FKF/FKF_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/FKF/FKF_14-juin2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/FKF/FKF_14-juin2017.jpg",
+          "title": "FKF_14-juin2017",
+          "caption": "photo juin 2017"
+        }
+      ]
+    }
+  ]
+}

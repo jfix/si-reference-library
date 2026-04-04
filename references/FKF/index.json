@@ -1,0 +1,23 @@
+{
+  "place_id": "FKF",
+  "city": "Frankfurt",
+  "country": null,
+  "target_count": 14,
+  "confirmed_invaders": [
+    "FKF_01",
+    "FKF_02",
+    "FKF_03",
+    "FKF_04",
+    "FKF_05",
+    "FKF_06",
+    "FKF_07",
+    "FKF_08",
+    "FKF_09",
+    "FKF_10",
+    "FKF_11",
+    "FKF_12",
+    "FKF_13",
+    "FKF_14"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}
