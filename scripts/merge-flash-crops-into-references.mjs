@@ -24,13 +24,18 @@ async function main() {
       const metadata = await readJson(metadataPath).catch(() => null);
       if (!metadata) continue;
 
+      const imagesDir = path.join(placeDir, invaderId, 'images');
+      await fs.mkdir(imagesDir, { recursive: true });
       const images = Array.isArray(metadata.images) ? metadata.images : [];
       const sources = Array.isArray(metadata.sources) ? metadata.sources : [];
       let changed = false;
       let addedForInvader = 0;
 
       for (const record of records) {
-        const relativeCropPath = relativize(record.cropPath);
+        const destinationFilename = path.basename(record.cropPath);
+        const destinationPath = path.join(imagesDir, destinationFilename);
+        await copyIfNeeded(record.cropPath, destinationPath);
+        const relativeCropPath = relativize(destinationPath);
         const relativeSourcePath = relativizeExternal(record.sourcePath, flashIndex.inputDir ?? null);
         const sourceLabel = `Flash screenshot for ${invaderId}`;
         const sourceExists = sources.some(
@@ -53,6 +58,18 @@ async function main() {
           (image) => image?.role === 'flash-reference' && image?.local_path === relativeCropPath,
         );
         if (imageExists) continue;
+
+        for (const image of images) {
+          if (
+            image?.role === 'flash-reference' &&
+            typeof image?.local_path === 'string' &&
+            image.local_path.includes('data/flash-screenshots/by-id/')
+          ) {
+            image.local_path = relativeCropPath;
+            image.title ??= destinationFilename;
+            changed = true;
+          }
+        }
 
         images.push({
           type: 'flash-invaders-screenshot',
@@ -124,6 +141,17 @@ function relativizeExternal(absolutePath, inputDir) {
     }
   }
   return absolutePath;
+}
+
+async function copyIfNeeded(sourcePath, destinationPath) {
+  try {
+    await fs.access(destinationPath);
+    return;
+  } catch {
+    // destination does not exist yet
+  }
+
+  await fs.copyFile(sourcePath, destinationPath);
 }
 
 main().catch((error) => {

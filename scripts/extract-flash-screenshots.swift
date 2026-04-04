@@ -37,6 +37,7 @@ let root = URL(fileURLWithPath: "/Users/jakob/Projects/si-reference-library")
 let arguments = Array(CommandLine.arguments.dropFirst())
 let inputDir = arguments.first.map(URL.init(fileURLWithPath:)) ?? URL(fileURLWithPath: "/Users/jakob/Downloads/screenshots")
 let outputDir = arguments.dropFirst().first.map(URL.init(fileURLWithPath:)) ?? root.appendingPathComponent("data/flash-screenshots", isDirectory: true)
+let manualMatchesURL = root.appendingPathComponent("data/flash-screenshots/manual-matches.json")
 
 let fileManager = FileManager.default
 try fileManager.createDirectory(at: outputDir, withIntermediateDirectories: true)
@@ -47,6 +48,7 @@ let imageFiles = try fileManager.contentsOfDirectory(at: inputDir, includingProp
     return ["png", "jpg", "jpeg"].contains(ext)
   }
   .sorted { $0.lastPathComponent < $1.lastPathComponent }
+let manualMatches = loadManualMatches(from: manualMatchesURL)
 
 var matches: [MatchRecord] = []
 
@@ -56,8 +58,11 @@ for fileURL in imageFiles {
     continue
   }
 
-  let ocrLines = try recognizeText(in: cgImage)
-  guard let idMatch = try findInvaderId(in: ocrLines, image: cgImage) else {
+  let primaryLines = try recognizeText(in: cgImage)
+  let secondaryLines = try recognizeSecondaryText(in: cgImage)
+  let ocrLines = dedupeOCRLines(primaryLines + secondaryLines)
+  let manualInvaderId = manualMatches[fileURL.lastPathComponent]
+  guard let idMatch = try findInvaderId(in: ocrLines, image: cgImage, manualInvaderId: manualInvaderId) else {
     continue
   }
 
@@ -123,6 +128,23 @@ func recognizeText(in cgImage: CGImage) throws -> [OCRLine] {
   }
 }
 
+func recognizeSecondaryText(in cgImage: CGImage) throws -> [OCRLine] {
+  let width = cgImage.width
+  let height = cgImage.height
+  let rect = CGRect(
+    x: Int(Double(width) * 0.18),
+    y: Int(Double(height) * 0.55),
+    width: Int(Double(width) * 0.64),
+    height: Int(Double(height) * 0.24)
+  )
+
+  guard let cropped = cgImage.cropping(to: rect) else {
+    return []
+  }
+
+  return try recognizeText(in: cropped)
+}
+
 struct IDMatch {
   let invaderId: String
   let line: OCRLine
@@ -132,8 +154,15 @@ struct IDMatch {
   }
 }
 
-func findInvaderId(in lines: [OCRLine], image: CGImage) throws -> IDMatch? {
-  for line in lines.sorted(by: { $0.box.origin.y > $1.box.origin.y }) {
+func findInvaderId(in lines: [OCRLine], image: CGImage, manualInvaderId: String?) throws -> IDMatch? {
+  let sortedLines = lines.sorted(by: { $0.box.origin.y > $1.box.origin.y })
+
+  if let manualInvaderId {
+    let fallbackLine = sortedLines.first ?? OCRLine(text: "MANUAL:\(manualInvaderId)", confidence: 1, box: .zero)
+    return IDMatch(invaderId: manualInvaderId, line: fallbackLine)
+  }
+
+  for line in sortedLines {
     let normalized = line.text
       .uppercased()
       .replacingOccurrences(of: " ", with: "")
@@ -156,6 +185,20 @@ func findInvaderId(in lines: [OCRLine], image: CGImage) throws -> IDMatch? {
       invaderId = refined
     }
     return IDMatch(invaderId: invaderId, line: line)
+  }
+
+  let combined = sortedLines
+    .map { $0.text.uppercased().replacingOccurrences(of: " ", with: "") }
+    .joined()
+  let markerCandidates = ["YOUFOUND", "YOUFOUNO", "YOUF0UND", "YOUFOUND!"]
+  for marker in markerCandidates {
+    if let range = combined.range(of: marker) {
+      let candidateSource = String(combined[range.upperBound...])
+      if let invaderId = extractInvaderId(from: candidateSource) {
+        let fallbackLine = sortedLines.first ?? OCRLine(text: combined, confidence: 0, box: .zero)
+        return IDMatch(invaderId: invaderId, line: fallbackLine)
+      }
+    }
   }
 
   return nil
@@ -226,23 +269,44 @@ func refineInvaderId(from line: OCRLine, in image: CGImage) throws -> String? {
 }
 
 func extractInvaderId(from text: String) -> String? {
-  let pattern = try! NSRegularExpression(pattern: #"([A-Z]{1,6}_([0-9OSIL]{1,5}))"#)
+  let pattern = try! NSRegularExpression(pattern: #"([A-Z]{1,6})_?([0-9OSIL]{1,5})"#)
   let range = NSRange(location: 0, length: text.utf16.count)
   guard let match = pattern.firstMatch(in: text, options: [], range: range),
-        let fullRange = Range(match.range(at: 1), in: text),
+        let prefixRange = Range(match.range(at: 1), in: text),
         let suffixRange = Range(match.range(at: 2), in: text) else {
     return nil
   }
 
-  let full = String(text[fullRange])
+  let prefix = String(text[prefixRange])
   let suffix = String(text[suffixRange])
   let normalizedSuffix = suffix
     .replacingOccurrences(of: "O", with: "0")
     .replacingOccurrences(of: "S", with: "5")
     .replacingOccurrences(of: "I", with: "1")
     .replacingOccurrences(of: "L", with: "1")
-  let prefix = String(full.split(separator: "_", maxSplits: 1)[0])
   return "\(prefix)_\(normalizedSuffix)"
+}
+
+func dedupeOCRLines(_ lines: [OCRLine]) -> [OCRLine] {
+  var seen = Set<String>()
+  var deduped: [OCRLine] = []
+  for line in lines {
+    let key = line.text.uppercased().replacingOccurrences(of: " ", with: "")
+    if seen.contains(key) {
+      continue
+    }
+    seen.insert(key)
+    deduped.append(line)
+  }
+  return deduped
+}
+
+func loadManualMatches(from url: URL) -> [String: String] {
+  guard let data = try? Data(contentsOf: url),
+        let json = try? JSONSerialization.jsonObject(with: data) as? [String: String] else {
+    return [:]
+  }
+  return json
 }
 
 func trimBlackBorder(in image: CGImage) -> CGRect {
