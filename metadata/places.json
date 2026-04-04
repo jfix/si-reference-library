@@ -214,6 +214,11 @@
     "country": "United Kingdom",
     "target_count": 25
   },
+  "LA": {
+    "city": "Los Angeles",
+    "country": "United States",
+    "target_count": 214
+  },
   "BSL": {
     "city": "Basel",
     "country": "Switzerland",
