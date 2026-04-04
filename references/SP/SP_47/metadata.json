@@ -1,0 +1,34 @@
+{
+  "place_id": "SP",
+  "invader_id": "SP_47",
+  "city": "São Paulo",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "04/08/2011",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2026 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SP/SP_47-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SP listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sp_47/",
+      "label": "Instagram hashtag for SP_47"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SP/SP_47-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SP/SP_47/images/SP_47-grosplan.png"
+    }
+  ]
+}

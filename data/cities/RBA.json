@@ -1,0 +1,335 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:59:42.882Z",
+  "city": "Rabat",
+  "code": "RBA",
+  "totalInvaders": 20,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Rabat",
+    "code": "RBA",
+    "invasionWaves": 1,
+    "totalInvaders": 20,
+    "totalPoints": 700,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "RBA_01",
+      "points": 30,
+      "poseDate": "15/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RBA_02",
+      "points": 50,
+      "poseDate": "15/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_02-septembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_02-septembre2022.jpg",
+          "title": "RBA_02-septembre2022",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_03",
+      "points": 20,
+      "poseDate": "15/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RBA_04",
+      "points": 40,
+      "poseDate": "15/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_04-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_04-decembre2018.jpg",
+          "title": "RBA_04-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_05",
+      "points": 50,
+      "poseDate": "15/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_05-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_05-decembre2018.jpg",
+          "title": "RBA_05-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_06",
+      "points": 20,
+      "poseDate": "15/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_06-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_06-decembre2018.jpg",
+          "title": "RBA_06-decembre2018",
+          "caption": "photo décembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_06-septembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_06-septembre2022.jpg",
+          "title": "RBA_06-septembre2022",
+          "caption": "photo septembre 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_07",
+      "points": 40,
+      "poseDate": "16/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_07-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_07-decembre2018.jpg",
+          "title": "RBA_07-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_08",
+      "points": 20,
+      "poseDate": "16/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_08-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_08-decembre2018.jpg",
+          "title": "RBA_08-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_09",
+      "points": 40,
+      "poseDate": "16/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_09-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_09-decembre2018.jpg",
+          "title": "RBA_09-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_10",
+      "points": 50,
+      "poseDate": "16/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RBA_11",
+      "points": 30,
+      "poseDate": "17/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RBA_12",
+      "points": 30,
+      "poseDate": "17/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_12-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_12-decembre2018.jpg",
+          "title": "RBA_12-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_13",
+      "points": 40,
+      "poseDate": "17/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_13-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_13-decembre2018.jpg",
+          "title": "RBA_13-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_14",
+      "points": 30,
+      "poseDate": "17/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_14-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_14-decembre2018.jpg",
+          "title": "RBA_14-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_15",
+      "points": 40,
+      "poseDate": "17/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_15-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_15-decembre2018.jpg",
+          "title": "RBA_15-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_16",
+      "points": 30,
+      "poseDate": "18/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_16-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_16-decembre2018.jpg",
+          "title": "RBA_16-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_17",
+      "points": 40,
+      "poseDate": "18/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_17-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_17-decembre2018.jpg",
+          "title": "RBA_17-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_18",
+      "points": 20,
+      "poseDate": "18/03/2017",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_18-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_18-decembre2018.jpg",
+          "title": "RBA_18-decembre2018",
+          "caption": "photo décembre 2018"
+        }
+      ]
+    },
+    {
+      "invaderId": "RBA_19",
+      "points": 50,
+      "poseDate": "18/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2018 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_19-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "RBA_20",
+      "points": 30,
+      "poseDate": "18/03/2017",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/rba_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/RBA/RBA_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_20-decembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_20-decembre2018.jpg",
+          "title": "RBA_20-decembre2018",
+          "caption": "photo décembre 2018"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/RBA/RBA_20-janvier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/RBA/RBA_20-janvier2025.jpg",
+          "title": "RBA_20-janvier2025",
+          "caption": "photo janvier 2025 (@Monsieur Etienne)"
+        }
+      ]
+    }
+  ]
+}

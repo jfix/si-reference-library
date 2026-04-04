@@ -1,0 +1,54 @@
+{
+  "place_id": "SP",
+  "invader_id": "SP_21",
+  "city": "São Paulo",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/07/2011",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2018 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SP/SP_21-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SP listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sp_21/",
+      "label": "Instagram hashtag for SP_21"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SP/SP_21-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SP/SP_21/images/SP_21-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/SP/SP_21-avril2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/SP/SP_21-avril2017.jpg",
+      "caption": "photo avril 2017 (StreetView)",
+      "title": "SP_21-avril2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/SP/SP_21/images/SP_21-avril2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/SP/SP_21-mars2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/SP/SP_21-mars2020.jpg",
+      "caption": "photo mars 2020 (StreetView)",
+      "title": "SP_21-mars2020",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/SP/SP_21/images/SP_21-mars2020.jpg"
+    }
+  ]
+}

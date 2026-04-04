@@ -1,0 +1,44 @@
+{
+  "place_id": "RBA",
+  "invader_id": "RBA_13",
+  "city": "Rabat",
+  "country": null,
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/03/2017",
+  "last_known_state": "OK",
+  "last_seen_source": "décembre 2018 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/RBA/RBA_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "RBA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/rba_13/",
+      "label": "Instagram hashtag for RBA_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/RBA/RBA_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/RBA/RBA_13/images/RBA_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/RBA/RBA_13-decembre2018.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/RBA/RBA_13-decembre2018.jpg",
+      "caption": "photo décembre 2018",
+      "title": "RBA_13-decembre2018",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/RBA/RBA_13/images/RBA_13-decembre2018.jpg"
+    }
+  ]
+}

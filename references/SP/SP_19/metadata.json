@@ -1,0 +1,34 @@
+{
+  "place_id": "SP",
+  "invader_id": "SP_19",
+  "city": "São Paulo",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/07/2011",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2020 (Street View)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SP/SP_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SP listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sp_19/",
+      "label": "Instagram hashtag for SP_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SP/SP_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SP/SP_19/images/SP_19-grosplan.png"
+    }
+  ]
+}

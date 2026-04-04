@@ -1,0 +1,54 @@
+{
+  "place_id": "LSN",
+  "invader_id": "LSN_01",
+  "city": "Lausanne",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "05/07/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LSN/LSN_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LSN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lsn_01/",
+      "label": "Instagram hashtag for LSN_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LSN/LSN_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LSN/LSN_01/images/LSN_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LSN/LSN_01-avril2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LSN/LSN_01-avril2023.jpg",
+      "caption": "photo avril 2023 (@Vicente)",
+      "title": "LSN_01-avril2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LSN/LSN_01/images/LSN_01-avril2023.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LSN/LSN_01-septembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LSN/LSN_01-septembre2023.jpg",
+      "caption": "photo septembre 2023 (@Avengers)",
+      "title": "LSN_01-septembre2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LSN/LSN_01/images/LSN_01-septembre2023.jpg"
+    }
+  ]
+}

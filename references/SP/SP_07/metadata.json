@@ -1,0 +1,34 @@
+{
+  "place_id": "SP",
+  "invader_id": "SP_07",
+  "city": "São Paulo",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/07/2011",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SP/SP_07-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SP listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sp_07/",
+      "label": "Instagram hashtag for SP_07"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SP/SP_07-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SP/SP_07/images/SP_07-grosplan.png"
+    }
+  ]
+}

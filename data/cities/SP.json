@@ -1,0 +1,662 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:59:46.490Z",
+  "city": "São Paulo",
+  "code": "SP",
+  "totalInvaders": 52,
+  "pagesScraped": 2,
+  "summary": {
+    "city": "São Paulo",
+    "code": "SP",
+    "invasionWaves": 1,
+    "totalInvaders": 52,
+    "totalPoints": 2130,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "SP_01",
+      "points": 20,
+      "poseDate": "21/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_01-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_01-fevrier2026.jpg",
+          "title": "SP_01-fevrier2026",
+          "caption": "photo octobre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_02",
+      "points": 30,
+      "poseDate": "22/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2016 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_03",
+      "points": 50,
+      "poseDate": "22/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_04",
+      "points": 50,
+      "poseDate": "22/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_04-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_04-avril2025.jpg",
+          "title": "SP_04-avril2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_05",
+      "points": 20,
+      "poseDate": "22/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_06",
+      "points": 50,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_07",
+      "points": 30,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_08",
+      "points": 50,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_08-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_08-mai2025.jpg",
+          "title": "SP_08-mai2025",
+          "caption": "photo octobre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_09",
+      "points": 50,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_09-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_09-aout2025.jpg",
+          "title": "SP_09-aout2025",
+          "caption": "photo octobre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_10",
+      "points": 30,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_10-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_10-novembre2025.jpg",
+          "title": "SP_10-novembre2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_11",
+      "points": 10,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_12",
+      "points": 10,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_13",
+      "points": 50,
+      "poseDate": "23/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_14",
+      "points": 50,
+      "poseDate": "24/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_14-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_14-mars2026.jpg",
+          "title": "SP_14-mars2026",
+          "caption": "photo octobre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_15",
+      "points": 30,
+      "poseDate": "24/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_15-juin2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_15-juin2022.jpg",
+          "title": "SP_15-juin2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_16",
+      "points": 50,
+      "poseDate": "24/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_16-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_17",
+      "points": 50,
+      "poseDate": "24/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_17-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_18",
+      "points": 50,
+      "poseDate": "24/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_18-janvier2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_18-janvier2015.jpg",
+          "title": "SP_18-janvier2015",
+          "caption": "photo janvier 2015 (Google StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_18-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_18-avril2025.jpg",
+          "title": "SP_18-avril2025",
+          "caption": "photo avril 2025 (@Cassissou)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_19",
+      "points": 50,
+      "poseDate": "24/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2020 (Street View)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_19-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_20",
+      "points": 20,
+      "poseDate": "25/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_20-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_21",
+      "points": 50,
+      "poseDate": "26/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_21-avril2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_21-avril2017.jpg",
+          "title": "SP_21-avril2017",
+          "caption": "photo avril 2017 (StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_21-mars2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_21-mars2020.jpg",
+          "title": "SP_21-mars2020",
+          "caption": "photo mars 2020 (StreetView)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_22",
+      "points": 50,
+      "poseDate": "26/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_23",
+      "points": 50,
+      "poseDate": "26/07/2011",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "juillet 2021 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_23-juillet2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_23-juillet2021.jpg",
+          "title": "SP_23-juillet2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_24",
+      "points": 50,
+      "poseDate": "26/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_24-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_25",
+      "points": 30,
+      "poseDate": "26/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_25-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_26",
+      "points": 50,
+      "poseDate": "26/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_26-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_27",
+      "points": 30,
+      "poseDate": "27/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2018 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_27-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_28",
+      "points": 50,
+      "poseDate": "28/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_28-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_29",
+      "points": 20,
+      "poseDate": "28/07/2011",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_29-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_30",
+      "points": 50,
+      "poseDate": "28/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_30-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_31",
+      "points": 50,
+      "poseDate": "28/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_31-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_31-mars2026.jpg",
+          "title": "SP_31-mars2026",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_32",
+      "points": 10,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_32-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_32-juillet2024.jpg",
+          "title": "SP_32-juillet2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_33",
+      "points": 10,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2021 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_33-avril2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_33-avril2021.jpg",
+          "title": "SP_33-avril2021",
+          "caption": "photo octobre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_34",
+      "points": 20,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_34-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_35",
+      "points": 50,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_35-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_36",
+      "points": 50,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_36-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_37",
+      "points": 50,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_37-aout2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_37-aout2023.jpg",
+          "title": "SP_37-aout2023",
+          "caption": "photo octobre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_38",
+      "points": 30,
+      "poseDate": "29/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_38-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_39",
+      "points": 20,
+      "poseDate": "30/07/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_39-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_40",
+      "points": 50,
+      "poseDate": "31/07/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_40-octobre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_40-octobre2025.jpg",
+          "title": "SP_40-octobre2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_41",
+      "points": 50,
+      "poseDate": "01/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_41-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_42",
+      "points": 50,
+      "poseDate": "01/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_42-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_43",
+      "points": 30,
+      "poseDate": "01/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_43-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_44",
+      "points": 30,
+      "poseDate": "01/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_44-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_45",
+      "points": 50,
+      "poseDate": "01/08/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_45-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_46",
+      "points": 50,
+      "poseDate": "01/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_46/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_46-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_47",
+      "points": 50,
+      "poseDate": "04/08/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_47-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_48",
+      "points": 50,
+      "poseDate": "04/08/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_48/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_48-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_49",
+      "points": 50,
+      "poseDate": "04/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2016 (street view)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_49/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_49-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_50",
+      "points": 100,
+      "poseDate": "04/08/2011",
+      "lastKnownState": "Non visible",
+      "lastSeenSource": "octobre 2017 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_50/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_50-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SP_51",
+      "points": 50,
+      "poseDate": "06/08/2011",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_51/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_51-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SP/SP_51-avril2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SP/SP_51-avril2019.jpg",
+          "title": "SP_51-avril2019",
+          "caption": "photo avril 2019 (Street View)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SP_52",
+      "points": 50,
+      "poseDate": "06/08/2011",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sp_52/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SP/SP_52-grosplan.png",
+      "photos": []
+    }
+  ]
+}

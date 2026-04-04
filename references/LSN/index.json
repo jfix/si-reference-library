@@ -1,0 +1,21 @@
+{
+  "place_id": "LSN",
+  "city": "Lausanne",
+  "country": null,
+  "target_count": 18,
+  "confirmed_invaders": [
+    "LSN_01",
+    "LSN_02",
+    "LSN_04",
+    "LSN_05",
+    "LSN_08",
+    "LSN_10",
+    "LSN_12",
+    "LSN_13",
+    "LSN_14",
+    "LSN_15",
+    "LSN_16",
+    "LSN_18"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

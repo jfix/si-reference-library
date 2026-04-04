@@ -1,0 +1,29 @@
+{
+  "place_id": "RBA",
+  "city": "Rabat",
+  "country": null,
+  "target_count": 20,
+  "confirmed_invaders": [
+    "RBA_01",
+    "RBA_02",
+    "RBA_03",
+    "RBA_04",
+    "RBA_05",
+    "RBA_06",
+    "RBA_07",
+    "RBA_08",
+    "RBA_09",
+    "RBA_10",
+    "RBA_11",
+    "RBA_12",
+    "RBA_13",
+    "RBA_14",
+    "RBA_15",
+    "RBA_16",
+    "RBA_17",
+    "RBA_18",
+    "RBA_19",
+    "RBA_20"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

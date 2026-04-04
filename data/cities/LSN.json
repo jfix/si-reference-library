@@ -1,0 +1,213 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:59:40.703Z",
+  "city": "Lausanne",
+  "code": "LSN",
+  "totalInvaders": 18,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Lausanne",
+    "code": "LSN",
+    "invasionWaves": 1,
+    "totalInvaders": 18,
+    "totalPoints": 270,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "LSN_01",
+      "points": 10,
+      "poseDate": "05/07/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_01-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_01-avril2023.jpg",
+          "title": "LSN_01-avril2023",
+          "caption": "photo avril 2023 (@Vicente)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_01-septembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_01-septembre2023.jpg",
+          "title": "LSN_01-septembre2023",
+          "caption": "photo septembre 2023 (@Avengers)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_02",
+      "points": 10,
+      "poseDate": "05/07/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_02-septembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_02-septembre2020.jpg",
+          "title": "LSN_02-septembre2020",
+          "caption": "photo septembre 2020 (@Flash)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_04",
+      "points": 10,
+      "poseDate": "05/07/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_04-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_04-septembre2016.jpg",
+          "title": "LSN_04-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_05",
+      "points": 10,
+      "poseDate": "05/07/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_05-juin2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_05-juin2023.jpg",
+          "title": "LSN_05-juin2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_08",
+      "points": 10,
+      "poseDate": "05/07/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_08-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_08-avril2023.jpg",
+          "title": "LSN_08-avril2023",
+          "caption": "photo avril 2023 (@Vicente)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_10",
+      "points": 10,
+      "poseDate": "06/07/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LSN_12",
+      "points": 10,
+      "poseDate": "07/07/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LSN_13",
+      "points": 10,
+      "poseDate": "07/07/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_13-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_13-mai2025.jpg",
+          "title": "LSN_13-mai2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_14",
+      "points": 30,
+      "poseDate": "07/07/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_14-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_14-octobre2020.jpg",
+          "title": "LSN_14-octobre2020",
+          "caption": "photo octobre 2020 (Antoine L.)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_14-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_14-mars2022.jpg",
+          "title": "LSN_14-mars2022",
+          "caption": "photo mars 2022 (@Karlix, @Marguix et @Gaellix)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_15",
+      "points": 10,
+      "poseDate": "07/07/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_15-mai2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_15-mai2025.jpg",
+          "title": "LSN_15-mai2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_16",
+      "points": 20,
+      "poseDate": "07/07/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_16-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_16-avril2025.jpg",
+          "title": "LSN_16-avril2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LSN_18",
+      "points": 50,
+      "poseDate": "08/07/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lsn_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LSN/LSN_18-grosplan.png",
+      "photos": []
+    }
+  ]
+}

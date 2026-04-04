@@ -214,6 +214,21 @@
     "country": "United Kingdom",
     "target_count": 25
   },
+  "LSN": {
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "target_count": 18
+  },
+  "RBA": {
+    "city": "Rabat",
+    "country": "Morocco",
+    "target_count": 20
+  },
+  "SP": {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "target_count": 52
+  },
   "LA": {
     "city": "Los Angeles",
     "country": "United States",
