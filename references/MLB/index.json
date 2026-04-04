@@ -1,0 +1,27 @@
+{
+  "place_id": "MLB",
+  "city": "Melbourne",
+  "country": null,
+  "target_count": 25,
+  "confirmed_invaders": [
+    "MLB_02",
+    "MLB_04",
+    "MLB_05",
+    "MLB_07",
+    "MLB_08",
+    "MLB_09",
+    "MLB_10",
+    "MLB_12",
+    "MLB_13",
+    "MLB_14",
+    "MLB_16",
+    "MLB_18",
+    "MLB_19",
+    "MLB_20",
+    "MLB_22",
+    "MLB_23",
+    "MLB_24",
+    "MLB_25"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

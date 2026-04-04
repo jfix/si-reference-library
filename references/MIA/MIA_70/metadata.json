@@ -1,0 +1,44 @@
+{
+  "place_id": "MIA",
+  "invader_id": "MIA_70",
+  "city": "Miami",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/08/2012",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2017 (flash)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MIA/MIA_70-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MIA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mia_70/",
+      "label": "Instagram hashtag for MIA_70"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MIA/MIA_70-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_70/images/MIA_70-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MIA/MIA_70-mars2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MIA/MIA_70-mars2016.jpg",
+      "caption": "photo mars 2016",
+      "title": "MIA_70-mars2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_70/images/MIA_70-mars2016.jpg"
+    }
+  ]
+}

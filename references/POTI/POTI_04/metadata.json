@@ -1,0 +1,44 @@
+{
+  "place_id": "POTI",
+  "invader_id": "POTI_04",
+  "city": "Potosi",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "07/01/2022",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2022 (Live FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/POTI/POTI_04-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "POTI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/poti_04/",
+      "label": "Instagram hashtag for POTI_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/POTI/POTI_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/POTI/POTI_04/images/POTI_04-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/POTI/POTI_04-mars2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/POTI/POTI_04-mars2022.jpg",
+      "caption": "photo mars 2022 (@fredp)",
+      "title": "POTI_04-mars2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/POTI/POTI_04/images/POTI_04-mars2022.jpg"
+    }
+  ]
+}

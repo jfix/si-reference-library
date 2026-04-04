@@ -1,0 +1,44 @@
+{
+  "place_id": "MIA",
+  "invader_id": "MIA_22",
+  "city": "Miami",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "03/12/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mai 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MIA/MIA_22-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MIA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mia_22/",
+      "label": "Instagram hashtag for MIA_22"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MIA/MIA_22-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_22/images/MIA_22-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MIA/MIA_22-mai2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MIA/MIA_22-mai2024.jpg",
+      "caption": "photo d'archive",
+      "title": "MIA_22-mai2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_22/images/MIA_22-mai2024.jpg"
+    }
+  ]
+}

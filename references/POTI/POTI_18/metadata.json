@@ -1,0 +1,44 @@
+{
+  "place_id": "POTI",
+  "invader_id": "POTI_18",
+  "city": "Potosi",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/01/2022",
+  "last_known_state": "OK",
+  "last_seen_source": "janvier 2022 (Instagram)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/POTI/POTI_18-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "POTI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/poti_18/",
+      "label": "Instagram hashtag for POTI_18"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/POTI/POTI_18-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/POTI/POTI_18/images/POTI_18-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/POTI/POTI_18-janvier2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/POTI/POTI_18-janvier2022.jpg",
+      "caption": "photo janvier 2022 (Instagram @invaderwashere)",
+      "title": "POTI_18-janvier2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/POTI/POTI_18/images/POTI_18-janvier2022.jpg"
+    }
+  ]
+}

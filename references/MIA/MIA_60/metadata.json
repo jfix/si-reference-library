@@ -1,0 +1,34 @@
+{
+  "place_id": "MIA",
+  "invader_id": "MIA_60",
+  "city": "Miami",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "19/08/2012",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2016 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MIA/MIA_60-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MIA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mia_60/",
+      "label": "Instagram hashtag for MIA_60"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MIA/MIA_60-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_60/images/MIA_60-grosplan.png"
+    }
+  ]
+}

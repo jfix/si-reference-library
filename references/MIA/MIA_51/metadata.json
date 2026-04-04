@@ -1,0 +1,44 @@
+{
+  "place_id": "MIA",
+  "invader_id": "MIA_51",
+  "city": "Miami",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/08/2012",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MIA/MIA_51-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MIA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mia_51/",
+      "label": "Instagram hashtag for MIA_51"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MIA/MIA_51-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_51/images/MIA_51-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MIA/MIA_51-decembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MIA/MIA_51-decembre2024.jpg",
+      "caption": "photo décembre 2024 (@vincentr)",
+      "title": "MIA_51-decembre2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_51/images/MIA_51-decembre2024.jpg"
+    }
+  ]
+}

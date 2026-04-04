@@ -1,0 +1,44 @@
+{
+  "place_id": "POTI",
+  "invader_id": "POTI_33",
+  "city": "Potosi",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/01/2022",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/POTI/POTI_33-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "POTI listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/poti_33/",
+      "label": "Instagram hashtag for POTI_33"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/POTI/POTI_33-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/POTI/POTI_33/images/POTI_33-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/POTI/POTI_33-janvier2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/POTI/POTI_33-janvier2022.jpg",
+      "caption": "photo janvier 2022 (Instagram @azur_equis)",
+      "title": "POTI_33-janvier2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/POTI/POTI_33/images/POTI_33-janvier2022.jpg"
+    }
+  ]
+}

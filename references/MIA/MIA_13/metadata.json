@@ -1,0 +1,44 @@
+{
+  "place_id": "MIA",
+  "invader_id": "MIA_13",
+  "city": "Miami",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "29/11/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MIA/MIA_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MIA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mia_13/",
+      "label": "Instagram hashtag for MIA_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MIA/MIA_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_13/images/MIA_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MIA/MIA_13-novembre2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MIA/MIA_13-novembre2022.jpg",
+      "caption": "photo d'archive",
+      "title": "MIA_13-novembre2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MIA/MIA_13/images/MIA_13-novembre2022.jpg"
+    }
+  ]
+}

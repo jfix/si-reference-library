@@ -229,6 +229,21 @@
     "country": "Brazil",
     "target_count": 52
   },
+  "MLB": {
+    "city": "Melbourne",
+    "country": "Australia",
+    "target_count": 25
+  },
+  "MIA": {
+    "city": "Miami",
+    "country": "United States",
+    "target_count": 85
+  },
+  "POTI": {
+    "city": "Potosi",
+    "country": "Bolivia",
+    "target_count": 53
+  },
   "LA": {
     "city": "Los Angeles",
     "country": "United States",

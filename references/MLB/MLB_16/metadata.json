@@ -1,0 +1,54 @@
+{
+  "place_id": "MLB",
+  "invader_id": "MLB_16",
+  "city": "Melbourne",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "01/11/2002",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MLB/MLB_16-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MLB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mlb_16/",
+      "label": "Instagram hashtag for MLB_16"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MLB/MLB_16-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MLB/MLB_16/images/MLB_16-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MLB/MLB_16-fevrier2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MLB/MLB_16-fevrier2019.jpg",
+      "caption": "photo février 2019",
+      "title": "MLB_16-fevrier2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MLB/MLB_16/images/MLB_16-fevrier2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MLB/MLB_16-aout2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MLB/MLB_16-aout2024.jpg",
+      "caption": "photo aout 2024 (@HerzwerkRod)",
+      "title": "MLB_16-aout2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MLB/MLB_16/images/MLB_16-aout2024.jpg"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T09:00:37.006Z",
+  "city": "Melbourne",
+  "code": "MLB",
+  "totalInvaders": 25,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Melbourne",
+    "code": "MLB",
+    "invasionWaves": 1,
+    "totalInvaders": 25,
+    "totalPoints": 440,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MLB_02",
+      "points": 10,
+      "poseDate": "29/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_02-fevrier2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_02-fevrier2019.jpg",
+          "title": "MLB_02-fevrier2019",
+          "caption": "photo février 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_04",
+      "points": 30,
+      "poseDate": "29/10/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_04-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_04-decembre2023.jpg",
+          "title": "MLB_04-decembre2023",
+          "caption": "photo d'archive (@Mark Radford)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_05",
+      "points": 10,
+      "poseDate": "29/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_05-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_05-aout2024.jpg",
+          "title": "MLB_05-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_07",
+      "points": 20,
+      "poseDate": "30/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_07-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_07-decembre2023.jpg",
+          "title": "MLB_07-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_08",
+      "points": 10,
+      "poseDate": "30/10/2002",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_08-fevrier2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_08-fevrier2019.jpg",
+          "title": "MLB_08-fevrier2019",
+          "caption": "photo février 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_08-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_08-decembre2023.jpg",
+          "title": "MLB_08-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_09",
+      "points": 20,
+      "poseDate": "30/10/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_09-janvier2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_09-janvier2024.jpg",
+          "title": "MLB_09-janvier2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_10",
+      "points": 10,
+      "poseDate": "30/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_10-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_10-decembre2023.jpg",
+          "title": "MLB_10-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_10-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_10-aout2024.jpg",
+          "title": "MLB_10-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_12",
+      "points": 10,
+      "poseDate": "30/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_12-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_12-decembre2023.jpg",
+          "title": "MLB_12-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_12-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_12-aout2024.jpg",
+          "title": "MLB_12-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_13",
+      "points": 20,
+      "poseDate": "30/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_13-fevrier2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_13-fevrier2019.jpg",
+          "title": "MLB_13-fevrier2019",
+          "caption": "photo février 2019"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_14",
+      "points": 10,
+      "poseDate": "01/11/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_14-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_14-decembre2023.jpg",
+          "title": "MLB_14-decembre2023",
+          "caption": "photo juillet 2023 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_16",
+      "points": 30,
+      "poseDate": "01/11/2002",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_16-fevrier2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_16-fevrier2019.jpg",
+          "title": "MLB_16-fevrier2019",
+          "caption": "photo février 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_16-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_16-aout2024.jpg",
+          "title": "MLB_16-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_18",
+      "points": 10,
+      "poseDate": "02/11/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_18-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_18-decembre2023.jpg",
+          "title": "MLB_18-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_18-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_18-aout2024.jpg",
+          "title": "MLB_18-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_19",
+      "points": 30,
+      "poseDate": "03/11/2002",
+      "lastKnownState": "Non visible",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_19-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_19-decembre2023.jpg",
+          "title": "MLB_19-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_19-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_19-aout2025.jpg",
+          "title": "MLB_19-aout2025",
+          "caption": "photo août 2025 (@Bilou)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_20",
+      "points": 10,
+      "poseDate": "03/11/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_20-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_20-decembre2023.jpg",
+          "title": "MLB_20-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_22",
+      "points": 30,
+      "poseDate": "03/11/2002",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "mars 2026 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_22-fevrier2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_22-fevrier2019.jpg",
+          "title": "MLB_22-fevrier2019",
+          "caption": "photo février 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_22-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_22-mars2026.jpg",
+          "title": "MLB_22-mars2026",
+          "caption": "photo mars 2026 (Instagram @zoemalone75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_23",
+      "points": 30,
+      "poseDate": "03/11/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_23-fevrier2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_23-fevrier2019.jpg",
+          "title": "MLB_23-fevrier2019",
+          "caption": "photo février 2019"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_23-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_23-aout2024.jpg",
+          "title": "MLB_23-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_24",
+      "points": 10,
+      "poseDate": "03/11/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_24-decembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_24-decembre2023.jpg",
+          "title": "MLB_24-decembre2023",
+          "caption": "photo décembre 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_24-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_24-aout2024.jpg",
+          "title": "MLB_24-aout2024",
+          "caption": "photo aout 2024 (@HerzwerkRod)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MLB_25",
+      "points": 50,
+      "poseDate": "04/11/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mlb_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MLB/MLB_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_25-novembre2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_25-novembre2018.jpg",
+          "title": "MLB_25-novembre2018",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    }
+  ]
+}

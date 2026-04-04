@@ -1,0 +1,44 @@
+{
+  "place_id": "MLB",
+  "invader_id": "MLB_20",
+  "city": "Melbourne",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "03/11/2002",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MLB/MLB_20-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MLB listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mlb_20/",
+      "label": "Instagram hashtag for MLB_20"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MLB/MLB_20-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MLB/MLB_20/images/MLB_20-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MLB/MLB_20-decembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MLB/MLB_20-decembre2023.jpg",
+      "caption": "photo décembre 2023 (@r4y.paris)",
+      "title": "MLB_20-decembre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MLB/MLB_20/images/MLB_20-decembre2023.jpg"
+    }
+  ]
+}
