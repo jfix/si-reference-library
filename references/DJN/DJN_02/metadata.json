@@ -1,0 +1,34 @@
+{
+  "place_id": "DJN",
+  "invader_id": "DJN_02",
+  "city": "Daejeon",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/09/2009",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/DJN/DJN_02-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "DJN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/djn_02/",
+      "label": "Instagram hashtag for DJN_02"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DJN/DJN_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/DJN/DJN_02/images/DJN_02-grosplan.png"
+    }
+  ]
+}

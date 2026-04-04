@@ -1,0 +1,44 @@
+{
+  "place_id": "DJN",
+  "invader_id": "DJN_23",
+  "city": "Daejeon",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "02/10/2009",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/DJN/DJN_23-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "DJN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/djn_23/",
+      "label": "Instagram hashtag for DJN_23"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DJN/DJN_23-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/DJN/DJN_23/images/DJN_23-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DJN/DJN_23-mars2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DJN/DJN_23-mars2023.jpg",
+      "caption": "photo mars 2023 (@hyenek / @fredphan)",
+      "title": "DJN_23-mars2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DJN/DJN_23/images/DJN_23-mars2023.jpg"
+    }
+  ]
+}

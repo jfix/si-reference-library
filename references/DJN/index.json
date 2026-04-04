@@ -1,0 +1,29 @@
+{
+  "place_id": "DJN",
+  "city": "Daejeon",
+  "country": null,
+  "target_count": 23,
+  "confirmed_invaders": [
+    "DJN_01",
+    "DJN_02",
+    "DJN_03",
+    "DJN_04",
+    "DJN_05",
+    "DJN_06",
+    "DJN_07",
+    "DJN_08",
+    "DJN_09",
+    "DJN_10",
+    "DJN_11",
+    "DJN_13",
+    "DJN_14",
+    "DJN_15",
+    "DJN_17",
+    "DJN_18",
+    "DJN_20",
+    "DJN_21",
+    "DJN_22",
+    "DJN_23"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

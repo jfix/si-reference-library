@@ -1,0 +1,300 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T09:01:51.165Z",
+  "city": "Daejeon",
+  "code": "DJN",
+  "totalInvaders": 23,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Daejeon",
+    "code": "DJN",
+    "invasionWaves": 1,
+    "totalInvaders": 23,
+    "totalPoints": 500,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "DJN_01",
+      "points": 20,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_02",
+      "points": 10,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_03",
+      "points": 20,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_04",
+      "points": 20,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_05",
+      "points": 30,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_05-avril2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_05-avril2018.jpg",
+          "title": "DJN_05-avril2018",
+          "caption": "photo avril 2018 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_06",
+      "points": 10,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_07",
+      "points": 20,
+      "poseDate": "27/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_07-avril2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_07-avril2018.jpg",
+          "title": "DJN_07-avril2018",
+          "caption": "photo avril 2018 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_08",
+      "points": 50,
+      "poseDate": "28/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_08-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_09",
+      "points": 20,
+      "poseDate": "28/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_09-octobre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_09-octobre2022.jpg",
+          "title": "DJN_09-octobre2022",
+          "caption": "photo octobre 2022 (@DOM-DOM)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_10",
+      "points": 10,
+      "poseDate": "28/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_10-octobre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_10-octobre2022.jpg",
+          "title": "DJN_10-octobre2022",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_11",
+      "points": 50,
+      "poseDate": "28/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_13",
+      "points": 10,
+      "poseDate": "28/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_14",
+      "points": 10,
+      "poseDate": "29/09/2009",
+      "lastKnownState": "Non visible",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_14-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_14-mars2024.jpg",
+          "title": "DJN_14-mars2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_15",
+      "points": 50,
+      "poseDate": "29/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_17",
+      "points": 30,
+      "poseDate": "30/09/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_17-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "DJN_18",
+      "points": 10,
+      "poseDate": "01/10/2009",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_18-septembre2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_18-septembre2019.jpg",
+          "title": "DJN_18-septembre2019",
+          "caption": "photo septembre 2019 (KAIST Herald)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_18-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_18-decembre2022.jpg",
+          "title": "DJN_18-decembre2022",
+          "caption": "photo décembre 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_20",
+      "points": 20,
+      "poseDate": "01/10/2009",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_20-octobre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_20-octobre2022.jpg",
+          "title": "DJN_20-octobre2022",
+          "caption": "photo octobre 2022 (@DOM-DOM)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_20-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_20-mars2025.jpg",
+          "title": "DJN_20-mars2025",
+          "caption": "photo mars 2025 (@wull)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_21",
+      "points": 20,
+      "poseDate": "01/10/2009",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_21-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_21-fevrier2025.jpg",
+          "title": "DJN_21-fevrier2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_22",
+      "points": 20,
+      "poseDate": "01/10/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_22-avril2018.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_22-avril2018.jpg",
+          "title": "DJN_22-avril2018",
+          "caption": "photo avril 2018 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "DJN_23",
+      "points": 20,
+      "poseDate": "02/10/2009",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/djn_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/DJN/DJN_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/DJN/DJN_23-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/DJN/DJN_23-mars2023.jpg",
+          "title": "DJN_23-mars2023",
+          "caption": "photo mars 2023 (@hyenek / @fredphan)"
+        }
+      ]
+    }
+  ]
+}

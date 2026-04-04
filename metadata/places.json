@@ -244,6 +244,21 @@
     "country": "Bolivia",
     "target_count": 53
   },
+  "DJN": {
+    "city": "Daejeon",
+    "country": "South Korea",
+    "target_count": 23
+  },
+  "MLGA": {
+    "city": "Málaga",
+    "country": "Spain",
+    "target_count": 29
+  },
+  "BRC": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "target_count": 17
+  },
   "LA": {
     "city": "Los Angeles",
     "country": "United States",
