@@ -1,0 +1,34 @@
+{
+  "place_id": "LJU",
+  "invader_id": "LJU_05",
+  "city": "Ljubljana",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/03/2006",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "septembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LJU/LJU_05-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LJU listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lju_05/",
+      "label": "Instagram hashtag for LJU_05"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LJU/LJU_05-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_05/images/LJU_05-grosplan.png"
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:50:33.297Z",
+  "city": "Ljubljana",
+  "code": "LJU",
+  "totalInvaders": 42,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Ljubljana",
+    "code": "LJU",
+    "invasionWaves": 2,
+    "totalInvaders": 42,
+    "totalPoints": 1180,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "LJU_01",
+      "points": 30,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_01-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_01-mars2024.jpg",
+          "title": "LJU_01-mars2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_02",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_03",
+      "points": 20,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_04",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_05",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_06",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_07",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_08",
+      "points": 30,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_08-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_09",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_09-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_09-aout2024.jpg",
+          "title": "LJU_09-aout2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_10",
+      "points": 10,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_10-juillet2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_10-juillet2021.jpg",
+          "title": "LJU_10-juillet2021",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_11",
+      "points": 20,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_12",
+      "points": 20,
+      "poseDate": "13/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_13",
+      "points": 10,
+      "poseDate": "14/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_14",
+      "points": 30,
+      "poseDate": "14/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_14-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_15",
+      "points": 10,
+      "poseDate": "14/03/2006",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_15-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_15-avril2025.jpg",
+          "title": "LJU_15-avril2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_16",
+      "points": 20,
+      "poseDate": "14/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_16-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_17",
+      "points": 50,
+      "poseDate": "15/03/2006",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_17-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_18",
+      "points": 30,
+      "poseDate": "15/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_18-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_19",
+      "points": 10,
+      "poseDate": "15/03/2006",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_19-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_19-avril2025.jpg",
+          "title": "LJU_19-avril2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_20",
+      "points": 20,
+      "poseDate": "16/03/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_20-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_21",
+      "points": 30,
+      "poseDate": "09/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_21-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_22",
+      "points": 50,
+      "poseDate": "09/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_23",
+      "points": 30,
+      "poseDate": "09/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_23-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_24",
+      "points": 20,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_24-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_25",
+      "points": 50,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_25-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_25-avril2024.jpg",
+          "title": "LJU_25-avril2024",
+          "caption": "photo mars 2021 (Instagram @mglcljubljana)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_26",
+      "points": 20,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_26-mars2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_26-mars2021.jpg",
+          "title": "LJU_26-mars2021",
+          "caption": "photo mars 2021"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_27",
+      "points": 30,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_27-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_28",
+      "points": 50,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_28-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_29",
+      "points": 50,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_29-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_29-aout2022.jpg",
+          "title": "LJU_29-aout2022",
+          "caption": "photo août 2022 (StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_29-mars2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_29-mars2024.jpg",
+          "title": "LJU_29-mars2024",
+          "caption": "photo mars 2024 (@SIMPLE.S.I.)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_30",
+      "points": 50,
+      "poseDate": "10/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_30-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_31",
+      "points": 30,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_31-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_32",
+      "points": 30,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_32-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_33",
+      "points": 40,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_33-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_34",
+      "points": 30,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_34-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_35",
+      "points": 20,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_35-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_35-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_35-juillet2025.jpg",
+          "title": "LJU_35-juillet2025",
+          "caption": "photo mars 2021 (Instagram @sabina.dzamastagic)"
+        }
+      ]
+    },
+    {
+      "invaderId": "LJU_36",
+      "points": 50,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_36-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_37",
+      "points": 30,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2022",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_37-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_38",
+      "points": 50,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_38-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_39",
+      "points": 40,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_39-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_40",
+      "points": 30,
+      "poseDate": "11/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_40-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_41",
+      "points": 30,
+      "poseDate": "12/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_41-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "LJU_42",
+      "points": 50,
+      "poseDate": "14/03/2021",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/lju_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/LJU/LJU_42-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LJU/LJU_42-mars2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LJU/LJU_42-mars2021.jpg",
+          "title": "LJU_42-mars2021",
+          "caption": "photo mars 2021 (Instagram @invaderwashere)"
+        }
+      ]
+    }
+  ]
+}

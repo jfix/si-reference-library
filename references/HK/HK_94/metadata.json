@@ -1,0 +1,44 @@
+{
+  "place_id": "HK",
+  "invader_id": "HK_94",
+  "city": "Hong Kong",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/05/2015",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/HK/HK_094-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "HK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/hk_94/",
+      "label": "Instagram hashtag for HK_94"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/HK/HK_094-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/HK/HK_94/images/HK_094-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/HK/HK_094-juin2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/HK/HK_094-juin2025.jpg",
+      "caption": "photo d'archive (@Invader)",
+      "title": "HK_094-juin2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/HK/HK_94/images/HK_094-juin2025.jpg"
+    }
+  ]
+}

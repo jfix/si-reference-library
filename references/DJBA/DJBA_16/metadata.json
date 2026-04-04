@@ -1,0 +1,44 @@
+{
+  "place_id": "DJBA",
+  "invader_id": "DJBA_16",
+  "city": "Djerba",
+  "country": null,
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "12/11/2019",
+  "last_known_state": "OK",
+  "last_seen_source": "décembre 2019 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/DJBA/DJBA_16-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "DJBA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/djba_16/",
+      "label": "Instagram hashtag for DJBA_16"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DJBA/DJBA_16-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_16/images/DJBA_16-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DJBA/DJBA_16-mars2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DJBA/DJBA_16-mars2022.jpg",
+      "caption": "photo mars 2022 (@Paris C Magic)",
+      "title": "DJBA_16-mars2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_16/images/DJBA_16-mars2022.jpg"
+    }
+  ]
+}

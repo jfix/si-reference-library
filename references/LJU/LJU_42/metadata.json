@@ -1,0 +1,44 @@
+{
+  "place_id": "LJU",
+  "invader_id": "LJU_42",
+  "city": "Ljubljana",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/03/2021",
+  "last_known_state": "OK",
+  "last_seen_source": "mars 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LJU/LJU_42-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LJU listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lju_42/",
+      "label": "Instagram hashtag for LJU_42"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LJU/LJU_42-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_42/images/LJU_42-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LJU/LJU_42-mars2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LJU/LJU_42-mars2021.jpg",
+      "caption": "photo mars 2021 (Instagram @invaderwashere)",
+      "title": "LJU_42-mars2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_42/images/LJU_42-mars2021.jpg"
+    }
+  ]
+}

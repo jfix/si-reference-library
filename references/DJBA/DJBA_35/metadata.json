@@ -1,0 +1,54 @@
+{
+  "place_id": "DJBA",
+  "invader_id": "DJBA_35",
+  "city": "Djerba",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/11/2019",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/DJBA/DJBA_35-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "DJBA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/djba_35/",
+      "label": "Instagram hashtag for DJBA_35"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DJBA/DJBA_35-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_35/images/DJBA_35-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DJBA/DJBA_35-decembre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DJBA/DJBA_35-decembre2019.jpg",
+      "caption": "photo decembre 2019 (@Marley)",
+      "title": "DJBA_35-decembre2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_35/images/DJBA_35-decembre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DJBA/DJBA_35-aout2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DJBA/DJBA_35-aout2024.jpg",
+      "caption": "photo août 2024 (@fredfromparis11)",
+      "title": "DJBA_35-aout2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_35/images/DJBA_35-aout2024.jpg"
+    }
+  ]
+}

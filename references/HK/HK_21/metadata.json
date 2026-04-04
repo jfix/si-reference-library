@@ -1,0 +1,34 @@
+{
+  "place_id": "HK",
+  "invader_id": "HK_21",
+  "city": "Hong Kong",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/04/2002",
+  "last_known_state": "Détruit !",
+  "last_seen_source": null,
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/HK/HK_021-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "HK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/hk_21/",
+      "label": "Instagram hashtag for HK_21"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/HK/HK_021-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/HK/HK_21/images/HK_021-grosplan.png"
+    }
+  ]
+}

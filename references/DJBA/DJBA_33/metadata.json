@@ -1,0 +1,54 @@
+{
+  "place_id": "DJBA",
+  "invader_id": "DJBA_33",
+  "city": "Djerba",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "16/11/2019",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "juin 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/DJBA/DJBA_33-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "DJBA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/djba_33/",
+      "label": "Instagram hashtag for DJBA_33"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/DJBA/DJBA_33-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_33/images/DJBA_33-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DJBA/DJBA_33-janvier2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DJBA/DJBA_33-janvier2020.jpg",
+      "caption": "photo janvier 2019 (@Clarysse)",
+      "title": "DJBA_33-janvier2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_33/images/DJBA_33-janvier2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/DJBA/DJBA_33-juin2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/DJBA/DJBA_33-juin2024.jpg",
+      "caption": "photo juin 2024 (@Sika21)",
+      "title": "DJBA_33-juin2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/DJBA/DJBA_33/images/DJBA_33-juin2024.jpg"
+    }
+  ]
+}

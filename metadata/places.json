@@ -129,6 +129,21 @@
     "country": "France",
     "target_count": 12
   },
+  "DJBA": {
+    "city": "Djerba",
+    "country": "Tunisia",
+    "target_count": 58
+  },
+  "HK": {
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "target_count": 132
+  },
+  "LJU": {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "target_count": 42
+  },
   "MARS": {
     "city": "Marseille",
     "country": "France",

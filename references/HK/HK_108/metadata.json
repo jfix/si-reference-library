@@ -1,0 +1,44 @@
+{
+  "place_id": "HK",
+  "invader_id": "HK_108",
+  "city": "Hong Kong",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "19/09/2017",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "décembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/HK/HK_108-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "HK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/hk_108/",
+      "label": "Instagram hashtag for HK_108"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/HK/HK_108-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/HK/HK_108/images/HK_108-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/HK/HK_108-decembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/HK/HK_108-decembre2025.jpg",
+      "caption": "photo d'archive (Instagram)",
+      "title": "HK_108-decembre2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/HK/HK_108/images/HK_108-decembre2025.jpg"
+    }
+  ]
+}
