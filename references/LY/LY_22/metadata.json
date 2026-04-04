@@ -1,0 +1,54 @@
+{
+  "place_id": "LY",
+  "invader_id": "LY_22",
+  "city": "Lyon",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/04/2001",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LY/LY_22-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ly_22/",
+      "label": "Instagram hashtag for LY_22"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LY/LY_22-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_22/images/LY_22-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LY/LY_22-octobre2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LY/LY_22-octobre2019.jpg",
+      "caption": "photo octobre 2019",
+      "title": "LY_22-octobre2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_22/images/LY_22-octobre2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LY/LY_22-aout2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LY/LY_22-aout2024.jpg",
+      "caption": "photo août 2024 (@goodkidsabo)",
+      "title": "LY_22-aout2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LY/LY_22/images/LY_22-aout2024.jpg"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "place_id": "LY",
+  "invader_id": "LY_08",
+  "city": "Lyon",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "10/04/2001",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2016 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LY/LY_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ly_08/",
+      "label": "Instagram hashtag for LY_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LY/LY_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_08/images/LY_08-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LY/LY_08-archive.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LY/LY_08-archive.jpg",
+      "caption": "Montage (Street View mai 2008 / photo d'archive)",
+      "title": "LY_08-archive",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_08/images/LY_08-archive.jpg"
+    }
+  ]
+}

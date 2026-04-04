@@ -1,0 +1,54 @@
+{
+  "place_id": "LY",
+  "invader_id": "LY_40",
+  "city": "Lyon",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/05/2001",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juin 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LY/LY_40-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LY listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ly_40/",
+      "label": "Instagram hashtag for LY_40"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LY/LY_40-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_40/images/LY_40-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LY/LY_40-juillet2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LY/LY_40-juillet2020.jpg",
+      "caption": "photo juillet 2020 (Instagram)",
+      "title": "LY_40-juillet2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_40/images/LY_40-juillet2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LY/LY_40-juin2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LY/LY_40-juin2024.jpg",
+      "caption": "photo juin 2024 (@Pliplidu15)",
+      "title": "LY_40-juin2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LY/LY_40/images/LY_40-juin2024.jpg"
+    }
+  ]
+}
