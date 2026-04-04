@@ -1,0 +1,54 @@
+{
+  "place_id": "KAT",
+  "invader_id": "KAT_06",
+  "city": "Katmandou",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "29/02/2008",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/KAT/KAT_06-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "KAT listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/kat_06/",
+      "label": "Instagram hashtag for KAT_06"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/KAT/KAT_06-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/KAT/KAT_06/images/KAT_06-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/KAT/KAT_06-novembre2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/KAT/KAT_06-novembre2022.jpg",
+      "caption": "photo novembre 2022 (@r4y.paris)",
+      "title": "KAT_06-novembre2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/KAT/KAT_06/images/KAT_06-novembre2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/KAT/KAT_06-novembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/KAT/KAT_06-novembre2025.jpg",
+      "caption": "photo novembre 2025 (@r4y.paris)",
+      "title": "KAT_06-novembre2025",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/KAT/KAT_06/images/KAT_06-novembre2025.jpg"
+    }
+  ]
+}

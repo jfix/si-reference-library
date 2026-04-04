@@ -1,0 +1,374 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T09:02:52.385Z",
+  "city": "Katmandou",
+  "code": "KAT",
+  "totalInvaders": 28,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Katmandou",
+    "code": "KAT",
+    "invasionWaves": 1,
+    "totalInvaders": 28,
+    "totalPoints": 530,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "KAT_01",
+      "points": 30,
+      "poseDate": "27/02/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_02",
+      "points": 10,
+      "poseDate": "27/02/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_03",
+      "points": 10,
+      "poseDate": "28/02/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_03-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_03-juillet2024.jpg",
+          "title": "KAT_03-juillet2024",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_04",
+      "points": 20,
+      "poseDate": "28/02/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2024 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_05",
+      "points": 10,
+      "poseDate": "28/02/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_06",
+      "points": 10,
+      "poseDate": "29/02/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_06-novembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_06-novembre2022.jpg",
+          "title": "KAT_06-novembre2022",
+          "caption": "photo novembre 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_06-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_06-novembre2025.jpg",
+          "title": "KAT_06-novembre2025",
+          "caption": "photo novembre 2025 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_07",
+      "points": 30,
+      "poseDate": "29/02/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_08",
+      "points": 20,
+      "poseDate": "29/02/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_08-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_08-juillet2025.jpg",
+          "title": "KAT_08-juillet2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_09",
+      "points": 20,
+      "poseDate": "29/02/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_10",
+      "points": 20,
+      "poseDate": "29/02/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_11",
+      "points": 30,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_12",
+      "points": 10,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_12-mars2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_12-mars2022.jpg",
+          "title": "KAT_12-mars2022",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_13",
+      "points": 10,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_14",
+      "points": 30,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_14-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_15",
+      "points": 20,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_16",
+      "points": 10,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_16-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_17",
+      "points": 10,
+      "poseDate": "01/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_17-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_18",
+      "points": 30,
+      "poseDate": "02/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_18-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_18-decembre2025.jpg",
+          "title": "KAT_18-decembre2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_19",
+      "points": 10,
+      "poseDate": "02/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_19-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_19-decembre2025.jpg",
+          "title": "KAT_19-decembre2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_20",
+      "points": 20,
+      "poseDate": "03/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_20-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_21",
+      "points": 10,
+      "poseDate": "03/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_21-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_21-decembre2025.jpg",
+          "title": "KAT_21-decembre2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_22",
+      "points": 20,
+      "poseDate": "03/03/2008",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_22-fevrier2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_22-fevrier2023.jpg",
+          "title": "KAT_22-fevrier2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_23",
+      "points": 20,
+      "poseDate": "04/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_23-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_24",
+      "points": 20,
+      "poseDate": "04/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": null,
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_24-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_25",
+      "points": 10,
+      "poseDate": "04/03/2008",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_25-juillet2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_25-juillet2023.jpg",
+          "title": "KAT_25-juillet2023",
+          "caption": "photo d'archive"
+        }
+      ]
+    },
+    {
+      "invaderId": "KAT_26",
+      "points": 50,
+      "poseDate": "05/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_26-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_27",
+      "points": 20,
+      "poseDate": "05/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_27-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "KAT_28",
+      "points": 20,
+      "poseDate": "05/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/kat_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/KAT/KAT_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/KAT/KAT_28-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/KAT/KAT_28-decembre2025.jpg",
+          "title": "KAT_28-decembre2025",
+          "caption": "photo d'archive"
+        }
+      ]
+    }
+  ]
+}
