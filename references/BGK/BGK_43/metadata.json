@@ -1,0 +1,44 @@
+{
+  "place_id": "BGK",
+  "invader_id": "BGK_43",
+  "city": "Bangkok",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "20/07/2005",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BGK/BGK_43-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BGK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bgk_43/",
+      "label": "Instagram hashtag for BGK_43"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BGK/BGK_43-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_43/images/BGK_43-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_43-novembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_43-novembre2025.jpg",
+      "caption": "photo novembre 2024 (live Flashinvaders)",
+      "title": "BGK_43-novembre2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_43/images/BGK_43-novembre2025.jpg"
+    }
+  ]
+}

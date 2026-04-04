@@ -1,0 +1,186 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:57:11.098Z",
+  "city": "Seoul",
+  "code": "SL",
+  "totalInvaders": 14,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Seoul",
+    "code": "SL",
+    "invasionWaves": 1,
+    "totalInvaders": 14,
+    "totalPoints": 350,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "SL_01",
+      "points": 20,
+      "poseDate": "19/10/2024",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SL/SL_01-septembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SL/SL_01-septembre2025.jpg",
+          "title": "SL_01-septembre2025",
+          "caption": "photo octobre 2024 (@5P4C3_HUNT3R)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SL_02",
+      "points": 30,
+      "poseDate": "19/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SL/SL_02-septembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SL/SL_02-septembre2025.jpg",
+          "title": "SL_02-septembre2025",
+          "caption": "photo septembre 2025 (@elphege)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SL_03",
+      "points": 20,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_03-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_04",
+      "points": 20,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_05",
+      "points": 20,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_06",
+      "points": 30,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SL/SL_06-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SL/SL_06-octobre2024.jpg",
+          "title": "SL_06-octobre2024",
+          "caption": "photo octobre 2024 (Instagram @invaderwashere)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SL_07",
+      "points": 30,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_08",
+      "points": 30,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SL/SL_08-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SL/SL_08-octobre2024.jpg",
+          "title": "SL_08-octobre2024",
+          "caption": "photo octobre 2024 (@Ha_No_Nymous)"
+        }
+      ]
+    },
+    {
+      "invaderId": "SL_09",
+      "points": 30,
+      "poseDate": "26/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_10",
+      "points": 20,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_11",
+      "points": 20,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_12",
+      "points": 30,
+      "poseDate": "22/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_12-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_13",
+      "points": 20,
+      "poseDate": "27/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "SL_14",
+      "points": 30,
+      "poseDate": "27/10/2024",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/sl_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SL/SL_14-grosplan.png",
+      "photos": []
+    }
+  ]
+}

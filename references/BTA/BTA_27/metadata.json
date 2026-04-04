@@ -1,0 +1,54 @@
+{
+  "place_id": "BTA",
+  "invader_id": "BTA_27",
+  "city": "Bastia",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/09/2005",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "janvier 2021 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BTA/BTA_27-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BTA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bta_27/",
+      "label": "Instagram hashtag for BTA_27"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BTA/BTA_27-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_27/images/BTA_27-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_27-fevrier2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_27-fevrier2021.jpg",
+      "caption": "photo février 2021 (@Flash)",
+      "title": "BTA_27-fevrier2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_27/images/BTA_27-fevrier2021.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_27-janvier2021.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_27-janvier2021.jpg",
+      "caption": "photo janvier 2021 (@Dr_NiNO)",
+      "title": "BTA_27-janvier2021",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_27/images/BTA_27-janvier2021.jpg"
+    }
+  ]
+}

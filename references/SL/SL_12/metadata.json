@@ -1,0 +1,34 @@
+{
+  "place_id": "SL",
+  "invader_id": "SL_12",
+  "city": "Seoul",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/10/2024",
+  "last_known_state": "OK",
+  "last_seen_source": "septembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SL/SL_12-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sl_12/",
+      "label": "Instagram hashtag for SL_12"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SL/SL_12-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SL/SL_12/images/SL_12-grosplan.png"
+    }
+  ]
+}

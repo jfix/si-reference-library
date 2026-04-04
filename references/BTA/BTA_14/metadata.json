@@ -1,0 +1,54 @@
+{
+  "place_id": "BTA",
+  "invader_id": "BTA_14",
+  "city": "Bastia",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "22/09/2005",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "avril 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BTA/BTA_14-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BTA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bta_14/",
+      "label": "Instagram hashtag for BTA_14"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BTA/BTA_14-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_14/images/BTA_14-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_14-octobre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_14-octobre2020.jpg",
+      "caption": "photo octobre 2020 (@Dr_NiNO)",
+      "title": "BTA_14-octobre2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_14/images/BTA_14-octobre2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_14-avril2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_14-avril2025.jpg",
+      "caption": "photo avril 2025 (@Tatutia)",
+      "title": "BTA_14-avril2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_14/images/BTA_14-avril2025.jpg"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "place_id": "BGK",
+  "invader_id": "BGK_35",
+  "city": "Bangkok",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/07/2005",
+  "last_known_state": "OK",
+  "last_seen_source": "novembre 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BGK/BGK_35-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BGK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bgk_35/",
+      "label": "Instagram hashtag for BGK_35"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BGK/BGK_35-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_35/images/BGK_35-grosplan.png"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "BGK",
+  "invader_id": "BGK_32",
+  "city": "Bangkok",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "16/07/2005",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BGK/BGK_32-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BGK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bgk_32/",
+      "label": "Instagram hashtag for BGK_32"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BGK/BGK_32-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_32/images/BGK_32-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_32-novembre2025-1.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_32-novembre2025-1.jpg",
+      "caption": "photo novembre 2025 (@philbill.1er)",
+      "title": "BGK_32-novembre2025-1",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_32/images/BGK_32-novembre2025-1.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_32-novembre2025-2.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_32-novembre2025-2.jpg",
+      "caption": "photo novembre 2025 (@philbill.1er)",
+      "title": "BGK_32-novembre2025-2",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BGK/BGK_32/images/BGK_32-novembre2025-2.jpg"
+    }
+  ]
+}

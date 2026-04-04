@@ -1,0 +1,54 @@
+{
+  "place_id": "BTA",
+  "invader_id": "BTA_24",
+  "city": "Bastia",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/09/2005",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "octobre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BTA/BTA_24-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BTA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bta_24/",
+      "label": "Instagram hashtag for BTA_24"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BTA/BTA_24-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_24/images/BTA_24-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_24-juin2015.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_24-juin2015.jpg",
+      "caption": "photo juin 2015",
+      "title": "BTA_24-juin2015",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_24/images/BTA_24-juin2015.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_24-octobre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_24-octobre2024.jpg",
+      "caption": "photo octobre 2024 (@ghislain94)",
+      "title": "BTA_24-octobre2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BTA/BTA_24/images/BTA_24-octobre2024.jpg"
+    }
+  ]
+}

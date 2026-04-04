@@ -1,0 +1,44 @@
+{
+  "place_id": "BGK",
+  "invader_id": "BGK_04",
+  "city": "Bangkok",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/07/2005",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BGK/BGK_04-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BGK listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bgk_04/",
+      "label": "Instagram hashtag for BGK_04"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BGK/BGK_04-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_04/images/BGK_04-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_04-aout2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_04-aout2022.jpg",
+      "caption": "photo d'archive (@Denis)",
+      "title": "BGK_04-aout2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_04/images/BGK_04-aout2022.jpg"
+    }
+  ]
+}

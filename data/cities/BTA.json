@@ -1,0 +1,633 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:57:15.375Z",
+  "city": "Bastia",
+  "code": "BTA",
+  "totalInvaders": 34,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Bastia",
+    "code": "BTA",
+    "invasionWaves": 1,
+    "totalInvaders": 34,
+    "totalPoints": 530,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "BTA_01",
+      "points": 20,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_01-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_01-juin2015.jpg",
+          "title": "BTA_01-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_02",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (Live FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_02-janvier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_02-janvier2021.jpg",
+          "title": "BTA_02-janvier2021",
+          "caption": "photo janvier 2021 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_03",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_03-juin2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_03-juin2019.jpg",
+          "title": "BTA_03-juin2019",
+          "caption": "photo juin 2019 (@bp78)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_03-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_03-avril2025.jpg",
+          "title": "BTA_03-avril2025",
+          "caption": "photo avril 2025 (@Tatutia)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_04",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_04-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_04-juin2015.jpg",
+          "title": "BTA_04-juin2015",
+          "caption": "photo juin 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_04-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_04-juillet2025.jpg",
+          "title": "BTA_04-juillet2025",
+          "caption": "photo juillet 2025 (@Jatac)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_05",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_05-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_05-octobre2020.jpg",
+          "title": "BTA_05-octobre2020",
+          "caption": "photo octobre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_06",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_06-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_06-octobre2020.jpg",
+          "title": "BTA_06-octobre2020",
+          "caption": "photo octobre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_07",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_07-decembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_07-decembre2020.jpg",
+          "title": "BTA_07-decembre2020",
+          "caption": "photo decembre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_08",
+      "points": 10,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_08-septembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_08-septembre2020.jpg",
+          "title": "BTA_08-septembre2020",
+          "caption": "photo septembre 2020 (@Dr_NiNO)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_08-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_08-mai2024.jpg",
+          "title": "BTA_08-mai2024",
+          "caption": "photo mai 2024 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_09",
+      "points": 20,
+      "poseDate": "21/09/2005",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_09-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_09-juin2015.jpg",
+          "title": "BTA_09-juin2015",
+          "caption": "photo juin 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_09-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_09-mai2024.jpg",
+          "title": "BTA_09-mai2024",
+          "caption": "photo mai 2024 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_10",
+      "points": 20,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_10-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_10-juin2015.jpg",
+          "title": "BTA_10-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_11",
+      "points": 10,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_11-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_11-octobre2020.jpg",
+          "title": "BTA_11-octobre2020",
+          "caption": "photo octobre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_12",
+      "points": 20,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_12-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_12-juin2015.jpg",
+          "title": "BTA_12-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_13",
+      "points": 30,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_13-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_13-juillet2025.jpg",
+          "title": "BTA_13-juillet2025",
+          "caption": "photo d'archive (@Aslak Raanes)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_14",
+      "points": 20,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_14-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_14-octobre2020.jpg",
+          "title": "BTA_14-octobre2020",
+          "caption": "photo octobre 2020 (@Dr_NiNO)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_14-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_14-avril2025.jpg",
+          "title": "BTA_14-avril2025",
+          "caption": "photo avril 2025 (@Tatutia)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_15",
+      "points": 10,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BTA_16",
+      "points": 10,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_16-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BTA_17",
+      "points": 10,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_17-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_17-juin2015.jpg",
+          "title": "BTA_17-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_18",
+      "points": 10,
+      "poseDate": "22/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_18-novembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_18-novembre2020.jpg",
+          "title": "BTA_18-novembre2020",
+          "caption": "photo novembre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_19",
+      "points": 20,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_19-octobre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_19-octobre2020.jpg",
+          "title": "BTA_19-octobre2020",
+          "caption": "photo octobre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_20",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_20-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_20-mai2024.jpg",
+          "title": "BTA_20-mai2024",
+          "caption": "photo juin 2019 (@bp78)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_21",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_21-juin2019.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_21-juin2019.jpg",
+          "title": "BTA_21-juin2019",
+          "caption": "photo juin 2019 (@bp78)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_21-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_21-juillet2025.jpg",
+          "title": "BTA_21-juillet2025",
+          "caption": "photo juillet 2025 (@Jatac)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_22",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_22-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BTA_23",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_23-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BTA_24",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_24-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_24-juin2015.jpg",
+          "title": "BTA_24-juin2015",
+          "caption": "photo juin 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_24-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_24-octobre2024.jpg",
+          "title": "BTA_24-octobre2024",
+          "caption": "photo octobre 2024 (@ghislain94)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_25",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mars 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_25-mars2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_25-mars2026.jpg",
+          "title": "BTA_25-mars2026",
+          "caption": "photo mars 2026 (@Vicente)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_26",
+      "points": 10,
+      "poseDate": "23/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_26-decembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_26-decembre2020.jpg",
+          "title": "BTA_26-decembre2020",
+          "caption": "photo décembre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_27",
+      "points": 10,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "janvier 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_27-fevrier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_27-fevrier2021.jpg",
+          "title": "BTA_27-fevrier2021",
+          "caption": "photo février 2021 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_27-janvier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_27-janvier2021.jpg",
+          "title": "BTA_27-janvier2021",
+          "caption": "photo janvier 2021 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_28",
+      "points": 30,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_28-janvier2021.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_28-janvier2021.jpg",
+          "title": "BTA_28-janvier2021",
+          "caption": "photo janvier 2021 (@pat_m_paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_28-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_28-mai2024.jpg",
+          "title": "BTA_28-mai2024",
+          "caption": "photo mai 2024 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_29",
+      "points": 30,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_29-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_29-juin2015.jpg",
+          "title": "BTA_29-juin2015",
+          "caption": "photo juin 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_29-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_29-juillet2025.jpg",
+          "title": "BTA_29-juillet2025",
+          "caption": "photo juillet 2025 (@Jatac)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_30",
+      "points": 20,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_30-septembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_30-septembre2020.jpg",
+          "title": "BTA_30-septembre2020",
+          "caption": "photo septembre 2020 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_31",
+      "points": 30,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_31-novembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_31-novembre2020.jpg",
+          "title": "BTA_31-novembre2020",
+          "caption": "photo novembre 2020 (@Dr_NiNO)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_31-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_31-juillet2025.jpg",
+          "title": "BTA_31-juillet2025",
+          "caption": "photo juillet 2025 (@Jatac)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_32",
+      "points": 10,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_32-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BTA_33",
+      "points": 30,
+      "poseDate": "24/09/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mai 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_33-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_33-juin2015.jpg",
+          "title": "BTA_33-juin2015",
+          "caption": "photo juin 2015"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_33-mai2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_33-mai2024.jpg",
+          "title": "BTA_33-mai2024",
+          "caption": "photo mai 2024 (@Dr_NiNO)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BTA_34",
+      "points": 30,
+      "poseDate": "27/09/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bta_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BTA/BTA_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BTA/BTA_34-juin2015.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BTA/BTA_34-juin2015.jpg",
+          "title": "BTA_34-juin2015",
+          "caption": "photo juin 2015"
+        }
+      ]
+    }
+  ]
+}

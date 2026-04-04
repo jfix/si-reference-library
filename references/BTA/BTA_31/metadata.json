@@ -1,0 +1,54 @@
+{
+  "place_id": "BTA",
+  "invader_id": "BTA_31",
+  "city": "Bastia",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "24/09/2005",
+  "last_known_state": "Un peu dégradé",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BTA/BTA_31-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BTA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bta_31/",
+      "label": "Instagram hashtag for BTA_31"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BTA/BTA_31-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_31/images/BTA_31-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_31-novembre2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_31-novembre2020.jpg",
+      "caption": "photo novembre 2020 (@Dr_NiNO)",
+      "title": "BTA_31-novembre2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_31/images/BTA_31-novembre2020.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_31-juillet2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_31-juillet2025.jpg",
+      "caption": "photo juillet 2025 (@Jatac)",
+      "title": "BTA_31-juillet2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_31/images/BTA_31-juillet2025.jpg"
+    }
+  ]
+}

@@ -189,6 +189,21 @@
     "country": "United States",
     "target_count": 219
   },
+  "BTA": {
+    "city": "Bastia",
+    "country": "France",
+    "target_count": 34
+  },
+  "SL": {
+    "city": "Seoul",
+    "country": "South Korea",
+    "target_count": 14
+  },
+  "BGK": {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "target_count": 51
+  },
   "BSL": {
     "city": "Basel",
     "country": "Switzerland",

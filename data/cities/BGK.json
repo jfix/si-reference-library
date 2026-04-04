@@ -1,0 +1,719 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:57:24.690Z",
+  "city": "Bangkok",
+  "code": "BGK",
+  "totalInvaders": 51,
+  "pagesScraped": 2,
+  "summary": {
+    "city": "Bangkok",
+    "code": "BGK",
+    "invasionWaves": 2,
+    "totalInvaders": 51,
+    "totalPoints": 890,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "BGK_01",
+      "points": 30,
+      "poseDate": "18/10/2002",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_02",
+      "points": 20,
+      "poseDate": "18/10/2002",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_02-octobre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_02-octobre2025.jpg",
+          "title": "BGK_02-octobre2025",
+          "caption": "photo d'archive (Flickr @Denis)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_03",
+      "points": 10,
+      "poseDate": "08/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_03-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_03-juin2024.jpg",
+          "title": "BGK_03-juin2024",
+          "caption": "photo d'archive (@Julien)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_04",
+      "points": 20,
+      "poseDate": "08/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "août 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_04-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_04-aout2022.jpg",
+          "title": "BGK_04-aout2022",
+          "caption": "photo d'archive (@Denis)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_05",
+      "points": 20,
+      "poseDate": "08/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_06",
+      "points": 10,
+      "poseDate": "08/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mars 2006",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_06-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_07",
+      "points": 10,
+      "poseDate": "09/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_07-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_09",
+      "points": 20,
+      "poseDate": "09/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_10",
+      "points": 10,
+      "poseDate": "09/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_10-novembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_10-novembre2022.jpg",
+          "title": "BGK_10-novembre2022",
+          "caption": "photo novembre 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_11",
+      "points": 20,
+      "poseDate": "10/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_11-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_12",
+      "points": 10,
+      "poseDate": "10/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_12-novembre2024-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_12-novembre2024-1.jpg",
+          "title": "BGK_12-novembre2024-1",
+          "caption": "photo novembre 2024 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_12-novembre2024-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_12-novembre2024-2.jpg",
+          "title": "BGK_12-novembre2024-2",
+          "caption": "photo novembre 2024 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_13",
+      "points": 20,
+      "poseDate": "10/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_13-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_14",
+      "points": 20,
+      "poseDate": "10/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "janvier 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_14-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_15",
+      "points": 20,
+      "poseDate": "10/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_15-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_16",
+      "points": 10,
+      "poseDate": "10/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_16-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_16-aout2020.jpg",
+          "title": "BGK_16-aout2020",
+          "caption": "photo août 2020 (StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_16-avril2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_16-avril2024.jpg",
+          "title": "BGK_16-avril2024",
+          "caption": "photo avril 2024 (@Frankontheroad)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_18",
+      "points": 20,
+      "poseDate": "11/07/2005",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_18-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_18-decembre2025.jpg",
+          "title": "BGK_18-decembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_19",
+      "points": 10,
+      "poseDate": "11/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_19-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_19-novembre2025.jpg",
+          "title": "BGK_19-novembre2025",
+          "caption": "photo novembre 2025 (@philbill.1er) - nouvel emplacement"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_20",
+      "points": 10,
+      "poseDate": "11/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2020 (StreetView)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_20-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_20-aout2020.jpg",
+          "title": "BGK_20-aout2020",
+          "caption": "photo août 2020 (StreetView)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_21",
+      "points": 10,
+      "poseDate": "12/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_21-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_21-novembre2024.jpg",
+          "title": "BGK_21-novembre2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_23",
+      "points": 10,
+      "poseDate": "13/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_23-mars2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_23-mars2023.jpg",
+          "title": "BGK_23-mars2023",
+          "caption": "photo mars 2023 (@fredp)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_23-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_23-fevrier2025.jpg",
+          "title": "BGK_23-fevrier2025",
+          "caption": "photo février 2025 (@Romain Orchids)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_24",
+      "points": 30,
+      "poseDate": "14/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_24-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_24-novembre2025.jpg",
+          "title": "BGK_24-novembre2025",
+          "caption": "photo novembre 2025 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_25",
+      "points": 10,
+      "poseDate": "14/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_25-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_26",
+      "points": 10,
+      "poseDate": "14/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_26-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_27",
+      "points": 30,
+      "poseDate": "14/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_27-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_28",
+      "points": 10,
+      "poseDate": "14/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_28-octobre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_28-octobre2016.jpg",
+          "title": "BGK_28-octobre2016",
+          "caption": "photo octobre 2016 (StreetView)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_29",
+      "points": 10,
+      "poseDate": "16/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_29-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_30",
+      "points": 10,
+      "poseDate": "16/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_30-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_30-novembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_30-novembre2022.jpg",
+          "title": "BGK_30-novembre2022",
+          "caption": "photo novembre 2022 (@Zellid)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_30-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_30-novembre2025.jpg",
+          "title": "BGK_30-novembre2025",
+          "caption": "photo novembre 2025 (@Bastien)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_31",
+      "points": 10,
+      "poseDate": "16/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "janvier 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_31-janvier2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_31-janvier2022.jpg",
+          "title": "BGK_31-janvier2022",
+          "caption": "photo d'archive (@Denis)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_32",
+      "points": 10,
+      "poseDate": "16/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_32-novembre2025-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_32-novembre2025-1.jpg",
+          "title": "BGK_32-novembre2025-1",
+          "caption": "photo novembre 2025 (@philbill.1er)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_32-novembre2025-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_32-novembre2025-2.jpg",
+          "title": "BGK_32-novembre2025-2",
+          "caption": "photo novembre 2025 (@philbill.1er)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_33",
+      "points": 10,
+      "poseDate": "17/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_33-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_33-aout2020.jpg",
+          "title": "BGK_33-aout2020",
+          "caption": "photo aout 2020 (StreetView)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_33-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_33-juin2024.jpg",
+          "title": "BGK_33-juin2024",
+          "caption": "photo juin 2024 (@Karillav)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_34",
+      "points": 10,
+      "poseDate": "17/07/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_34/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_34-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_34-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_34-fevrier2025.jpg",
+          "title": "BGK_34-fevrier2025",
+          "caption": "photo d'archive (@Li Tsin Soon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_35",
+      "points": 30,
+      "poseDate": "17/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_35/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_35-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_36",
+      "points": 20,
+      "poseDate": "18/07/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "novembre 2022 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_36/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_36-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_37",
+      "points": 10,
+      "poseDate": "18/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_37/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_37-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_37-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_37-novembre2025.jpg",
+          "title": "BGK_37-novembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_38",
+      "points": 30,
+      "poseDate": "18/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juin 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_38/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_38-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_39",
+      "points": 10,
+      "poseDate": "18/07/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2023 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_39/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_39-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_40",
+      "points": 10,
+      "poseDate": "18/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2026 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_40/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_40-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_40-fevrier2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_40-fevrier2026.jpg",
+          "title": "BGK_40-fevrier2026",
+          "caption": "photo d'archive (@Gabriel Jaquemet)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_41",
+      "points": 30,
+      "poseDate": "18/07/2005",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "octobre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_41/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_41-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_41-aout2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_41-aout2020.jpg",
+          "title": "BGK_41-aout2020",
+          "caption": "photo août 2020 (StreetView)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_42",
+      "points": 10,
+      "poseDate": "19/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_42/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_42-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_43",
+      "points": 10,
+      "poseDate": "20/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_43/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_43-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_43-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_43-novembre2025.jpg",
+          "title": "BGK_43-novembre2025",
+          "caption": "photo novembre 2024 (live Flashinvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_44",
+      "points": 20,
+      "poseDate": "20/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (Instagram)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_44/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_44-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "BGK_45",
+      "points": 10,
+      "poseDate": "20/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "février 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_45/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_45-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_45-novembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_45-novembre2022.jpg",
+          "title": "BGK_45-novembre2022",
+          "caption": "photo novembre 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_45-fevrier2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_45-fevrier2024.jpg",
+          "title": "BGK_45-fevrier2024",
+          "caption": "photo février 2024 (@Wiki Marion)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_47",
+      "points": 50,
+      "poseDate": "20/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_47/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_47-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_47-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_47-novembre2025.jpg",
+          "title": "BGK_47-novembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_48",
+      "points": 50,
+      "poseDate": "21/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_48/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_48-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_48-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_48-novembre2025.jpg",
+          "title": "BGK_48-novembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_49",
+      "points": 30,
+      "poseDate": "21/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_49/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_49-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_49-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_49-novembre2025.jpg",
+          "title": "BGK_49-novembre2025",
+          "caption": "photo novembre 2025 (@philbill.1er)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_50",
+      "points": 10,
+      "poseDate": "21/07/2005",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "décembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_50/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_50-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_50-decembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_50-decembre2025.jpg",
+          "title": "BGK_50-decembre2025",
+          "caption": "photo novembre 2017 (@Matthieu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "BGK_51",
+      "points": 50,
+      "poseDate": "21/07/2005",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bgk_51/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_51-grosplan.png",
+      "photos": []
+    }
+  ]
+}

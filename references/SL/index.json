@@ -1,0 +1,23 @@
+{
+  "place_id": "SL",
+  "city": "Seoul",
+  "country": null,
+  "target_count": 14,
+  "confirmed_invaders": [
+    "SL_01",
+    "SL_02",
+    "SL_03",
+    "SL_04",
+    "SL_05",
+    "SL_06",
+    "SL_07",
+    "SL_08",
+    "SL_09",
+    "SL_10",
+    "SL_11",
+    "SL_12",
+    "SL_13",
+    "SL_14"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

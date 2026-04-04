@@ -1,0 +1,54 @@
+{
+  "place_id": "BTA",
+  "invader_id": "BTA_03",
+  "city": "Bastia",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/09/2005",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "avril 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BTA/BTA_03-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BTA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bta_03/",
+      "label": "Instagram hashtag for BTA_03"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BTA/BTA_03-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_03/images/BTA_03-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_03-juin2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_03-juin2019.jpg",
+      "caption": "photo juin 2019 (@bp78)",
+      "title": "BTA_03-juin2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_03/images/BTA_03-juin2019.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BTA/BTA_03-avril2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BTA/BTA_03-avril2025.jpg",
+      "caption": "photo avril 2025 (@Tatutia)",
+      "title": "BTA_03-avril2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BTA/BTA_03/images/BTA_03-avril2025.jpg"
+    }
+  ]
+}
