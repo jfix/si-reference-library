@@ -1,0 +1,54 @@
+{
+  "place_id": "GNV",
+  "invader_id": "GNV_09",
+  "city": "Genève",
+  "country": null,
+  "status": "confirmed",
+  "points": 40,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "20/09/2000",
+  "last_known_state": "OK",
+  "last_seen_source": "juillet 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_09-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GNV listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/gnv_09/",
+      "label": "Instagram hashtag for GNV_09"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GNV/GNV_09-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_09/images/GNV_09-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_09-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_09-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "GNV_09-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_09/images/GNV_09-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_09-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_09-juillet2024.jpg",
+      "caption": "photo juillet 2024 (@Judelrey)",
+      "title": "GNV_09-juillet2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_09/images/GNV_09-juillet2024.jpg"
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:53:58.924Z",
+  "city": "Genève",
+  "code": "GNV",
+  "totalInvaders": 33,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Genève",
+    "code": "GNV",
+    "invasionWaves": 2,
+    "totalInvaders": 33,
+    "totalPoints": 530,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "GNV_01",
+      "points": 10,
+      "poseDate": "18/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_01-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_01-aout2022.jpg",
+          "title": "GNV_01-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_01-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_01-juillet2024.jpg",
+          "title": "GNV_01-juillet2024",
+          "caption": "photo juillet 2024 (@JIMMY 10)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_02",
+      "points": 10,
+      "poseDate": "18/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_02-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_02-juillet2024.jpg",
+          "title": "GNV_02-juillet2024",
+          "caption": "photo d'archive (@André Kurz)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_03",
+      "points": 10,
+      "poseDate": "18/09/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_03-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_03-septembre2016.jpg",
+          "title": "GNV_03-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_04",
+      "points": 10,
+      "poseDate": "18/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_04-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_04-septembre2016.jpg",
+          "title": "GNV_04-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_05",
+      "points": 20,
+      "poseDate": "18/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_05-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_05-juillet2024.jpg",
+          "title": "GNV_05-juillet2024",
+          "caption": "photo d'archive (@rvleb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_06",
+      "points": 10,
+      "poseDate": "18/09/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_06-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_06-aout2025.jpg",
+          "title": "GNV_06-aout2025",
+          "caption": "photo août 2025 (@Buramu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_07",
+      "points": 10,
+      "poseDate": "19/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_07-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_07-aout2022.jpg",
+          "title": "GNV_07-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_07-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_07-septembre2024.jpg",
+          "title": "GNV_07-septembre2024",
+          "caption": "photo septembre 2024 (@ikenda)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_08",
+      "points": 10,
+      "poseDate": "19/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_08-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GNV_09",
+      "points": 40,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_09-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_09-septembre2016.jpg",
+          "title": "GNV_09-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_09-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_09-juillet2024.jpg",
+          "title": "GNV_09-juillet2024",
+          "caption": "photo juillet 2024 (@Judelrey)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_10",
+      "points": 10,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_10-aout2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_10-aout2025.jpg",
+          "title": "GNV_10-aout2025",
+          "caption": "photo août 2025 (@Buramu)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_11",
+      "points": 10,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_11-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_11-septembre2016.jpg",
+          "title": "GNV_11-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_11-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_11-juillet2024.jpg",
+          "title": "GNV_11-juillet2024",
+          "caption": "photo juillet 2024 (@Judelrey)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_12",
+      "points": 30,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_12-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_12-septembre2016.jpg",
+          "title": "GNV_12-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_12-juin2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_12-juin2024.jpg",
+          "title": "GNV_12-juin2024",
+          "caption": "photo juin 2024 (@No123)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_13",
+      "points": 10,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_13-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_13-septembre2016.jpg",
+          "title": "GNV_13-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_13-juin2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_13-juin2022.jpg",
+          "title": "GNV_13-juin2022",
+          "caption": "photo juin 2022 (@Marathon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_14",
+      "points": 10,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_14-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_14-aout2022.jpg",
+          "title": "GNV_14-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_14-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_14-septembre2024.jpg",
+          "title": "GNV_14-septembre2024",
+          "caption": "photo septembre 2024 (@Morsette)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_15",
+      "points": 10,
+      "poseDate": "20/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_15-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_15-aout2022.jpg",
+          "title": "GNV_15-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_15-octobre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_15-octobre2024.jpg",
+          "title": "GNV_15-octobre2024",
+          "caption": "photo octobre 2024 (@Phil H)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_16",
+      "points": 10,
+      "poseDate": "21/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_16-fevrier2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_16-fevrier2024.jpg",
+          "title": "GNV_16-fevrier2024",
+          "caption": "photo février 2024 (@Viralvic)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_16-fevrier2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_16-fevrier2025.jpg",
+          "title": "GNV_16-fevrier2025",
+          "caption": "photo février 2025 (@Zarathustra)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_17",
+      "points": 10,
+      "poseDate": "21/09/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_17-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_17-aout2022.jpg",
+          "title": "GNV_17-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_18",
+      "points": 10,
+      "poseDate": "21/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_18-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_18-septembre2016.jpg",
+          "title": "GNV_18-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_19",
+      "points": 10,
+      "poseDate": "21/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_19-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_19-septembre2016.jpg",
+          "title": "GNV_19-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_19-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_19-mars2025.jpg",
+          "title": "GNV_19-mars2025",
+          "caption": "photo mars 2025 (@Zarathustra)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_20",
+      "points": 10,
+      "poseDate": "21/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_20-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GNV_21",
+      "points": 10,
+      "poseDate": "21/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juin 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_21-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_21-septembre2016.jpg",
+          "title": "GNV_21-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_21-juin2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_21-juin2022.jpg",
+          "title": "GNV_21-juin2022",
+          "caption": "photo juin 2022 (@Marathon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_22",
+      "points": 30,
+      "poseDate": "22/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_22-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_22-septembre2016.jpg",
+          "title": "GNV_22-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_22-novembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_22-novembre2023.jpg",
+          "title": "GNV_22-novembre2023",
+          "caption": "photo novembre 2023 (@Serval)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_23",
+      "points": 10,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_23-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_23-juillet2024.jpg",
+          "title": "GNV_23-juillet2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_24",
+      "points": 30,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_24-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_24-juillet2024.jpg",
+          "title": "GNV_24-juillet2024",
+          "caption": "photo d'archive (@André Kurz)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_25",
+      "points": 10,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_25-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_25-mars2025.jpg",
+          "title": "GNV_25-mars2025",
+          "caption": "photo d'archive (@rvleb)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_26",
+      "points": 20,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_26/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_26-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_26-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_26-septembre2016.jpg",
+          "title": "GNV_26-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_27",
+      "points": 20,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juin 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_27/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_27-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_27-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_27-septembre2016.jpg",
+          "title": "GNV_27-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_27-juin2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_27-juin2022.jpg",
+          "title": "GNV_27-juin2022",
+          "caption": "photo juin 2022 (@Marathon)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_28",
+      "points": 30,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_28/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_28-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_28-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_28-septembre2016.jpg",
+          "title": "GNV_28-septembre2016",
+          "caption": "photo septembre 2016"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_28-avril2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_28-avril2025.jpg",
+          "title": "GNV_28-avril2025",
+          "caption": "photo avril 2025 (@Hippo Schlemer)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_29",
+      "points": 10,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_29/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_29-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_29-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_29-aout2022.jpg",
+          "title": "GNV_29-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_29-juillet2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_29-juillet2024.jpg",
+          "title": "GNV_29-juillet2024",
+          "caption": "photo juillet 2024 (@Judelrey)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_30",
+      "points": 10,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juin 2021 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_30/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_30-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "GNV_31",
+      "points": 30,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_31/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_31-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_31-aout2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_31-aout2022.jpg",
+          "title": "GNV_31-aout2022",
+          "caption": "photo août 2022 (@Flash)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_31-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_31-septembre2024.jpg",
+          "title": "GNV_31-septembre2024",
+          "caption": "photo septembre 2024 (@YOLO1957)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_32",
+      "points": 30,
+      "poseDate": "23/09/2000",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "septembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_32/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_32-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_32-septembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_32-septembre2024.jpg",
+          "title": "GNV_32-septembre2024",
+          "caption": "photo d'archive (@veti_vert)"
+        }
+      ]
+    },
+    {
+      "invaderId": "GNV_33",
+      "points": 30,
+      "poseDate": "03/11/2000",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2016 (spott)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/gnv_33/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/GNV/GNV_33-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/GNV/GNV_33-septembre2016.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/GNV/GNV_33-septembre2016.jpg",
+          "title": "GNV_33-septembre2016",
+          "caption": "photo septembre 2016"
+        }
+      ]
+    }
+  ]
+}

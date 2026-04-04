@@ -1,0 +1,44 @@
+{
+  "place_id": "GNV",
+  "invader_id": "GNV_24",
+  "city": "Genève",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "23/09/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_24-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GNV listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/gnv_24/",
+      "label": "Instagram hashtag for GNV_24"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GNV/GNV_24-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_24/images/GNV_24-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_24-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_24-juillet2024.jpg",
+      "caption": "photo d'archive (@André Kurz)",
+      "title": "GNV_24-juillet2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_24/images/GNV_24-juillet2024.jpg"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "place_id": "GNV",
+  "invader_id": "GNV_01",
+  "city": "Genève",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "18/09/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GNV listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/gnv_01/",
+      "label": "Instagram hashtag for GNV_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GNV/GNV_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_01/images/GNV_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_01-aout2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_01-aout2022.jpg",
+      "caption": "photo août 2022 (@Flash)",
+      "title": "GNV_01-aout2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_01/images/GNV_01-aout2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_01-juillet2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_01-juillet2024.jpg",
+      "caption": "photo juillet 2024 (@JIMMY 10)",
+      "title": "GNV_01-juillet2024",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/GNV/GNV_01/images/GNV_01-juillet2024.jpg"
+    }
+  ]
+}

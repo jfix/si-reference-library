@@ -1,0 +1,54 @@
+{
+  "place_id": "GNV",
+  "invader_id": "GNV_21",
+  "city": "Genève",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "21/09/2000",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "juin 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_21-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "GNV listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/gnv_21/",
+      "label": "Instagram hashtag for GNV_21"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/GNV/GNV_21-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_21/images/GNV_21-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_21-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_21-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "GNV_21-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_21/images/GNV_21-septembre2016.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/GNV/GNV_21-juin2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_21-juin2022.jpg",
+      "caption": "photo juin 2022 (@Marathon)",
+      "title": "GNV_21-juin2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_21/images/GNV_21-juin2022.jpg"
+    }
+  ]
+}

@@ -169,6 +169,16 @@
     "country": "Germany",
     "target_count": 18
   },
+  "BSL": {
+    "city": "Basel",
+    "country": "Switzerland",
+    "target_count": 25
+  },
+  "GNV": {
+    "city": "Genève",
+    "country": "Switzerland",
+    "target_count": 33
+  },
   "MARS": {
     "city": "Marseille",
     "country": "France",

@@ -1,0 +1,34 @@
+{
+  "place_id": "BSL",
+  "invader_id": "BSL_01",
+  "city": "Basel",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "03/06/2013",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2016 (spott)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BSL/BSL_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BSL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bsl_01/",
+      "label": "Instagram hashtag for BSL_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BSL/BSL_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_01/images/BSL_01-grosplan.png"
+    }
+  ]
+}

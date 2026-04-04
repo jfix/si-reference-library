@@ -1,0 +1,44 @@
+{
+  "place_id": "BSL",
+  "invader_id": "BSL_20",
+  "city": "Basel",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/06/2013",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "juin 2025 (FlashInvaders)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BSL/BSL_20-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BSL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bsl_20/",
+      "label": "Instagram hashtag for BSL_20"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BSL/BSL_20-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_20/images/BSL_20-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BSL/BSL_20-septembre2016.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BSL/BSL_20-septembre2016.jpg",
+      "caption": "photo septembre 2016",
+      "title": "BSL_20-septembre2016",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_20/images/BSL_20-septembre2016.jpg"
+    }
+  ]
+}

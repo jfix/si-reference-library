@@ -1,0 +1,44 @@
+{
+  "place_id": "BSL",
+  "invader_id": "BSL_22",
+  "city": "Basel",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/06/2013",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BSL/BSL_22-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BSL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bsl_22/",
+      "label": "Instagram hashtag for BSL_22"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BSL/BSL_22-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_22/images/BSL_22-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BSL/BSL_22-septembre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BSL/BSL_22-septembre2023.jpg",
+      "caption": "photo d'archive (@scuttleclaw)",
+      "title": "BSL_22-septembre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_22/images/BSL_22-septembre2023.jpg"
+    }
+  ]
+}
