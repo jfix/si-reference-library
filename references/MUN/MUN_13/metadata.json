@@ -1,0 +1,44 @@
+{
+  "place_id": "MUN",
+  "invader_id": "MUN_13",
+  "city": "Munich",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "09/04/2023",
+  "last_known_state": "OK",
+  "last_seen_source": "avril 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MUN/MUN_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MUN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mun_13/",
+      "label": "Instagram hashtag for MUN_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MUN/MUN_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MUN/MUN_13/images/MUN_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MUN/MUN_13-avril2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MUN/MUN_13-avril2023.jpg",
+      "caption": "photo avril 2023 (Instagram @amuseum_munich)",
+      "title": "MUN_13-avril2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MUN/MUN_13/images/MUN_13-avril2023.jpg"
+    }
+  ]
+}

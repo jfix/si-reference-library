@@ -1,0 +1,27 @@
+{
+  "place_id": "MUN",
+  "city": "Munich",
+  "country": null,
+  "target_count": 18,
+  "confirmed_invaders": [
+    "MUN_01",
+    "MUN_02",
+    "MUN_03",
+    "MUN_04",
+    "MUN_05",
+    "MUN_06",
+    "MUN_07",
+    "MUN_08",
+    "MUN_09",
+    "MUN_10",
+    "MUN_11",
+    "MUN_12",
+    "MUN_13",
+    "MUN_14",
+    "MUN_15",
+    "MUN_16",
+    "MUN_17",
+    "MUN_18"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

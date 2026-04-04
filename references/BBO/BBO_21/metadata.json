@@ -1,0 +1,54 @@
+{
+  "place_id": "BBO",
+  "invader_id": "BBO_21",
+  "city": "Bilbao",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/12/2007",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "octobre 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_21-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BBO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bbo_21/",
+      "label": "Instagram hashtag for BBO_21"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BBO/BBO_21-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_21/images/BBO_21-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_21-novembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_21-novembre2017.jpg",
+      "caption": "photo novembre 2017",
+      "title": "BBO_21-novembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_21/images/BBO_21-novembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_21-octobre2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_21-octobre2023.jpg",
+      "caption": "photo octobre 2023 (@fredfromparis11)",
+      "title": "BBO_21-octobre2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_21/images/BBO_21-octobre2023.jpg"
+    }
+  ]
+}

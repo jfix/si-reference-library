@@ -1,0 +1,54 @@
+{
+  "place_id": "BBO",
+  "invader_id": "BBO_38",
+  "city": "Bilbao",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "30/12/2007",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "février 2023 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_38-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BBO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bbo_38/",
+      "label": "Instagram hashtag for BBO_38"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BBO/BBO_38-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_38/images/BBO_38-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_38-fevrier2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_38-fevrier2017.jpg",
+      "caption": "photo fevrier 2017",
+      "title": "BBO_38-fevrier2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_38/images/BBO_38-fevrier2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_38-fevrier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_38-fevrier2023.jpg",
+      "caption": "photo février 2023 (@Roudy)",
+      "title": "BBO_38-fevrier2023",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BBO/BBO_38/images/BBO_38-fevrier2023.jpg"
+    }
+  ]
+}

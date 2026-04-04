@@ -159,6 +159,16 @@
     "country": "Italy",
     "target_count": 40
   },
+  "BBO": {
+    "city": "Bilbao",
+    "country": "Spain",
+    "target_count": 40
+  },
+  "MUN": {
+    "city": "Munich",
+    "country": "Germany",
+    "target_count": 18
+  },
   "MARS": {
     "city": "Marseille",
     "country": "France",

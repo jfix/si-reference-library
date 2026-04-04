@@ -1,0 +1,280 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:52:45.617Z",
+  "city": "Munich",
+  "code": "MUN",
+  "totalInvaders": 18,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Munich",
+    "code": "MUN",
+    "invasionWaves": 1,
+    "totalInvaders": 18,
+    "totalPoints": 710,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "MUN_01",
+      "points": 40,
+      "poseDate": "08/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_01-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_02",
+      "points": 50,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_03",
+      "points": 30,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_03-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_03-avril2023.jpg",
+          "title": "MUN_03-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_04",
+      "points": 30,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_04-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_05",
+      "points": 40,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_06",
+      "points": 30,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "novembre 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_06-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_06-avril2023.jpg",
+          "title": "MUN_06-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_06-novembre2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_06-novembre2023.jpg",
+          "title": "MUN_06-novembre2023",
+          "caption": "photo novembre 2023 (@Goldorak75)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_07",
+      "points": 20,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_07-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_07-avril2023.jpg",
+          "title": "MUN_07-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_07-juin2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_07-juin2025.jpg",
+          "title": "MUN_07-juin2025",
+          "caption": "photo juin 2025"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_08",
+      "points": 50,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_08-avril2023-2.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_08-avril2023-2.jpg",
+          "title": "MUN_08-avril2023-2",
+          "caption": "photo avril 2023 (Live FlashInvaders)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_09",
+      "points": 20,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_09-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_10",
+      "points": 50,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_10-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_11",
+      "points": 40,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_11-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_11-avril2023.jpg",
+          "title": "MUN_11-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_12",
+      "points": 50,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_12-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_12-avril2023.jpg",
+          "title": "MUN_12-avril2023",
+          "caption": "photo avril 2023 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_13",
+      "points": 20,
+      "poseDate": "09/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_13-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_13-avril2023.jpg",
+          "title": "MUN_13-avril2023",
+          "caption": "photo avril 2023 (Instagram @amuseum_munich)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_14",
+      "points": 100,
+      "poseDate": "10/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "mai 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_14-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_15",
+      "points": 30,
+      "poseDate": "10/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_15-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_15-avril2023.jpg",
+          "title": "MUN_15-avril2023",
+          "caption": "photo avril 2023 (Instagram @munich.walls)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_16",
+      "points": 30,
+      "poseDate": "10/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2025 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_16-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "MUN_17",
+      "points": 40,
+      "poseDate": "11/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_17-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_17-avril2023.jpg",
+          "title": "MUN_17-avril2023",
+          "caption": "photo avril 2023 (Instagram @r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "MUN_18",
+      "points": 40,
+      "poseDate": "11/04/2023",
+      "lastKnownState": "OK",
+      "lastSeenSource": "avril 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/mun_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/MUN/MUN_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MUN/MUN_18-avril2023.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MUN/MUN_18-avril2023.jpg",
+          "title": "MUN_18-avril2023",
+          "caption": "photo avril 2023 (Instagram @r4y.paris)"
+        }
+      ]
+    }
+  ]
+}

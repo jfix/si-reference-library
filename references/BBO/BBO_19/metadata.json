@@ -1,0 +1,44 @@
+{
+  "place_id": "BBO",
+  "invader_id": "BBO_19",
+  "city": "Bilbao",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/12/2007",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BBO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bbo_19/",
+      "label": "Instagram hashtag for BBO_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BBO/BBO_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_19/images/BBO_19-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_19-fevrier2023.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_19-fevrier2023.jpg",
+      "caption": "photo d'archive (@Eduardo Arostegui)",
+      "title": "BBO_19-fevrier2023",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_19/images/BBO_19-fevrier2023.jpg"
+    }
+  ]
+}

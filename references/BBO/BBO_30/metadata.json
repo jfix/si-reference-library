@@ -1,0 +1,54 @@
+{
+  "place_id": "BBO",
+  "invader_id": "BBO_30",
+  "city": "Bilbao",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "29/12/2007",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "août 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_30-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BBO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bbo_30/",
+      "label": "Instagram hashtag for BBO_30"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BBO/BBO_30-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_30/images/BBO_30-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_30-novembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_30-novembre2017.jpg",
+      "caption": "photo novembre 2017",
+      "title": "BBO_30-novembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_30/images/BBO_30-novembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_30-aout2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_30-aout2022.jpg",
+      "caption": "photo août 2022 (@Olli)",
+      "title": "BBO_30-aout2022",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/BBO/BBO_30/images/BBO_30-aout2022.jpg"
+    }
+  ]
+}

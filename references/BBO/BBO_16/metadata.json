@@ -1,0 +1,44 @@
+{
+  "place_id": "BBO",
+  "invader_id": "BBO_16",
+  "city": "Bilbao",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "26/12/2007",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_16-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BBO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bbo_16/",
+      "label": "Instagram hashtag for BBO_16"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BBO/BBO_16-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_16/images/BBO_16-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_16-novembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_16-novembre2017.jpg",
+      "caption": "photo novembre 2017 (caché par un échafaudage)",
+      "title": "BBO_16-novembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_16/images/BBO_16-novembre2017.jpg"
+    }
+  ]
+}

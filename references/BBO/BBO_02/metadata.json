@@ -1,0 +1,44 @@
+{
+  "place_id": "BBO",
+  "invader_id": "BBO_02",
+  "city": "Bilbao",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "27/10/2007",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_02-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "BBO listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/bbo_02/",
+      "label": "Instagram hashtag for BBO_02"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/BBO/BBO_02-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_02/images/BBO_02-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BBO/BBO_02-octobre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_02-octobre2025.jpg",
+      "caption": "photo octobre 2025 (@Goldorak75)",
+      "title": "BBO_02-octobre2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_02/images/BBO_02-octobre2025.jpg"
+    }
+  ]
+}
