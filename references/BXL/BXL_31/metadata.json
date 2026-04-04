@@ -39,7 +39,7 @@
       "type": "flash-invaders-screenshot",
       "role": "flash-reference",
       "contains_invader": true,
-      "local_path": "data/flash-screenshots/by-id/BXL_31/Screenshot_20241227-120038-crop.png",
+      "local_path": "references/BXL/BXL_31/images/Screenshot_20241227-120038-crop.png",
       "title": "Screenshot_20241227-120038-crop.png"
     }
   ]
