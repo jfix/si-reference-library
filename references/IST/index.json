@@ -1,0 +1,26 @@
+{
+  "place_id": "IST",
+  "city": "Istanbul",
+  "country": null,
+  "target_count": 20,
+  "confirmed_invaders": [
+    "IST_01",
+    "IST_02",
+    "IST_04",
+    "IST_05",
+    "IST_06",
+    "IST_07",
+    "IST_08",
+    "IST_09",
+    "IST_11",
+    "IST_12",
+    "IST_13",
+    "IST_14",
+    "IST_15",
+    "IST_16",
+    "IST_17",
+    "IST_18",
+    "IST_20"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

@@ -204,6 +204,16 @@
     "country": "Thailand",
     "target_count": 51
   },
+  "IST": {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "target_count": 20
+  },
+  "NCL": {
+    "city": "Newcastle",
+    "country": "United Kingdom",
+    "target_count": 25
+  },
   "BSL": {
     "city": "Basel",
     "country": "Switzerland",

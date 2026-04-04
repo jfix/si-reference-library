@@ -1,0 +1,44 @@
+{
+  "place_id": "NCL",
+  "invader_id": "NCL_11",
+  "city": "Newcastle",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "02/08/2006",
+  "last_known_state": "OK",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NCL/NCL_11-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NCL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ncl_11/",
+      "label": "Instagram hashtag for NCL_11"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NCL/NCL_11-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_11/images/NCL_11-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NCL/NCL_11-mai2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NCL/NCL_11-mai2017.jpg",
+      "caption": "photo mai 2017",
+      "title": "NCL_11-mai2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_11/images/NCL_11-mai2017.jpg"
+    }
+  ]
+}

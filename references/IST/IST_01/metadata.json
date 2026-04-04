@@ -1,0 +1,44 @@
+{
+  "place_id": "IST",
+  "invader_id": "IST_01",
+  "city": "Istanbul",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "16/09/2003",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "avril 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/IST/IST_01-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "IST listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ist_01/",
+      "label": "Instagram hashtag for IST_01"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/IST/IST_01-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/IST/IST_01/images/IST_01-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/IST/IST_01-avril2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/IST/IST_01-avril2025.jpg",
+      "caption": "photo d'archive (@timnyc)",
+      "title": "IST_01-avril2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/IST/IST_01/images/IST_01-avril2025.jpg"
+    }
+  ]
+}

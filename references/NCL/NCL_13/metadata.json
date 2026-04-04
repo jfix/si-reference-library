@@ -1,0 +1,44 @@
+{
+  "place_id": "NCL",
+  "invader_id": "NCL_13",
+  "city": "Newcastle",
+  "country": null,
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "02/08/2006",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "août 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/NCL/NCL_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "NCL listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/ncl_13/",
+      "label": "Instagram hashtag for NCL_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/NCL/NCL_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_13/images/NCL_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NCL/NCL_13-aout2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NCL/NCL_13-aout2024.jpg",
+      "caption": "photo août 2024 (@Beatrice Ladybug)",
+      "title": "NCL_13-aout2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_13/images/NCL_13-aout2024.jpg"
+    }
+  ]
+}

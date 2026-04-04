@@ -1,0 +1,460 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-04-04T08:58:18.119Z",
+  "city": "Newcastle",
+  "code": "NCL",
+  "totalInvaders": 25,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Newcastle",
+    "code": "NCL",
+    "invasionWaves": 3,
+    "totalInvaders": 25,
+    "totalPoints": 510,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "NCL_01",
+      "points": 30,
+      "poseDate": "22/05/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "mai 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_01-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_01-mai2017.jpg",
+          "title": "NCL_01-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_02",
+      "points": 20,
+      "poseDate": "22/05/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "octobre 2019 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_02-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "NCL_03",
+      "points": 10,
+      "poseDate": "22/05/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_03-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_03-aout2024.jpg",
+          "title": "NCL_03-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_04",
+      "points": 10,
+      "poseDate": "22/05/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_04-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_04-mai2017.jpg",
+          "title": "NCL_04-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_05",
+      "points": 10,
+      "poseDate": "23/05/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_05-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_05-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_05-aout2024.jpg",
+          "title": "NCL_05-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_06",
+      "points": 10,
+      "poseDate": "23/05/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_06-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_06-aout2024.jpg",
+          "title": "NCL_06-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_07",
+      "points": 20,
+      "poseDate": "23/05/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_07-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_07-mai2017.jpg",
+          "title": "NCL_07-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_08",
+      "points": 20,
+      "poseDate": "23/05/2006",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "avril 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_08-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_08-mai2017.jpg",
+          "title": "NCL_08-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_08-avril2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_08-avril2022.jpg",
+          "title": "NCL_08-avril2022",
+          "caption": "photo avril 2022 (@Kooli)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_09",
+      "points": 10,
+      "poseDate": "23/05/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_09-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_09-mai2017.jpg",
+          "title": "NCL_09-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_10",
+      "points": 20,
+      "poseDate": "02/08/2006",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_10-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_10-mai2017.jpg",
+          "title": "NCL_10-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_11",
+      "points": 30,
+      "poseDate": "02/08/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_11-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_11-mai2017.jpg",
+          "title": "NCL_11-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_12",
+      "points": 20,
+      "poseDate": "02/08/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_12-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_12-mai2017.jpg",
+          "title": "NCL_12-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_13",
+      "points": 30,
+      "poseDate": "02/08/2006",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_13-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_13-aout2024.jpg",
+          "title": "NCL_13-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_14",
+      "points": 20,
+      "poseDate": "03/08/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_14-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_14-aout2024.jpg",
+          "title": "NCL_14-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_15",
+      "points": 30,
+      "poseDate": "03/08/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_15/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_15-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_15-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_15-mai2017.jpg",
+          "title": "NCL_15-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_16",
+      "points": 50,
+      "poseDate": "03/08/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_16/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_16-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_16-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_16-aout2024.jpg",
+          "title": "NCL_16-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_17",
+      "points": 20,
+      "poseDate": "03/08/2006",
+      "lastKnownState": "Un peu dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_17/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_17-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_17-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_17-mai2017.jpg",
+          "title": "NCL_17-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_17-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_17-juillet2025.jpg",
+          "title": "NCL_17-juillet2025",
+          "caption": "photo juillet 2025 (@Au.Rythme.Du.Rail)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_18",
+      "points": 30,
+      "poseDate": "25/09/2006",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "février 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_18/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_18-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_18-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_18-mai2017.jpg",
+          "title": "NCL_18-mai2017",
+          "caption": "photo mai 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_18-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_18-aout2024.jpg",
+          "title": "NCL_18-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_19",
+      "points": 10,
+      "poseDate": "26/09/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_19/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_19-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_19-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_19-mai2017.jpg",
+          "title": "NCL_19-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_20",
+      "points": 30,
+      "poseDate": "26/09/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_20/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_20-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_20-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_20-aout2024.jpg",
+          "title": "NCL_20-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_21",
+      "points": 30,
+      "poseDate": "26/09/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_21/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_21-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_21-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_21-mai2017.jpg",
+          "title": "NCL_21-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_22",
+      "points": 20,
+      "poseDate": "26/09/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_22/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_22-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_22-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_22-mai2017.jpg",
+          "title": "NCL_22-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_23",
+      "points": 10,
+      "poseDate": "27/09/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_23/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_23-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_23-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_23-aout2024.jpg",
+          "title": "NCL_23-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_24",
+      "points": 10,
+      "poseDate": "27/09/2006",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_24/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_24-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_24-aout2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_24-aout2024.jpg",
+          "title": "NCL_24-aout2024",
+          "caption": "photo août 2024 (@Beatrice Ladybug)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_24-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_24-juillet2025.jpg",
+          "title": "NCL_24-juillet2025",
+          "caption": "photo juillet 2025 (@Au.Rythme.Du.Rail)"
+        }
+      ]
+    },
+    {
+      "invaderId": "NCL_25",
+      "points": 10,
+      "poseDate": "27/09/2006",
+      "lastKnownState": "OK",
+      "lastSeenSource": "août 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/ncl_25/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/NCL/NCL_25-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NCL/NCL_25-mai2017.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NCL/NCL_25-mai2017.jpg",
+          "title": "NCL_25-mai2017",
+          "caption": "photo mai 2017"
+        }
+      ]
+    }
+  ]
+}
