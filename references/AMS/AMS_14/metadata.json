@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ams_14/",
       "label": "Instagram hashtag for AMS_14"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for AMS_14",
+      "file_path": "Screenshot_20241227-174357.png"
     }
   ],
   "images": [
@@ -39,6 +44,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/AMS/AMS_14/images/AMS_14-fevrier2025.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_14/images/Screenshot_20241227-174357-crop.png",
+      "title": "Screenshot_20241227-174357-crop.png"
     }
   ]
 }

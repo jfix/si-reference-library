@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ams_03/",
       "label": "Instagram hashtag for AMS_03"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for AMS_03",
+      "file_path": "Screenshot_20241227-230454.png"
     }
   ],
   "images": [
@@ -39,6 +44,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/AMS/AMS_03/images/AMS_03-juin2017.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_03/images/Screenshot_20241227-230454-crop.png",
+      "title": "Screenshot_20241227-230454-crop.png"
     }
   ]
 }

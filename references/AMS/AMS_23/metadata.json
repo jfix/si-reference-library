@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ams_23/",
       "label": "Instagram hashtag for AMS_23"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for AMS_23",
+      "file_path": "Screenshot_20241227-172627.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for AMS_23",
+      "file_path": "Screenshot_20241227-172633.png"
     }
   ],
   "images": [
@@ -39,6 +49,20 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/AMS/AMS_23/images/AMS_23-juin2017.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_23/images/Screenshot_20241227-172627-crop.png",
+      "title": "Screenshot_20241227-172627-crop.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/AMS/AMS_23/images/Screenshot_20241227-172633-crop.png",
+      "title": "Screenshot_20241227-172633-crop.png"
     }
   ]
 }
