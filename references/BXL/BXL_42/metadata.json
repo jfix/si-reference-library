@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "05/07/2022",
   "last_known_state": "OK",
-  "last_seen_source": "août 2022 (report)",
+  "last_seen_source": "ao\u00fbt 2022 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BXL/BXL_42-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bxl_42/",
       "label": "Instagram hashtag for BXL_42"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BXL_42",
+      "file_path": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/BXL/BXL_42-aout2022.jpg",
       "preview_url": "https://www.invader-spotter.art/images/BXL/BXL_42-aout2022.jpg",
-      "caption": "photo août 2022 (@Zurg)",
+      "caption": "photo ao\u00fbt 2022 (@Zurg)",
       "title": "BXL_42-aout2022",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BXL/BXL_42/images/BXL_42-aout2022.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_42/images/original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r3c1-crop.png",
+      "title": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r3c1-crop.png",
+      "source_file": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_42/images/original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r3c1-crop-label-masked.png",
+      "title": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r3c1-crop-label-masked.png",
+      "source_file": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924.png",
+      "derived_from": "references/BXL/BXL_42/images/original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r3c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 326,
+          "width": 152,
+          "height": 72,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
     }
   ]
 }

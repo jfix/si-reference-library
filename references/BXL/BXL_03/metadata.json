@@ -7,7 +7,7 @@
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "08/03/2012",
-  "last_known_state": "Détruit !",
+  "last_known_state": "D\u00e9truit !",
   "last_seen_source": "mai 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BXL/BXL_03-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bxl_03/",
       "label": "Instagram hashtag for BXL_03"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BXL_03",
+      "file_path": "original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907.png"
     }
   ],
   "images": [
@@ -49,6 +54,37 @@
       "role": "status-empty-scene",
       "contains_invader": false,
       "local_path": "references/BXL/BXL_03/images/BXL_03-mai2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_03/images/original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907-r1c3-crop.png",
+      "title": "original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907-r1c3-crop.png",
+      "source_file": "original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BXL/BXL_03/images/original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907-r1c3-crop-label-masked.png",
+      "title": "original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907-r1c3-crop-label-masked.png",
+      "source_file": "original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907.png",
+      "derived_from": "references/BXL/BXL_03/images/original_c74b2624-6740-4537-bd1e-d12c3256365e_Screenshot_20260407-125907-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 291,
+          "width": 154,
+          "height": 65,
+          "fill": [
+            67,
+            11,
+            16
+          ]
+        }
+      }
     }
   ]
 }
