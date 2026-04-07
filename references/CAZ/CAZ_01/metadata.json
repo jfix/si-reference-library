@@ -1,7 +1,7 @@
 {
   "place_id": "CAZ",
   "invader_id": "CAZ_01",
-  "city": "Côte d'Azur",
+  "city": "C\u00f4te d'Azur",
   "country": null,
   "status": "confirmed",
   "points": 20,
@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/caz_01/",
       "label": "Instagram hashtag for CAZ_01"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for CAZ_01",
+      "file_path": "original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for CAZ_01",
+      "file_path": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924.png"
     }
   ],
   "images": [
@@ -39,6 +49,68 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/CAZ/CAZ_01/images/CAZ_01-septembre2017.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_01/images/original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939-r1c1-crop.png",
+      "title": "original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939-r1c1-crop.png",
+      "source_file": "original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_01/images/original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r1c2-crop.png",
+      "title": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r1c2-crop.png",
+      "source_file": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_01/images/original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939-r1c1-crop-label-masked.png",
+      "title": "original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939-r1c1-crop-label-masked.png",
+      "source_file": "original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939.png",
+      "derived_from": "references/CAZ/CAZ_01/images/original_a2ac4658-e22c-4948-ad69-eec4ea52f859_Screenshot_20260407-125939-r1c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 349,
+          "width": 152,
+          "height": 77,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/CAZ/CAZ_01/images/original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r1c2-crop-label-masked.png",
+      "title": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r1c2-crop-label-masked.png",
+      "source_file": "original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924.png",
+      "derived_from": "references/CAZ/CAZ_01/images/original_e79b58a5-3bd0-4e27-b4f4-524755ea9d68_Screenshot_20260407-125924-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 294,
+          "width": 152,
+          "height": 65,
+          "fill": [
+            6,
+            6,
+            22
+          ]
+        }
+      }
     }
   ]
 }
