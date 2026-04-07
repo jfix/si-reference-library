@@ -25,6 +25,16 @@
       "type": "flash-invaders-city-list-screenshot",
       "label": "Flash Invaders city list screenshot for MAN_07",
       "file_path": "original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for MAN_07",
+      "file_path": "Screenshot_20250329-173058.png",
+      "id_review": {
+        "corrected_from": "G_00",
+        "corrected_to": "MAN_07",
+        "method": "manual-source-screenshot-review"
+      }
     }
   ],
   "images": [
@@ -84,6 +94,18 @@
             42
           ]
         }
+      }
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_07/images/Screenshot_20250329-173058-crop.png",
+      "title": "Screenshot_20250329-173058-crop.png",
+      "id_review": {
+        "corrected_from": "G_00",
+        "corrected_to": "MAN_07",
+        "method": "manual-source-screenshot-review"
       }
     }
   ]

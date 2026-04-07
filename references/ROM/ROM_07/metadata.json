@@ -25,6 +25,16 @@
       "type": "flash-invaders-city-list-screenshot",
       "label": "Flash Invaders city list screenshot for ROM_07",
       "file_path": "original_28c264f5-8235-47f6-b300-de8cfd38a6fe_Screenshot_20260407-124926.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for ROM_07",
+      "file_path": "Screenshot_20250222-161618.png",
+      "id_review": {
+        "corrected_from": "R_0",
+        "corrected_to": "ROM_07",
+        "method": "manual-source-screenshot-review"
+      }
     }
   ],
   "images": [
@@ -74,6 +84,18 @@
             55
           ]
         }
+      }
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_07/images/Screenshot_20250222-161618-crop.png",
+      "title": "Screenshot_20250222-161618-crop.png",
+      "id_review": {
+        "corrected_from": "R_0",
+        "corrected_to": "ROM_07",
+        "method": "manual-source-screenshot-review"
       }
     }
   ]

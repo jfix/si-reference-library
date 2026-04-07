@@ -25,6 +25,16 @@
       "type": "flash-invaders-city-list-screenshot",
       "label": "Flash Invaders city list screenshot for NOO_01",
       "file_path": "original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919.png"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for NOO_01",
+      "file_path": "Screenshot_20241228-105751.png",
+      "id_review": {
+        "corrected_from": "N_00",
+        "corrected_to": "NOO_01",
+        "method": "manual-source-screenshot-review"
+      }
     }
   ],
   "images": [
@@ -69,6 +79,18 @@
             95
           ]
         }
+      }
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_01/images/Screenshot_20241228-105751-crop.png",
+      "title": "Screenshot_20241228-105751-crop.png",
+      "id_review": {
+        "corrected_from": "N_00",
+        "corrected_to": "NOO_01",
+        "method": "manual-source-screenshot-review"
       }
     }
   ]

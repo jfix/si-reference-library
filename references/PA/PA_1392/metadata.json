@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/pa_1392/",
       "label": "Instagram hashtag for PA_1392"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "label": "Flash screenshot for PA_1392",
+      "file_path": "Screenshot_20250218-190908.png",
+      "id_review": {
+        "corrected_from": "YOUF_0",
+        "corrected_to": "PA_1392",
+        "method": "manual-source-screenshot-review"
+      }
     }
   ],
   "images": [
@@ -39,6 +49,18 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_1392/images/PA_1392-avril2019.jpg"
+    },
+    {
+      "type": "flash-invaders-screenshot",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1392/images/Screenshot_20250218-190908-crop.png",
+      "title": "Screenshot_20250218-190908-crop.png",
+      "id_review": {
+        "corrected_from": "YOUF_0",
+        "corrected_to": "PA_1392",
+        "method": "manual-source-screenshot-review"
+      }
     }
   ]
 }
