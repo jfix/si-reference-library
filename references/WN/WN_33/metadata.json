@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "16/06/2006",
   "last_known_state": "OK",
-  "last_seen_source": "août 2025 (Instagram)",
+  "last_seen_source": "ao\u00fbt 2025 (Instagram)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/WN/WN_33-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/wn_33/",
       "label": "Instagram hashtag for WN_33"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for WN_33",
+      "file_path": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/WN/WN_33/images/WN_33-juin2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_33/images/original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r4c1-crop.png",
+      "title": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r4c1-crop.png",
+      "source_file": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_33/images/original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r4c1-crop-label-masked.png",
+      "title": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r4c1-crop-label-masked.png",
+      "source_file": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530.png",
+      "derived_from": "references/WN/WN_33/images/original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r4c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            86,
+            82,
+            79
+          ]
+        }
+      }
     }
   ]
 }

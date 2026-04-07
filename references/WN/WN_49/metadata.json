@@ -7,8 +7,8 @@
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "23/06/2006",
-  "last_known_state": "Un peu dégradé",
-  "last_seen_source": "août 2022 (FlashInvaders)",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
+  "last_seen_source": "ao\u00fbt 2022 (FlashInvaders)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/WN/WN_49-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/wn_49/",
       "label": "Instagram hashtag for WN_49"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for WN_49",
+      "file_path": "original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/WN/WN_49-aout2018.jpg",
       "preview_url": "https://www.invader-spotter.art/images/WN/WN_49-aout2018.jpg",
-      "caption": "photo août 2018",
+      "caption": "photo ao\u00fbt 2018",
       "title": "WN_49-aout2018",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/WN/WN_49/images/WN_49-aout2018.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_49/images/original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541-r2c3-crop.png",
+      "title": "original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541-r2c3-crop.png",
+      "source_file": "original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_49/images/original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541-r2c3-crop-label-masked.png",
+      "title": "original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541-r2c3-crop-label-masked.png",
+      "source_file": "original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541.png",
+      "derived_from": "references/WN/WN_49/images/original_a90eed6c-3c8c-4aa8-af88-1a2455c6d377_Screenshot_20260407-124541-r2c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            78,
+            75,
+            70
+          ]
+        }
+      }
     }
   ]
 }

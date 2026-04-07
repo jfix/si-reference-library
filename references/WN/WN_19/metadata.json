@@ -7,7 +7,7 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "11/06/2006",
-  "last_known_state": "Très dégradé",
+  "last_known_state": "Tr\u00e8s d\u00e9grad\u00e9",
   "last_seen_source": "janvier 2026 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/WN/WN_19-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/wn_19/",
       "label": "Instagram hashtag for WN_19"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for WN_19",
+      "file_path": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508.png"
     }
   ],
   "images": [
@@ -34,7 +39,7 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/WN/WN_19-aout2018.jpg",
       "preview_url": "https://www.invader-spotter.art/images/WN/WN_19-aout2018.jpg",
-      "caption": "photo août 2018",
+      "caption": "photo ao\u00fbt 2018",
       "title": "WN_19-aout2018",
       "role": "reference",
       "contains_invader": true,
@@ -49,6 +54,42 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/WN/WN_19/images/WN_19-janvier2026.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_19/images/original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r3c3-manual-crop.png",
+      "title": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r3c3-manual-crop.png",
+      "source_file": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "WH. _19",
+        "correction_index": 130
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_19/images/original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r3c3-manual-crop-label-masked.png",
+      "title": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r3c3-manual-crop-label-masked.png",
+      "source_file": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508.png",
+      "derived_from": "references/WN/WN_19/images/original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r3c3-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            60,
+            59,
+            61
+          ]
+        }
+      }
     }
   ]
 }

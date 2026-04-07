@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/wn_24/",
       "label": "Instagram hashtag for WN_24"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for WN_24",
+      "file_path": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/WN/WN_24-aout2018.jpg",
       "preview_url": "https://www.invader-spotter.art/images/WN/WN_24-aout2018.jpg",
-      "caption": "photo août 2018",
+      "caption": "photo ao\u00fbt 2018",
       "title": "WN_24-aout2018",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/WN/WN_24/images/WN_24-aout2018.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_24/images/original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r1c2-crop.png",
+      "title": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r1c2-crop.png",
+      "source_file": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_24/images/original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r1c2-crop-label-masked.png",
+      "title": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r1c2-crop-label-masked.png",
+      "source_file": "original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530.png",
+      "derived_from": "references/WN/WN_24/images/original_7f8c956a-261d-4d52-bad6-49144e1a99bc_Screenshot_20260407-124530-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            46,
+            46,
+            44
+          ]
+        }
+      }
     }
   ]
 }

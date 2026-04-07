@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "07/06/2006",
   "last_known_state": "OK",
-  "last_seen_source": "décembre 2025 (report)",
+  "last_seen_source": "d\u00e9cembre 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/WN/WN_07-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/wn_07/",
       "label": "Instagram hashtag for WN_07"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for WN_07",
+      "file_path": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/WN/WN_07-aout2018.jpg",
       "preview_url": "https://www.invader-spotter.art/images/WN/WN_07-aout2018.jpg",
-      "caption": "photo août 2018",
+      "caption": "photo ao\u00fbt 2018",
       "title": "WN_07-aout2018",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/WN/WN_07/images/WN_07-aout2018.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_07/images/original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r1c2-crop.png",
+      "title": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r1c2-crop.png",
+      "source_file": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/WN/WN_07/images/original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r1c2-crop-label-masked.png",
+      "title": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r1c2-crop-label-masked.png",
+      "source_file": "original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508.png",
+      "derived_from": "references/WN/WN_07/images/original_9852b805-6fe4-4693-81d3-7d147f95abba_Screenshot_20260407-124508-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            59,
+            60,
+            58
+          ]
+        }
+      }
     }
   ]
 }
