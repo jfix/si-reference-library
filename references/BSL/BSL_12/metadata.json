@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bsl_12/",
       "label": "Instagram hashtag for BSL_12"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BSL_12",
+      "file_path": "original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BSL_12",
+      "file_path": "original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759.png"
     }
   ],
   "images": [
@@ -29,6 +39,68 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/BSL/BSL_12/images/BSL_12-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_12/images/original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753-r3c1-crop.png",
+      "title": "original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753-r3c1-crop.png",
+      "source_file": "original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_12/images/original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759-r1c1-crop.png",
+      "title": "original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759-r1c1-crop.png",
+      "source_file": "original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_12/images/original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753-r3c1-crop-label-masked.png",
+      "title": "original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753-r3c1-crop-label-masked.png",
+      "source_file": "original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753.png",
+      "derived_from": "references/BSL/BSL_12/images/original_509a3716-e80f-4d86-8ea1-cf0c5e0188a3_Screenshot_20260407-124753-r3c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            54,
+            53,
+            50
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BSL/BSL_12/images/original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759-r1c1-crop-label-masked.png",
+      "title": "original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759-r1c1-crop-label-masked.png",
+      "source_file": "original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759.png",
+      "derived_from": "references/BSL/BSL_12/images/original_89d557a2-d09c-4908-a202-f3efd0452d68_Screenshot_20260407-124759-r1c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            54,
+            53,
+            50
+          ]
+        }
+      }
     }
   ]
 }
