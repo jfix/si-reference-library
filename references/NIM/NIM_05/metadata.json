@@ -1,14 +1,14 @@
 {
   "place_id": "NIM",
   "invader_id": "NIM_05",
-  "city": "Nîmes",
+  "city": "N\u00eemes",
   "country": "France",
   "status": "confirmed",
   "points": 30,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "23/09/2004",
   "last_known_state": "OK",
-  "last_seen_source": "août 2025 (report)",
+  "last_seen_source": "ao\u00fbt 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/NIM/NIM_05-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,21 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/nim_05/",
       "label": "Instagram hashtag for NIM_05"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NIM_05",
+      "file_path": "original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NIM_05",
+      "file_path": "original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NIM_05",
+      "file_path": "original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747.png"
     }
   ],
   "images": [
@@ -44,11 +59,104 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/NIM/NIM_05-aout2025.jpg",
       "preview_url": "https://www.invader-spotter.art/images/NIM/NIM_05-aout2025.jpg",
-      "caption": "photo août 2025 (@pepers256)",
+      "caption": "photo ao\u00fbt 2025 (@pepers256)",
       "title": "NIM_05-aout2025",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/NIM/NIM_05/images/NIM_05-aout2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_05/images/original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2-r4c2-crop.png",
+      "title": "original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2-r4c2-crop.png",
+      "source_file": "original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_05/images/original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827-r5c2-crop.png",
+      "title": "original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827-r5c2-crop.png",
+      "source_file": "original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_05/images/original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747-r2c2-crop.png",
+      "title": "original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747-r2c2-crop.png",
+      "source_file": "original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_05/images/original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2-r4c2-crop-label-masked.png",
+      "title": "original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2-r4c2-crop-label-masked.png",
+      "source_file": "original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2.png",
+      "derived_from": "references/NIM/NIM_05/images/original_887c2b20-cc05-4170-8334-7921982f4410_Screenshot_20260407-125827~2-r4c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 244,
+          "y": 301,
+          "width": 177,
+          "height": 67,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_05/images/original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827-r5c2-crop-label-masked.png",
+      "title": "original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827-r5c2-crop-label-masked.png",
+      "source_file": "original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827.png",
+      "derived_from": "references/NIM/NIM_05/images/original_a19caa29-4eaa-4975-9180-b51384d81e51_Screenshot_20260407-125827-r5c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 326,
+          "width": 152,
+          "height": 72,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NIM/NIM_05/images/original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747-r2c2-crop-label-masked.png",
+      "title": "original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747-r2c2-crop-label-masked.png",
+      "source_file": "original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747.png",
+      "derived_from": "references/NIM/NIM_05/images/original_f97f96b6-ae18-484f-ac35-21779caa77d7_Screenshot_20260407-125747-r2c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 243,
+          "y": 292,
+          "width": 177,
+          "height": 65,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
     }
   ]
 }
