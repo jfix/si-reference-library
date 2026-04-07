@@ -30,6 +30,11 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for NOO_10",
       "file_path": "Screenshot_20241228-112529.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NOO_10",
+      "file_path": "original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919.png"
     }
   ],
   "images": [
@@ -70,6 +75,42 @@
       "contains_invader": true,
       "local_path": "references/NOO/NOO_10/images/Screenshot_20241228-112529-crop.png",
       "title": "Screenshot_20241228-112529-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_10/images/original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919-r4c1-manual-crop.png",
+      "title": "original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919-r4c1-manual-crop.png",
+      "source_file": "original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "H0O_10",
+        "correction_index": 74
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NOO/NOO_10/images/original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919-r4c1-manual-crop-label-masked.png",
+      "title": "original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919-r4c1-manual-crop-label-masked.png",
+      "source_file": "original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919.png",
+      "derived_from": "references/NOO/NOO_10/images/original_570feed3-d88c-4ba0-ba12-b4adf4b8929b_Screenshot_20260407-124919-r4c1-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            36,
+            43,
+            42
+          ]
+        }
+      }
     }
   ]
 }
