@@ -7,8 +7,8 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "22/11/2000",
-  "last_known_state": "Un peu dégradé",
-  "last_seen_source": "février 2023 (report)",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
+  "last_seen_source": "f\u00e9vrier 2023 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/PAU/PAU_08-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/pau_08/",
       "label": "Instagram hashtag for PAU_08"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for PAU_08",
+      "file_path": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
     }
   ],
   "images": [
@@ -44,11 +49,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/PAU/PAU_08-fevrier2023.jpg",
       "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_08-fevrier2023.jpg",
-      "caption": "photo février 2023 (@Sagwa)",
+      "caption": "photo f\u00e9vrier 2023 (@Sagwa)",
       "title": "PAU_08-fevrier2023",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PAU/PAU_08/images/PAU_08-fevrier2023.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_08/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r2c2-crop.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r2c2-crop.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_08/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r2c2-crop-label-masked.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r2c2-crop-label-masked.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png",
+      "derived_from": "references/PAU/PAU_08/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r2c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 294,
+          "width": 153,
+          "height": 65,
+          "fill": [
+            77,
+            76,
+            76
+          ]
+        }
+      }
     }
   ]
 }

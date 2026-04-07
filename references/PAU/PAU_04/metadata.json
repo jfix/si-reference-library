@@ -25,6 +25,11 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for PAU_04",
       "file_path": "Screenshot_20250720-145159.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for PAU_04",
+      "file_path": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
     }
   ],
   "images": [
@@ -51,6 +56,37 @@
       "contains_invader": true,
       "local_path": "data/flash-screenshots/by-id/PAU_04/Screenshot_20250720-145159-crop.png",
       "title": "Screenshot_20250720-145159-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_04/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c1-crop.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c1-crop.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_04/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c1-crop-label-masked.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c1-crop-label-masked.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png",
+      "derived_from": "references/PAU/PAU_04/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            52,
+            49,
+            49
+          ]
+        }
+      }
     }
   ]
 }

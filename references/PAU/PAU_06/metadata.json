@@ -25,6 +25,11 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for PAU_06",
       "file_path": "Screenshot_20250720-141914.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for PAU_06",
+      "file_path": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
     }
   ],
   "images": [
@@ -39,7 +44,7 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/PAU/PAU_06-fevrier2017.jpg",
       "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_06-fevrier2017.jpg",
-      "caption": "photo février 2017",
+      "caption": "photo f\u00e9vrier 2017",
       "title": "PAU_06-fevrier2017",
       "role": "reference",
       "contains_invader": true,
@@ -51,6 +56,37 @@
       "contains_invader": true,
       "local_path": "data/flash-screenshots/by-id/PAU_06/Screenshot_20250720-141914-crop.png",
       "title": "Screenshot_20250720-141914-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_06/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c3-crop.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c3-crop.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_06/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c3-crop-label-masked.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c3-crop-label-masked.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png",
+      "derived_from": "references/PAU/PAU_06/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            92,
+            90,
+            90
+          ]
+        }
+      }
     }
   ]
 }

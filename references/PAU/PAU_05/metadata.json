@@ -7,8 +7,8 @@
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "22/11/2000",
-  "last_known_state": "Un peu dégradé",
-  "last_seen_source": "février 2023 (report)",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
+  "last_seen_source": "f\u00e9vrier 2023 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/PAU/PAU_05-grosplan.png",
   "sources": [
     {
@@ -25,6 +25,11 @@
       "type": "instagram-post",
       "url": "https://www.instagram.com/p/B1RF1KVi_fF/",
       "label": "Instagram post showing PAU_05 in situ"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for PAU_05",
+      "file_path": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
     }
   ],
   "images": [
@@ -49,7 +54,7 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/PAU/PAU_05-fevrier2023.jpg",
       "preview_url": "https://www.invader-spotter.art/images/PAU/PAU_05-fevrier2023.jpg",
-      "caption": "photo février 2023 (@Sagwa)",
+      "caption": "photo f\u00e9vrier 2023 (@Sagwa)",
       "title": "PAU_05-fevrier2023",
       "role": "reference",
       "contains_invader": true,
@@ -64,6 +69,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "data/instagram/pau_05/media/B1RF1KVi_fF/01.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c2-crop.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c2-crop.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/PAU/PAU_05/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c2-crop-label-masked.png",
+      "title": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c2-crop-label-masked.png",
+      "source_file": "original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620.png",
+      "derived_from": "references/PAU/PAU_05/images/original_13c28524-f65b-4439-bb77-7585a5d3f80f_Screenshot_20260407-125620-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            80,
+            81,
+            82
+          ]
+        }
+      }
     }
   ]
 }
