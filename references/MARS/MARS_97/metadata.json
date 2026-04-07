@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "25/08/2020",
   "last_known_state": "OK",
-  "last_seen_source": "août 2021 (report)",
+  "last_seen_source": "ao\u00fbt 2021 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_97-grosplan.png",
   "sources": [
     {
@@ -25,6 +25,11 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for MARS_97",
       "file_path": "Screenshot_20260123-180017.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MARS_97",
+      "file_path": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022.png"
     }
   ],
   "images": [
@@ -41,6 +46,37 @@
       "contains_invader": true,
       "local_path": "data/flash-screenshots/by-id/MARS_97/Screenshot_20260123-180017-crop.png",
       "title": "Screenshot_20260123-180017-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_97/images/original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r5c1-crop.png",
+      "title": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r5c1-crop.png",
+      "source_file": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_97/images/original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r5c1-crop-label-masked.png",
+      "title": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r5c1-crop-label-masked.png",
+      "source_file": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022.png",
+      "derived_from": "references/MARS/MARS_97/images/original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r5c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 326,
+          "width": 154,
+          "height": 72,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
     }
   ]
 }

@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mars_46/",
       "label": "Instagram hashtag for MARS_46"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MARS_46",
+      "file_path": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MARS/MARS_46/images/MARS_46-aout2020.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_46/images/original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r1c2-crop.png",
+      "title": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r1c2-crop.png",
+      "source_file": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_46/images/original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r1c2-crop-label-masked.png",
+      "title": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r1c2-crop-label-masked.png",
+      "source_file": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008.png",
+      "derived_from": "references/MARS/MARS_46/images/original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 65,
+          "fill": [
+            78,
+            75,
+            72
+          ]
+        }
+      }
     }
   ]
 }

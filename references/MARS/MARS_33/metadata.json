@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "09/08/2020",
   "last_known_state": "OK",
-  "last_seen_source": "août 2020 (Instagram)",
+  "last_seen_source": "ao\u00fbt 2020 (Instagram)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_33-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mars_33/",
       "label": "Instagram hashtag for MARS_33"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MARS_33",
+      "file_path": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MARS/MARS_33/images/MARS_33-aout2020.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_33/images/original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r2c1-crop.png",
+      "title": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r2c1-crop.png",
+      "source_file": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_33/images/original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r2c1-crop-label-masked.png",
+      "title": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r2c1-crop-label-masked.png",
+      "source_file": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000.png",
+      "derived_from": "references/MARS/MARS_33/images/original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r2c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            84,
+            77,
+            69
+          ]
+        }
+      }
     }
   ]
 }

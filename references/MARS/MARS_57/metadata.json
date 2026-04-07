@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "11/08/2020",
   "last_known_state": "OK",
-  "last_seen_source": "août 2020 (Instagram)",
+  "last_seen_source": "ao\u00fbt 2020 (Instagram)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_57-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mars_57/",
       "label": "Instagram hashtag for MARS_57"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MARS_57",
+      "file_path": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MARS/MARS_57/images/MARS_57-archive.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_57/images/original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r4c3-crop.png",
+      "title": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r4c3-crop.png",
+      "source_file": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_57/images/original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r4c3-crop-label-masked.png",
+      "title": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r4c3-crop-label-masked.png",
+      "source_file": "original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008.png",
+      "derived_from": "references/MARS/MARS_57/images/original_aacbd6f2-4f87-4c35-b6ca-b99b6fe00383_Screenshot_20260407-130008-r4c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            76,
+            69,
+            62
+          ]
+        }
+      }
     }
   ]
 }

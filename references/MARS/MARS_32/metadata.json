@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "09/08/2020",
   "last_known_state": "OK",
-  "last_seen_source": "août 2024 (report)",
+  "last_seen_source": "ao\u00fbt 2024 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_32-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mars_32/",
       "label": "Instagram hashtag for MARS_32"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MARS_32",
+      "file_path": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000.png"
     }
   ],
   "images": [
@@ -44,11 +49,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/MARS/MARS_32-aout2024.jpg",
       "preview_url": "https://www.invader-spotter.art/images/MARS/MARS_32-aout2024.jpg",
-      "caption": "photo août 2024 (@Legsfr)",
+      "caption": "photo ao\u00fbt 2024 (@Legsfr)",
       "title": "MARS_32-aout2024",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MARS/MARS_32/images/MARS_32-aout2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_32/images/original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r1c3-crop.png",
+      "title": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r1c3-crop.png",
+      "source_file": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_32/images/original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r1c3-crop-label-masked.png",
+      "title": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r1c3-crop-label-masked.png",
+      "source_file": "original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000.png",
+      "derived_from": "references/MARS/MARS_32/images/original_eda13701-4738-483d-b3c3-52abb1697bb8_Screenshot_20260407-130000-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            13,
+            12,
+            12
+          ]
+        }
+      }
     }
   ]
 }

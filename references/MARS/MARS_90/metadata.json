@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "20/08/2020",
   "last_known_state": "OK",
-  "last_seen_source": "août 2020 (Instagram)",
+  "last_seen_source": "ao\u00fbt 2020 (Instagram)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/MARS/MARS_90-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mars_90/",
       "label": "Instagram hashtag for MARS_90"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MARS_90",
+      "file_path": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MARS/MARS_90/images/MARS_90-archive.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_90/images/original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r3c3-crop.png",
+      "title": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r3c3-crop.png",
+      "source_file": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MARS/MARS_90/images/original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r3c3-crop-label-masked.png",
+      "title": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r3c3-crop-label-masked.png",
+      "source_file": "original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022.png",
+      "derived_from": "references/MARS/MARS_90/images/original_2ddf4ca8-4770-41f0-8f48-1528ca373fac_Screenshot_20260407-130022-r3c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            46,
+            27,
+            28
+          ]
+        }
+      }
     }
   ]
 }
