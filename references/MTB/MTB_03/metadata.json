@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mtb_03/",
       "label": "Instagram hashtag for MTB_03"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MTB_03",
+      "file_path": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MTB/MTB_03/images/MTB_03-octobre2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_03/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c2-crop.png",
+      "title": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c2-crop.png",
+      "source_file": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_03/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c2-crop-label-masked.png",
+      "title": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c2-crop-label-masked.png",
+      "source_file": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png",
+      "derived_from": "references/MTB/MTB_03/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 320,
+          "width": 152,
+          "height": 71,
+          "fill": [
+            37,
+            36,
+            33
+          ]
+        }
+      }
     }
   ]
 }

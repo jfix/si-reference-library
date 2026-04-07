@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mtb_05/",
       "label": "Instagram hashtag for MTB_05"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MTB_05",
+      "file_path": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/MTB/MTB_05-fevrier2017.jpg",
       "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_05-fevrier2017.jpg",
-      "caption": "photo février 2017",
+      "caption": "photo f\u00e9vrier 2017",
       "title": "MTB_05-fevrier2017",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MTB/MTB_05/images/MTB_05-fevrier2017.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_05/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c3-crop.png",
+      "title": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c3-crop.png",
+      "source_file": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_05/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c3-crop-label-masked.png",
+      "title": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c3-crop-label-masked.png",
+      "source_file": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png",
+      "derived_from": "references/MTB/MTB_05/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 208,
+          "y": 320,
+          "width": 152,
+          "height": 71,
+          "fill": [
+            0,
+            1,
+            1
+          ]
+        }
+      }
     }
   ]
 }

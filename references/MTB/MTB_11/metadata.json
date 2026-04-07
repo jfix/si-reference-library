@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mtb_11/",
       "label": "Instagram hashtag for MTB_11"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MTB_11",
+      "file_path": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/MTB/MTB_11-decembre2015.jpg",
       "preview_url": "https://www.invader-spotter.art/images/MTB/MTB_11-decembre2015.jpg",
-      "caption": "photo décembre 2015",
+      "caption": "photo d\u00e9cembre 2015",
       "title": "MTB_11-decembre2015",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MTB/MTB_11/images/MTB_11-decembre2015.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_11/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r3c3-crop.png",
+      "title": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r3c3-crop.png",
+      "source_file": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MTB/MTB_11/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r3c3-crop-label-masked.png",
+      "title": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r3c3-crop-label-masked.png",
+      "source_file": "original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837.png",
+      "derived_from": "references/MTB/MTB_11/images/original_2e62ee84-4c98-4e64-8496-931e00885c69_Screenshot_20260407-125837-r3c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 208,
+          "y": 326,
+          "width": 152,
+          "height": 72,
+          "fill": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
     }
   ]
 }
