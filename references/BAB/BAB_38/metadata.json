@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bab_38/",
       "label": "Instagram hashtag for BAB_38"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BAB_38",
+      "file_path": "original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/BAB/BAB_38-novembre2024.jpg",
       "preview_url": "https://www.invader-spotter.art/images/BAB/BAB_38-novembre2024.jpg",
-      "caption": "photo novembre 2024 (@Mamirène Zal)",
+      "caption": "photo novembre 2024 (@Mamir\u00e8ne Zal)",
       "title": "BAB_38-novembre2024",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BAB/BAB_38/images/BAB_38-novembre2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BAB/BAB_38/images/original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642-r1c2-crop.png",
+      "title": "original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642-r1c2-crop.png",
+      "source_file": "original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BAB/BAB_38/images/original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642-r1c2-crop-label-masked.png",
+      "title": "original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642-r1c2-crop-label-masked.png",
+      "source_file": "original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642.png",
+      "derived_from": "references/BAB/BAB_38/images/original_65a15b00-197e-4154-9969-7e90dae8ea6f_Screenshot_20260407-125642-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            32,
+            31,
+            45
+          ]
+        }
+      }
     }
   ]
 }

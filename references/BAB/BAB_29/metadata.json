@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bab_29/",
       "label": "Instagram hashtag for BAB_29"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BAB_29",
+      "file_path": "original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636.png"
     }
   ],
   "images": [
@@ -34,11 +39,47 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/BAB/BAB_29-novembre2024.jpg",
       "preview_url": "https://www.invader-spotter.art/images/BAB/BAB_29-novembre2024.jpg",
-      "caption": "photo novembre 2024 (@Mamirène Zal)",
+      "caption": "photo novembre 2024 (@Mamir\u00e8ne Zal)",
       "title": "BAB_29-novembre2024",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BAB/BAB_29/images/BAB_29-novembre2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BAB/BAB_29/images/original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636-r3c2-manual-crop.png",
+      "title": "original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636-r3c2-manual-crop.png",
+      "source_file": "original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "CABARET L'BABL2S AE.",
+        "correction_index": 40
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BAB/BAB_29/images/original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636-r3c2-manual-crop-label-masked.png",
+      "title": "original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636-r3c2-manual-crop-label-masked.png",
+      "source_file": "original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636.png",
+      "derived_from": "references/BAB/BAB_29/images/original_331155d8-6afd-42cb-951d-cacb5d4a46bd_Screenshot_20260407-125636-r3c2-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            34,
+            29,
+            26
+          ]
+        }
+      }
     }
   ]
 }
