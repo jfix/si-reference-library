@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/mpl_25/",
       "label": "Instagram hashtag for MPL_25"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MPL_25",
+      "file_path": "original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/MPL/MPL_25/images/MPL_25-septembre2019.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MPL/MPL_25/images/original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817-r3c1-crop.png",
+      "title": "original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817-r3c1-crop.png",
+      "source_file": "original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MPL/MPL_25/images/original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817-r3c1-crop-label-masked.png",
+      "title": "original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817-r3c1-crop-label-masked.png",
+      "source_file": "original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817.png",
+      "derived_from": "references/MPL/MPL_25/images/original_cb9b07ef-a024-4435-9f7e-1a7290811208_Screenshot_20260407-125817-r3c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            48,
+            50,
+            48
+          ]
+        }
+      }
     }
   ]
 }
