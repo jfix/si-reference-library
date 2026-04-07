@@ -25,6 +25,21 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for AMI_15",
       "file_path": "Screenshot_20250621-111931.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for AMI_15",
+      "file_path": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for AMI_15",
+      "file_path": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for AMI_15",
+      "file_path": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537.png"
     }
   ],
   "images": [
@@ -51,6 +66,99 @@
       "contains_invader": true,
       "local_path": "data/flash-screenshots/by-id/AMI_15/Screenshot_20250621-111931-crop.png",
       "title": "Screenshot_20250621-111931-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_15/images/original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r3c2-crop.png",
+      "title": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r3c2-crop.png",
+      "source_file": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_15/images/original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r5c3-crop.png",
+      "title": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r5c3-crop.png",
+      "source_file": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_15/images/original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r3c3-crop.png",
+      "title": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r3c3-crop.png",
+      "source_file": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_15/images/original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r3c2-crop-label-masked.png",
+      "title": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r3c2-crop-label-masked.png",
+      "source_file": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753.png",
+      "derived_from": "references/AMI/AMI_15/images/original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r3c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            66,
+            61,
+            49
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_15/images/original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r5c3-crop-label-masked.png",
+      "title": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r5c3-crop-label-masked.png",
+      "source_file": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544.png",
+      "derived_from": "references/AMI/AMI_15/images/original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r5c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 293,
+          "width": 154,
+          "height": 65,
+          "fill": [
+            60,
+            52,
+            44
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_15/images/original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r3c3-crop-label-masked.png",
+      "title": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r3c3-crop-label-masked.png",
+      "source_file": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537.png",
+      "derived_from": "references/AMI/AMI_15/images/original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r3c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            58,
+            50,
+            43
+          ]
+        }
+      }
     }
   ]
 }

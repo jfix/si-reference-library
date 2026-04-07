@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ami_08/",
       "label": "Instagram hashtag for AMI_08"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for AMI_08",
+      "file_path": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for AMI_08",
+      "file_path": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537.png"
     }
   ],
   "images": [
@@ -39,6 +49,73 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/AMI/AMI_08/images/AMI_08-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_08/images/original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r3c2-crop.png",
+      "title": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r3c2-crop.png",
+      "source_file": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_08/images/original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r1c2-manual-crop.png",
+      "title": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r1c2-manual-crop.png",
+      "source_file": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "AMI_US",
+        "correction_index": 206
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_08/images/original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r3c2-crop-label-masked.png",
+      "title": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r3c2-crop-label-masked.png",
+      "source_file": "original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544.png",
+      "derived_from": "references/AMI/AMI_08/images/original_a4199715-7c64-4971-9f8f-4492bc72421d_Screenshot_20260407-125544-r3c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            58,
+            56,
+            56
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/AMI/AMI_08/images/original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r1c2-manual-crop-label-masked.png",
+      "title": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r1c2-manual-crop-label-masked.png",
+      "source_file": "original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537.png",
+      "derived_from": "references/AMI/AMI_08/images/original_fcad4173-ac35-4b3b-8949-e1fc242812db_Screenshot_20260407-125537-r1c2-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 297,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            59,
+            59,
+            60
+          ]
+        }
+      }
     }
   ]
 }
