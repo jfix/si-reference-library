@@ -7,7 +7,7 @@
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "21/06/2004",
-  "last_known_state": "Un peu dégradé",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
   "last_seen_source": "mars 2022 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/MAN/MAN_03-grosplan.png",
   "sources": [
@@ -25,6 +25,11 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for MAN_03",
       "file_path": "Screenshot_20250329-131608.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for MAN_03",
+      "file_path": "original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021.png"
     }
   ],
   "images": [
@@ -61,6 +66,37 @@
       "contains_invader": true,
       "local_path": "references/MAN/MAN_03/images/Screenshot_20250329-131608-crop.png",
       "title": "Screenshot_20250329-131608-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_03/images/original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021-r1c3-crop.png",
+      "title": "original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021-r1c3-crop.png",
+      "source_file": "original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/MAN/MAN_03/images/original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021-r1c3-crop-label-masked.png",
+      "title": "original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021-r1c3-crop-label-masked.png",
+      "source_file": "original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021.png",
+      "derived_from": "references/MAN/MAN_03/images/original_86f352be-978d-4cfd-9488-f2eb943bcf1d_Screenshot_20260407-125021-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 303,
+          "width": 154,
+          "height": 67,
+          "fill": [
+            72,
+            71,
+            66
+          ]
+        }
+      }
     }
   ]
 }
