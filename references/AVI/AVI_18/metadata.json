@@ -14,7 +14,7 @@
     {
       "type": "flickr",
       "url": "https://www.flickr.com/photos/meteorry/9622416369",
-      "label": "Pont Saint-Bénézet - Avignon (France) | AVI_?? (#18)"
+      "label": "Pont Saint-B\u00e9n\u00e9zet - Avignon (France) | AVI_?? (#18)"
     },
     {
       "type": "invader-spotter-listing",
@@ -25,6 +25,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/avi_18/",
       "label": "Instagram hashtag for AVI_18"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for AVI_18",
+      "file_path": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753.png"
     }
   ],
   "images": [
@@ -44,6 +49,37 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/AVI/AVI_18/images/AVI_18-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_18/images/original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r4c2-crop.png",
+      "title": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r4c2-crop.png",
+      "source_file": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/AVI/AVI_18/images/original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r4c2-crop-label-masked.png",
+      "title": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r4c2-crop-label-masked.png",
+      "source_file": "original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753.png",
+      "derived_from": "references/AVI/AVI_18/images/original_7d75a823-9351-40fc-bef5-1ef91c45a99e_Screenshot_20260407-125753-r4c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 287,
+          "width": 153,
+          "height": 63,
+          "fill": [
+            57,
+            52,
+            43
+          ]
+        }
+      }
     }
   ]
 }
