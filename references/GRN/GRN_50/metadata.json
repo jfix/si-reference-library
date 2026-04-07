@@ -7,7 +7,7 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "17/12/1999",
-  "last_known_state": "Dégradé",
+  "last_known_state": "D\u00e9grad\u00e9",
   "last_seen_source": "mars 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/GRN/GRN_50-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/grn_50/",
       "label": "Instagram hashtag for GRN_50"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GRN_50",
+      "file_path": "original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738.png"
     }
   ],
   "images": [
@@ -49,6 +54,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/GRN/GRN_50/images/GRN_50-mars2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_50/images/original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738-r3c1-crop.png",
+      "title": "original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738-r3c1-crop.png",
+      "source_file": "original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_50/images/original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738-r3c1-crop-label-masked.png",
+      "title": "original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738-r3c1-crop-label-masked.png",
+      "source_file": "original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738.png",
+      "derived_from": "references/GRN/GRN_50/images/original_a7662245-5fa4-45a8-ab65-c99e5f83ed0b_Screenshot_20260407-125738-r3c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            35,
+            31,
+            30
+          ]
+        }
+      }
     }
   ]
 }

@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/grn_06/",
       "label": "Instagram hashtag for GRN_06"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GRN_06",
+      "file_path": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/GRN/GRN_06-fevrier2022.jpg",
       "preview_url": "https://www.invader-spotter.art/images/GRN/GRN_06-fevrier2022.jpg",
-      "caption": "photo février 2022 (Instagram @4lfr3dn3wm4d)",
+      "caption": "photo f\u00e9vrier 2022 (Instagram @4lfr3dn3wm4d)",
       "title": "GRN_06-fevrier2022",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/GRN/GRN_06/images/GRN_06-fevrier2022.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_06/images/original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r2c3-crop.png",
+      "title": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r2c3-crop.png",
+      "source_file": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_06/images/original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r2c3-crop-label-masked.png",
+      "title": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r2c3-crop-label-masked.png",
+      "source_file": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727.png",
+      "derived_from": "references/GRN/GRN_06/images/original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r2c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            78,
+            73,
+            67
+          ]
+        }
+      }
     }
   ]
 }

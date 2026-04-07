@@ -7,8 +7,8 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "14/12/1999",
-  "last_known_state": "Dégradé",
-  "last_seen_source": "décembre 2024 (report)",
+  "last_known_state": "D\u00e9grad\u00e9",
+  "last_seen_source": "d\u00e9cembre 2024 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/GRN/GRN_08-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/grn_08/",
       "label": "Instagram hashtag for GRN_08"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GRN_08",
+      "file_path": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/GRN/GRN_08/images/GRN_08-decembre2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_08/images/original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r3c2-crop.png",
+      "title": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r3c2-crop.png",
+      "source_file": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_08/images/original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r3c2-crop-label-masked.png",
+      "title": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r3c2-crop-label-masked.png",
+      "source_file": "original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727.png",
+      "derived_from": "references/GRN/GRN_08/images/original_ae913b7d-77fc-4b5f-a58e-344e21bcc547_Screenshot_20260407-125727-r3c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            78,
+            78,
+            79
+          ]
+        }
+      }
     }
   ]
 }

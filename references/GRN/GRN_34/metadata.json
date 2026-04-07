@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "16/12/1999",
   "last_known_state": "OK",
-  "last_seen_source": "février 2022 (report)",
+  "last_seen_source": "f\u00e9vrier 2022 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/GRN/GRN_34-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/grn_34/",
       "label": "Instagram hashtag for GRN_34"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GRN_34",
+      "file_path": "original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/GRN/GRN_34/images/GRN_34-juin2016.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_34/images/original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732-r3c3-crop.png",
+      "title": "original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732-r3c3-crop.png",
+      "source_file": "original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GRN/GRN_34/images/original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732-r3c3-crop-label-masked.png",
+      "title": "original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732-r3c3-crop-label-masked.png",
+      "source_file": "original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732.png",
+      "derived_from": "references/GRN/GRN_34/images/original_547d1217-b141-4134-9428-b49a7b544fbd_Screenshot_20260407-125732-r3c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            67,
+            53,
+            43
+          ]
+        }
+      }
     }
   ]
 }
