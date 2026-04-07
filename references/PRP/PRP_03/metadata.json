@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "29/06/2013",
   "last_known_state": "OK",
-  "last_seen_source": "décembre 2015 (spott)",
+  "last_seen_source": "d\u00e9cembre 2015 (spott)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/PRP/PRP_03-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/prp_03/",
       "label": "Instagram hashtag for PRP_03"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for PRP_03",
+      "file_path": "original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/PRP/PRP_03-decembre2015.jpg",
       "preview_url": "https://www.invader-spotter.art/images/PRP/PRP_03-decembre2015.jpg",
-      "caption": "photo décembre 2015",
+      "caption": "photo d\u00e9cembre 2015",
       "title": "PRP_03-decembre2015",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PRP/PRP_03/images/PRP_03-decembre2015.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/PRP/PRP_03/images/original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843-r1c3-crop.png",
+      "title": "original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843-r1c3-crop.png",
+      "source_file": "original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/PRP/PRP_03/images/original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843-r1c3-crop-label-masked.png",
+      "title": "original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843-r1c3-crop-label-masked.png",
+      "source_file": "original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843.png",
+      "derived_from": "references/PRP/PRP_03/images/original_32f9ca8f-758c-4add-825d-243b32f7b7a4_Screenshot_20260407-125843-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 208,
+          "y": 320,
+          "width": 152,
+          "height": 71,
+          "fill": [
+            66,
+            54,
+            43
+          ]
+        }
+      }
     }
   ]
 }
