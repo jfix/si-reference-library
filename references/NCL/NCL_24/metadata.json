@@ -7,7 +7,7 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "27/09/2006",
-  "last_known_state": "Dégradé",
+  "last_known_state": "D\u00e9grad\u00e9",
   "last_seen_source": "juillet 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/NCL/NCL_24-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ncl_24/",
       "label": "Instagram hashtag for NCL_24"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NCL_24",
+      "file_path": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235.png"
     }
   ],
   "images": [
@@ -34,7 +39,7 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/NCL/NCL_24-aout2024.jpg",
       "preview_url": "https://www.invader-spotter.art/images/NCL/NCL_24-aout2024.jpg",
-      "caption": "photo août 2024 (@Beatrice Ladybug)",
+      "caption": "photo ao\u00fbt 2024 (@Beatrice Ladybug)",
       "title": "NCL_24-aout2024",
       "role": "reference",
       "contains_invader": true,
@@ -49,6 +54,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/NCL/NCL_24/images/NCL_24-juillet2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_24/images/original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r3c3-crop.png",
+      "title": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r3c3-crop.png",
+      "source_file": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_24/images/original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r3c3-crop-label-masked.png",
+      "title": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r3c3-crop-label-masked.png",
+      "source_file": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235.png",
+      "derived_from": "references/NCL/NCL_24/images/original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r3c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            76,
+            57,
+            56
+          ]
+        }
+      }
     }
   ]
 }

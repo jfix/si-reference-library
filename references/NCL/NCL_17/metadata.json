@@ -7,7 +7,7 @@
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "03/08/2006",
-  "last_known_state": "Un peu dégradé",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
   "last_seen_source": "juillet 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/NCL/NCL_17-grosplan.png",
   "sources": [
@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ncl_17/",
       "label": "Instagram hashtag for NCL_17"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NCL_17",
+      "file_path": "original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for NCL_17",
+      "file_path": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235.png"
     }
   ],
   "images": [
@@ -49,6 +59,68 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/NCL/NCL_17/images/NCL_17-juillet2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_17/images/original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046-r4c2-crop.png",
+      "title": "original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046-r4c2-crop.png",
+      "source_file": "original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_17/images/original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r1c2-crop.png",
+      "title": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r1c2-crop.png",
+      "source_file": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_17/images/original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046-r4c2-crop-label-masked.png",
+      "title": "original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046-r4c2-crop-label-masked.png",
+      "source_file": "original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046.png",
+      "derived_from": "references/NCL/NCL_17/images/original_40644ec8-da06-4e60-9da8-07a7a420b92b_Screenshot_20260407-125046-r4c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 65,
+          "fill": [
+            25,
+            25,
+            23
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/NCL/NCL_17/images/original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r1c2-crop-label-masked.png",
+      "title": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r1c2-crop-label-masked.png",
+      "source_file": "original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235.png",
+      "derived_from": "references/NCL/NCL_17/images/original_79eb46e5-62d4-4cb6-9b1d-583c7837c192_Screenshot_20260407-125235-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            23,
+            24,
+            23
+          ]
+        }
+      }
     }
   ]
 }
