@@ -7,8 +7,8 @@
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "14/05/2000",
-  "last_known_state": "Dégradé",
-  "last_seen_source": "décembre 2025 (report)",
+  "last_known_state": "D\u00e9grad\u00e9",
+  "last_seen_source": "d\u00e9cembre 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRN/BRN_15-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/brn_15/",
       "label": "Instagram hashtag for BRN_15"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BRN_15",
+      "file_path": "original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737.png"
     }
   ],
   "images": [
@@ -44,11 +49,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/BRN/BRN_15-decembre2025.jpg",
       "preview_url": "https://www.invader-spotter.art/images/BRN/BRN_15-decembre2025.jpg",
-      "caption": "photo décembre 2025 (@BERN170)",
+      "caption": "photo d\u00e9cembre 2025 (@BERN170)",
       "title": "BRN_15-decembre2025",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BRN/BRN_15/images/BRN_15-decembre2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_15/images/original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737-r5c1-crop.png",
+      "title": "original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737-r5c1-crop.png",
+      "source_file": "original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BRN/BRN_15/images/original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737-r5c1-crop-label-masked.png",
+      "title": "original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737-r5c1-crop-label-masked.png",
+      "source_file": "original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737.png",
+      "derived_from": "references/BRN/BRN_15/images/original_f89b18d6-cd59-46d5-8eb8-5309716e14d0_Screenshot_20260407-124737-r5c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 292,
+          "width": 154,
+          "height": 65,
+          "fill": [
+            47,
+            48,
+            48
+          ]
+        }
+      }
     }
   ]
 }
