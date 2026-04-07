@@ -7,7 +7,7 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "11/05/2002",
-  "last_known_state": "Détruit !",
+  "last_known_state": "D\u00e9truit !",
   "last_seen_source": "septembre 2024 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BRL/BRL_09-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/brl_09/",
       "label": "Instagram hashtag for BRL_09"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BRL_09",
+      "file_path": "original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819.png"
     }
   ],
   "images": [
@@ -49,6 +54,37 @@
       "role": "status-empty-scene",
       "contains_invader": false,
       "local_path": "references/BRL/BRL_09/images/BRL_09-septembre2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_09/images/original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819-r3c1-crop.png",
+      "title": "original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819-r3c1-crop.png",
+      "source_file": "original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BRL/BRL_09/images/original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819-r3c1-crop-label-masked.png",
+      "title": "original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819-r3c1-crop-label-masked.png",
+      "source_file": "original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819.png",
+      "derived_from": "references/BRL/BRL_09/images/original_a4695882-c94d-4bc9-bf17-5429090f2ac6_Screenshot_20260407-124819-r3c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            60,
+            55,
+            54
+          ]
+        }
+      }
     }
   ]
 }
