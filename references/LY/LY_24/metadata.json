@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "11/04/2001",
   "last_known_state": "OK",
-  "last_seen_source": "août 2019 (report)",
+  "last_seen_source": "ao\u00fbt 2019 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/LY/LY_24-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ly_24/",
       "label": "Instagram hashtag for LY_24"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LY_24",
+      "file_path": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710.png"
     }
   ],
   "images": [
@@ -39,6 +44,42 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LY/LY_24/images/LY_24-juin2016.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_24/images/original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r4c3-manual-crop.png",
+      "title": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r4c3-manual-crop.png",
+      "source_file": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": null,
+        "correction_index": 53
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LY/LY_24/images/original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r4c3-manual-crop-label-masked.png",
+      "title": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r4c3-manual-crop-label-masked.png",
+      "source_file": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710.png",
+      "derived_from": "references/LY/LY_24/images/original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r4c3-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 288,
+          "width": 154,
+          "height": 64,
+          "fill": [
+            30,
+            37,
+            46
+          ]
+        }
+      }
     }
   ]
 }
