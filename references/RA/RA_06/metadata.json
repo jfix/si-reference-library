@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ra_06/",
       "label": "Instagram hashtag for RA_06"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for RA_06",
+      "file_path": "original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215.png"
     }
   ],
   "images": [
@@ -39,6 +44,42 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/RA/RA_06/images/RA_06-septembre2016.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/RA/RA_06/images/original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215-r2c3-manual-crop.png",
+      "title": "original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215-r2c3-manual-crop.png",
+      "source_file": "original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "RA_D6",
+        "correction_index": 125
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/RA/RA_06/images/original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215-r2c3-manual-crop-label-masked.png",
+      "title": "original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215-r2c3-manual-crop-label-masked.png",
+      "source_file": "original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215.png",
+      "derived_from": "references/RA/RA_06/images/original_983532f4-082a-4057-a9a8-cff1592381ef_Screenshot_20260407-130215-r2c3-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            74,
+            67,
+            62
+          ]
+        }
+      }
     }
   ]
 }
