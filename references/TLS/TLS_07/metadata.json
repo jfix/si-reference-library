@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/tls_07/",
       "label": "Instagram hashtag for TLS_07"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for TLS_07",
+      "file_path": "original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/TLS/TLS_07/images/TLS_07-septembre2016.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_07/images/original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848-r1c3-crop.png",
+      "title": "original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848-r1c3-crop.png",
+      "source_file": "original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/TLS/TLS_07/images/original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848-r1c3-crop-label-masked.png",
+      "title": "original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848-r1c3-crop-label-masked.png",
+      "source_file": "original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848.png",
+      "derived_from": "references/TLS/TLS_07/images/original_436e610c-fb49-4fd4-bc28-1e26ad567ed8_Screenshot_20260407-125848-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 208,
+          "y": 320,
+          "width": 152,
+          "height": 71,
+          "fill": [
+            76,
+            74,
+            70
+          ]
+        }
+      }
     }
   ]
 }
