@@ -1,7 +1,7 @@
 {
   "place_id": "ORLN",
   "invader_id": "ORLN_07",
-  "city": "Orléans",
+  "city": "Orl\u00e9ans",
   "country": null,
   "status": "confirmed",
   "points": 50,
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/orln_07/",
       "label": "Instagram hashtag for ORLN_07"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for ORLN_07",
+      "file_path": "original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/ORLN/ORLN_07/images/ORLN_07-mars2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/ORLN/ORLN_07/images/original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451-r2c1-crop.png",
+      "title": "original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451-r2c1-crop.png",
+      "source_file": "original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/ORLN/ORLN_07/images/original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451-r2c1-crop-label-masked.png",
+      "title": "original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451-r2c1-crop-label-masked.png",
+      "source_file": "original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451.png",
+      "derived_from": "references/ORLN/ORLN_07/images/original_89e2113b-c71e-4b45-af4c-d1fb0b2db164_Screenshot_20260407-125451-r2c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            88,
+            90,
+            92
+          ]
+        }
+      }
     }
   ]
 }
