@@ -7,7 +7,7 @@
   "points": 40,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "26/01/2018",
-  "last_known_state": "Détruit !",
+  "last_known_state": "D\u00e9truit !",
   "last_seen_source": "mai 2018 (flash)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BT/BT_11-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bt_11/",
       "label": "Instagram hashtag for BT_11"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BT_11",
+      "file_path": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710.png"
     }
   ],
   "images": [
@@ -29,6 +34,37 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/BT/BT_11/images/BT_11-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BT/BT_11/images/original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r1c2-crop.png",
+      "title": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r1c2-crop.png",
+      "source_file": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BT/BT_11/images/original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r1c2-crop-label-masked.png",
+      "title": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r1c2-crop-label-masked.png",
+      "source_file": "original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710.png",
+      "derived_from": "references/BT/BT_11/images/original_3e030e40-1b2d-4cbb-b877-fac7c5762967_Screenshot_20260407-125710-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            22,
+            33,
+            45
+          ]
+        }
+      }
     }
   ]
 }
