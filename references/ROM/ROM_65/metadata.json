@@ -25,6 +25,16 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for ROM_65",
       "file_path": "Screenshot_20250222-150655.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for ROM_65",
+      "file_path": "original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for ROM_65",
+      "file_path": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png"
     }
   ],
   "images": [
@@ -48,6 +58,68 @@
       "contains_invader": true,
       "local_path": "references/ROM/ROM_65/images/Screenshot_20250222-150655-crop.png",
       "title": "Screenshot_20250222-150655-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_65/images/original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955-r1c2-crop.png",
+      "title": "original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955-r1c2-crop.png",
+      "source_file": "original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_65/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r3c2-crop.png",
+      "title": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r3c2-crop.png",
+      "source_file": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_65/images/original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955-r1c2-crop-label-masked.png",
+      "title": "original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955-r1c2-crop-label-masked.png",
+      "source_file": "original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955.png",
+      "derived_from": "references/ROM/ROM_65/images/original_ad9eb1c3-bad0-4064-8601-697b19762832_Screenshot_20260407-124955-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            79,
+            71,
+            62
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_65/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r3c2-crop-label-masked.png",
+      "title": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r3c2-crop-label-masked.png",
+      "source_file": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png",
+      "derived_from": "references/ROM/ROM_65/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r3c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            79,
+            71,
+            62
+          ]
+        }
+      }
     }
   ]
 }

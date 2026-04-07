@@ -7,8 +7,8 @@
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "07/07/2010",
-  "last_known_state": "Détruit !",
-  "last_seen_source": "août 2024 (report)",
+  "last_known_state": "D\u00e9truit !",
+  "last_seen_source": "ao\u00fbt 2024 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/ROM/ROM_01-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rom_01/",
       "label": "Instagram hashtag for ROM_01"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for ROM_01",
+      "file_path": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png"
     }
   ],
   "images": [
@@ -44,11 +49,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/ROM/ROM_01-aout2024.jpg",
       "preview_url": "https://www.invader-spotter.art/images/ROM/ROM_01-aout2024.jpg",
-      "caption": "photo août 2024 (@MLG 9EME)",
+      "caption": "photo ao\u00fbt 2024 (@MLG 9EME)",
       "title": "ROM_01-aout2024",
       "role": "status-empty-scene",
       "contains_invader": false,
       "local_path": "references/ROM/ROM_01/images/ROM_01-aout2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_01/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r4c3-crop.png",
+      "title": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r4c3-crop.png",
+      "source_file": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_01/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r4c3-crop-label-masked.png",
+      "title": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r4c3-crop-label-masked.png",
+      "source_file": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png",
+      "derived_from": "references/ROM/ROM_01/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r4c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            33,
+            41,
+            44
+          ]
+        }
+      }
     }
   ]
 }

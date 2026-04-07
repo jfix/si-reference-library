@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rom_60/",
       "label": "Instagram hashtag for ROM_60"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for ROM_60",
+      "file_path": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png"
     }
   ],
   "images": [
@@ -29,6 +34,37 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/ROM/ROM_60/images/ROM_60-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_60/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r1c3-crop.png",
+      "title": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r1c3-crop.png",
+      "source_file": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/ROM/ROM_60/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r1c3-crop-label-masked.png",
+      "title": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r1c3-crop-label-masked.png",
+      "source_file": "original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946.png",
+      "derived_from": "references/ROM/ROM_60/images/original_fbbc89f1-de99-4551-9757-af7560da363b_Screenshot_20260407-124946-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 299,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            38,
+            30,
+            22
+          ]
+        }
+      }
     }
   ]
 }
