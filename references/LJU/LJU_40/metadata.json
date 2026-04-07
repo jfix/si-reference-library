@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/lju_40/",
       "label": "Instagram hashtag for LJU_40"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LJU_40",
+      "file_path": "original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LJU_40",
+      "file_path": "original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435.png"
     }
   ],
   "images": [
@@ -29,6 +39,68 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/LJU/LJU_40/images/LJU_40-grosplan.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_40/images/original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442-r3c2-crop.png",
+      "title": "original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442-r3c2-crop.png",
+      "source_file": "original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_40/images/original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435-r4c2-crop.png",
+      "title": "original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435-r4c2-crop.png",
+      "source_file": "original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_40/images/original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442-r3c2-crop-label-masked.png",
+      "title": "original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442-r3c2-crop-label-masked.png",
+      "source_file": "original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442.png",
+      "derived_from": "references/LJU/LJU_40/images/original_88d34dc8-1854-496d-9cbd-7abb0a667234_Screenshot_20260407-124442-r3c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            89,
+            82,
+            76
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LJU/LJU_40/images/original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435-r4c2-crop-label-masked.png",
+      "title": "original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435-r4c2-crop-label-masked.png",
+      "source_file": "original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435.png",
+      "derived_from": "references/LJU/LJU_40/images/original_94882813-3528-452d-9cd6-3634fab2b57b_Screenshot_20260407-124435-r4c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 286,
+          "width": 153,
+          "height": 63,
+          "fill": [
+            89,
+            82,
+            76
+          ]
+        }
+      }
     }
   ]
 }
