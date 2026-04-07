@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ldn_166/",
       "label": "Instagram hashtag for LDN_166"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LDN_166",
+      "file_path": "original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LDN/LDN_166/images/LDN_166-octobre2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_166/images/original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129-r4c3-crop.png",
+      "title": "original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129-r4c3-crop.png",
+      "source_file": "original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_166/images/original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129-r4c3-crop-label-masked.png",
+      "title": "original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129-r4c3-crop-label-masked.png",
+      "source_file": "original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129.png",
+      "derived_from": "references/LDN/LDN_166/images/original_07487056-e784-45c3-828b-3ec3ecbe3d2e_Screenshot_20260407-130129-r4c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            93,
+            95,
+            93
+          ]
+        }
+      }
     }
   ]
 }

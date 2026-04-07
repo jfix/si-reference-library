@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "08/05/2013",
   "last_known_state": "OK",
-  "last_seen_source": "août 2023 (report)",
+  "last_seen_source": "ao\u00fbt 2023 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_135-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ldn_135/",
       "label": "Instagram hashtag for LDN_135"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LDN_135",
+      "file_path": "original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LDN/LDN_135/images/LDN_135-mai2017.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_135/images/original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121-r1c2-crop.png",
+      "title": "original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121-r1c2-crop.png",
+      "source_file": "original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_135/images/original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121-r1c2-crop-label-masked.png",
+      "title": "original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121-r1c2-crop-label-masked.png",
+      "source_file": "original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121.png",
+      "derived_from": "references/LDN/LDN_135/images/original_66709fa4-a139-44ea-8ee8-34248ccf2edc_Screenshot_20260407-130121-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 292,
+          "width": 153,
+          "height": 65,
+          "fill": [
+            84,
+            82,
+            78
+          ]
+        }
+      }
     }
   ]
 }

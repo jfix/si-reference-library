@@ -7,7 +7,7 @@
   "points": 30,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "15/04/2006",
-  "last_known_state": "Dégradé",
+  "last_known_state": "D\u00e9grad\u00e9",
   "last_seen_source": "mai 2025",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_067-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ldn_67/",
       "label": "Instagram hashtag for LDN_67"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LDN_67",
+      "file_path": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053.png"
     }
   ],
   "images": [
@@ -49,6 +54,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LDN/LDN_67/images/LDN_067-mai2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_67/images/original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r4c3-crop.png",
+      "title": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r4c3-crop.png",
+      "source_file": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_67/images/original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r4c3-crop-label-masked.png",
+      "title": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r4c3-crop-label-masked.png",
+      "source_file": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053.png",
+      "derived_from": "references/LDN/LDN_67/images/original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r4c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 297,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            11,
+            9,
+            8
+          ]
+        }
+      }
     }
   ]
 }

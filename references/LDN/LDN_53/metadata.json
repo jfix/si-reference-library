@@ -7,7 +7,7 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "03/05/2003",
-  "last_known_state": "Un peu dégradé",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
   "last_seen_source": "mai 2025",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/LDN/LDN_053-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/ldn_53/",
       "label": "Instagram hashtag for LDN_53"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for LDN_53",
+      "file_path": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053.png"
     }
   ],
   "images": [
@@ -49,6 +54,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LDN/LDN_53/images/LDN_053-mai2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_53/images/original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r2c2-crop.png",
+      "title": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r2c2-crop.png",
+      "source_file": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_53/images/original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r2c2-crop-label-masked.png",
+      "title": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r2c2-crop-label-masked.png",
+      "source_file": "original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053.png",
+      "derived_from": "references/LDN/LDN_53/images/original_00adfd04-53de-4253-9f3f-31a20a12555c_Screenshot_20260407-130053-r2c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 297,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            20,
+            22,
+            26
+          ]
+        }
+      }
     }
   ]
 }
