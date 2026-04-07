@@ -7,7 +7,7 @@
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "23/12/2007",
-  "last_known_state": "Un peu dégradé",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
   "last_seen_source": "octobre 2023 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_06-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bbo_06/",
       "label": "Instagram hashtag for BBO_06"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BBO_06",
+      "file_path": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557.png"
     }
   ],
   "images": [
@@ -49,6 +54,42 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BBO/BBO_06/images/BBO_06-octobre2023.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_06/images/original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r1c2-manual-crop.png",
+      "title": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r1c2-manual-crop.png",
+      "source_file": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "BB0_06",
+        "correction_index": 164
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_06/images/original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r1c2-manual-crop-label-masked.png",
+      "title": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r1c2-manual-crop-label-masked.png",
+      "source_file": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557.png",
+      "derived_from": "references/BBO/BBO_06/images/original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r1c2-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            43,
+            44,
+            44
+          ]
+        }
+      }
     }
   ]
 }

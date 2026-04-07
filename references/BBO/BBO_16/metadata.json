@@ -7,7 +7,7 @@
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "26/12/2007",
-  "last_known_state": "Détruit !",
+  "last_known_state": "D\u00e9truit !",
   "last_seen_source": "juillet 2020 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/BBO/BBO_16-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/bbo_16/",
       "label": "Instagram hashtag for BBO_16"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for BBO_16",
+      "file_path": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557.png"
     }
   ],
   "images": [
@@ -34,11 +39,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/BBO/BBO_16-novembre2017.jpg",
       "preview_url": "https://www.invader-spotter.art/images/BBO/BBO_16-novembre2017.jpg",
-      "caption": "photo novembre 2017 (caché par un échafaudage)",
+      "caption": "photo novembre 2017 (cach\u00e9 par un \u00e9chafaudage)",
       "title": "BBO_16-novembre2017",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BBO/BBO_16/images/BBO_16-novembre2017.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_16/images/original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r2c3-crop.png",
+      "title": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r2c3-crop.png",
+      "source_file": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/BBO/BBO_16/images/original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r2c3-crop-label-masked.png",
+      "title": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r2c3-crop-label-masked.png",
+      "source_file": "original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557.png",
+      "derived_from": "references/BBO/BBO_16/images/original_b88a7d5f-648f-419e-b0d6-234cc6aae9f8_Screenshot_20260407-125557-r2c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            40,
+            38,
+            38
+          ]
+        }
+      }
     }
   ]
 }
