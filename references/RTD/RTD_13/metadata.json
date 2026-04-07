@@ -7,8 +7,8 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "01/11/2001",
-  "last_known_state": "Un peu dégradé",
-  "last_seen_source": "février 2025 (FlashInvaders)",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
+  "last_seen_source": "f\u00e9vrier 2025 (FlashInvaders)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/RTD/RTD_13-grosplan.png",
   "sources": [
     {
@@ -25,6 +25,16 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for RTD_13",
       "file_path": "Screenshot_20241228-150742.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for RTD_13",
+      "file_path": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for RTD_13",
+      "file_path": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png"
     }
   ],
   "images": [
@@ -51,6 +61,68 @@
       "contains_invader": true,
       "local_path": "references/RTD/RTD_13/images/Screenshot_20241228-150742-crop.png",
       "title": "Screenshot_20241228-150742-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_13/images/original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r1c3-crop.png",
+      "title": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r1c3-crop.png",
+      "source_file": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_13/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r3c3-crop.png",
+      "title": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r3c3-crop.png",
+      "source_file": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_13/images/original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r1c3-crop-label-masked.png",
+      "title": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r1c3-crop-label-masked.png",
+      "source_file": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912.png",
+      "derived_from": "references/RTD/RTD_13/images/original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r1c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            51,
+            46,
+            42
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_13/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r3c3-crop-label-masked.png",
+      "title": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r3c3-crop-label-masked.png",
+      "source_file": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png",
+      "derived_from": "references/RTD/RTD_13/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r3c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            51,
+            46,
+            42
+          ]
+        }
+      }
     }
   ]
 }

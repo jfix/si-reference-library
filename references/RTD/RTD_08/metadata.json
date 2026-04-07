@@ -7,8 +7,8 @@
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "01/11/2001",
-  "last_known_state": "Un peu dégradé",
-  "last_seen_source": "août 2022 (report)",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
+  "last_seen_source": "ao\u00fbt 2022 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/RTD/RTD_08-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/rtd_08/",
       "label": "Instagram hashtag for RTD_08"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for RTD_08",
+      "file_path": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png"
     }
   ],
   "images": [
@@ -44,11 +49,47 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/RTD/RTD_08-aout2022.jpg",
       "preview_url": "https://www.invader-spotter.art/images/RTD/RTD_08-aout2022.jpg",
-      "caption": "photo août 2022 (@Vicente)",
+      "caption": "photo ao\u00fbt 2022 (@Vicente)",
       "title": "RTD_08-aout2022",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/RTD/RTD_08/images/RTD_08-aout2022.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_08/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r2c2-manual-crop.png",
+      "title": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r2c2-manual-crop.png",
+      "source_file": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "RTD. _u8",
+        "correction_index": 160
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_08/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r2c2-manual-crop-label-masked.png",
+      "title": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r2c2-manual-crop-label-masked.png",
+      "source_file": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png",
+      "derived_from": "references/RTD/RTD_08/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r2c2-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            91,
+            90,
+            88
+          ]
+        }
+      }
     }
   ]
 }

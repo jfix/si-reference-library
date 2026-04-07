@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "01/11/2001",
   "last_known_state": "Non visible",
-  "last_seen_source": "août 2025 (report)",
+  "last_seen_source": "ao\u00fbt 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/RTD/RTD_14-grosplan.png",
   "sources": [
     {
@@ -25,6 +25,16 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for RTD_14",
       "file_path": "Screenshot_20241228-125408.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for RTD_14",
+      "file_path": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for RTD_14",
+      "file_path": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png"
     }
   ],
   "images": [
@@ -49,7 +59,7 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/RTD/RTD_14-aout2025.jpg",
       "preview_url": "https://www.invader-spotter.art/images/RTD/RTD_14-aout2025.jpg",
-      "caption": "photo août 2025 (@TD23)",
+      "caption": "photo ao\u00fbt 2025 (@TD23)",
       "title": "RTD_14-aout2025",
       "role": "reference",
       "contains_invader": true,
@@ -61,6 +71,68 @@
       "contains_invader": true,
       "local_path": "references/RTD/RTD_14/images/Screenshot_20241228-125408-crop.png",
       "title": "Screenshot_20241228-125408-crop.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_14/images/original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r2c1-crop.png",
+      "title": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r2c1-crop.png",
+      "source_file": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_14/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r4c1-crop.png",
+      "title": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r4c1-crop.png",
+      "source_file": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_14/images/original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r2c1-crop-label-masked.png",
+      "title": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r2c1-crop-label-masked.png",
+      "source_file": "original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912.png",
+      "derived_from": "references/RTD/RTD_14/images/original_1fdbf2f9-ca7d-4dd9-8331-92e70003fa8b_Screenshot_20260407-124912-r2c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            84,
+            83,
+            83
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/RTD/RTD_14/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r4c1-crop-label-masked.png",
+      "title": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r4c1-crop-label-masked.png",
+      "source_file": "original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907.png",
+      "derived_from": "references/RTD/RTD_14/images/original_af525d0b-87a4-4222-9ec7-c47b4b7fe3cb_Screenshot_20260407-124907-r4c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            84,
+            83,
+            83
+          ]
+        }
+      }
     }
   ]
 }
