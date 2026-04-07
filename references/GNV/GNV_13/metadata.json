@@ -1,13 +1,13 @@
 {
   "place_id": "GNV",
   "invader_id": "GNV_13",
-  "city": "Genève",
+  "city": "Gen\u00e8ve",
   "country": null,
   "status": "confirmed",
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "20/09/2000",
-  "last_known_state": "Un peu dégradé",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
   "last_seen_source": "juillet 2021 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_13-grosplan.png",
   "sources": [
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/gnv_13/",
       "label": "Instagram hashtag for GNV_13"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GNV_13",
+      "file_path": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png"
     }
   ],
   "images": [
@@ -49,6 +54,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/GNV/GNV_13/images/GNV_13-juin2022.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_13/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r1c1-crop.png",
+      "title": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r1c1-crop.png",
+      "source_file": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_13/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r1c1-crop-label-masked.png",
+      "title": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r1c1-crop-label-masked.png",
+      "source_file": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png",
+      "derived_from": "references/GNV/GNV_13/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r1c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            53,
+            56,
+            58
+          ]
+        }
+      }
     }
   ]
 }

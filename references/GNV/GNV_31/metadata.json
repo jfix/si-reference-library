@@ -1,13 +1,13 @@
 {
   "place_id": "GNV",
   "invader_id": "GNV_31",
-  "city": "Genève",
+  "city": "Gen\u00e8ve",
   "country": null,
   "status": "confirmed",
   "points": 30,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "23/09/2000",
-  "last_known_state": "Détruit !",
+  "last_known_state": "D\u00e9truit !",
   "last_seen_source": "septembre 2024 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_31-grosplan.png",
   "sources": [
@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/gnv_31/",
       "label": "Instagram hashtag for GNV_31"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GNV_31",
+      "file_path": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GNV_31",
+      "file_path": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720.png"
     }
   ],
   "images": [
@@ -34,7 +44,7 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/GNV/GNV_31-aout2022.jpg",
       "preview_url": "https://www.invader-spotter.art/images/GNV/GNV_31-aout2022.jpg",
-      "caption": "photo août 2022 (@Flash)",
+      "caption": "photo ao\u00fbt 2022 (@Flash)",
       "title": "GNV_31-aout2022",
       "role": "reference",
       "contains_invader": true,
@@ -49,6 +59,73 @@
       "role": "status-empty-scene",
       "contains_invader": false,
       "local_path": "references/GNV/GNV_31/images/GNV_31-septembre2024.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_31/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c3-crop.png",
+      "title": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c3-crop.png",
+      "source_file": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_31/images/original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c3-manual-crop.png",
+      "title": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c3-manual-crop.png",
+      "source_file": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720.png",
+      "id_review": {
+        "method": "manual-correction",
+        "original_ocr": "GHU_31",
+        "correction_index": 58
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_31/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c3-crop-label-masked.png",
+      "title": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c3-crop-label-masked.png",
+      "source_file": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png",
+      "derived_from": "references/GNV/GNV_31/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c3-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 282,
+          "width": 154,
+          "height": 63,
+          "fill": [
+            14,
+            14,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_31/images/original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c3-manual-crop-label-masked.png",
+      "title": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c3-manual-crop-label-masked.png",
+      "source_file": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720.png",
+      "derived_from": "references/GNV/GNV_31/images/original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c3-manual-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            13,
+            14,
+            16
+          ]
+        }
+      }
     }
   ]
 }

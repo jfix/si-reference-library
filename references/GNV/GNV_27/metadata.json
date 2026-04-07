@@ -1,13 +1,13 @@
 {
   "place_id": "GNV",
   "invader_id": "GNV_27",
-  "city": "Genève",
+  "city": "Gen\u00e8ve",
   "country": null,
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "23/09/2000",
-  "last_known_state": "Dégradé",
+  "last_known_state": "D\u00e9grad\u00e9",
   "last_seen_source": "juin 2022 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/GNV/GNV_27-grosplan.png",
   "sources": [
@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/gnv_27/",
       "label": "Instagram hashtag for GNV_27"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GNV_27",
+      "file_path": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for GNV_27",
+      "file_path": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png"
     }
   ],
   "images": [
@@ -49,6 +59,68 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/GNV/GNV_27/images/GNV_27-juin2022.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_27/images/original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c1-crop.png",
+      "title": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c1-crop.png",
+      "source_file": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_27/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c1-crop.png",
+      "title": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c1-crop.png",
+      "source_file": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_27/images/original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c1-crop-label-masked.png",
+      "title": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c1-crop-label-masked.png",
+      "source_file": "original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720.png",
+      "derived_from": "references/GNV/GNV_27/images/original_4de449c9-f5c5-484f-8c01-ebdbcf9b3a56_Screenshot_20260407-124720-r1c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            17,
+            9,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/GNV/GNV_27/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c1-crop-label-masked.png",
+      "title": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c1-crop-label-masked.png",
+      "source_file": "original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717.png",
+      "derived_from": "references/GNV/GNV_27/images/original_aa7fcc5d-c446-4b4f-b0a8-8c1dea7ff54d_Screenshot_20260407-124717-r4c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 282,
+          "width": 154,
+          "height": 63,
+          "fill": [
+            29,
+            16,
+            9
+          ]
+        }
+      }
     }
   ]
 }
