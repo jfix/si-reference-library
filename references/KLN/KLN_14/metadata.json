@@ -1,14 +1,14 @@
 {
   "place_id": "KLN",
   "invader_id": "KLN_14",
-  "city": "Köln",
+  "city": "K\u00f6ln",
   "country": null,
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "12/02/2007",
-  "last_known_state": "Dégradé",
-  "last_seen_source": "février 2025 (report)",
+  "last_known_state": "D\u00e9grad\u00e9",
+  "last_seen_source": "f\u00e9vrier 2025 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/KLN/KLN_14-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,16 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/kln_14/",
       "label": "Instagram hashtag for KLN_14"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for KLN_14",
+      "file_path": "original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for KLN_14",
+      "file_path": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841.png"
     }
   ],
   "images": [
@@ -44,11 +54,73 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/KLN/KLN_14-fevrier2025.jpg",
       "preview_url": "https://www.invader-spotter.art/images/KLN/KLN_14-fevrier2025.jpg",
-      "caption": "photo février 2025 (@Béatrice Ladybug)",
+      "caption": "photo f\u00e9vrier 2025 (@B\u00e9atrice Ladybug)",
       "title": "KLN_14-fevrier2025",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/KLN/KLN_14/images/KLN_14-fevrier2025.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_14/images/original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835-r3c2-crop.png",
+      "title": "original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835-r3c2-crop.png",
+      "source_file": "original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_14/images/original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r1c2-crop.png",
+      "title": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r1c2-crop.png",
+      "source_file": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_14/images/original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835-r3c2-crop-label-masked.png",
+      "title": "original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835-r3c2-crop-label-masked.png",
+      "source_file": "original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835.png",
+      "derived_from": "references/KLN/KLN_14/images/original_08b68e4d-6eed-463f-8910-77e5d1bbe871_Screenshot_20260407-124835-r3c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 209,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            51,
+            41,
+            29
+          ]
+        }
+      }
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_14/images/original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r1c2-crop-label-masked.png",
+      "title": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r1c2-crop-label-masked.png",
+      "source_file": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841.png",
+      "derived_from": "references/KLN/KLN_14/images/original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r1c2-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 210,
+          "y": 296,
+          "width": 153,
+          "height": 66,
+          "fill": [
+            51,
+            41,
+            29
+          ]
+        }
+      }
     }
   ]
 }

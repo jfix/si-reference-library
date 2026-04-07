@@ -1,14 +1,14 @@
 {
   "place_id": "KLN",
   "invader_id": "KLN_19",
-  "city": "Köln",
+  "city": "K\u00f6ln",
   "country": null,
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "13/02/2007",
-  "last_known_state": "Un peu dégradé",
-  "last_seen_source": "février 2023 (report)",
+  "last_known_state": "Un peu d\u00e9grad\u00e9",
+  "last_seen_source": "f\u00e9vrier 2023 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/KLN/KLN_19-grosplan.png",
   "sources": [
     {
@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/kln_19/",
       "label": "Instagram hashtag for KLN_19"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for KLN_19",
+      "file_path": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841.png"
     }
   ],
   "images": [
@@ -44,11 +49,42 @@
       "type": "invader-spotter-photo",
       "url": "https://www.invader-spotter.art/photos/KLN/KLN_19-fevrier2023.jpg",
       "preview_url": "https://www.invader-spotter.art/images/KLN/KLN_19-fevrier2023.jpg",
-      "caption": "photo février 2023 (@JetBlack75)",
+      "caption": "photo f\u00e9vrier 2023 (@JetBlack75)",
       "title": "KLN_19-fevrier2023",
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/KLN/KLN_19/images/KLN_19-fevrier2023.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_19/images/original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r3c1-crop.png",
+      "title": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r3c1-crop.png",
+      "source_file": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/KLN/KLN_19/images/original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r3c1-crop-label-masked.png",
+      "title": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r3c1-crop-label-masked.png",
+      "source_file": "original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841.png",
+      "derived_from": "references/KLN/KLN_19/images/original_771d1944-7f68-4f33-9e3e-c09c36c7bfa6_Screenshot_20260407-124841-r3c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 211,
+          "y": 296,
+          "width": 154,
+          "height": 66,
+          "fill": [
+            33,
+            30,
+            26
+          ]
+        }
+      }
     }
   ]
 }
