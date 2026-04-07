@@ -20,6 +20,11 @@
       "type": "instagram-tag",
       "url": "https://www.instagram.com/explore/tags/anvr_02/",
       "label": "Instagram hashtag for ANVR_02"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "label": "Flash Invaders city list screenshot for ANVR_02",
+      "file_path": "original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652.png"
     }
   ],
   "images": [
@@ -39,6 +44,37 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/ANVR/ANVR_02/images/ANVR_02-mai2017.jpg"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference",
+      "contains_invader": true,
+      "local_path": "references/ANVR/ANVR_02/images/original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652-r1c1-crop.png",
+      "title": "original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652-r1c1-crop.png",
+      "source_file": "original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652.png"
+    },
+    {
+      "type": "flash-invaders-city-list-screenshot",
+      "role": "flash-city-list-reference-clean",
+      "contains_invader": true,
+      "local_path": "references/ANVR/ANVR_02/images/original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652-r1c1-crop-label-masked.png",
+      "title": "original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652-r1c1-crop-label-masked.png",
+      "source_file": "original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652.png",
+      "derived_from": "references/ANVR/ANVR_02/images/original_daaecaf6-77ac-4039-9bad-67ecaa104880_Screenshot_20260407-124652-r1c1-crop.png",
+      "processing": {
+        "method": "mask-lower-right-label",
+        "mask_rect": {
+          "x": 207,
+          "y": 306,
+          "width": 150,
+          "height": 68,
+          "fill": [
+            82,
+            78,
+            73
+          ]
+        }
+      }
     }
   ]
 }
