@@ -19,7 +19,14 @@ await main().catch((error) => {
 });
 
 async function main() {
-  await runCommand(process.execPath, [path.join(ROOT, 'scripts', 'scrape-cities.mjs')]);
+  const cityIndexResult = await runCommandWithRetries(process.execPath, [path.join(ROOT, 'scripts', 'scrape-cities.mjs')], {
+    retries: 2,
+    backoffMs: 2000,
+  });
+
+  if (!cityIndexResult.ok) {
+    throw new Error(`Failed to refresh city index: ${cityIndexResult.error}`);
+  }
 
   const cityIndex = await readJson(CITY_INDEX_PATH);
   const localCityStats = await scanLocalCityStats();

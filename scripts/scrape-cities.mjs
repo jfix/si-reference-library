@@ -7,13 +7,19 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const OUTPUT_PATH = path.join(ROOT, 'data', 'cities.json');
 const SOURCE_URL = 'https://www.invader-spotter.art/villes.php';
+const NAVIGATION_TIMEOUT_MS = 60_000;
+const NAVIGATION_RETRIES = 3;
 
 async function main() {
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
+  page.setDefaultNavigationTimeout(NAVIGATION_TIMEOUT_MS);
 
   try {
-    await page.goto(SOURCE_URL, { waitUntil: 'networkidle' });
+    await gotoWithRetries(page, SOURCE_URL, {
+      retries: NAVIGATION_RETRIES,
+      timeoutMs: NAVIGATION_TIMEOUT_MS,
+    });
 
     const cities = await page.evaluate((sourceUrl) => {
       const normalize = (value) => value.replace(/\s+/g, ' ').trim();
@@ -94,6 +100,31 @@ async function main() {
     await page.close();
     await browser.close();
   }
+}
+
+async function gotoWithRetries(page, url, options) {
+  const retries = options?.retries ?? 3;
+  const timeoutMs = options?.timeoutMs ?? 60_000;
+
+  for (let attempt = 1; attempt <= retries; attempt += 1) {
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: timeoutMs });
+      return;
+    } catch (error) {
+      const lastAttempt = attempt === retries;
+      const message = error instanceof Error ? error.message : String(error);
+      if (lastAttempt) {
+        throw error;
+      }
+
+      console.warn(`[warn] navigation attempt ${attempt}/${retries} failed: ${message}`);
+      await sleep(1000 * attempt);
+    }
+  }
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function dedupeCities(entries) {

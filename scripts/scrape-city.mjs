@@ -13,6 +13,8 @@ const CITY_OUTPUT_DIR = path.join(ROOT, 'data', 'cities');
 const PLACE_METADATA_PATH = path.join(ROOT, 'metadata', 'places.json');
 const REFERENCES_DIR = path.join(ROOT, 'references');
 const PAGE_SIZE = 50;
+const NAVIGATION_TIMEOUT_MS = 60_000;
+const NAVIGATION_RETRIES = 3;
 
 async function main() {
   const options = parseArgs(process.argv.slice(2));
@@ -24,6 +26,7 @@ async function main() {
 
   const browser = await chromium.launch({ headless: true });
   const page = await browser.newPage();
+  page.setDefaultNavigationTimeout(NAVIGATION_TIMEOUT_MS);
 
   try {
     const pages = [];
@@ -157,37 +160,51 @@ function parsePositiveInteger(value, flagName) {
 }
 
 async function fetchCityPage(page, code, pageNumber) {
-  await page.goto(CITY_INDEX_URL, { waitUntil: 'networkidle' });
-  await page.evaluate(
-    ({ cityCode, pageValue, pageSize }) => {
-      const form = document.forms.recherche ?? document.querySelector('form[name="recherche"]');
-      if (!form) {
-        throw new Error('City search form not found');
+  for (let attempt = 1; attempt <= NAVIGATION_RETRIES; attempt += 1) {
+    try {
+      await page.goto(CITY_INDEX_URL, { waitUntil: 'domcontentloaded', timeout: NAVIGATION_TIMEOUT_MS });
+      await page.evaluate(
+        ({ cityCode, pageValue, pageSize }) => {
+          const form = document.forms.recherche ?? document.querySelector('form[name="recherche"]');
+          if (!form) {
+            throw new Error('City search form not found');
+          }
+
+          const ensureHidden = (name, value) => {
+            let input = form.querySelector(`input[name="${name}"]`);
+            if (!input) {
+              input = document.createElement('input');
+              input.type = 'hidden';
+              input.name = name;
+              form.appendChild(input);
+            }
+            input.value = String(value);
+          };
+
+          ensureHidden('ville', cityCode);
+          ensureHidden('arron', '00');
+          ensureHidden('mode', 'lst');
+          ensureHidden('rang', String(pageSize));
+          ensureHidden('page', String(pageValue));
+          form.submit();
+        },
+        { cityCode: code, pageValue: pageNumber, pageSize: PAGE_SIZE },
+      );
+
+      await page.waitForURL((url) => url.href.includes('listing.php'), { timeout: NAVIGATION_TIMEOUT_MS });
+      await page.waitForLoadState('load');
+      break;
+    } catch (error) {
+      const lastAttempt = attempt === NAVIGATION_RETRIES;
+      const message = error instanceof Error ? error.message : String(error);
+      if (lastAttempt) {
+        throw error;
       }
 
-      const ensureHidden = (name, value) => {
-        let input = form.querySelector(`input[name="${name}"]`);
-        if (!input) {
-          input = document.createElement('input');
-          input.type = 'hidden';
-          input.name = name;
-          form.appendChild(input);
-        }
-        input.value = String(value);
-      };
-
-      ensureHidden('ville', cityCode);
-      ensureHidden('arron', '00');
-      ensureHidden('mode', 'lst');
-      ensureHidden('rang', String(pageSize));
-      ensureHidden('page', String(pageValue));
-      form.submit();
-    },
-    { cityCode: code, pageValue: pageNumber, pageSize: PAGE_SIZE },
-  );
-
-  await page.waitForURL((url) => url.href.includes('listing.php'));
-  await page.waitForLoadState('networkidle');
+      console.warn(`[warn] ${code} page ${pageNumber} navigation attempt ${attempt}/${NAVIGATION_RETRIES} failed: ${message}`);
+      await sleep(1000 * attempt);
+    }
+  }
 
   return page.evaluate(({ baseUrl }) => {
     const normalize = (value) => value.replace(/\s+/g, ' ').trim();
@@ -251,6 +268,10 @@ async function fetchCityPage(page, code, pageNumber) {
       invaders,
     };
   }, { baseUrl: BASE_URL });
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function dedupeInvaders(invaders) {
