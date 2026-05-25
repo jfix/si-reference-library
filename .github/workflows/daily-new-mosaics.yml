@@ -75,6 +75,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: jfix/si-image-wall
+          ref: main
           token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN || github.token }}
           path: si-image-wall
 
