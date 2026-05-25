@@ -1,8 +1,10 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { chromium } from 'playwright';
 
-const ROOT = '/Users/jakob/Projects/si-reference-library';
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.resolve(__dirname, '..');
 const BASE_URL = 'https://www.invader-spotter.art/';
 const CITY_INDEX_URL = new URL('villes.php', BASE_URL).href;
 const LISTING_URL = new URL('listing.php', BASE_URL).href;
@@ -10,7 +12,7 @@ const CITY_INDEX_PATH = path.join(ROOT, 'data', 'cities.json');
 const CITY_OUTPUT_DIR = path.join(ROOT, 'data', 'cities');
 const PLACE_METADATA_PATH = path.join(ROOT, 'metadata', 'places.json');
 const REFERENCES_DIR = path.join(ROOT, 'references');
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 50;
 
 async function main() {
   const options = parseArgs(process.argv.slice(2));
@@ -318,8 +320,10 @@ async function syncReferences({ cityData, placeEntry, downloadImages }) {
       if (downloadImages) {
         const filename = path.basename(new URL(invader.thumbnailUrl).pathname);
         const localPath = path.join(imagesDir, filename);
-        await downloadFile(invader.thumbnailUrl, localPath);
-        thumbnailRecord.local_path = path.relative(ROOT, localPath);
+        const downloaded = await tryDownloadFile(invader.thumbnailUrl, localPath, invader.invaderId, 'grosplan');
+        if (downloaded) {
+          thumbnailRecord.local_path = path.relative(ROOT, localPath);
+        }
       }
 
       images.push(thumbnailRecord);
@@ -343,8 +347,10 @@ async function syncReferences({ cityData, placeEntry, downloadImages }) {
       if (downloadImages) {
         const filename = path.basename(new URL(photo.fullUrl).pathname);
         const localPath = path.join(imagesDir, filename);
-        await downloadFile(photo.fullUrl, localPath);
-        imageRecord.local_path = path.relative(ROOT, localPath);
+        const downloaded = await tryDownloadFile(photo.fullUrl, localPath, invader.invaderId, 'photo');
+        if (downloaded) {
+          imageRecord.local_path = path.relative(ROOT, localPath);
+        }
       }
 
       images.push(imageRecord);
@@ -424,6 +430,17 @@ async function downloadFile(url, destinationPath) {
 
   const buffer = Buffer.from(await response.arrayBuffer());
   await fs.writeFile(destinationPath, buffer);
+}
+
+async function tryDownloadFile(url, destinationPath, invaderId, assetType) {
+  try {
+    await downloadFile(url, destinationPath);
+    return true;
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.warn(`[warn] ${invaderId} ${assetType} download skipped: ${url} (${message})`);
+    return false;
+  }
 }
 
 async function loadJson(filePath) {
