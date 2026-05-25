@@ -7,7 +7,9 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const REFERENCE_DIR = path.join(ROOT, 'references');
 const CITY_INDEX_PATH = path.join(ROOT, 'data', 'cities.json');
+const PLACE_METADATA_PATH = path.join(ROOT, 'metadata', 'places.json');
 const DEFAULT_REPORT_PATH = path.join(ROOT, 'tmp', 'daily-new-mosaics-report.json');
+const NEWS_DISCOVERY_PATH = path.join(ROOT, 'tmp', 'news-discovery-report.json');
 const PAGE_SIZE = 50;
 const DELTA_SAFETY_INVADERS = 20;
 
@@ -19,18 +21,43 @@ await main().catch((error) => {
 });
 
 async function main() {
-  const cityIndexResult = await runCommandWithRetries(process.execPath, [path.join(ROOT, 'scripts', 'scrape-cities.mjs')], {
-    retries: 2,
-    backoffMs: 2000,
-  });
+  const localCityStats = await scanLocalCityStats();
+  const placeMetadata = await readJson(PLACE_METADATA_PATH).catch(() => ({}));
 
-  if (!cityIndexResult.ok) {
-    throw new Error(`Failed to refresh city index: ${cityIndexResult.error}`);
+  let cityIndex = { cities: [] };
+  let candidateCities = [];
+  let discoveryMode = 'news';
+  let newsDiscovery = null;
+
+  if (!options.fullScan && !options.disableNewsDiscovery) {
+    newsDiscovery = await discoverCandidatesFromNews({
+      localCityStats,
+      placeMetadata,
+      maxDays: options.newsMaxDays,
+    });
+
+    if (newsDiscovery.ok) {
+      candidateCities = newsDiscovery.candidateCities;
+    } else {
+      discoveryMode = 'city-delta-fallback';
+      console.warn(`[warn] news discovery failed, falling back to city deltas: ${newsDiscovery.error}`);
+    }
   }
 
-  const cityIndex = await readJson(CITY_INDEX_PATH);
-  const localCityStats = await scanLocalCityStats();
-  const candidateCities = selectCandidateCities(cityIndex.cities ?? [], localCityStats, options.fullScan);
+  if (options.fullScan || options.disableNewsDiscovery || !newsDiscovery?.ok) {
+    const cityIndexResult = await runCommandWithRetries(process.execPath, [path.join(ROOT, 'scripts', 'scrape-cities.mjs')], {
+      retries: 2,
+      backoffMs: 2000,
+    });
+
+    if (!cityIndexResult.ok) {
+      throw new Error(`Failed to refresh city index: ${cityIndexResult.error}`);
+    }
+
+    cityIndex = await readJson(CITY_INDEX_PATH);
+    candidateCities = selectCandidateCities(cityIndex.cities ?? [], localCityStats, options.fullScan);
+    discoveryMode = options.fullScan ? 'full-scan' : 'city-delta';
+  }
 
   const cityDeltas = [];
   const newInvaders = [];
@@ -80,6 +107,7 @@ async function main() {
       delta: Math.max(0, (city.totalCount ?? 0) - before.size),
       scrape_plan: city.scrapePlan,
       new_invader_ids: added,
+      expected_from_news: city.expectedInvaderIds ?? [],
     });
 
     for (const invaderId of added) {
@@ -121,6 +149,9 @@ async function main() {
   const report = {
     generated_at: new Date().toISOString(),
     source: 'https://www.invader-spotter.art/',
+    discovery_mode: discoveryMode,
+    news_max_days: options.newsMaxDays,
+    news_discovery: newsDiscovery?.summary ?? null,
     full_scan: options.fullScan,
     scraped_city_count: (cityIndex.cities ?? []).length,
     candidate_city_count: candidateCities.length,
@@ -150,6 +181,8 @@ async function main() {
 function parseArgs(args) {
   const options = {
     fullScan: false,
+    disableNewsDiscovery: false,
+    newsMaxDays: 10,
     reportPath: DEFAULT_REPORT_PATH,
   };
 
@@ -157,6 +190,26 @@ function parseArgs(args) {
     const arg = args[index];
     if (arg === '--full-scan') {
       options.fullScan = true;
+      continue;
+    }
+
+    if (arg === '--disable-news-discovery') {
+      options.disableNewsDiscovery = true;
+      continue;
+    }
+
+    if (arg.startsWith('--news-max-days=')) {
+      options.newsMaxDays = parsePositiveInteger(arg.split('=')[1], '--news-max-days');
+      continue;
+    }
+
+    if (arg === '--news-max-days') {
+      const value = args[index + 1];
+      if (!value || value.startsWith('--')) {
+        throw new Error('--news-max-days requires a value');
+      }
+      options.newsMaxDays = parsePositiveInteger(value, '--news-max-days');
+      index += 1;
       continue;
     }
 
@@ -179,6 +232,141 @@ function parseArgs(args) {
   }
 
   return options;
+}
+
+function parsePositiveInteger(value, flagName) {
+  const parsed = Number.parseInt(value, 10);
+  if (!Number.isFinite(parsed) || parsed <= 0) {
+    throw new Error(`${flagName} must be a positive integer`);
+  }
+
+  return parsed;
+}
+
+async function discoverCandidatesFromNews({ localCityStats, placeMetadata, maxDays }) {
+  const discoveryResult = await runCommandWithRetries(
+    process.execPath,
+    [
+      path.join(ROOT, 'scripts', 'discover-new-mosaics-from-news.mjs'),
+      `--output-path=${NEWS_DISCOVERY_PATH}`,
+      `--max-days=${maxDays}`,
+    ],
+    {
+      retries: 1,
+      backoffMs: 1500,
+    },
+  );
+
+  if (!discoveryResult.ok) {
+    return {
+      ok: false,
+      error: discoveryResult.error,
+      summary: null,
+      candidateCities: [],
+    };
+  }
+
+  const newsReport = await readJson(NEWS_DISCOVERY_PATH);
+  const candidates = Array.isArray(newsReport.candidate_invaders) ? newsReport.candidate_invaders : [];
+  const missingInvaders = await filterMissingInvaders(candidates);
+
+  const byCity = new Map();
+  for (const entry of missingInvaders) {
+    const cityCode = entry.code ?? derivePlaceId(entry.invader_id);
+    if (!byCity.has(cityCode)) {
+      byCity.set(cityCode, []);
+    }
+    byCity.get(cityCode).push(entry);
+  }
+
+  const candidateCities = Array.from(byCity.entries())
+    .map(([code, entries]) => {
+      const invaderIds = entries
+        .map((entry) => entry.invader_id)
+        .filter((value) => /^[A-Z0-9]+_\d+$/.test(value));
+      const localStats = localCityStats.get(code) ?? buildEmptyCityStats();
+
+      return {
+        code,
+        city: placeMetadata[code]?.city ?? null,
+        totalCount: null,
+        localStats,
+        scrapePlan: buildNewsScrapePlan(invaderIds),
+        expectedInvaderIds: invaderIds.sort((left, right) => left.localeCompare(right)),
+      };
+    })
+    .sort((left, right) => {
+      const leftCount = left.expectedInvaderIds.length;
+      const rightCount = right.expectedInvaderIds.length;
+      return rightCount - leftCount || left.code.localeCompare(right.code);
+    });
+
+  return {
+    ok: true,
+    summary: {
+      report_path: relativePath(NEWS_DISCOVERY_PATH),
+      candidate_invader_count: candidates.length,
+      missing_invader_count: missingInvaders.length,
+      missing_city_count: candidateCities.length,
+    },
+    candidateCities,
+  };
+}
+
+async function filterMissingInvaders(entries) {
+  const localInvaderByCode = new Map();
+  const missing = [];
+
+  for (const entry of entries) {
+    const invaderId = String(entry?.invader_id ?? '').toUpperCase();
+    if (!/^[A-Z0-9]+_\d+$/.test(invaderId)) {
+      continue;
+    }
+
+    const code = derivePlaceId(invaderId);
+    if (!localInvaderByCode.has(code)) {
+      localInvaderByCode.set(code, await readInvaderIds(code));
+    }
+
+    const knownInvaders = localInvaderByCode.get(code);
+    if (!knownInvaders.has(invaderId)) {
+      missing.push({
+        ...entry,
+        invader_id: invaderId,
+        code,
+      });
+    }
+  }
+
+  return missing;
+}
+
+function buildNewsScrapePlan(invaderIds) {
+  const suffixes = invaderIds
+    .map(parseNumericSuffix)
+    .filter((value) => Number.isFinite(value));
+
+  if (suffixes.length === 0) {
+    return {
+      mode: 'news-full-city-fallback',
+      startPage: 1,
+      maxPages: null,
+    };
+  }
+
+  const minSuffix = Math.min(...suffixes);
+  const maxSuffix = Math.max(...suffixes);
+  const safeStartSuffix = Math.max(1, minSuffix - DELTA_SAFETY_INVADERS + 1);
+  const startPage = Math.floor((safeStartSuffix - 1) / PAGE_SIZE) + 1;
+  const coverage = maxSuffix - safeStartSuffix + 1;
+
+  return {
+    mode: 'news-tail-window',
+    startPage,
+    maxPages: Math.max(1, Math.ceil(coverage / PAGE_SIZE)),
+    min_expected_suffix: minSuffix,
+    max_expected_suffix: maxSuffix,
+  };
 }
 
 function selectCandidateCities(cities, localCityStats, fullScan) {

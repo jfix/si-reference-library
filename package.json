@@ -12,11 +12,14 @@
     "audit:library": "node scripts/audit-library.mjs",
     "build:library-index": "node scripts/build-library-index.mjs",
     "download:city-images": "node scripts/download-city-images.mjs",
+    "daily:new-mosaics": "node scripts/daily-new-mosaics.mjs",
+    "discover:news": "node scripts/discover-new-mosaics-from-news.mjs",
     "scrape:cities": "node scripts/scrape-cities.mjs",
     "scrape:city": "node scripts/scrape-city.mjs",
     "instagram:login": "node scripts/instagram-session.mjs login",
     "instagram:test": "node scripts/instagram-session.mjs test",
-    "instagram:scrape": "node scripts/instagram-scrape-tag.mjs"
+    "instagram:scrape": "node scripts/instagram-scrape-tag.mjs",
+    "notify:ntfy": "node scripts/send-ntfy.mjs"
   },
   "keywords": [
     "space-invaders",

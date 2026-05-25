@@ -97,7 +97,21 @@ Daily automation for new invaders:
 npm run daily:new-mosaics
 ```
 
-This refreshes the city index, scrapes only cities whose invader count has grown, syncs the new reference directories, and writes a report to `tmp/daily-new-mosaics-report.json`. The scheduled GitHub Action in `.github/workflows/daily-new-mosaics.yml` uploads the new grosplan images to R2, commits the updated reference tree back to the canonical repo, and sends an ntfy notification when something new is found.
+This first parses `news.php` and looks for recent green mosaic IDs (`a.ok`) to target only likely new additions, then scrapes only the impacted city tails. If news parsing fails, it falls back to the city-count delta strategy. The script writes a report to `tmp/daily-new-mosaics-report.json`.
+
+You can inspect the raw news parser output directly:
+
+```bash
+npm run discover:news -- --max-days=10
+```
+
+To force the old city-delta strategy:
+
+```bash
+npm run daily:new-mosaics -- --disable-news-discovery
+```
+
+The scheduled GitHub Action in `.github/workflows/daily-new-mosaics.yml` uploads the new grosplan images to R2, commits the updated reference tree back to the canonical repo, and sends an ntfy notification when something new is found.
 
 For a notification-only test run, use the workflow dispatch inputs `test_notification=true` and an override `ntfy_url` pointing at a disposable ntfy topic.
 
