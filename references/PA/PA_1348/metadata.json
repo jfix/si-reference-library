@@ -51,13 +51,6 @@
       "contains_invader": true,
       "local_path": "references/PA/PA_1348/images/Screenshot_20250301-185044-crop.png",
       "title": "Screenshot_20250301-185044-crop.png"
-    },
-    {
-      "type": "flash-invaders-screenshot",
-      "role": "flash-reference",
-      "contains_invader": true,
-      "local_path": "references/PA/PA_1348/images/Screenshot_20250301-185044-crop.png",
-      "title": "Screenshot_20250301-185044-crop.png"
     }
   ]
 }

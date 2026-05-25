@@ -25,11 +25,6 @@
       "type": "flash-invaders-screenshot",
       "label": "Flash screenshot for PA_759",
       "file_path": "Screenshot_20250310-123016.png"
-    },
-    {
-      "type": "flash-invaders-screenshot",
-      "label": "Flash screenshot for PA_759",
-      "file_path": "Screenshot_20250310-123055.png"
     }
   ],
   "images": [
@@ -59,20 +54,6 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_759/images/PA_0759-avril2025.jpg"
-    },
-    {
-      "type": "flash-invaders-screenshot",
-      "role": "flash-reference",
-      "contains_invader": true,
-      "local_path": "references/PA/PA_759/images/Screenshot_20250310-123016-crop.png",
-      "title": "Screenshot_20250310-123016-crop.png"
-    },
-    {
-      "type": "flash-invaders-screenshot",
-      "role": "flash-reference",
-      "contains_invader": true,
-      "local_path": "references/PA/PA_759/images/Screenshot_20250310-123016-crop.png",
-      "title": "Screenshot_20250310-123055-crop.png"
     },
     {
       "type": "flash-invaders-screenshot",
