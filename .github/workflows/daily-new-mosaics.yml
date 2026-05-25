@@ -1,114 +1,108 @@
 name: Daily Invader Spotter Sync
 
 on:
-  schedule:
-    - cron: '0 5 * * *'
-  workflow_dispatch:
-    inputs:
-      test_notification:
-        description: 'Run a notification-only test instead of the full sync'
-        required: false
-        type: boolean
-        default: false
-      ntfy_url:
-        description: 'Override ntfy endpoint for this run'
-        required: false
-        default: ''
-      ntfy_token:
-        description: 'Override ntfy token for this run'
-        required: false
-        default: ''
+    schedule:
+        - cron: "0 5 * * *"
+    workflow_dispatch:
+        inputs:
+            test_notification:
+                description: "Run a notification-only test instead of the full sync"
+                required: false
+                type: boolean
+                default: false
+            ntfy_url:
+                description: "Override ntfy endpoint for this run"
+                required: false
+                default: ""
+            ntfy_token:
+                description: "Override ntfy token for this run"
+                required: false
+                default: ""
 
 permissions:
-  contents: write
+    contents: write
 
 jobs:
-  sync-and-upload:
-    runs-on: ubuntu-latest
+    sync-and-upload:
+        runs-on: ubuntu-latest
 
-    env:
-      SI_REFERENCE_LIBRARY: ${{ github.workspace }}
-      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-      NTFY_URL: ${{ github.event.inputs.ntfy_url || secrets.NTFY_URL }}
-      NTFY_TOKEN: ${{ github.event.inputs.ntfy_token || secrets.NTFY_TOKEN }}
+        env:
+            SI_REFERENCE_LIBRARY: ${{ github.workspace }}
+            CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+            CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+            NTFY_URL: ${{ github.event.inputs.ntfy_url || secrets.NTFY_URL }}
+            NTFY_TOKEN: ${{ github.event.inputs.ntfy_token || secrets.NTFY_TOKEN }}
 
-    steps:
-      - name: Checkout reference library
-        uses: actions/checkout@v4
+        steps:
+            - name: Checkout reference library
+              uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 24
-          cache: npm
+            - name: Setup Node
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 24
+                  cache: npm
 
-      - name: Validate image wall repo token
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        run: |
-          if ! git ls-remote "https://x-access-token:${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}@github.com/jfix/si-image-wall.git" > /dev/null 2>&1; then
-            echo 'SI_IMAGE_WALL_REPO_TOKEN can see repo metadata but cannot fetch git refs.'
-            echo 'Ensure token owner has access to jfix/si-image-wall and token permissions include repository Contents (read or read/write).'
-            echo 'If this is an org, also authorize the token for SSO.'
-            exit 1
-          fi
+            - name: Validate image wall repo token
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: |
+                  git ls-remote "https://x-access-token:${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}@github.com/jfix/si-image-wall.git"
+                  - name: Checkout image wall repo
+                      if: ${{ github.event.inputs.test_notification != 'true' }}
+                      uses: actions/checkout@v4
+                      with:
+                      repository: jfix/si-image-wall
+                      ref: main
+                      token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
+                      path: si-image-wall
 
-      - name: Checkout image wall repo
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        uses: actions/checkout@v4
-        with:
-          repository: jfix/si-image-wall
-          ref: main
-          token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
-          path: si-image-wall
+            - name: Install reference-library dependencies
+              run: npm ci
 
-      - name: Install reference-library dependencies
-        run: npm ci
+            - name: Install Playwright Chromium
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: npx playwright install --with-deps chromium
 
-      - name: Install Playwright Chromium
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        run: npx playwright install --with-deps chromium
+            - name: Discover new mosaics
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: node scripts/daily-new-mosaics.mjs --report-path tmp/daily-new-mosaics-report.json
 
-      - name: Discover new mosaics
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        run: node scripts/daily-new-mosaics.mjs --report-path tmp/daily-new-mosaics-report.json
+            - name: Prepare notification test report
+              if: ${{ github.event.inputs.test_notification == 'true' }}
+              run: |
+                  mkdir -p tmp
+                  cat > tmp/daily-new-mosaics-report.json <<'JSON'
+                  {
+                    "new_invaders": [
+                      {
+                        "code": "TEST",
+                        "city": "Test City",
+                        "invader_id": "TEST_001"
+                      }
+                    ]
+                  }
+                  JSON
 
-      - name: Prepare notification test report
-        if: ${{ github.event.inputs.test_notification == 'true' }}
-        run: |
-          mkdir -p tmp
-          cat > tmp/daily-new-mosaics-report.json <<'JSON'
-          {
-            "new_invaders": [
-              {
-                "code": "TEST",
-                "city": "Test City",
-                "invader_id": "TEST_001"
-              }
-            ]
-          }
-          JSON
+            - name: Install image-wall dependencies
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              working-directory: si-image-wall
+              run: npm ci
 
-      - name: Install image-wall dependencies
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        working-directory: si-image-wall
-        run: npm ci
+            - name: Upload new grosplan images to R2
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: node si-image-wall/scripts/upload-ref-images.mjs --manifest tmp/daily-new-mosaics-report.json --skip-existing
 
-      - name: Upload new grosplan images to R2
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        run: node si-image-wall/scripts/upload-ref-images.mjs --manifest tmp/daily-new-mosaics-report.json --skip-existing
+            - name: Commit new reference-library changes
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: |
+                  if git diff --quiet -- references data/cities.json; then
+                    echo 'No reference-library changes to commit.'
+                    exit 0
+                  fi
 
-      - name: Commit new reference-library changes
-        if: ${{ github.event.inputs.test_notification != 'true' }}
-        run: |
-          if git diff --quiet -- references data/cities.json; then
-            echo 'No reference-library changes to commit.'
-            exit 0
-          fi
+                  git add references data/cities.json
+                  git -c user.name='github-actions[bot]' -c user.email='github-actions[bot]@users.noreply.github.com' commit -m 'chore: persist daily invader-spotter refs'
+                  git push origin HEAD:${{ github.ref_name }}
 
-          git add references data/cities.json
-          git -c user.name='github-actions[bot]' -c user.email='github-actions[bot]@users.noreply.github.com' commit -m 'chore: persist daily invader-spotter refs'
-          git push origin HEAD:${{ github.ref_name }}
-
-      - name: Send ntfy notification
-        run: node scripts/send-ntfy.mjs --report-path tmp/daily-new-mosaics-report.json
+            - name: Send ntfy notification
+              run: node scripts/send-ntfy.mjs --report-path tmp/daily-new-mosaics-report.json
