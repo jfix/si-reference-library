@@ -43,13 +43,27 @@ jobs:
           node-version: 24
           cache: npm
 
+      - name: Validate image wall repo token
+        if: ${{ github.event.inputs.test_notification != 'true' }}
+        run: |
+          status_code=$(curl -sS -o /dev/null -w '%{http_code}' \
+            -H 'Accept: application/vnd.github+json' \
+            -H 'Authorization: Bearer ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}' \
+            https://api.github.com/repos/jfix/si-image-wall)
+
+          echo "si-image-wall token access status: ${status_code}"
+          if [ "${status_code}" != "200" ]; then
+            echo 'SI_IMAGE_WALL_REPO_TOKEN cannot access jfix/si-image-wall. Check repo selection, owner access, and SSO authorization.'
+            exit 1
+          fi
+
       - name: Checkout image wall repo
         if: ${{ github.event.inputs.test_notification != 'true' }}
         uses: actions/checkout@v4
         with:
           repository: jfix/si-image-wall
           ref: main
-          token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN || github.token }}
+          token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
           path: si-image-wall
 
       - name: Install reference-library dependencies
