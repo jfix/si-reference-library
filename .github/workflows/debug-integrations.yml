@@ -1,0 +1,88 @@
+name: Debug Integrations
+
+on:
+  workflow_dispatch:
+    inputs:
+      check_image_wall:
+        description: "Run image-wall token and clone checks"
+        required: false
+        type: boolean
+        default: true
+      check_ntfy:
+        description: "Run ntfy notification check"
+        required: false
+        type: boolean
+        default: true
+      ntfy_url:
+        description: "Override ntfy endpoint for this debug run"
+        required: false
+        default: ""
+      ntfy_token:
+        description: "Override ntfy token for this debug run"
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    env:
+      SI_IMAGE_WALL_REPO_TOKEN: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
+      NTFY_URL: ${{ github.event.inputs.ntfy_url || secrets.NTFY_URL }}
+      NTFY_TOKEN: ${{ github.event.inputs.ntfy_token || secrets.NTFY_TOKEN }}
+
+    steps:
+      - name: Checkout reference library
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Show debug toggles
+        run: |
+          echo "check_image_wall=${{ github.event.inputs.check_image_wall }}"
+          echo "check_ntfy=${{ github.event.inputs.check_ntfy }}"
+
+      - name: Validate image-wall token and access
+        if: ${{ github.event.inputs.check_image_wall != 'false' }}
+        run: |
+          if [ -z "$SI_IMAGE_WALL_REPO_TOKEN" ]; then
+            echo "SI_IMAGE_WALL_REPO_TOKEN is empty or unset"
+            exit 1
+          fi
+
+          echo "Token is present"
+          echo "Checking remote refs with explicit extraheader override"
+          git -c "http.https://github.com/.extraheader=" ls-remote "https://x-access-token:${SI_IMAGE_WALL_REPO_TOKEN}@github.com/jfix/si-image-wall.git"
+
+      - name: Clone image-wall repo (debug)
+        if: ${{ github.event.inputs.check_image_wall != 'false' }}
+        run: |
+          rm -rf si-image-wall-debug
+          git -c "http.https://github.com/.extraheader=" clone --depth 1 --branch main "https://x-access-token:${SI_IMAGE_WALL_REPO_TOKEN}@github.com/jfix/si-image-wall.git" si-image-wall-debug
+          test -f si-image-wall-debug/package.json
+          echo "Clone succeeded"
+
+      - name: Prepare minimal report for ntfy
+        if: ${{ github.event.inputs.check_ntfy != 'false' }}
+        run: |
+          mkdir -p tmp
+          cat > tmp/debug-report.json <<'JSON'
+          {
+            "new_invaders": [
+              {
+                "invader_id": "TEST_001",
+                "city": "Debug City",
+                "code": "TEST"
+              }
+            ]
+          }
+          JSON
+
+      - name: Send ntfy debug notification
+        if: ${{ github.event.inputs.check_ntfy != 'false' }}
+        run: node scripts/send-ntfy.mjs --report-path tmp/debug-report.json
