@@ -46,6 +46,10 @@ jobs:
       - name: Install reference-library dependencies
         run: npm ci
 
+      - name: Install Playwright Chromium
+        if: ${{ github.event.inputs.test_notification != 'true' }}
+        run: npx playwright install --with-deps chromium
+
       - name: Discover new mosaics
         if: ${{ github.event.inputs.test_notification != 'true' }}
         run: node scripts/daily-new-mosaics.mjs --report-path tmp/daily-new-mosaics-report.json
