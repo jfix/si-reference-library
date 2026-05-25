@@ -47,14 +47,15 @@ jobs:
               if: ${{ github.event.inputs.test_notification != 'true' }}
               run: |
                   git ls-remote "https://x-access-token:${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}@github.com/jfix/si-image-wall.git"
-                  - name: Checkout image wall repo
-                      if: ${{ github.event.inputs.test_notification != 'true' }}
-                      uses: actions/checkout@v4
-                      with:
-                      repository: jfix/si-image-wall
-                      ref: main
-                      token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
-                      path: si-image-wall
+
+            - name: Checkout image wall repo
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              uses: actions/checkout@v4
+              with:
+                  repository: jfix/si-image-wall
+                  ref: main
+                  token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
+                  path: si-image-wall
 
             - name: Install reference-library dependencies
               run: npm ci
