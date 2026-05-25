@@ -27,13 +27,19 @@ async function main() {
     return;
   }
 
+  const ntfyUrl = normalizeNtfyUrl(options.ntfyUrl);
+  if (!ntfyUrl) {
+    console.log('NTFY_URL is invalid; skipping ntfy notification.');
+    return;
+  }
+
   const bodyLines = [
     `Found ${newInvaders.length} new mosaic${newInvaders.length === 1 ? '' : 's'} on invader-spotter.art.`,
     '',
     ...newInvaders.map((entry) => `${entry.invader_id} - ${entry.city ?? entry.code}`),
   ];
 
-  const response = await fetch(options.ntfyUrl, {
+  const response = await fetch(ntfyUrl, {
     method: 'POST',
     headers: {
       'Content-Type': 'text/plain; charset=utf-8',
@@ -49,6 +55,24 @@ async function main() {
   }
 
   console.log(`Sent ntfy notification for ${newInvaders.length} new mosaics.`);
+}
+
+function normalizeNtfyUrl(rawUrl) {
+  const value = (rawUrl ?? '').trim();
+  if (!value) {
+    return null;
+  }
+
+  const withScheme = /^https?:\/\//i.test(value) ? value : `https://${value}`;
+  try {
+    const url = new URL(withScheme);
+    if (!url.hostname) {
+      return null;
+    }
+    return url.toString();
+  } catch {
+    return null;
+  }
 }
 
 function parseArgs(args) {

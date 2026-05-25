@@ -94,9 +94,29 @@ jobs:
               working-directory: si-image-wall
               run: npm ci
 
+            - name: Validate Cloudflare credentials
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: |
+                  if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+                    echo 'CLOUDFLARE_API_TOKEN is empty or unset.'
+                    exit 1
+                  fi
+
+                  if [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+                    echo 'CLOUDFLARE_ACCOUNT_ID is empty or unset.'
+                    exit 1
+                  fi
+
             - name: Upload new grosplan images to R2
               if: ${{ github.event.inputs.test_notification != 'true' }}
-              run: node si-image-wall/scripts/upload-ref-images.mjs --manifest tmp/daily-new-mosaics-report.json --skip-existing
+              run: |
+                  set -o pipefail
+                  node si-image-wall/scripts/upload-ref-images.mjs --manifest tmp/daily-new-mosaics-report.json --skip-existing 2>&1 | tee tmp/upload-ref-images.log
+
+                  if rg -q '^FAIL ' tmp/upload-ref-images.log; then
+                    echo 'Detected one or more failed image uploads.'
+                    exit 1
+                  fi
 
             - name: Commit new reference-library changes
               if: ${{ github.event.inputs.test_notification != 'true' }}
@@ -111,4 +131,5 @@ jobs:
                   git push origin HEAD:${{ github.ref_name }}
 
             - name: Send ntfy notification
+              continue-on-error: true
               run: node scripts/send-ntfy.mjs --report-path tmp/daily-new-mosaics-report.json
