@@ -50,6 +50,13 @@ Each invader directory should contain a `metadata.json` file with:
 - Keep source attribution for every image.
 - Do not rename downloaded originals destructively; store the original file and record normalized metadata separately.
 
+## Project Tracking
+
+Project planning and status tracking for the reference-corpus automation work live in:
+
+- `docs/ref-corpus-automation-plan.md`
+- `docs/ref-corpus-status.md`
+
 ## Scraping
 
 First pass for the spotter site city index:
@@ -83,6 +90,14 @@ To additionally download the referenced spotter images into each invader directo
 ```bash
 npm run scrape:city -- AIX --sync-references --download-images
 ```
+
+Daily automation for new invaders:
+
+```bash
+npm run daily:new-mosaics
+```
+
+This refreshes the city index, scrapes only cities whose invader count has grown, syncs the new reference directories, and writes a report to `tmp/daily-new-mosaics-report.json`. The scheduled GitHub Action in `.github/workflows/daily-new-mosaics.yml` uploads the new grosplan images to R2, commits the updated reference tree back to the canonical repo, and sends an ntfy notification when something new is found.
 
 ## Instagram Session Probe
 
@@ -127,3 +142,11 @@ npm run audit:library
 This writes:
 
 - `data/audits/reference-library-audit.json`
+
+## Notifications
+
+To send an ntfy notification from a generated report:
+
+```bash
+npm run notify:ntfy -- --report-path tmp/daily-new-mosaics-report.json
+```

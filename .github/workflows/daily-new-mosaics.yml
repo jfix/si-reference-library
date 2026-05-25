@@ -1,0 +1,63 @@
+name: Daily Invader Spotter Sync
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-and-upload:
+    runs-on: ubuntu-latest
+
+    env:
+      SI_REFERENCE_LIBRARY: ${{ github.workspace }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      NTFY_URL: ${{ secrets.NTFY_URL }}
+      NTFY_TOKEN: ${{ secrets.NTFY_TOKEN }}
+
+    steps:
+      - name: Checkout reference library
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install reference-library dependencies
+        run: npm ci
+
+      - name: Discover new mosaics
+        run: node scripts/daily-new-mosaics.mjs --report-path tmp/daily-new-mosaics-report.json
+
+      - name: Checkout image wall repo
+        uses: actions/checkout@v4
+        with:
+          repository: jfix/si-image-wall
+          path: si-image-wall
+
+      - name: Install image-wall dependencies
+        working-directory: si-image-wall
+        run: npm ci
+
+      - name: Upload new grosplan images to R2
+        run: node si-image-wall/scripts/upload-ref-images.mjs --manifest tmp/daily-new-mosaics-report.json --skip-existing
+
+      - name: Commit new reference-library changes
+        run: |
+          if git diff --quiet -- references data/cities.json; then
+            echo 'No reference-library changes to commit.'
+            exit 0
+          fi
+
+          git add references data/cities.json
+          git -c user.name='github-actions[bot]' -c user.email='github-actions[bot]@users.noreply.github.com' commit -m 'chore: persist daily invader-spotter refs'
+          git push origin HEAD:${{ github.ref_name }}
+
+      - name: Send ntfy notification
+        run: node scripts/send-ntfy.mjs --report-path tmp/daily-new-mosaics-report.json
