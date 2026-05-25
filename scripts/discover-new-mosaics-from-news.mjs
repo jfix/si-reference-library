@@ -1,14 +1,13 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { chromium } from 'playwright';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const SOURCE_URL = 'https://www.invader-spotter.art/news.php';
 const DEFAULT_OUTPUT_PATH = path.join(ROOT, 'tmp', 'news-discovery-report.json');
-const NAVIGATION_TIMEOUT_MS = 60_000;
-const NAVIGATION_RETRIES = 3;
+const FETCH_TIMEOUT_MS = 60_000;
+const FETCH_RETRIES = 3;
 
 const options = parseArgs(process.argv.slice(2));
 
@@ -18,64 +17,12 @@ await main().catch((error) => {
 });
 
 async function main() {
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
-  page.setDefaultNavigationTimeout(NAVIGATION_TIMEOUT_MS);
+  const html = await fetchTextWithRetries(SOURCE_URL, {
+    retries: FETCH_RETRIES,
+    timeoutMs: FETCH_TIMEOUT_MS,
+  });
 
-  try {
-    await gotoWithRetries(page, SOURCE_URL, {
-      retries: NAVIGATION_RETRIES,
-      timeoutMs: NAVIGATION_TIMEOUT_MS,
-    });
-
-    const rawEvents = await page.evaluate(() => {
-      const monthSections = Array.from(document.querySelectorAll('div[id^="mois"]'));
-      const events = [];
-
-      const normalizeSpace = (value) => value.replace(/\s+/g, ' ').trim();
-
-      for (const monthSection of monthSections) {
-        const id = monthSection.id ?? '';
-        const match = id.match(/^mois(\d{4})(\d{2})$/);
-        if (!match) {
-          continue;
-        }
-
-        const year = Number.parseInt(match[1], 10);
-        const month = Number.parseInt(match[2], 10);
-        let currentDay = null;
-
-        for (const paragraph of monthSection.querySelectorAll('p.news')) {
-          const text = normalizeSpace(paragraph.textContent ?? '');
-          const dayMatch = text.match(/^(\d{1,2})\s*:/);
-          if (dayMatch) {
-            currentDay = Number.parseInt(dayMatch[1], 10);
-          }
-
-          if (!currentDay) {
-            continue;
-          }
-
-          for (const anchor of paragraph.querySelectorAll('a[href^="javascript:lienm("]')) {
-            const invaderId = normalizeSpace(anchor.textContent ?? '').toUpperCase();
-            if (!/^[A-Z0-9]+_\d+$/.test(invaderId)) {
-              continue;
-            }
-
-            events.push({
-              invader_id: invaderId,
-              year,
-              month,
-              day: currentDay,
-              class_name: normalizeSpace(anchor.className || ''),
-              paragraph_text: text,
-            });
-          }
-        }
-      }
-
-      return events;
-    });
+  const rawEvents = parseNewsEvents(html);
 
     const cutoffEpochMs = Date.now() - (options.maxDays * 24 * 60 * 60 * 1000);
     const recentEvents = rawEvents
@@ -115,17 +62,13 @@ async function main() {
     await fs.mkdir(path.dirname(options.outputPath), { recursive: true });
     await fs.writeFile(options.outputPath, `${JSON.stringify(report, null, 2)}\n`, 'utf8');
 
-    console.log(JSON.stringify({
-      report: options.outputPath,
-      max_days: options.maxDays,
-      recent_event_count: report.recent_event_count,
-      candidate_invader_count: report.candidate_invader_count,
-      candidate_invaders: report.candidate_invaders.map((entry) => entry.invader_id),
-    }, null, 2));
-  } finally {
-    await page.close();
-    await browser.close();
-  }
+  console.log(JSON.stringify({
+    report: options.outputPath,
+    max_days: options.maxDays,
+    recent_event_count: report.recent_event_count,
+    candidate_invader_count: report.candidate_invader_count,
+    candidate_invaders: report.candidate_invaders.map((entry) => entry.invader_id),
+  }, null, 2));
 }
 
 function parseArgs(args) {
@@ -234,14 +177,83 @@ function toIsoDate(year, month, day) {
   return `${yyyy}-${mm}-${dd}`;
 }
 
-async function gotoWithRetries(page, url, options) {
+function parseNewsEvents(html) {
+  const monthSectionPattern = /<div\s+id='mois(\d{4})(\d{2})'>([\s\S]*?)<\/div>/gi;
+  const paragraphPattern = /<p\s+class='news'>([\s\S]*?)<\/p>/gi;
+  const linkPattern = /<a\s+[^>]*href='javascript:lienm\([^']+\);'[^>]*>([^<]+)<\/a>/gi;
+
+  const events = [];
+  let monthMatch;
+
+  while ((monthMatch = monthSectionPattern.exec(html)) !== null) {
+    const year = Number.parseInt(monthMatch[1], 10);
+    const month = Number.parseInt(monthMatch[2], 10);
+    const sectionHtml = monthMatch[3] ?? '';
+    let currentDay = null;
+    let paragraphMatch;
+
+    paragraphPattern.lastIndex = 0;
+    while ((paragraphMatch = paragraphPattern.exec(sectionHtml)) !== null) {
+      const paragraphHtml = paragraphMatch[1] ?? '';
+      const paragraphText = normalizeWhitespace(stripTags(decodeHtml(paragraphHtml)));
+      const dayMatch = paragraphText.match(/^(\d{1,2})\s*:/);
+      if (dayMatch) {
+        currentDay = Number.parseInt(dayMatch[1], 10);
+      }
+
+      if (!currentDay) {
+        continue;
+      }
+
+      let linkMatch;
+      linkPattern.lastIndex = 0;
+      while ((linkMatch = linkPattern.exec(paragraphHtml)) !== null) {
+        const fullAnchor = linkMatch[0] ?? '';
+        const idText = normalizeWhitespace(decodeHtml(linkMatch[1] ?? '')).toUpperCase();
+        if (!/^[A-Z0-9]+_\d+$/.test(idText)) {
+          continue;
+        }
+
+        const classMatch = fullAnchor.match(/class='([^']*)'/i);
+        const className = normalizeWhitespace(classMatch?.[1] ?? '');
+
+        events.push({
+          invader_id: idText,
+          year,
+          month,
+          day: currentDay,
+          class_name: className,
+          paragraph_text: paragraphText,
+        });
+      }
+    }
+  }
+
+  return events;
+}
+
+async function fetchTextWithRetries(url, options = {}) {
   const retries = options?.retries ?? 3;
   const timeoutMs = options?.timeoutMs ?? 60_000;
 
   for (let attempt = 1; attempt <= retries; attempt += 1) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
+
     try {
-      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: timeoutMs });
-      return;
+      const response = await fetch(url, {
+        signal: controller.signal,
+        headers: {
+          'user-agent':
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      return await response.text();
     } catch (error) {
       const lastAttempt = attempt === retries;
       const message = error instanceof Error ? error.message : String(error);
@@ -249,10 +261,47 @@ async function gotoWithRetries(page, url, options) {
         throw error;
       }
 
-      console.warn(`[warn] news navigation attempt ${attempt}/${retries} failed: ${message}`);
+      console.warn(`[warn] news fetch attempt ${attempt}/${retries} failed: ${message}`);
       await sleep(1000 * attempt);
+    } finally {
+      clearTimeout(timeoutId);
     }
   }
+}
+
+function stripTags(value) {
+  return String(value).replace(/<[^>]*>/g, ' ');
+}
+
+function normalizeWhitespace(value) {
+  return String(value).replace(/\s+/g, ' ').trim();
+}
+
+function decodeHtml(value) {
+  const named = {
+    '&nbsp;': ' ',
+    '&amp;': '&',
+    '&quot;': '"',
+    '&#39;': "'",
+    '&apos;': "'",
+    '&lt;': '<',
+    '&gt;': '>',
+    '&eacute;': 'e',
+    '&egrave;': 'e',
+    '&ecirc;': 'e',
+    '&agrave;': 'a',
+    '&acirc;': 'a',
+    '&uuml;': 'u',
+    '&ucirc;': 'u',
+    '&ocirc;': 'o',
+    '&iuml;': 'i',
+    '&ccedil;': 'c',
+  };
+
+  return String(value)
+    .replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number.parseInt(code, 10)))
+    .replace(/&#x([\da-fA-F]+);/g, (_, code) => String.fromCharCode(Number.parseInt(code, 16)))
+    .replace(/&[a-zA-Z#0-9]+;/g, (entity) => named[entity] ?? entity);
 }
 
 function sleep(ms) {
