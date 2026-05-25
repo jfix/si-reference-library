@@ -1,6 +1,6 @@
 # Reference Corpus Automation Status
 
-Last updated: 25 May 2026, 18:16
+Last updated: 26 May 2026, 00:16
 
 Status legend:
 
@@ -18,6 +18,10 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 - R2 upload path exists and the manifest upload step is wired.
 - Notifications exist.
 - Latest successful daily run found `0` new invaders and `0` failed cities.
+- Cross-repo image-wall auth in GitHub Actions is now stable.
+- Workflow now fails fast when Cloudflare credentials are missing.
+- Upload step now enforces failure detection from upload logs.
+- Notification handling now tolerates invalid ntfy URLs without crashing the job.
 - Trainer-side merged corpus refresh is not yet implemented.
 - Automated index deployment is not yet implemented.
 - Retraining orchestration is not yet implemented.
@@ -26,15 +30,15 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 
 | Area | Task | Repo | Status | Completed At | Updated At | Notes |
 |---|---|---|---|---|---|---|
-| Discovery | Daily invader-spotter scheduled job | si-reference-library | `in_progress` | — | 25 May 2026, 18:16 | GitHub Action drafted; still needs durable persistence strategy |
+| Discovery | Daily invader-spotter scheduled job | si-reference-library | `done` | 26 May 2026, 00:16 | 26 May 2026, 00:16 | Workflow is running successfully in GitHub Actions (latest green run: `26421836404`) |
 | Discovery | Count-first city gating | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Remote total is checked before a city scrape is attempted |
 | Discovery | Delta-tail scraping for contiguous cities | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Pagination now uses the confirmed 50-item page size |
 | Discovery | Retry and continue on flaky city failures | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Per-city retries and failure capture exist |
 | Discovery | Non-fatal broken photo downloads | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | 404 photo URLs no longer abort the whole city scrape |
 | Discovery | Daily manifest/report output | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | `tmp/daily-new-mosaics-report.json` |
 | Discovery | ntfy notification | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Implemented in `scripts/send-ntfy.mjs` |
-| Persistence | Durable persistence of newly discovered refs | si-reference-library | `in_progress` | — | 25 May 2026, 18:16 | Canonical repo chosen; workflow will commit and push `references/...` plus `data/cities.json` |
-| Serving | Upload new ref images to R2 | si-reference-library + si-image-wall | `done` | 25 May 2026, 16:26 | 25 May 2026, 16:26 | Upload script exists and manifest upload path is working locally |
+| Persistence | Durable persistence of newly discovered refs | si-reference-library | `in_progress` | — | 26 May 2026, 00:16 | Commit/push path is wired in CI; needs verification on a run with actual new refs |
+| Serving | Upload new ref images to R2 | si-reference-library + si-image-wall | `done` | 25 May 2026, 16:26 | 26 May 2026, 00:16 | CI credentials validation added; upload failure detection now enforced in workflow |
 | Corpus refresh | Consume reference-library state in trainer pipeline | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Needs automated trainer-side job |
 | Corpus refresh | Consume crowd-confirmed flash labels via export endpoint | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Documented, but not yet wired into a running job |
 | Corpus refresh | Merge scraped refs and confirmed flash labels | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Core missing piece |
@@ -43,6 +47,12 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 | Deployment | Reload inference with new indexes | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Modal upload/reload path exists, not automated for this flow |
 | Training | Periodic retraining with evaluation gate | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Should be weekly or threshold-based, not daily |
 | Orchestration | Connect discovery workflow to trainer refresh workflow | cross-repo | `not_started` | — | 25 May 2026, 18:16 | Likely `repository_dispatch` or trainer-side scheduled polling |
+
+## Technical Debt
+
+| Task | Repo | Status | Completed At | Updated At | Notes |
+|---|---|---|---|---|---|
+| Remove Playwright and city-wide scrape fallback from discovery pipeline | si-reference-library | `not_started` | — | 25 May 2026, 20:10 | Keep `news.php` parser as source-of-truth; replace legacy city sweep with targeted enrichment path |
 
 ## Current Known Outputs
 
@@ -58,11 +68,10 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 
 ## Immediate Next Steps
 
-1. Make the daily discovery pipeline robust for Paris and Málaga.
-2. Finish wiring the daily workflow to commit and push new refs into the canonical repo.
-3. Validate end-to-end R2 upload within the GitHub Actions workflow.
-4. Build the trainer-side daily merged corpus refresh job.
-5. Add automated index publication and inference reload.
+1. Verify persistence path on a run that actually produces new refs to commit.
+2. Build the trainer-side daily merged corpus refresh job.
+3. Add automated index publication and inference reload.
+4. Add retraining orchestration with evaluation gates.
 
 ## Change Log
 
@@ -79,6 +88,15 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 - Recorded that `PA` and `MLGA` still need fallback hardening.
 - Retrieved missing `MLGA_13` image and attached it to the Málaga metadata record.
 - Updated the latest daily run to zero new invaders and zero failed cities.
+
+### 2026-05-26
+
+- Stabilized GitHub Actions auth to clone `jfix/si-image-wall`.
+- Added Cloudflare secret preflight validation in workflow.
+- Added strict upload failure check by parsing upload logs for `FAIL` lines.
+- Hardened ntfy sender to skip invalid URLs instead of throwing.
+- Replaced non-portable `rg` guard in workflow with `grep` for runner compatibility.
+- Confirmed green CI run `26421836404` with credential checks, upload step, and notification step all passing.
 
 ## Update Rule
 
