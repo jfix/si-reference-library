@@ -2,7 +2,7 @@
   "place_id": "NY",
   "invader_id": "NY_50",
   "city": "New York",
-  "country": null,
+  "country": "United States",
   "status": "confirmed",
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",

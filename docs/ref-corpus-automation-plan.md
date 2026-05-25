@@ -88,7 +88,7 @@ Adding new reference images improves coverage immediately and usually does not r
 Recommended cadence:
 
 - Daily: discovery, corpus refresh, index rebuild, index deployment.
-- Weekly or threshold-based: model retraining.
+- Threshold-based model retraining: if there is at least one new mosaic, or 100 new labels.
 
 ### Git-backed Persistence
 

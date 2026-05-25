@@ -1,0 +1,54 @@
+{
+  "place_id": "MLGA",
+  "invader_id": "MLGA_13",
+  "city": "Málaga",
+  "country": "Spain",
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "17/05/2017",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/MLGA/MLGA_13-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "MLGA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/mlga_13/",
+      "label": "Instagram hashtag for MLGA_13"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/MLGA/MLGA_13-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/MLGA/MLGA_13/images/MLGA_13-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MLGA/MLGA_13-septembre2017.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MLGA/MLGA_13-septembre2017.jpg",
+      "caption": "photo septembre 2017",
+      "title": "MLGA_13-septembre2017",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MLGA/MLGA_13/images/MLGA_13-septembre2017.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/MLGA/MLGA_13-mai2020.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/MLGA/MLGA_13-mai2020.jpg",
+      "caption": "photo mai 2025 (@NKO)",
+      "title": "MLGA_13-mai2020",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/MLGA/MLGA_13/images/MLGA_13-mai2020.jpg"
+    }
+  ]
+}

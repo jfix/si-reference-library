@@ -1,0 +1,54 @@
+{
+  "place_id": "LA",
+  "invader_id": "LA_36",
+  "city": "Los Angeles",
+  "country": "United States",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/01/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "mars 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LA/LA_036-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/la_36/",
+      "label": "Instagram hashtag for LA_36"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LA/LA_036-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_36/images/LA_036-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_036-septembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_036-septembre2024.jpg",
+      "caption": "photo septembre 2024 (@galichonj)",
+      "title": "LA_036-septembre2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_36/images/LA_036-septembre2024.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_036-mars2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_036-mars2026.jpg",
+      "caption": "photo mars 2026 (@jaydee77)",
+      "title": "LA_036-mars2026",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LA/LA_36/images/LA_036-mars2026.jpg"
+    }
+  ]
+}

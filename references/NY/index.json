@@ -1,7 +1,7 @@
 {
   "place_id": "NY",
   "city": "New York",
-  "country": null,
+  "country": "United States",
   "target_count": 219,
   "confirmed_invaders": [
     "NY_01",

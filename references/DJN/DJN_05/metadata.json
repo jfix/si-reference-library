@@ -2,7 +2,7 @@
   "place_id": "DJN",
   "invader_id": "DJN_05",
   "city": "Daejeon",
-  "country": null,
+  "country": "South Korea",
   "status": "confirmed",
   "points": 30,
   "notes": "Scraped from invader-spotter.art listing data.",

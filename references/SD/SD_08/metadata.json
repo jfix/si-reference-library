@@ -1,0 +1,44 @@
+{
+  "place_id": "SD",
+  "invader_id": "SD_08",
+  "city": "San Diego",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "03/06/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "juillet 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SD/SD_08-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SD listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sd_08/",
+      "label": "Instagram hashtag for SD_08"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SD/SD_08-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SD/SD_08/images/SD_08-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/SD/SD_08-septembre2024.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/SD/SD_08-septembre2024.jpg",
+      "caption": "photo septembre 2024 (@galichonj)",
+      "title": "SD_08-septembre2024",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/SD/SD_08/images/SD_08-septembre2024.jpg"
+    }
+  ]
+}

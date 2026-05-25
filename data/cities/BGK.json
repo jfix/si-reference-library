@@ -1,6 +1,6 @@
 {
   "source": "https://www.invader-spotter.art/",
-  "scrapedAt": "2026-04-04T08:57:24.690Z",
+  "scrapedAt": "2026-05-25T19:55:55.936Z",
   "city": "Bangkok",
   "code": "BGK",
   "totalInvaders": 51,
@@ -83,7 +83,14 @@
       "lastSeenSource": "novembre 2025 (FlashInvaders)",
       "instagramUrl": "https://www.instagram.com/explore/tags/bgk_05/",
       "thumbnailUrl": "https://www.invader-spotter.art/grosplan/BGK/BGK_05-grosplan.png",
-      "photos": []
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_05-mai2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_05-mai2026.jpg",
+          "title": "BGK_05-mai2026",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
     },
     {
       "invaderId": "BGK_06",
@@ -482,6 +489,12 @@
           "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_34-fevrier2025.jpg",
           "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_34-fevrier2025.jpg",
           "title": "BGK_34-fevrier2025",
+          "caption": "photo d'archive (@Li Tsin Soon)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/BGK/BGK_34-avril2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/BGK/BGK_34-avril2026.jpg",
+          "title": "BGK_34-avril2026",
           "caption": "photo d'archive (@Li Tsin Soon)"
         }
       ]

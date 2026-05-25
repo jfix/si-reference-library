@@ -1,0 +1,267 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-05-25T14:05:35.178Z",
+  "city": "Varanasi",
+  "code": "VRN",
+  "totalInvaders": 14,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Varanasi",
+    "code": "VRN",
+    "invasionWaves": 1,
+    "totalInvaders": 14,
+    "totalPoints": 300,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "VRN_01",
+      "points": 20,
+      "poseDate": "08/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_01/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_01-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_01-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_01-decembre2022.jpg",
+          "title": "VRN_01-decembre2022",
+          "caption": "photos décembre 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_02",
+      "points": 20,
+      "poseDate": "08/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_02-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_02-decembre2022.jpg",
+          "title": "VRN_02-decembre2022",
+          "caption": "photos décembre 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_03",
+      "points": 30,
+      "poseDate": "09/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "février 2023 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_03/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_03-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_03-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_03-decembre2022.jpg",
+          "title": "VRN_03-decembre2022",
+          "caption": "photo décembre 2022 (@r4y.paris)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_04",
+      "points": 20,
+      "poseDate": "09/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "septembre 2024 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_04/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_04-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_04-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_04-decembre2022.jpg",
+          "title": "VRN_04-decembre2022",
+          "caption": "photo d'archive (Instagram)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_05",
+      "points": 20,
+      "poseDate": "09/03/2008",
+      "lastKnownState": "OK",
+      "lastSeenSource": "novembre 2023 (FlashInvaders)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_05/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_05-grosplan.png",
+      "photos": []
+    },
+    {
+      "invaderId": "VRN_06",
+      "points": 30,
+      "poseDate": "10/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "juillet 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_06/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_06-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_06-juillet2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_06-juillet2025.jpg",
+          "title": "VRN_06-juillet2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_07",
+      "points": 20,
+      "poseDate": "10/03/2008",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "mars 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_07/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_07-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_07-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_07-decembre2022.jpg",
+          "title": "VRN_07-decembre2022",
+          "caption": "photos décembre 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_07-mars2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_07-mars2025.jpg",
+          "title": "VRN_07-mars2025",
+          "caption": "photo mars 2025 (@Mrs.Skurios)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_08",
+      "points": 10,
+      "poseDate": "11/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_08/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_08-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_08-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_08-novembre2024.jpg",
+          "title": "VRN_08-novembre2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_09",
+      "points": 10,
+      "poseDate": "11/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_09/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_09-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_09-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_09-decembre2022.jpg",
+          "title": "VRN_09-decembre2022",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_10",
+      "points": 30,
+      "poseDate": "11/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_10/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_10-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_10-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_10-novembre2024.jpg",
+          "title": "VRN_10-novembre2024",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_11",
+      "points": 20,
+      "poseDate": "11/03/2008",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "novembre 2025 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_11/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_11-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_11-novembre2025.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_11-novembre2025.jpg",
+          "title": "VRN_11-novembre2025",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_12",
+      "points": 30,
+      "poseDate": "12/03/2008",
+      "lastKnownState": "Détruit !",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_12/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_12-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_12-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_12-decembre2022.jpg",
+          "title": "VRN_12-decembre2022",
+          "caption": "photo décembre 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_12-novembre2024.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_12-novembre2024.jpg",
+          "title": "VRN_12-novembre2024",
+          "caption": "photo novembre 2024 (@fredp)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_13",
+      "points": 30,
+      "poseDate": "13/03/2008",
+      "lastKnownState": "Très dégradé",
+      "lastSeenSource": "novembre 2024 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_13/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_13-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_13-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_13-decembre2022.jpg",
+          "title": "VRN_13-decembre2022",
+          "caption": "photo d'archive (@Invader)"
+        }
+      ]
+    },
+    {
+      "invaderId": "VRN_14",
+      "points": 10,
+      "poseDate": "14/03/2008",
+      "lastKnownState": "Dégradé",
+      "lastSeenSource": "décembre 2022 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/vrn_14/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/VRN/VRN_14-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_14-decembre2022-1.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_14-decembre2022-1.jpg",
+          "title": "VRN_14-decembre2022-1",
+          "caption": "photos décembre 2022 (@r4y.paris)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRN/VRN_14-decembre2022.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRN/VRN_14-decembre2022.jpg",
+          "title": "VRN_14-decembre2022",
+          "caption": "photo décembre 2022 (@r4y.paris)"
+        }
+      ]
+    }
+  ]
+}

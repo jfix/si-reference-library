@@ -1,0 +1,44 @@
+{
+  "place_id": "LA",
+  "invader_id": "LA_121",
+  "city": "Los Angeles",
+  "country": "United States",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/06/2005",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2024 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LA/LA_121-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/la_121/",
+      "label": "Instagram hashtag for LA_121"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LA/LA_121-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_121/images/LA_121-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_121-mai2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_121-mai2022.jpg",
+      "caption": "photo d'archive",
+      "title": "LA_121-mai2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_121/images/LA_121-mai2022.jpg"
+    }
+  ]
+}

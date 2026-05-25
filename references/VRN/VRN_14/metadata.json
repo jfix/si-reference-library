@@ -1,0 +1,54 @@
+{
+  "place_id": "VRN",
+  "invader_id": "VRN_14",
+  "city": "Varanasi",
+  "country": null,
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "14/03/2008",
+  "last_known_state": "Dégradé",
+  "last_seen_source": "décembre 2022 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VRN/VRN_14-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vrn_14/",
+      "label": "Instagram hashtag for VRN_14"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VRN/VRN_14-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VRN/VRN_14/images/VRN_14-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VRN/VRN_14-decembre2022-1.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VRN/VRN_14-decembre2022-1.jpg",
+      "caption": "photos décembre 2022 (@r4y.paris)",
+      "title": "VRN_14-decembre2022-1",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VRN/VRN_14/images/VRN_14-decembre2022-1.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VRN/VRN_14-decembre2022.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VRN/VRN_14-decembre2022.jpg",
+      "caption": "photo décembre 2022 (@r4y.paris)",
+      "title": "VRN_14-decembre2022",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VRN/VRN_14/images/VRN_14-decembre2022.jpg"
+    }
+  ]
+}

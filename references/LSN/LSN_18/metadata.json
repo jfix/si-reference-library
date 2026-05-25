@@ -2,7 +2,7 @@
   "place_id": "LSN",
   "invader_id": "LSN_18",
   "city": "Lausanne",
-  "country": null,
+  "country": "Switzerland",
   "status": "confirmed",
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",

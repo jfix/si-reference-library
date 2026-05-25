@@ -2,7 +2,7 @@
   "place_id": "MLGA",
   "invader_id": "MLGA_09",
   "city": "Málaga",
-  "country": null,
+  "country": "Spain",
   "status": "confirmed",
   "points": 30,
   "notes": "Scraped from invader-spotter.art listing data.",

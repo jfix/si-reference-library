@@ -49,6 +49,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_30/images/PA_0030-mai2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0030-avril2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0030-avril2026.jpg",
+      "caption": "photo avril 2026 (@NewSpotter)",
+      "title": "PA_0030-avril2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_30/images/PA_0030-avril2026.jpg"
     }
   ]
 }

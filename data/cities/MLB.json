@@ -1,6 +1,6 @@
 {
   "source": "https://www.invader-spotter.art/",
-  "scrapedAt": "2026-04-04T09:00:37.006Z",
+  "scrapedAt": "2026-05-25T19:56:01.179Z",
   "city": "Melbourne",
   "code": "MLB",
   "totalInvaders": 25,
@@ -222,6 +222,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_16-aout2024.jpg",
           "title": "MLB_16-aout2024",
           "caption": "photo aout 2024 (@HerzwerkRod)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_16-mai2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_16-mai2026.jpg",
+          "title": "MLB_16-mai2026",
+          "caption": "photo mai 2026 (@HMonsieur Etienne)"
         }
       ]
     },
@@ -268,6 +274,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_19-aout2025.jpg",
           "title": "MLB_19-aout2025",
           "caption": "photo août 2025 (@Bilou)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/MLB/MLB_19-mai2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/MLB/MLB_19-mai2026.jpg",
+          "title": "MLB_19-mai2026",
+          "caption": "photo mai 2026 (@Monsieur Etienne)"
         }
       ]
     },

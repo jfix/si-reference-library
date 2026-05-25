@@ -1,7 +1,7 @@
 {
   "place_id": "IST",
   "city": "Istanbul",
-  "country": null,
+  "country": "Turkey",
   "target_count": 20,
   "confirmed_invaders": [
     "IST_01",

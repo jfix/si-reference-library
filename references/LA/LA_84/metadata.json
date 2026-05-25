@@ -1,0 +1,44 @@
+{
+  "place_id": "LA",
+  "invader_id": "LA_84",
+  "city": "Los Angeles",
+  "country": "United States",
+  "status": "confirmed",
+  "points": 30,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/12/2003",
+  "last_known_state": "OK",
+  "last_seen_source": "mai 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LA/LA_084-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/la_84/",
+      "label": "Instagram hashtag for LA_84"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LA/LA_084-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_84/images/LA_084-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_084-mai2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_084-mai2025.jpg",
+      "caption": "photo mai 2025 (@fredp)",
+      "title": "LA_084-mai2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_84/images/LA_084-mai2025.jpg"
+    }
+  ]
+}

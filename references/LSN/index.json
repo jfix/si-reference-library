@@ -1,7 +1,7 @@
 {
   "place_id": "LSN",
   "city": "Lausanne",
-  "country": null,
+  "country": "Switzerland",
   "target_count": 18,
   "confirmed_invaders": [
     "LSN_01",

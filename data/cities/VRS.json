@@ -1,6 +1,6 @@
 {
   "source": "https://www.invader-spotter.art/",
-  "scrapedAt": "2026-04-03T15:34:39.658Z",
+  "scrapedAt": "2026-05-25T19:56:12.931Z",
   "city": "Versailles",
   "code": "VRS",
   "totalInvaders": 42,
@@ -170,6 +170,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/VRS/VRS_09-septembre2017.jpg",
           "title": "VRS_09-septembre2017",
           "caption": "photo septembre 2017"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/VRS/VRS_09-avril2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/VRS/VRS_09-avril2026.jpg",
+          "title": "VRS_09-avril2026",
+          "caption": "photo avril 2026 (@MattCharonne)"
         }
       ]
     },

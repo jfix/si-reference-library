@@ -2,7 +2,7 @@
   "place_id": "TK",
   "invader_id": "TK_36",
   "city": "Tokyo",
-  "country": null,
+  "country": "Japan",
   "status": "confirmed",
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",

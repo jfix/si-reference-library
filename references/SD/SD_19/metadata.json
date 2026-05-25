@@ -1,0 +1,34 @@
+{
+  "place_id": "SD",
+  "invader_id": "SD_19",
+  "city": "San Diego",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "06/06/2010",
+  "last_known_state": "Détruit !",
+  "last_seen_source": null,
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/SD/SD_19-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "SD listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/sd_19/",
+      "label": "Instagram hashtag for SD_19"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/SD/SD_19-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/SD/SD_19/images/SD_19-grosplan.png"
+    }
+  ]
+}

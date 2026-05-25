@@ -2,7 +2,7 @@
   "place_id": "MLB",
   "invader_id": "MLB_13",
   "city": "Melbourne",
-  "country": null,
+  "country": "Australia",
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",

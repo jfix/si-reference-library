@@ -1,0 +1,27 @@
+{
+  "place_id": "SD",
+  "city": "San Diego",
+  "country": null,
+  "target_count": 21,
+  "confirmed_invaders": [
+    "SD_01",
+    "SD_03",
+    "SD_04",
+    "SD_05",
+    "SD_06",
+    "SD_07",
+    "SD_08",
+    "SD_10",
+    "SD_11",
+    "SD_12",
+    "SD_13",
+    "SD_15",
+    "SD_16",
+    "SD_17",
+    "SD_18",
+    "SD_19",
+    "SD_20",
+    "SD_21"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

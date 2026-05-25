@@ -2,7 +2,7 @@
   "place_id": "NY",
   "invader_id": "NY_183",
   "city": "New York",
-  "country": null,
+  "country": "United States",
   "status": "confirmed",
   "points": 40,
   "notes": "Scraped from invader-spotter.art listing data.",
@@ -49,6 +49,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/NY/NY_183/images/NY_183-mars2022.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/NY/NY_183-avril2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/NY/NY_183-avril2026.jpg",
+      "caption": "photo avril 2026 (@michaelkbusch)",
+      "title": "NY_183-avril2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/NY/NY_183/images/NY_183-avril2026.jpg"
     }
   ]
 }

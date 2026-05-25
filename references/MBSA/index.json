@@ -1,7 +1,7 @@
 {
   "place_id": "MBSA",
   "city": "Mombasa",
-  "country": null,
+  "country": "Kenya",
   "target_count": 10,
   "confirmed_invaders": [
     "MBSA_01",

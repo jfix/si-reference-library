@@ -1,6 +1,6 @@
 {
   "source": "https://www.invader-spotter.art/",
-  "scrapedAt": "2026-04-04T08:59:40.703Z",
+  "scrapedAt": "2026-05-25T16:12:59.323Z",
   "city": "Lausanne",
   "code": "LSN",
   "totalInvaders": 18,
@@ -195,6 +195,12 @@
           "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_16-avril2025.jpg",
           "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_16-avril2025.jpg",
           "title": "LSN_16-avril2025",
+          "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LSN/LSN_16-avril2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LSN/LSN_16-avril2026.jpg",
+          "title": "LSN_16-avril2026",
           "caption": "photo d'archive"
         }
       ]

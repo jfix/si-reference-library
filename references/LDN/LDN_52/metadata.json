@@ -75,6 +75,16 @@
           ]
         }
       }
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LDN/LDN_052-mai2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LDN/LDN_052-mai2026.jpg",
+      "caption": "photo mai 2026 (@PhilHHH)",
+      "title": "LDN_052-mai2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LDN/LDN_52/images/LDN_052-mai2026.jpg"
     }
   ]
 }

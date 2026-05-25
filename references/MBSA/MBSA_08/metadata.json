@@ -2,7 +2,7 @@
   "place_id": "MBSA",
   "invader_id": "MBSA_08",
   "city": "Mombasa",
-  "country": null,
+  "country": "Kenya",
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",

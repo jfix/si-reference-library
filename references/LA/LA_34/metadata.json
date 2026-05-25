@@ -1,0 +1,34 @@
+{
+  "place_id": "LA",
+  "invader_id": "LA_34",
+  "city": "Los Angeles",
+  "country": "United States",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "08/01/2000",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LA/LA_034-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/la_34/",
+      "label": "Instagram hashtag for LA_34"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LA/LA_034-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_34/images/LA_034-grosplan.png"
+    }
+  ]
+}

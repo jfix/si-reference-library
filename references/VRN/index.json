@@ -1,0 +1,23 @@
+{
+  "place_id": "VRN",
+  "city": "Varanasi",
+  "country": null,
+  "target_count": 14,
+  "confirmed_invaders": [
+    "VRN_01",
+    "VRN_02",
+    "VRN_03",
+    "VRN_04",
+    "VRN_05",
+    "VRN_06",
+    "VRN_07",
+    "VRN_08",
+    "VRN_09",
+    "VRN_10",
+    "VRN_11",
+    "VRN_12",
+    "VRN_13",
+    "VRN_14"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

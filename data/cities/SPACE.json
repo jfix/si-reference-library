@@ -1,0 +1,35 @@
+{
+  "source": "https://www.invader-spotter.art/",
+  "scrapedAt": "2026-05-25T16:14:46.069Z",
+  "city": "Space",
+  "code": "SPACE",
+  "totalInvaders": 2,
+  "pagesScraped": 1,
+  "summary": {
+    "city": "Space",
+    "code": "SPACE",
+    "invasionWaves": 2,
+    "totalInvaders": 2,
+    "totalPoints": 100,
+    "listingUrl": "https://www.invader-spotter.art/listing.php"
+  },
+  "invaders": [
+    {
+      "invaderId": "SPACE_02",
+      "points": 100,
+      "poseDate": "12/03/2015",
+      "lastKnownState": "OK",
+      "lastSeenSource": "décembre 2020 (report)",
+      "instagramUrl": "https://www.instagram.com/explore/tags/space_02/",
+      "thumbnailUrl": "https://www.invader-spotter.art/grosplan/SPACE/SPACE_02-grosplan.png",
+      "photos": [
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/SPACE/SPACE_02-decembre2020.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/SPACE/SPACE_02-decembre2020.jpg",
+          "title": "SPACE_02-decembre2020",
+          "caption": "photo d'archive (ESA-NASA)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "source": "https://www.invader-spotter.art/",
-  "scrapedAt": "2026-04-04T08:55:56.466Z",
+  "scrapedAt": "2026-05-25T19:56:51.806Z",
   "city": "New York",
   "code": "NY",
   "totalInvaders": 219,
@@ -1275,6 +1275,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/NY/NY_176-fevrier2026.jpg",
           "title": "NY_176-fevrier2026",
           "caption": "photo février 2026 (@michaelkbusch)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_176-mai2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_176-mai2026.jpg",
+          "title": "NY_176-mai2026",
+          "caption": "photo mai 2026 (@Rob')"
         }
       ]
     },
@@ -1395,6 +1401,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/NY/NY_183-mars2022.jpg",
           "title": "NY_183-mars2022",
           "caption": "photo mars 2022 (@Zurg)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/NY/NY_183-avril2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/NY/NY_183-avril2026.jpg",
+          "title": "NY_183-avril2026",
+          "caption": "photo avril 2026 (@michaelkbusch)"
         }
       ]
     },

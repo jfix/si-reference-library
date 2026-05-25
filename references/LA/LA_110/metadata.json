@@ -1,0 +1,44 @@
+{
+  "place_id": "LA",
+  "invader_id": "LA_110",
+  "city": "Los Angeles",
+  "country": "United States",
+  "status": "confirmed",
+  "points": 10,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "04/06/2005",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "septembre 2020 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LA/LA_110-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/la_110/",
+      "label": "Instagram hashtag for LA_110"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LA/LA_110-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_110/images/LA_110-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_110-avril2019.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_110-avril2019.jpg",
+      "caption": "photo avril 2019 (StreetView)",
+      "title": "LA_110-avril2019",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_110/images/LA_110-avril2019.jpg"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "place_id": "MIA",
   "invader_id": "MIA_54",
   "city": "Miami",
-  "country": null,
+  "country": "United States",
   "status": "confirmed",
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",

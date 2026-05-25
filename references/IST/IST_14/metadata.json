@@ -2,7 +2,7 @@
   "place_id": "IST",
   "invader_id": "IST_14",
   "city": "Istanbul",
-  "country": null,
+  "country": "Turkey",
   "status": "confirmed",
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",

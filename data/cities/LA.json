@@ -1,6 +1,6 @@
 {
   "source": "https://www.invader-spotter.art/",
-  "scrapedAt": "2026-04-04T08:58:45.898Z",
+  "scrapedAt": "2026-05-25T13:57:08.514Z",
   "city": "Los Angeles",
   "code": "LA",
   "totalInvaders": 214,
@@ -220,6 +220,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/LA/LA_105-archive.jpg",
           "title": "LA_105-archive",
           "caption": "photo d'archive"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LA/LA_105-avril2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LA/LA_105-avril2026.jpg",
+          "title": "LA_105-avril2026",
+          "caption": "photo avril 2026 (@Shootagain)"
         }
       ]
     },
@@ -1100,6 +1106,12 @@
           "previewUrl": "https://www.invader-spotter.art/images/LA/LA_165-avril2025.jpg",
           "title": "LA_165-avril2025",
           "caption": "photo avril 2025 (@AVENGERS)"
+        },
+        {
+          "fullUrl": "https://www.invader-spotter.art/photos/LA/LA_165-mai2026.jpg",
+          "previewUrl": "https://www.invader-spotter.art/images/LA/LA_165-mai2026.jpg",
+          "title": "LA_165-mai2026",
+          "caption": "photo mai 2026"
         }
       ]
     },

@@ -2,7 +2,7 @@
   "place_id": "LA",
   "invader_id": "LA_103",
   "city": "Los Angeles",
-  "country": null,
+  "country": "United States",
   "status": "confirmed",
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",

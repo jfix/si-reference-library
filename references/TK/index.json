@@ -1,7 +1,7 @@
 {
   "place_id": "TK",
   "city": "Tokyo",
-  "country": null,
+  "country": "Japan",
   "target_count": 138,
   "confirmed_invaders": [
     "TK_01",

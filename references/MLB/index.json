@@ -1,7 +1,7 @@
 {
   "place_id": "MLB",
   "city": "Melbourne",
-  "country": null,
+  "country": "Australia",
   "target_count": 25,
   "confirmed_invaders": [
     "MLB_02",

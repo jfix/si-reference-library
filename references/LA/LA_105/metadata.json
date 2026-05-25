@@ -2,7 +2,7 @@
   "place_id": "LA",
   "invader_id": "LA_105",
   "city": "Los Angeles",
-  "country": null,
+  "country": "United States",
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",
@@ -39,6 +39,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LA/LA_105/images/LA_105-archive.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_105-avril2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_105-avril2026.jpg",
+      "caption": "photo avril 2026 (@Shootagain)",
+      "title": "LA_105-avril2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_105/images/LA_105-avril2026.jpg"
     }
   ]
 }

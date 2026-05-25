@@ -1,0 +1,44 @@
+{
+  "place_id": "VRN",
+  "invader_id": "VRN_11",
+  "city": "Varanasi",
+  "country": null,
+  "status": "confirmed",
+  "points": 20,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "11/03/2008",
+  "last_known_state": "Très dégradé",
+  "last_seen_source": "novembre 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/VRN/VRN_11-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "VRN listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/vrn_11/",
+      "label": "Instagram hashtag for VRN_11"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/VRN/VRN_11-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/VRN/VRN_11/images/VRN_11-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/VRN/VRN_11-novembre2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/VRN/VRN_11-novembre2025.jpg",
+      "caption": "photo d'archive (@Invader)",
+      "title": "VRN_11-novembre2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/VRN/VRN_11/images/VRN_11-novembre2025.jpg"
+    }
+  ]
+}

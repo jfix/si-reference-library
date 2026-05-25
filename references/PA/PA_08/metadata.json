@@ -46,9 +46,19 @@
       "preview_url": "https://www.invader-spotter.art/images/PA/PA_0008-janvier2026.jpg",
       "caption": "photo janvier 2026 (@calou11)",
       "title": "PA_0008-janvier2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_08/images/PA_0008-janvier2026.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_0008-avril2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_0008-avril2026.jpg",
+      "caption": "photo avril 2026 (@Nicoula)",
+      "title": "PA_0008-avril2026",
       "role": "status-empty-scene",
       "contains_invader": false,
-      "local_path": "references/PA/PA_08/images/PA_0008-janvier2026.jpg"
+      "local_path": "references/PA/PA_08/images/PA_0008-avril2026.jpg"
     }
   ]
 }

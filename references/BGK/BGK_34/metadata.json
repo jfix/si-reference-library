@@ -2,7 +2,7 @@
   "place_id": "BGK",
   "invader_id": "BGK_34",
   "city": "Bangkok",
-  "country": null,
+  "country": "Thailand",
   "status": "confirmed",
   "points": 10,
   "notes": "Scraped from invader-spotter.art listing data.",
@@ -39,6 +39,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BGK/BGK_34/images/BGK_34-fevrier2025.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_34-avril2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_34-avril2026.jpg",
+      "caption": "photo d'archive (@Li Tsin Soon)",
+      "title": "BGK_34-avril2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_34/images/BGK_34-avril2026.jpg"
     }
   ]
 }

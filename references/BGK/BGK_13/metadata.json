@@ -2,7 +2,7 @@
   "place_id": "BGK",
   "invader_id": "BGK_13",
   "city": "Bangkok",
-  "country": null,
+  "country": "Thailand",
   "status": "confirmed",
   "points": 20,
   "notes": "Scraped from invader-spotter.art listing data.",

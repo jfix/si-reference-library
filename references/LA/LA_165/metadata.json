@@ -1,0 +1,54 @@
+{
+  "place_id": "LA",
+  "invader_id": "LA_165",
+  "city": "Los Angeles",
+  "country": "United States",
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "13/04/2011",
+  "last_known_state": "OK",
+  "last_seen_source": "avril 2025 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LA/LA_165-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LA listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/la_165/",
+      "label": "Instagram hashtag for LA_165"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LA/LA_165-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_165/images/LA_165-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_165-avril2025.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_165-avril2025.jpg",
+      "caption": "photo avril 2025 (@AVENGERS)",
+      "title": "LA_165-avril2025",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_165/images/LA_165-avril2025.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LA/LA_165-mai2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LA/LA_165-mai2026.jpg",
+      "caption": "photo mai 2026",
+      "title": "LA_165-mai2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LA/LA_165/images/LA_165-mai2026.jpg"
+    }
+  ]
+}

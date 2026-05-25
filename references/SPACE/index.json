@@ -1,0 +1,10 @@
+{
+  "place_id": "SPACE",
+  "city": "Space",
+  "country": null,
+  "target_count": 2,
+  "confirmed_invaders": [
+    "SPACE_02"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

@@ -1,7 +1,7 @@
 {
   "place_id": "BGK",
   "city": "Bangkok",
-  "country": null,
+  "country": "Thailand",
   "target_count": 51,
   "confirmed_invaders": [
     "BGK_01",
