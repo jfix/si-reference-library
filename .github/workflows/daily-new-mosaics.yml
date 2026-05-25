@@ -45,17 +45,24 @@ jobs:
 
             - name: Validate image wall repo token
               if: ${{ github.event.inputs.test_notification != 'true' }}
+              env:
+                  SI_IMAGE_WALL_REPO_TOKEN: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
               run: |
-                  git ls-remote "https://x-access-token:${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}@github.com/jfix/si-image-wall.git"
+                  if [ -z "$SI_IMAGE_WALL_REPO_TOKEN" ]; then
+                    echo 'SI_IMAGE_WALL_REPO_TOKEN is empty or unset.'
+                    exit 1
+                  fi
 
-            - name: Checkout image wall repo
+                  auth_header="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$SI_IMAGE_WALL_REPO_TOKEN" | base64)"
+                  git -c "http.https://github.com/.extraheader=$auth_header" ls-remote https://github.com/jfix/si-image-wall.git
+
+            - name: Clone image wall repo
               if: ${{ github.event.inputs.test_notification != 'true' }}
-              uses: actions/checkout@v4
-              with:
-                  repository: jfix/si-image-wall
-                  ref: main
-                  token: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
-                  path: si-image-wall
+              env:
+                  SI_IMAGE_WALL_REPO_TOKEN: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
+              run: |
+                  auth_header="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$SI_IMAGE_WALL_REPO_TOKEN" | base64)"
+                  git -c "http.https://github.com/.extraheader=$auth_header" clone --depth 1 --branch main https://github.com/jfix/si-image-wall.git si-image-wall
 
             - name: Install reference-library dependencies
               run: npm ci
