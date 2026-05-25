@@ -113,7 +113,7 @@ jobs:
                   set -o pipefail
                   node si-image-wall/scripts/upload-ref-images.mjs --manifest tmp/daily-new-mosaics-report.json --skip-existing 2>&1 | tee tmp/upload-ref-images.log
 
-                  if rg -q '^FAIL ' tmp/upload-ref-images.log; then
+                  if grep -q '^FAIL ' tmp/upload-ref-images.log; then
                     echo 'Detected one or more failed image uploads.'
                     exit 1
                   fi
