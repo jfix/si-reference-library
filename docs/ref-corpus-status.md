@@ -1,6 +1,6 @@
 # Reference Corpus Automation Status
 
-Last updated: 26 May 2026, 00:16
+Last updated: 27 May 2026, 19:05
 
 Status legend:
 
@@ -21,7 +21,10 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 - Cross-repo image-wall auth in GitHub Actions is now stable.
 - Workflow now fails fast when Cloudflare credentials are missing.
 - Upload step now enforces failure detection from upload logs.
+- Workflow now includes a catch-up upload step to reconcile any refs missing from R2.
 - Notification handling now tolerates invalid ntfy URLs without crashing the job.
+- Missing Paris refs (`PA_1571` to `PA_1590`) were backfilled to R2 and verified live.
+- Deployment manifest metadata is now persisted into image-wall D1 and exposed on the model page.
 - Trainer-side merged corpus refresh is not yet implemented.
 - Automated index deployment is not yet implemented.
 - Retraining orchestration is not yet implemented.
@@ -38,13 +41,15 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 | Discovery | Daily manifest/report output | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | `tmp/daily-new-mosaics-report.json` |
 | Discovery | ntfy notification | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Implemented in `scripts/send-ntfy.mjs` |
 | Persistence | Durable persistence of newly discovered refs | si-reference-library | `in_progress` | — | 26 May 2026, 00:16 | Commit/push path is wired in CI; needs verification on a run with actual new refs |
-| Serving | Upload new ref images to R2 | si-reference-library + si-image-wall | `done` | 25 May 2026, 16:26 | 26 May 2026, 00:16 | CI credentials validation added; upload failure detection now enforced in workflow |
+| Serving | Upload new ref images to R2 | si-reference-library + si-image-wall | `done` | 25 May 2026, 16:26 | 27 May 2026, 19:05 | CI credentials validation and upload failure detection are enforced; missing refs were backfilled and verified live |
+| Serving | Catch-up reconciliation upload for missing refs | si-reference-library + si-image-wall | `done` | 27 May 2026, 19:05 | 27 May 2026, 19:05 | Daily workflow now runs a full `--skip-existing` pass after manifest upload to prevent R2 drift |
 | Corpus refresh | Consume reference-library state in trainer pipeline | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Needs automated trainer-side job |
 | Corpus refresh | Consume crowd-confirmed flash labels via export endpoint | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Documented, but not yet wired into a running job |
 | Corpus refresh | Merge scraped refs and confirmed flash labels | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Core missing piece |
 | Indexing | Build refreshed retrieval indexes automatically | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Local building blocks exist |
 | Indexing | Atomic index publication | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Planned in docs only |
 | Deployment | Reload inference with new indexes | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Modal upload/reload path exists, not automated for this flow |
+| Deployment | Persist deployment manifest for model visibility | si-image-wall + si-image-trainer-mvp | `done` | 27 May 2026, 19:05 | 27 May 2026, 19:05 | Trainer upload now POSTs manifest to image-wall `/api/model-meta`; model page reads D1-backed metadata |
 | Training | Periodic retraining with evaluation gate | si-image-trainer-mvp | `not_started` | — | 25 May 2026, 18:16 | Should be weekly or threshold-based, not daily |
 | Orchestration | Connect discovery workflow to trainer refresh workflow | cross-repo | `not_started` | — | 25 May 2026, 18:16 | Likely `repository_dispatch` or trainer-side scheduled polling |
 
@@ -97,6 +102,13 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 - Hardened ntfy sender to skip invalid URLs instead of throwing.
 - Replaced non-portable `rg` guard in workflow with `grep` for runner compatibility.
 - Confirmed green CI run `26421836404` with credential checks, upload step, and notification step all passing.
+
+### 2026-05-27
+
+- Backfilled missing reference images to R2 and verified Paris refs `PA_1571` through `PA_1590` resolve on Pages.
+- Added workflow catch-up upload step (`--skip-existing`) after manifest upload to prevent R2 drift.
+- Added D1-backed `model_meta` storage in image-wall and wired trainer upload to publish deployment manifest metadata.
+- Updated model page data path to consume persisted manifest metadata via image-wall APIs.
 
 ## Update Rule
 
