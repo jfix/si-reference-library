@@ -25,6 +25,7 @@ permissions:
 jobs:
     sync-and-upload:
         runs-on: ubuntu-latest
+    timeout-minutes: 120
 
         env:
             SI_REFERENCE_LIBRARY: ${{ github.workspace }}
@@ -67,10 +68,12 @@ jobs:
 
             - name: Install Playwright Chromium
               if: ${{ github.event.inputs.test_notification != 'true' }}
-              run: npx playwright install --with-deps chromium
+              timeout-minutes: 20
+              run: npx playwright install chromium
 
             - name: Discover new mosaics
               if: ${{ github.event.inputs.test_notification != 'true' }}
+              timeout-minutes: 30
               run: node scripts/daily-new-mosaics.mjs --report-path tmp/daily-new-mosaics-report.json
 
             - name: Prepare notification test report
@@ -115,6 +118,17 @@ jobs:
 
                   if grep -q '^FAIL ' tmp/upload-ref-images.log; then
                     echo 'Detected one or more failed image uploads.'
+                    exit 1
+                  fi
+
+            - name: Catch-up upload any ref images missing from R2
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              run: |
+                  set -o pipefail
+                  node si-image-wall/scripts/upload-ref-images.mjs --skip-existing 2>&1 | tee tmp/upload-ref-images-catchup.log
+
+                  if grep -q '^FAIL ' tmp/upload-ref-images-catchup.log; then
+                    echo 'Detected one or more failed catch-up image uploads.'
                     exit 1
                   fi
 
