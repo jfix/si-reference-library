@@ -66,9 +66,20 @@ jobs:
             - name: Install reference-library dependencies
               run: npm ci
 
+            - name: Cache Playwright browsers
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              uses: actions/cache@v4
+              with:
+                  path: |
+                      ~/.cache/ms-playwright
+                      ~/.ms-playwright
+                  key: pw-browsers-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+                  restore-keys: |
+                      pw-browsers-${{ runner.os }}-
+
             - name: Install Playwright Chromium
               if: ${{ github.event.inputs.test_notification != 'true' }}
-              timeout-minutes: 20
+              timeout-minutes: 35
               run: npx playwright install chromium
 
             - name: Discover new mosaics
