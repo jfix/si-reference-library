@@ -136,12 +136,15 @@ jobs:
 
             - name: Commit new reference-library changes
               if: ${{ github.event.inputs.test_notification != 'true' }}
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               run: |
                   if git diff --quiet -- references data/cities.json; then
                     echo 'No reference-library changes to commit.'
                     exit 0
                   fi
 
+                  git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
                   git add references data/cities.json
                   git -c user.name='github-actions[bot]' -c user.email='github-actions[bot]@users.noreply.github.com' commit -m 'chore: persist daily invader-spotter refs'
                   git push origin HEAD:${{ github.ref_name }}
