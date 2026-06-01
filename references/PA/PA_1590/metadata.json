@@ -29,6 +29,16 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/PA/PA_1590/images/PA_1590-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_1590-mai2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_1590-mai2026.jpg",
+      "caption": "photo mai 2026 (@Tek)",
+      "title": "PA_1590-mai2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1590/images/PA_1590-mai2026.jpg"
     }
   ]
 }
