@@ -71,6 +71,8 @@ jobs:
 
       - name: Clone image-wall repo (debug)
         if: ${{ github.event.inputs.check_image_wall != 'false' }}
+        env:
+          SI_IMAGE_WALL_REPO_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
           rm -rf si-image-wall-debug
           git -c "http.https://github.com/.extraheader=" clone --depth 1 --branch main "https://x-access-token:${SI_IMAGE_WALL_REPO_TOKEN}@github.com/jfix/si-image-wall.git" si-image-wall-debug
