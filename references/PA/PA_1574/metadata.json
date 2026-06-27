@@ -39,6 +39,13 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_1574/images/PA_1574-mai2026.jpg"
+    },
+    {
+      "type": "flash-bootstrap",
+      "role": "flash-reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1574/images/PA_1574-flash-bootstrap.png",
+      "source": "bootstrap-labeling-2026-06-05"
     }
   ]
 }

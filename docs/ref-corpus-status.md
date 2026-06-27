@@ -1,6 +1,6 @@
 # Reference Corpus Automation Status
 
-Last updated: 27 May 2026, 19:05
+Last updated: 1 Jun 2026
 
 Status legend:
 
@@ -25,6 +25,9 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 - Notification handling now tolerates invalid ntfy URLs without crashing the job.
 - Missing Paris refs (`PA_1571` to `PA_1590`) were backfilled to R2 and verified live.
 - Deployment manifest metadata is now persisted into image-wall D1 and exposed on the model page.
+- Daily discovery workflow runs inside the Playwright container image (`mcr.microsoft.com/playwright:v1.58.2-noble`) — Playwright install step removed.
+- Upload step now logs wrangler stderr on failure for easier debugging.
+- Upload step currently failing with `403 Authentication error` — GitHub secret `CLOUDFLARE_API_TOKEN` is expired/invalid and must be rotated.
 - Trainer-side merged corpus refresh is not yet implemented.
 - Automated index deployment is not yet implemented.
 - Retraining orchestration is not yet implemented.
@@ -33,7 +36,7 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 
 | Area | Task | Repo | Status | Completed At | Updated At | Notes |
 |---|---|---|---|---|---|---|
-| Discovery | Daily invader-spotter scheduled job | si-reference-library | `done` | 26 May 2026, 00:16 | 26 May 2026, 00:16 | Workflow is running successfully in GitHub Actions (latest green run: `26421836404`) |
+| Discovery | Daily invader-spotter scheduled job | si-reference-library | `blocked` | — | 1 Jun 2026 | CI regression: upload step failing with 403 after `CLOUDFLARE_API_TOKEN` secret expired. Playwright install issue fixed (container image). Unblock: rotate secret in GitHub repo settings. |
 | Discovery | Count-first city gating | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Remote total is checked before a city scrape is attempted |
 | Discovery | Delta-tail scraping for contiguous cities | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Pagination now uses the confirmed 50-item page size |
 | Discovery | Retry and continue on flaky city failures | si-reference-library | `done` | 3 Apr 2026, 17:02 | 3 Apr 2026, 17:02 | Per-city retries and failure capture exist |
@@ -71,12 +74,23 @@ Timestamp format: European-style local time. For `done` rows, `Completed At` sho
 
 - `tmp/daily-new-mosaics-report.json`
 
+## Change Log
+
+### 2026-06-01
+- Switched daily workflow to run inside `mcr.microsoft.com/playwright:v1.58.2-noble` container — eliminates the `npx playwright install` timeout that was blocking CI (commits `f4609e25`, `a117165e`).
+- Added `defaults: run: shell: bash` to fix `set: Illegal option -o pipefail` error in the Playwright container's default `sh` shell.
+- Added wrangler stderr capture to `upload-ref-images.mjs` — failures now log the actual wrangler error instead of a silent FAIL.
+- Diagnosed root upload failure: `403 Forbidden / Authentication error (code 10000)` — `CLOUDFLARE_API_TOKEN` GitHub secret is expired. Needs rotation.
+- CI runs affected: `26726273214` (canceled during Playwright install), `26726845544` (shell error), `26726935186` (bash fixed, 403 revealed), `26727265420` (stderr added, 403 confirmed).
+- Three new PA mosaics (`PA_1591`, `PA_1592`, `PA_1593`) discovered by scraper but not yet uploaded to R2.
+
 ## Immediate Next Steps
 
-1. Verify persistence path on a run that actually produces new refs to commit.
-2. Build the trainer-side daily merged corpus refresh job.
-3. Add automated index publication and inference reload.
-4. Add retraining orchestration with evaluation gates.
+1. Rotate `CLOUDFLARE_API_TOKEN` GitHub secret (needs Workers R2 Storage: Edit permission) — unblocks the upload step.
+2. Verify persistence path on a run that actually produces new refs to commit.
+3. Build the trainer-side daily merged corpus refresh job.
+4. Add automated index publication and inference reload.
+5. Add retraining orchestration with evaluation gates.
 
 ## Change Log
 

@@ -39,19 +39,26 @@ async function main() {
     ...newInvaders.map((entry) => `${entry.invader_id} - ${entry.city ?? entry.code}`),
   ];
 
-  const response = await fetch(ntfyUrl, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'text/plain; charset=utf-8',
-      Title: 'New Invader mosaics',
-      Priority: '4',
-      ...(options.ntfyToken ? { Authorization: `Bearer ${options.ntfyToken}` } : {}),
-    },
-    body: bodyLines.join('\n'),
-  });
+  let response;
+  try {
+    response = await fetch(ntfyUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'text/plain; charset=utf-8',
+        Title: 'New Invader mosaics',
+        Priority: '4',
+        ...(options.ntfyToken ? { Authorization: `Bearer ${options.ntfyToken}` } : {}),
+      },
+      body: bodyLines.join('\n'),
+    });
+  } catch (error) {
+    console.warn(`ntfy notification skipped: ${error.message}`);
+    return;
+  }
 
   if (!response.ok) {
-    throw new Error(`ntfy request failed: ${response.status} ${response.statusText}`);
+    console.warn(`ntfy request failed: ${response.status} ${response.statusText}`);
+    return;
   }
 
   console.log(`Sent ntfy notification for ${newInvaders.length} new mosaics.`);
