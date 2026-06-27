@@ -54,10 +54,19 @@ jobs:
                   node-version: 24
                   cache: npm
 
+            - name: Mint image-wall token (GitHub App)
+              if: ${{ github.event.inputs.test_notification != 'true' }}
+              id: app-token
+              uses: actions/create-github-app-token@v3
+              with:
+                  app-id: ${{ secrets.SI_IMAGE_WALL_APP_ID }}
+                  private-key: ${{ secrets.SI_IMAGE_WALL_APP_KEY }}
+                  repositories: si-image-wall
+
             - name: Validate image wall repo token
               if: ${{ github.event.inputs.test_notification != 'true' }}
               env:
-                  SI_IMAGE_WALL_REPO_TOKEN: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
+                  SI_IMAGE_WALL_REPO_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
                   if [ -z "$SI_IMAGE_WALL_REPO_TOKEN" ]; then
                     echo 'SI_IMAGE_WALL_REPO_TOKEN is empty or unset.'
@@ -69,7 +78,7 @@ jobs:
             - name: Clone image wall repo
               if: ${{ github.event.inputs.test_notification != 'true' }}
               env:
-                  SI_IMAGE_WALL_REPO_TOKEN: ${{ secrets.SI_IMAGE_WALL_REPO_TOKEN }}
+                  SI_IMAGE_WALL_REPO_TOKEN: ${{ steps.app-token.outputs.token }}
               run: |
                 git -c "http.https://github.com/.extraheader=" clone --depth 1 --branch main "https://x-access-token:${SI_IMAGE_WALL_REPO_TOKEN}@github.com/jfix/si-image-wall.git" si-image-wall
 
