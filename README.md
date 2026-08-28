@@ -166,3 +166,5 @@ To send an ntfy notification from a generated report:
 ```bash
 npm run notify:ntfy -- --report-path tmp/daily-new-mosaics-report.json
 ```
+
+commit to keep the action alive.
