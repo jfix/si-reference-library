@@ -1,0 +1,28 @@
+{
+  "place_id": "STK",
+  "city": "Stockholm",
+  "country": null,
+  "target_count": 19,
+  "confirmed_invaders": [
+    "STK_01",
+    "STK_02",
+    "STK_03",
+    "STK_04",
+    "STK_05",
+    "STK_06",
+    "STK_07",
+    "STK_08",
+    "STK_09",
+    "STK_10",
+    "STK_11",
+    "STK_12",
+    "STK_13",
+    "STK_14",
+    "STK_15",
+    "STK_16",
+    "STK_17",
+    "STK_18",
+    "STK_19"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

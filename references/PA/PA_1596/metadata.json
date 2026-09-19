@@ -8,7 +8,7 @@
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "01/07/2026",
   "last_known_state": "OK",
-  "last_seen_source": "juillet 2026 (report)",
+  "last_seen_source": "juillet 2026",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/PA/PA_1596-grosplan.png",
   "sources": [
     {
@@ -39,6 +39,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/PA/PA_1596/images/PA_1596-juillet2026.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_1596-juillet2026-2.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_1596-juillet2026-2.jpg",
+      "caption": "photo juillet 2026 (@NewSpotter)",
+      "title": "PA_1596-juillet2026-2",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1596/images/PA_1596-juillet2026-2.jpg"
     }
   ]
 }

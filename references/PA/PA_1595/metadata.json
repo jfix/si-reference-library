@@ -29,6 +29,16 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/PA/PA_1595/images/PA_1595-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/PA/PA_1595-juillet2026-2.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/PA/PA_1595-juillet2026-2.jpg",
+      "caption": "photo juillet 2026 (@NewSpotter)",
+      "title": "PA_1595-juillet2026-2",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/PA/PA_1595/images/PA_1595-juillet2026-2.jpg"
     }
   ]
 }
