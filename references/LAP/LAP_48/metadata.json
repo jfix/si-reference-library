@@ -1,0 +1,44 @@
+{
+  "place_id": "LAP",
+  "invader_id": "LAP_48",
+  "city": "Lapland",
+  "country": null,
+  "status": "confirmed",
+  "points": 50,
+  "notes": "Scraped from invader-spotter.art listing data.",
+  "pose_date": "01/10/2026",
+  "last_known_state": "OK",
+  "last_seen_source": "octobre 2026 (report)",
+  "thumbnail_url": "https://www.invader-spotter.art/grosplan/LAP/LAP_48-grosplan.png",
+  "sources": [
+    {
+      "type": "invader-spotter-listing",
+      "url": "https://www.invader-spotter.art/listing.php",
+      "label": "LAP listing page"
+    },
+    {
+      "type": "instagram-tag",
+      "url": "https://www.instagram.com/explore/tags/lap_48/",
+      "label": "Instagram hashtag for LAP_48"
+    }
+  ],
+  "images": [
+    {
+      "type": "invader-spotter-grosplan",
+      "url": "https://www.invader-spotter.art/grosplan/LAP/LAP_48-grosplan.png",
+      "role": "grosplan",
+      "contains_invader": true,
+      "local_path": "references/LAP/LAP_48/images/LAP_48-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LAP/LAP_48-octobre2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LAP/LAP_48-octobre2026.jpg",
+      "caption": "photo octobre 2026 (@madeleine1983)",
+      "title": "LAP_48-octobre2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/LAP/LAP_48/images/LAP_48-octobre2026.jpg"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "place_id": "LAP",
+  "city": "Lapland",
+  "country": null,
+  "target_count": 84,
+  "confirmed_invaders": [
+    "LAP_02",
+    "LAP_05",
+    "LAP_16",
+    "LAP_17",
+    "LAP_20",
+    "LAP_21",
+    "LAP_25",
+    "LAP_26",
+    "LAP_28",
+    "LAP_33",
+    "LAP_34",
+    "LAP_37",
+    "LAP_46",
+    "LAP_47",
+    "LAP_48",
+    "LAP_51",
+    "LAP_52",
+    "LAP_55",
+    "LAP_58",
+    "LAP_59",
+    "LAP_65"
+  ],
+  "notes": "Generated from invader-spotter.art city listing pages."
+}

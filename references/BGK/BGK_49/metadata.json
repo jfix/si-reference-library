@@ -39,6 +39,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/BGK/BGK_49/images/BGK_49-novembre2025.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_49-juin2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_49-juin2026.jpg",
+      "caption": "photo juin 2026 (@Peter C.)",
+      "title": "BGK_49-juin2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_49/images/BGK_49-juin2026.jpg"
     }
   ]
 }

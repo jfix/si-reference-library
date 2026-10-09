@@ -29,6 +29,16 @@
       "role": "grosplan",
       "contains_invader": true,
       "local_path": "references/BGK/BGK_26/images/BGK_26-grosplan.png"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/BGK/BGK_26-juillet2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/BGK/BGK_26-juillet2026.jpg",
+      "caption": "photo novembre 2017 (@Matthieu)",
+      "title": "BGK_26-juillet2026",
+      "role": "reference",
+      "contains_invader": true,
+      "local_path": "references/BGK/BGK_26/images/BGK_26-juillet2026.jpg"
     }
   ]
 }
