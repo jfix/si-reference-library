@@ -2,7 +2,7 @@
   "place_id": "LAP",
   "city": "Lapland",
   "country": null,
-  "target_count": 84,
+  "target_count": 88,
   "confirmed_invaders": [
     "LAP_02",
     "LAP_05",
@@ -13,6 +13,7 @@
     "LAP_25",
     "LAP_26",
     "LAP_28",
+    "LAP_29",
     "LAP_33",
     "LAP_34",
     "LAP_37",
