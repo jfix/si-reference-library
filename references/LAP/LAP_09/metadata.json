@@ -7,7 +7,7 @@
   "points": 40,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "29/09/2026",
-  "last_known_state": "Dégradé",
+  "last_known_state": "Détruit !",
   "last_seen_source": "octobre 2026 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/LAP/LAP_09-grosplan.png",
   "sources": [
@@ -39,6 +39,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LAP/LAP_09/images/LAP_09-octobre2026.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LAP/LAP_09-octobre2026-2.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LAP/LAP_09-octobre2026-2.jpg",
+      "caption": "photo octobre 2026 (@Hazelneb)",
+      "title": "LAP_09-octobre2026-2",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LAP/LAP_09/images/LAP_09-octobre2026-2.jpg"
     }
   ]
 }
