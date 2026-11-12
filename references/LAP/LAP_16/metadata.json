@@ -7,8 +7,8 @@
   "points": 50,
   "notes": "Scraped from invader-spotter.art listing data.",
   "pose_date": "24/09/2026",
-  "last_known_state": "OK",
-  "last_seen_source": "octobre 2026 (report)",
+  "last_known_state": "Détruit !",
+  "last_seen_source": "novembre 2026 (report)",
   "thumbnail_url": "https://www.invader-spotter.art/grosplan/LAP/LAP_16-grosplan.png",
   "sources": [
     {
@@ -39,6 +39,16 @@
       "role": "reference",
       "contains_invader": true,
       "local_path": "references/LAP/LAP_16/images/LAP_16-septembre2026.jpg"
+    },
+    {
+      "type": "invader-spotter-photo",
+      "url": "https://www.invader-spotter.art/photos/LAP/LAP_16-novembre2026.jpg",
+      "preview_url": "https://www.invader-spotter.art/images/LAP/LAP_16-novembre2026.jpg",
+      "caption": "photo novembre 2026 (@ArmandduPlessis)",
+      "title": "LAP_16-novembre2026",
+      "role": "status-empty-scene",
+      "contains_invader": false,
+      "local_path": "references/LAP/LAP_16/images/LAP_16-novembre2026.jpg"
     }
   ]
 }
